@@ -1,0 +1,575 @@
+1677jsu,1,2023-09-01,"Two-minutes Daily AI Update (Date: 9/01/2023): News from OpenAI, Meta, Dell, Samsung, IBM and Salesforce",u/RohitAkki,ArtificialInteligence,https://www.reddit.com/r/ArtificialInteligence/comments/1677jsu/twominutes_daily_ai_update_date_9012023_news_from/,"Continuing with the exercise of sharing an easily digestible and smaller version of the main updates of the day in the world of AI.  
+
+
+* **OpenAI encourages teachers to use ChatGPT**  
+\- OpenAI has released a guide for teachers using ChatGPT in their classroom.This guide includes suggested prompts, explanations about ChatGPT's functionality and limitations, as well as insights into AI detectors and bias.  
+\- The company also highlights stories of educators successfully using ChatGPT to enhance student learning and provides prompts to help teachers get started. Additionally, their FAQ section offers further resources and answers to common questions about teaching with and about AI.
+* **Meta announcing expansion of DINOv2 and introduced FACET**   
+\- Meta has announced the commercial relicensing and expansion of DINOv2, a computer vision model, under the Apache 2.0 license.   
+\- They have also introduced FACET (FAirness in Computer Vision EvaluaTion), a benchmark for evaluating the fairness of computer vision models. FACET includes a dataset of 32,000 images containing 50,000 people labeled by human annotators, allowing for evaluations of biases against different classes. 
+* **OpenAI-backed language learning app Speak has raised $16M**  
+\- This Series B-2 funding will be used to support Speak's expansion into new markets, including the US. Speak is currently available in around 20 countries and has become one of the top-downloaded education apps in South Korea, helping nearly 6% of the country's population learn English.   
+\- The app uses AI technology, including OpenAI's GPT-4 text-generating model and Whisper API for multilingual speech recognition, to provide personalized and contextual feedback to learners. Speak differentiates itself by offering low-cost language education.
+* **Dell raises yearly forecasts on AI and demand recovery**  
+\- Dell Technologies has raised its full-year forecast for revenue and profit due to the increasing demand for AI and the recovery of demand for computer hardware and server products. The company's shares rose by 8% in extended trading. 
+* **Samsung has launched an AI-powered food and recipe app**  
+\- The app is available in 104 countries and 8 languages and can be used on supported Samsung smartphones and smart home appliances. It has a database of over 160,000 recipes and can help users discover new dishes, create tailored meal plans, and order ingredients online.   
+\- The app also provides a step-by-step guide on how to prepare and create dishes. Samsung has partnered with Whisk, a smart food platform, to develop the app.
+* **IBM and Salesforce partner to boost trustworthy AI adoption in CRM**  
+\- IBM Consulting will use its industry expertise and innovative delivery models to guide clients through the adoption and deployment of Salesforce's AI technologies, including Einstein, Sales Cloud, Service Cloud, Marketing Cloud, and Slack.   
+\- Through IBM Consulting Managed Services for Salesforce, clients will have access to AI experience and implementation accelerators. The collaboration aims to drive productivity, growth, and personalized customer experiences.
+
+More detailed breakdown of these news and innovations in the [daily newsletter](https://theaiedge.substack.com/p/openai-chatgpt-meta-ai-dell-ibm).   
+",active,3
+16821nl,1,2023-09-02,Anki Guide,u/55736f70706572,JEENEETards,https://www.reddit.com/r/JEENEETards/comments/16821nl/anki_guide/,"# Q. What is Anki?
+
+Anki is a popular and highly effective open-source flashcard software program designed to help users learn and remember information more efficiently. It uses a spaced repetition algorithm to optimize the timing of reviewing flashcards, making it a powerful tool for learning and retaining a wide range of knowledge, from languages and scientific facts to historical dates and more. Anki is particularly popular among students, language learners, and individuals seeking to memorize and retain information effectively/ It's available for multiple platforms, including Windows, macOS, Linux, iOS, and Android. ~~Thanks ChatGPT.~~ Did I mention it is **FREE** (not on iOS though)?
+
+# Q. Why Anki?
+
+Spaced memorization is an extremely powerful tool for memorization and flashcards are a convenient medium for the same. If you want to know more, this interactive website is awesome [https://ncase.me/remember/](https://ncase.me/remember/)!
+
+# Q. How to Anki?
+
+Anki is not your average app. It is not easy to get the hang of it right away. There is a slight learning curve at the start, and then it depends on how much further you want to enhance Anki via customization, statistics, etc. all of which are possible through the versatility of open-source. To get started,
+
+* If you are a manual guy, [https://docs.ankiweb.net/#/](https://docs.ankiweb.net/#/)
+* If you are an article guy, [https://leananki.com/how-to-use-anki-tutorial/](https://leananki.com/how-to-use-anki-tutorial/)
+* Or if you are a YouTube guy like me, [https://www.youtube.com/watch?v=WmPx333n5UQ](https://www.youtube.com/watch?v=WmPx333n5UQ).
+
+Aside from these, I have some personal suggestions on how to use Anki efficiently and not waste a lot of time.
+
+1. Use community decks [https://ankiweb.net/shared/decks](https://ankiweb.net/shared/decks) (more on this later). Don't make your own cards, unless you really have to. Many say that you should make your own cards, as it helps you to remember it better. I partially disagree, the main power of Anki comes from spaced repetition. If you really want to learn by actively making cards, good ol' pen and paper is a better way. Additionally, it is a huge time investment to make your own cards.
+2. Trust the system, and avoid changing intervals. If a flashcard is set to be reviewed after 2 months, don't try to juke the algorithm and learn it after a week. Not only are you gonna decrease your review burden later on, but also retain it much better. This sounds counter-intuitive, but the algorithm has already got everything figured out.
+3. Use all the four reviewing options—""Again"", ""Hard"", ""Good"", and ""Easy"". Some people only use the first and the last option, which is not optimal for the algorithm in my humble opinion.
+4. Edit cards whenever you feel it's required. Not only is it much less demanding than making your own cards, but you will also gain the benefit of adding your own insight/information to that card. Try to keep everything as short as possible, which reminds me of my next point.
+5. Don't. Make. Things. Long. Anki is not for reading, and it ought not to be used as such. छोटा पैकेट बड़ा धमाका |
+6. Learn LaTeX. It's easy. Useful for mathematical formulas.
+
+# Q. When to Anki?
+
+Ideally, there should be sufficient time before your next major exam. If you are completely new to Anki, I suggest to not use it for JEE Mains 1st attempt, but you can get started if you have some free time and your preparation is going well.
+
+# Q. Who uses Anki?
+
+AIR 1. No, not me. Chirag Falor and a few of his friends. Other than them, I only know about one guy who had a rank under 1700, he used Anki extensively. I use it as well, helped me memorize the entire periodic table for the second time. It's power is really apparent to me, because back then (2019) it took me much more effort to memorize the PT without Anki and it was quite sloppy compared to now. There may be many out there who have used it though. Even more when you look outside the JEE space, it is especially popular among medical students.
+
+# Q. Where is Anki?
+
+PC: [https://apps.ankiweb.net/](https://apps.ankiweb.net/)
+
+Android: [https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en&gl=US&pli=1](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en&gl=US&pli=1)
+
+iOS: [https://apps.apple.com/in/app/ankimobile-flashcards/id373493387](https://apps.apple.com/in/app/ankimobile-flashcards/id373493387)
+
+# Community Decks Useful For JEE/NEET:
+
+1. Chirag Falor and friends (JEE): [https://github.com/chiragfalor/AnkiDecks](https://github.com/chiragfalor/AnkiDecks)
+2. Raagaception and more (CBSE): [https://ankiweb.net/shared/info/1981482084](https://ankiweb.net/shared/info/1981482084). Check out his Reddit post for more information [https://www.reddit.com/r/JEENEETards/comments/p9dysc/the\_ultimate\_open\_source\_communitymade\_deck\_for/](https://www.reddit.com/r/JEENEETards/comments/p9dysc/the_ultimate_open_source_communitymade_deck_for/).
+3. Fleecesnatcher (NEET): [https://ankiweb.net/shared/info/2086975520](https://ankiweb.net/shared/info/2086975520)
+4. Kremlin-Showers (JEE): [https://github.com/kremlin-showers/Anki-Decks](https://github.com/kremlin-showers/Anki-Decks)
+5. Periodic Table (MISC): [https://ankiweb.net/shared/info/110041737](https://ankiweb.net/shared/info/110041737)",User_deleted,84
+168jzbr,1,2023-09-02,[A Levels] GP Paper 1 top tips!,u/addictivevenom,SGExams,https://www.reddit.com/r/SGExams/comments/168jzbr/a_levels_gp_paper_1_top_tips/,"Hello!
+
+Since a lot of you are about to take your year-end exams soon, here are some tips that you can keep in mind when revising for your Paper 1!
+
+I have been a GP private tutor for many years, and these tips have been incredibly helpful for improving my students' performance for Paper 1, so hopefully you would find them useful too!
+
+# Essay structure:
+
+* Generally, I suggest adopting the following essay structure:
+
+>Supporting  
+>  
+>Counterargument  
+>  
+>Rebuttal  
+>  
+>Supporting
+
+I recommend this structure because it allows you to start and end your essay with strong arguments that convince the reader of your stance. The counterargument + rebuttal pair in the middle is then useful in adding nuance and complexity to your argument. Depending on the depth of your arguments, you can have more supporting paragraphs if needed, though the quality of your paragraphs is *always* more important than the quantity of them.
+
+&#x200B;
+
+* Regardless of your structure, ensure that the direction of your essay is clear throughout.
+
+1. Stick to the same stance from start to finish.
+2. Use appropriate connectors (eg critics may argue) to make clear how each paragraph contributes to your essay.
+
+# Topic sentences
+
+A clear and effective topic sentence is one that:
+
+1. Directly addresses the question, and
+2. Gives the reader a good idea of what you are going to discuss in your paragraph.
+
+To achieve this, I recommend that each of your topic sentences contain the following three components:
+
+1. Topic -- paraphrase of the question // link back to the question.
+2. Cause -- your main point of the paragraph.
+3. Effect -- the intermediate step between the Cause and the Topic.
+
+For example, in response to the essay question *To what extent does social media pose a challenge to governance?*, a topic sentence could be
+
+>Social media poses a challenge to governance **\[topic\]** because it can be used to rally together dissenters who wish to challenge the government’s authority **\[cause\]**, making it difficult for the government to garner enough popular support to successfully implement its policies **\[effect\]**.
+
+Having these three elements allows your topic sentence to act as a skeleton of your paragraph, which is helpful not only for your reader to understand your argument, but also for you to have a clear idea of what logical links you need to make in your explanation/evaluation.
+
+Of course, as you become more proficient in essay writing, you can switch these elements around, or increase the complexity of your topic sentence by having multiple Effects.
+
+# Explanation/evaluation
+
+Simply put, your explanation/evaluation is what leads you from your Cause, to your Effect, and finally back to the Topic (i.e. the essay question). It is also how you link your examples/evidence to your main argument.
+
+We can see the explanation/evaluation of your paragraph as a logical chain from A --> B --> C --> D.
+
+The main problem most students face with their explanation/evaluation is logical gaps in their argument. Take a look at this passage written by one of my students:
+
+>As explained in an article published by the New York Times, researchers prompted the ChatGPT AI chatbot to write in the voice of disinformation spreaders such as Alex Jones and Joseph Mercola. The responses did not disprove the claims of these disinformation spreaders but instead framed them as truths.  
+>  
+>Therefore, AI chatbots have the ability to bolster the false claims of existing disinformation spreaders as well as exacerbate the spread of fake news websites and articles, creating even more confusion amongst news readers in identifying reliable news sources.
+
+The most glaring logical gap in this passage is the missing link between 'The responses did not disprove the claims of these disinformation spreaders but instead framed them as truths', and 'exacerbate the spread of fake news websites and articles'. Just because AI chatbots parrot disinformation rather than correct it, does not necessarily/immediately lead to fake news spreading more widely/rapidly. There is the unexplained assumption that these AI chatbots that parrot disinformation are used in the generation of fake news articles or posts.
+
+Logical gaps like this greatly weaken your argument, as it leaves the reader with a lot of doubt about how you actually arrived at your main point.
+
+If your paragraphs often contain logical gaps, this is what you can do:
+
+1. When writing essay outlines, rather than writing your explanation/evaluation in paragraph form, write it either as a logical chain (A --> B --> C --> D) or in point form, with one premise in each point.
+2. After finishing your paragraph, read your explanation, and ask yourself: *Does A necessarily/immediately lead to B? Is there a missing link between A and B that I need to explain further?*
+3. If you have friends and teachers who are willing to assess your work, you can ask them to check whether the logical links you have made are sufficiently explained or make sense. It is usually easier to spot logical gaps in someone else's writing (especially if you don't agree with their argument) than in your own!
+
+# Evidence/examples
+
+Even though you cannot do without evidence/examples in your essay, they are not the key to doing well for Paper 1; having a strong, cogent argument is. Therefore, you should not spend too much time cramming years' worth of current affairs into your head right before your exam. Instead, adopt these strategies to make full use of the knowledge that you already have:
+
+* When deciding which examples to memorise, choose ones that are more versatile (i.e. ones that can be cited in multiple questions across multiple topics) over those that are very niche (e.g. a statistic that can only be used to back up a single point).
+
+An example of a versatile case study is Japan's release of the Fukushima nuclear waste water into the Pacific Ocean. This case study is obviously relevant for Environment questions, such as those that ask about energy or pollution. On top of that though, it can also be applied to Politics questions about diplomacy or trade. You can consider why some countries such as China decided to ban Japanese seafood import, while other countries did not. This case study is also applicable to Media questions, as you can discuss how different news agencies reported on the event, and how key stakeholders (e.g. Japanese fishermen) responded to the news, to talk about truth vs sensationalism, or about our post-truth world.
+
+* When writing essays or essay outlines for practice, rely less on Google, and more on your creativity.
+
+When students do practices for Paper 1, they often have their devices at the ready to Google for evidence/examples to substantiate their points. This is not the best way to revise, especially nearing your exams, however, as it would lead to you having many separate nuggets of content that you won't be able to remember for your exams. Rather than immediately turning to Google when you need something to substantiate your argument, think about the examples that you already have in your head, and whether they can be *re-angled* to support your point.
+
+It does not matter if the example by itself does not directly back up your point -- that is ideal, but often not possible to achieve under exam conditions. That is what your evaluation is for -- to infer from the example, and use those logical inferences to *link* your example to your point.
+
+&#x200B;
+
+After applying these two tips, you should experience less pressure to memorise lots of examples right before your exam. You can use the time that you have freed up to (1) read for arguments and perspectives, and to (2) work on more important skills, like forming logical and evaluative arguments, and writing in a fluent and engaging manner.
+
+&#x200B;
+
+That's all I have for Paper 1! Do let me know if this was helpful, and feel free to DM me if you have any questions, or if you would like me to look through your practices.
+
+All the best for your exams! :)",active,127
+16anz6y,1,2023-09-05,Any tools that can help me as a medical student?,u/gumayusiL9,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/16anz6y/any_tools_that_can_help_me_as_a_medical_student/,"Hi, Im currently in nursing school and I use chat gpt often to help me learn and remember definitions for terms and to explain bits of text to make them more digestible as I'm learning. I found claude ai which was super helpful to me when doing research as I can just upload the pdf and ask it questions from that study. I was really interested in finding other tools like this, that can help to make my life as a nursing student easier, maybe something geared towards medicine? thank you in advance",User_deleted,1
+16ap9up,1,2023-09-05,DataAnalyst.com - I launched a niche job board with hand curated data analyst jobs. Here's the summary of how it's going after the eight month (an eventful one!),u/kirilale,SideProject,https://www.reddit.com/r/SideProject/comments/16ap9up/dataanalystcom_i_launched_a_niche_job_board_with/,"Hi all,
+
+on Dec 19th I launched [DataAnalyst.com](https://dataanalyst.com) \- this is the eighth update, covering performance in August, with hopefully many more to come. It'll be a shorter update this time, due to absolutely manic month at the dayjob, but it's still been a very eventful month.
+
+Want to make sure I document the journey, and keep myself honest, so each month I will be making a post about the statistics, progress, some thoughts and what are the next steps I want to be focusing on.
+
+While the main purpose for the post is to bring everyone along on the journey, I do think that members of r/SideProject might benefit from the site, especially those looking to build online projects.
+
+So, just a reminder that early stages vision is to become the #1 job board for data analysts - hand-picking interesting data analyst job opportunities across industries.
+
+Let's dive right in:
+
+# Statistics update
+
+|\-|January|Feb|March|April|May|June|July|August|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|Number of jobs posted|Total: 208 (US)|Total: 212 (US)|Total: 207 (US)|Total: 153 (US)|Total: 140 (US)|Total: 115 (US)|Total: 104 (US)|Total: 110 (US)|
+|Paid posts|0|0|0|0|0|0|0|1|
+|Visitors|795|3,267|3,003|4,892|5,203|4,029|3,382|4,421|
+|Apply now clicks|634|2,354|2,898|4,051|4,476|4,561|3,193|4,154|
+|Avg. session duration|3min 52sec|3min 53sec|3min 39sec|3min 44sec|3min 10sec|3min 17sec|3min 05sec|2min 53sec|
+|Pageviews|4100|16,300|15,449|26,291|28,755|24,000|18,884|23,424|
+|Avg. time on page|1min 35sec|1min 46sec|1min 45sec|1min 39sec|1min 26sec|1min 26sec|1min 30sec|1min 30sec|
+|Returning visitors|17.7%|22.4%|23.9%|23.8%|22.2%|22.5%|24.5%|21.1%|
+|Google Impressions|503|5,500|9,430|28,300|45,900|58,100|47,500|78,400|
+|Google Clicks|47|355|337|1,880|2,070|3,320|2,180|4,220|
+|Newsletter subs (total)|205|416|600|918|1,239|1,431|1,559|1,815|
+|Newsletter open rate (48hrs)|61%|67%|56%|56%|50%|60%|Skipped|53%|
+
+# 1. General Observations
+
+DataAnalyst.com has been online for just over 8 months, and we're bringing new, hand curated data analyst jobs onto the site daily - all of them including a salary range.
+
+There's now 1,800+ people subscribed to the newsletter, and I can't thank you enough for your support and for joining us on the journey.
+
+## First job paid posting
+
+To those who monitor the above table closely, you've probably noticed the number 1 in the paid posts cell for August.
+
+Yes, it ***only*** took 7 months and 16 days to get a first paid job posting on the site. Hurray!
+
+Tualatin Valley Fire & Rescue purchased a fast-track job posting - it came organically, which is a great sign as well.
+
+It also came in with a lesson learnt - after tweaking flows / forms, always double check that you didn't leave a bug behind. Unfortunately for me I did, and they couldn't complete the purchase, but fortunately they reached out and I solved the issue immediately. I've also upgraded the posting to a featured one, free of charge - I think this is particularly important.
+
+Linkedins, Indeeds of the world are too complex to ensure a human connection with each client, while as a solofounder, I want to make sure I go over and beyond each time someone puts trusts in me and the service. That's something I do believe founders should strive for, and something that will set them apart.
+
+## Stats - Bounce, numbers, bounce
+
+After seeing a massive dip in traffic, apply now clicks and Google impressions in July, looks like August numbers bounced back with vengeance, driven primarily by skyrocketing Google impressions / clicks.
+
+I'd be grateful if someone could please explain to me Google Search Console Clicks vs Google Analytics Visitors - shouldn't each click that comes from Google Search, leading to the site, also mean that's a visitor coming in?
+
+**Where did 4,421 people come from?**
+
+* Direct - 51%
+* Organic - 35%
+* Social - 14% (automated job postings on Twitter, Linkedin, Reddit)
+
+**SEO optimisation**
+
+I've also spent some time over the summer using tools such as SEMRush / Ahrefs / Moz to run some high level audits and understand how the site performs on the SEO front. This led to a lot of time spent on making significant on-page changes to improve keyword optimisation, rewriting meta descriptions and adding alt descriptions to all the images on the site.
+
+Whether this was something that caused the sudden Google love, I don't know, but this is probably something that could (and should) have been done a lot earlier. Having said that, it's now something that I pay attention to with each update that I make on the site.
+
+## Things on top of my mind
+
+**a) Expired Listings**
+
+There's feedback regarding some of the jobs on the site already expiring and leading to non-existing listings. Decided to address this in two ways:
+
+First, I found out Ahrefs has a free ""Site Audit"" tier, which crawls the whole site and provides a report including all the issues i.e missing alt descriptions, including 404 links.
+
+Second, on each listing I've now included a link for any visitor to report an expiring listing. Hopefully this will improve the experience. I'm still leaving listings (without apply buttons) on the site, so people can see previous open roles and salary ranges.
+
+**b) Outreach**
+
+One of my main priorities for the coming 3 months is reaching out to organisations hiring data analysts and educating them about the niche job board, and how they can benefit by sharing their opportunities on the site.
+
+Additionally, I did notice quite a few .edu emails signed up to the Newsletter. This could be an interesting angle to explore, reaching out to universities, sharing that their students are using the site. This could lead to both driving in visitors, as well as potentially getting a backlink that would help increase the authority of the site.
+
+**c) UX/UI**
+
+Lesson learnt - do not use experimental browsers when you try to do website design - I've been using Arc browser since the start of the year, with the toolbar being on the left hand side. I've recently used various browsers and monitors to see how the site looks on various sizes, and it's an absolute mess -> will need to dedicate some time to standardize sections and elements, so it's a more consistent experience.
+
+## BusinessAnalyst.com
+
+As I've mentioned before, I recently launched BusinessAnalyst.com - where I'm looking to replicate step by step what I've done over the last 8 months with DataAnalyst. The overall idea is to create a network of sites, benefiting from the same infrastructure, serving and helping different career paths, and making a collaboration with organisations much more appealing (afterall, most companies who hire for data analysts also look for business analysts and vice versa). Arguably, this might not make much sense seeing that DA still hasn't brought any consistent revenue in, but on the other hand, I can reuse the whole tech stack and structures already in place, halve my cost per project, while doubling the surface area to catch me some luck.
+
+Shared [first update](https://www.reddit.com/r/businessanalyst/comments/15r5ecq/businessanalystcom_i_launched_a_niche_job_board/) couple of weeks ago - will need to figure out how to combine, if people are interested to see the side by side view. **TLDR: site still dead**
+
+# 2. ""Day in the Life"" - a series of interviews with data analysts sharing their experience, thoughts and advice.
+
+Another interview from our series has been published. In these interviews, we aim to share stories and experiences about the route to becoming a data analyst, keeping up with the skillset, recommendations to aspiring data analysts and much more.
+
+**Alex, who is a BI manager at AWS**, has shared some fantastic insights, and I'd love to share his  advice on building a portfolio.
+
+*""I've been mentoring a few folks on this recently, ranging from college grads to mid-career individuals in non-tech roles. My recommendation to each is to build an end to end portfolio of work. An example is using python to web scrape information from a website and persist to a normalized data structure in a database, using SQL to write queries and analyze that information, and then use Tableau or PowerBI to visualize results and share insights. Each step of this process is important for a rockstar Data Analyst/BI Engineer and will showcase the capability to do the work for hiring managers.""*
+
+We also briefly cover the question of the Year: Is AI/ChatGPT a threat to data analysts? Highly recommend reading the [full interview](https://www.dataanalyst.com/blog/alex-my-data-analyst-career-journey).
+
+# Things in the pipeline
+
+* New data analyst jobs, added daily
+* Actually launching the weekly newsletter with the pick of best jobs directly to your inbox (yes, I know....)
+* Monthly US data analyst market insights
+* Improving the overall site experience (this one is a never ending activity)
+* Continuing to bring you Data Analysts across their experience levels, to share tips, tricks and their thoughts
+
+# 3 ways you could help
+
+1. Looking for a new challenge? Check out the website - I'm adding new jobs daily
+2. Looking to hire a data analyst to your team? Do you know anyone looking to hire? Shoot me a message on Reddit (or [alex@dataanalyst.com](mailto:alex@dataanalyst.com)) and I'll upgrade your first listing for free!
+3. As I mentioned, we have an ongoing ""Day of a Data Analyst"" series. For those of you who are open to do an email based interview about your data analyst career journey, please just send me a message and we'll organise something - would love to get you featured and share your experience with our readers! Also, as I thank you I will donate to a charity of your choice.
+
+If you have any questions, concerns, come across glitches - please just reach out, happy to chat. Thank you all again, and see you in a month. Alex",active,2
+16ck138,1,2023-09-07,25 stories of OpenAI's relentless AI pursuit [OpenAI advancements in the last few months],u/RohitAkki,ArtificialInteligence,https://www.reddit.com/r/ArtificialInteligence/comments/16ck138/25_stories_of_openais_relentless_ai_pursuit/,"OpenAI isn’t just sitting on its laurels after the ChatGPT launch. It’s constantly bringing in new features, products, and ideas to optimize AI for the future. Here’s a quick rundown of OpenAI’s recent activities and achievements.  
+
+
+* **ChatGPT-4 diagnosed a 1 in 100,000 condition in seconds**  
+\- Dr. Isaac Kohane, a physician and computer scientist at Harvard, has tested the newest artificial intelligence model, GPT-4, in a medical setting. According to his findings, GPT-4 performs better than many doctors, as it can answer medical exam licensing questions correctly more than 90% of the time, translate information for patients, and give doctors helpful suggestions about bedside manner.  
+\- Kohane tested GPT-4 on a real-life case and found that it could correctly diagnose a rare condition just as he would with all his years of experience. However, GPT-4 isn't always reliable, and his latest book ‘The AI Revolution in Medicine’ is filled with examples of its blunders, ranging from clerical errors to math mistakes.  
+\- Kohane is both impressed and horrified, as he cannot figure out how to guarantee or certify that GPT-4's advice would be safe or effective.
+* **Yokosuka, Japan makes history as the first to employ AI-powered Chatbot in its municipal offices**  
+\- Yokosuka becomes the first Japanese municipality to use OpenAI’s ChatGPT in municipal offices, as part of a one-month trial involving 4000 employees aimed at improving administrative tasks. With a declining population and limited employees, the city is hoping to use AI tools to free up human resources for tasks that require personal attention.  
+\- The hope is to use ChatGPT to assist in tasks like summarization, marketing copy ideation, drafting administrative documents, and perfecting easy-to-understand language. The move comes as the Japanese government is exploring AI's potential use for government administrative tasks.  
+
+* **The House of Representatives gets 40 ChatGPT Plus subscriptions to experiment with AI**  
+\- Congressional offices have started experimenting with AI. The House of Representatives' digital service has obtained 40 Licenses for ChatGPT Plus, which were distributed earlier this month. The House recently created a new AI working group for staff to test and share AI tools in the congressional office environment.  
+\- According to an internal AI Working Group email, the AI tool is expected to be used for various day-to-day tasks and key responsibilities. Some potential applications include generating drafts for constituent responses and press documents, summarizing text in speeches, drafting policy papers or even bills, and creating logos or graphical elements for branded office resources.
+* **OpenAI releases Shap·E, a generative AI tool that produces 3D Outputs in seconds!**  
+\- OpenAI has released a new project called Shap·E, a conditional generative model designed to generate 3D assets using implicit functions that can be rendered as textured meshes or neural radiance fields.  
+\- Shap·E was trained using a large dataset of paired 3D assets and their corresponding textual descriptions. An encoder was used to map 3D assets into the parameters of an implicit function, and a conditional diffusion model was used to learn the conditional distribution of the implicit function parameters given the input data. It has demonstrated remarkable performance in producing high-quality outputs in just seconds.
+* **ChatGPT Plus, with superpowers of web browsing & 70+ Plugins**  
+**-** The latest release notes of ChatGPT highlight various updates and new features added to the model, such as the ability to turn off chat history, export data, and use AI plugins. In addition, there are updates on the model's performance, factuality, and mathematical capabilities.  
+\- ChatGPT Plus subscribers get early access to experimental features, such as the ability to choose between different versions of ChatGPT and new experimental models that can browse the internet and use third-party services.
+* **ChatGPT in your pocket: OpenAI brings ChatGPT to iPhone**  
+\- OpenAI has released the ChatGPT app for iOS that allows users to have engaging and personalized conversations with an AI language model. It will sync your conversations, support voice input, and bring the latest model improvements to your fingertips. Also, ChatGPT Plus subscribers get exclusive access to GPT-4’s capabilities, early access to features, and faster response times, all on iOS.  
+\- They have started the rollout in the US and are expected to enter additional countries in the coming weeks. OpenAI said: “Android users, you're next!”
+* **OpenAI to grant $1,000,000 to democratize AI**  
+\- OpenAI has announced a program to award ten $100,000 grants for experiments aimed at developing democratic processes to govern the rules and behaviors of AI systems.  
+\- Recognizing the far-reaching impact of AI technologies on society, OpenAI encourages applicants to create innovative proof-of-concepts for a system that incorporates diverse perspectives and is shaped by public interest. The program is specifically designed to address questions about AI behavior, such as the conditions under which AI should criticize public figures or how it should represent disputed views.  
+\- Applicants are encouraged to submit their proposals by June 24, 2023, and may choose from a list of policy questions or propose their own.
+* **Open AI’s latest idea can help models do math with 78% accuracy**  
+\- Even SoTA models today are prone to hallucinations, which can be particularly problematic in domains that require multi-step reasoning. To train more reliable models, OpenAI trained a model by rewarding each correct step of reasoning (“process supervision”) instead of simply rewarding the correct final answer (“outcome supervision”).  
+\- It was found that process supervision significantly outperforms outcome supervision for training models to solve problems from challenging MATH datasets. The model in the experiment solved 78% of problems from a representative subset of the MATH test set.  
+\- Additionally, process supervision also has an important alignment benefit: it directly trains the model to produce a chain-of-thought that is endorsed by humans.
+* **OpenAI announces $1M Cybersecurity Grant Program to boost AI-powered security**  
+\- OpenAI is launching the Cybersecurity Grant Program—a $1M initiative to boost and quantify AI-powered cybersecurity capabilities and to foster high-level AI and cybersecurity discourse. The goal is to work with defenders across the globe to change the power dynamics of cybersecurity through the application of AI and the coordination of like-minded individuals working for collective safety.   
+\- OpenAI has also shared a few general project ideas while sharing the news. Moreover, it will prioritize projects intended to be licensed or distributed for maximal public benefit and sharing.
+* **OpenAI’s massive update on GPT-3.5 & GPT-4 APIs**  
+\- OpenAI announced exciting updates, including more steerable API models, function calling capabilities, longer context, and lower prices.   
+\- Function calling is now available to enable LLMs to work more effectively and efficiently interact with your programs/tools.    
+\- The latest GPT-3.5-Turbo model is available with support for 16K context (\~20 pages of text)
+* **ChatGPT builds robots: New research**  
+\- Microsoft Research presents an experimental study using OpenAI’s ChatGPT for robotics applications. It outlines a strategy that combines design principles for prompt engineering and the creation of a high-level function library that allows ChatGPT to adapt to different robotics tasks, simulators, and form factors.  
+\- The study encompasses a range of tasks within the robotics domain, from basic logical, geometrical, and mathematical reasoning to complex domains such as aerial navigation, manipulation, and embodied agents.  
+\- Microsoft also released PromptCraft, an open-source platform where anyone can share examples of good prompting schemes for robotics applications.
+* **OpenAI’s Superalignment - The next big goal!**  
+\- OpenAI has launched Superalignment, a project dedicated to addressing the challenge of aligning artificial superintelligence with human intent. Over the next four years, 20% of OpenAI's computing power will be allocated to this endeavor. The project aims to develop scientific and technical breakthroughs by creating an AI-assisted automated alignment researcher.   
+\- This researcher will evaluate AI systems, automate searches for problematic behavior, and test alignment pipelines. Superalignment will comprise a team of leading machine learning researchers and engineers open to collaborating with talented individuals interested in solving the issue of aligning superintelligence.
+* **OpenAI makes GPT-4 API and Code Interpreter available**  
+\- GPT-4 API is now available to all paying OpenAI API customers. GPT-3.5 Turbo, DALL·E, and Whisper APIs are also now generally available, and OpenAI is announcing a deprecation plan for some of the older models, which will retire beginning of 2024.  
+\- Moreover, OpenAI’s Code Interpreter will be available to all ChatGPT Plus users over the next week. It lets ChatGPT run code, optionally with access to files you've uploaded. You can also ask ChatGPT to analyze data, create charts, edit files, perform math, etc.
+* **OpenAI enters partnership to make ChatGPT smarter**  
+\- The Associated Press (AP) and OpenAI have agreed to collaborate and share select news content and technology. OpenAI will license part of AP's text archive, while AP will leverage OpenAI's technology and product expertise. The collaboration aims to explore the potential use cases of generative AI in news products and services.  
+\- AP has been using AI technology for nearly a decade to automate tasks and improve journalism. Both organizations believe in the responsible creation and use of AI systems and will benefit from each other's expertise. AP continues to prioritize factual, nonpartisan journalism and the protection of intellectual property.
+* **OpenAI doubles GPT-4 message cap to 50**  
+\- OpenAI has doubled the number of messages ChatGPT Plus subscribers can send to GPT-4. Users can now send up to 50 messages in 3 hours, compared to the previous limit of 25 messages in 2 hours. And they are rolling out this update next week.
+* **ChatGPT will now remember who you are & what you want**  
+\- OpenAI is rolling out custom instructions to give you more control over how ChatGPT responds. It allows you to add preferences or requirements that you’d like ChatGPT to consider when generating its responses.  
+\- ChatGPT will remember and consider the instructions every time it responds in the future, so you won’t have to repeat your preferences or information. Currently available in beta in the Plus plan, the feature will expand to all users in the coming weeks.
+* **Worldcoin by OpenAI’s CEO will confirm your humanity**  
+\- OpenAI’s Sam Altman has launched a new crypto project called Worldcoin. It consists of a privacy-preserving digital identity (World ID) and, where laws allow, a digital currency (WLD) received simply for being human.   
+\- You will receive the World ID after visiting an Orb, a biometric verification device. The Orb devices verify human identity by scanning people's eyes, which Altman suggests is necessary due to the growing threat posed by AI.
+* **OpenAI is rolling out new updates to improve ChatGPT**  
+\- OpenAI is shipping out a bunch of small updates over the next week to improve the ChatGPT experience. Here’s a tl;dr  
+1. Prompt examples: At the beginning of a new chat, you will now see examples to help you get started.  
+2. Suggested replies: ChatGPT will suggest relevant ways to continue your conversation.   
+3. GPT-4 by default: When starting a new chat as a Plus user, ChatGPT will remember your previously selected model – no more defaulting back to GPT-3.5.  
+4. Upload multiple files: Now, ChatGPT can analyze data and generate insights across multiple files.  
+5. Stay logged in: You’ll no longer be logged out every 2 weeks!  
+6. Keyboard shortcuts: Work faster with shortcuts, like ⌘ (Ctrl) + Shift + ; to copy last code block. Try ⌘ (Ctrl) + / to see the complete list.
+* **ChatGPT’s emotional awareness is more than humans'. What?**  
+\- A study found that ChatGPT has higher emotional awareness than humans. The machine was subjected to a standardized test measuring human emotional awareness and scored significantly higher. The test required participants to show empathy in fictional scenarios.   
+\- ChatGPT outperformed humans in all categories, achieving an overall score of 85 compared to 56 for men and 59 for women. The researchers suggest that ChatGPT could be helpful in psychotherapy, cognitive training, and diagnosing mental illness. Previous studies have shown that people perceive ChatGPT's responses as more empathetic than medical professionals.
+* **OpenAI launches a web crawler to train ChatGPT**  
+\- Called GPTBot, the crawler will comb through the internet to train and enhance AI's capabilities. It can be identified by the following user agent and string.  
+\- Web pages crawled with the GPTBot user agent may potentially be used to improve future models and are filtered to remove sources that require paywall access, are known to gather personally identifiable information (PII), or have text that violates our policies.   
+\- Moreover, OpenAI also revealed how websites can prevent GPTBot from accessing their sites, either partially or by opting out entirely.
+* **GPT-4 to replace content moderators**  
+\- OpenAI aims to use its GPT-4 to solve the challenge of content moderation at scale. Also, they already used GPT-4 to develop and refine their own content policies. It provides three major benefits: consistent judgments, faster policy development, and improved worker well-being. However, perfect content moderation remains elusive, as both humans and machines make mistakes, particularly in handling misleading or aggressive content.  
+\- GPT-4 can interpret complex policy documentation and adapt instantly to updates, reducing the cycle from months to hours. This AI-assisted approach offers a positive future for digital platforms, where AI can help moderate online traffic and relieve the burden on human moderators.
+* **GPT-4 Code Interpreter masters math with self-verification**  
+\- OpenAI's GPT-4 Code Interpreter has shown remarkable performance on challenging math datasets. This is largely attributed to its step-by-step code generation and dynamic solution refinement based on code execution outcomes.  
+\- Expanding on this understanding, new research has introduced the innovative explicit code-based self-verification (CSV) prompt, which leverages GPT4-Code’s advanced code generation mechanism. This prompt guides the model to verify the answer and then reevaluate its solution with code.  
+\- The approach achieves an impressive accuracy of 84.32% on the MATH dataset, significantly outperforming the base GPT4-Code and previous state-of-the-art methods.
+* **OpenAI enables fine-tuning for GPT-3.5 Turbo**  
+\- OpenAI has launched fine-tuning for GPT-3.5 Turbo. Fine-tuning lets you train the model on your company's data and run it at scale. Early tests have shown a fine-tuned version of GPT-3.5 Turbo can match, or even outperform, base GPT-4-level capabilities on certain narrow tasks. Here are the fine-tuning steps:  
+\- OpenAI also said that none of fine-tuning data, input or output, will be used to train models outside of the client company. And that fine-tuning support for GPT-4 will arrive sometime later this fall.
+* **OpenAI launches ChatGPT Enterprise, the most powerful ChatGPT version yet**  
+\- Open has launched ChatGPT Enterprise, the most powerful version of ChatGPT yet. It offers enterprise-grade security and privacy, features for large-scale deployments, unlimited higher-speed GPT-4 access, 32K context for faster processing of longer inputs, advanced data analysis capabilities, customization options, and much more. OpenAI is also working on more features and will launch them soon.
+* **OpenAI's ChatGPT enters classrooms**  
+\- OpenAI has released a guide for teachers using ChatGPT in their classroom. This guide includes suggested prompts, explanations about ChatGPT's functionality and limitations, as well as insights into AI detectors and bias.  
+\- The company also highlights stories of educators successfully using ChatGPT to enhance student learning and provides prompts to help teachers get started. Additionally, their FAQ section offers further resources and answers to common questions about teaching with and about AI.
+
+More detailed breakdown of OpenAI's news and innovations in the [daily newsletter](https://theaiedge.substack.com/p/25-stories-of-openai-journey).",active,1
+16dxndc,1,2023-09-09,"Let’s Figure Out AI Essay Writing with MyEssayWriter.ai! – Bye bye, ChatGPT!",u/jamesbrooke1,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/16dxndc/lets_figure_out_ai_essay_writing_with/," 
+
+Ever heard of [MyEssayWriter.ai](https://www.myessaywriter.ai/)? If not, you’re in for a treat.
+
+**Picture this**: over 347,000 students from all around the world have already used this cool tool in 2023 to make their essays top-notch.
+
+Think about all those times when writing an essay felt like climbing a mountain. 
+
+**Good news**: MyEssayWriter.ai is like having a trusted guide who knows the path inside out. It’s powered by machine learning and NLP, which help it understand what you’re trying to say, and it even learns how you write!
+
+This article is like a treasure map. We’re going to dig into what makes MyEssayWriter.ai so special and how to use it properly for crafting engaging essays.   
+
+
+Read More: [https://www.europeanbusinessreview.com/lets-figure-out-ai-essay-writing-with-myessaywriter-ai-byebye-chatgpt/](https://www.europeanbusinessreview.com/lets-figure-out-ai-essay-writing-with-myessaywriter-ai-byebye-chatgpt/)",User_deleted,1
+16dzwol,1,2023-09-09,Messing around with LLama2 7b_q4 has been an eye opening experience.,u/Mescallan,LocalLLaMA,https://www.reddit.com/r/LocalLLaMA/comments/16dzwol/messing_around_with_llama2_7b_q4_has_been_an_eye/,"These are just some thoughts, I would love to hear other peoples opinions. 
+
+I installed the 7B base model with the intention of fine tuning it for an NLP project I'm working on, but I decided to spend a bit of time to get some experience with how it processes things and what it's outputs are like and man is it a fever dream. 
+
+I completely understand what people have been saying about base models being hard to use and not feeling human. It really gives me a whole new respect for the RLHF work that has been done. I have been role playing reality and chatting with it about it's existence, some deep philosophical issues have come up and it has been a great experience for me to work through these issues. I understand that it's just next word prediction, it's actually pretty obvious with this small model, but suspending my disbelief for a bit has been a very fun experience.
+
+On the topic of censorship, I personally enjoy having an uncensored model, it's been very refreshing that it tries to answer everything with no limits, I can see how a more powerful model would be useful in bioterrorism or subversion, this little guy not so much lol. As a teacher though it's nice that I can go on chatGPT with young students and be confident that nothing inappropriate will happen if I just let them do whatever they want. Even if there was a check box in the settings, the students would find it and turn it off (I think there should be one don't get me wrong, but purely from a teaching perspective it's great that there isn't).
+
+I still use an old version of Disco Diffusion, which is one of the earlier clip diffusion image generators, because it's outputs are restricted and I have to build around it's restrictions. I am quite enjoying the 7B model for that same reason. It feels like I am having a fever dream, it can be completely lucid at times, and at others go off the rails with nonsense, at the same settings.
+
+&#x200B;",active,21
+16e4qaz,1,2023-09-09,Plagiarism on the first assignment,u/LibrarianNo4990,Teachers,https://www.reddit.com/r/Teachers/comments/16e4qaz/plagiarism_on_the_first_assignment/,"I am teaching AP Micro teacher this year. I have been teaching Economics and Financial Literacy at my current school and am excited to teach an AP again (I taught AP Macro at my last school). I had my students do a pretty extensive summer assignment that involved reading the book Freakonomics and writing a critique on the book.  
+  
+I did this for a few reasons but one reason was to ensure students were up for the task of taking this course. Apparently students heard the class was easier than a lot of others based on the previous teacher and I wanted students to take me and the class seriously.  
+  
+Well now I have at least 6 students who either plagiarized (2 were clearly the same just reworded) or used ChatGPT to write the essay.  
+  
+Questions for you all:  
+1. Is it fair to kick them out of the class for cheating on an essay when the class is basically a math class? Some students may have taken the class BECAUSE they suck at writing and a few of them this is their first AP and they are doing really well in the class so far. This for me is the biggest ethical dilemma I face in terms of my decision. Obviously they cheated, so a consequence is necessary - but should they be kicked out of the class?  
+2. I don't have proof that one student used ChatGPT but it's obvious to me as someone who uses it fairly regularly to stay up to date with the latest tech trends and to understand how it works. What would you do here?  
+3. Two of the essays were clearly a mix of AI and their own writing. Would you treat this differently?  
+4. What do you think is the best way to approach the students? Obviously I would be kind about the situation as I hate being accusatory when I don't have a plethora of evidence in some instances. I also don't know their writing styles yet so this makes it harder.  
+  
+All of the situations are a bit different and I want to be fair in how I handle this. Its also only been 2 weeks since school began in my district and if these kids are willing to cheat on their first assignment maybe they don't take this seriously and I should cut them loose? Any advice is useful!  
+  
+I also think it's important to note that the book uses data analysis to explain why some teachers might choose to cheat on state exams...so the irony here is killing me 😅",User_deleted,3
+16gjo54,1,2023-09-12,AI Research Program - Scholarships Available,u/kevin-algoverse,summerprogramresults,https://www.reddit.com/r/summerprogramresults/comments/16gjo54/ai_research_program_scholarships_available/,"Hey r/summerprogramresults, 
+
+I’m Kevin, a former Berkeley EECS instructor and founder of Algoverse. I’m pleased to introduce the Algoverse AI Research Program.
+
+The Algoverse AI Research Program is an innovative and unique opportunity for talented high school students and college underclassmen to engage in authentic AI research. The research focus for the inaugural Fall 2023 cohort is Large Language Models, such as GPT-4.
+
+Within the program, participants will work closely with accomplished graduate student researchers, developing techniques to push the limit of Meta's large language model, Llama 2, on industry standard benchmarks.
+
+Upon completion of the program, students will document their results in a research paper publication to be submitted to top AI conferences such as NAACL ‘24, and posted on arXiv, a prominent platform for AI research. 
+
+We believe in accessibility and offer both financial aid and a select number of merit-based scholarships.
+
+We have been accepting applications on a rolling basis, so it is in your best interest to apply soon! Our admissions team consistently reviews applications, so decisions are released within a few days of submitting your application. The application takes 5-10 minutes and there are no long essays. Learn more about our program on our [website](https://www.algoversecodingacademy.com/ai-research) and apply [here](https://forms.gle/xYH5UTnjdgQhMSxo6). Welcome to Algoverse :)",active,14
+16ih82w,1,2023-09-14,[P] Llama2 inference in a single file of pure Mojo,u/Albatross9855,MachineLearning,https://www.reddit.com/r/MachineLearning/comments/16ih82w/p_llama2_inference_in_a_single_file_of_pure_mojo/,"Hi everyone!
+
+I was really excited that Mojo became publicly available and thinking which project can I implement to learn Mojo concepts. Since I have already ported llama2.c to [pure Python](https://www.reddit.com/r/MachineLearning/comments/15qcbel/p_llama2py/), I decided why not try to port llama2.py to Mojo now.. And here is what I got
+
+First round of llama2.c vs llama2.🔥 battle. Mojo demonstrated 20% better performance than C in a single threaded execution of llama2 inference and 250x times better performance than Python
+
+https://i.redd.it/0gcwwfc2r7ob1.gif
+
+For reference Mojo is using SIMD vectorization, that's why it's performing great for matmul operations. In the other hand, it turned out that gcc also aggressively optimizes all for loops it can find, so I suggest this benchmark is pretty fair. 
+
+&#x200B;
+
+[Mojo natively supports SIMD vectorizations out of the box](https://preview.redd.it/pzuh3ktet7ob1.png?width=1546&format=png&auto=webp&s=4bd5e1f969520c5741b3256fac894a87c702a6eb)
+
+[gcc aggressively vectorizing loops](https://preview.redd.it/y0izcr04s7ob1.jpg?width=1070&format=pjpg&auto=webp&s=1f3fb2d0d96e35fbdcddf187315e887277739ccd)
+
+&#x200B;
+
+After that I decided to compare both solutions in multi-threaded (parallelized) mode, and now \`llama2.c\` strike back with help of OMP that helped perform 20% better than Mojo
+
+&#x200B;
+
+https://i.redd.it/gwymffods7ob1.gif
+
+I hope this post will be useful for all Machine Learning engineers/enthusiasts/students out there,  ensuring we're up-to-date with Modular/Mojo's game-changing AI tech developments.
+
+Stay informed and ahead of the curve!
+
+**Links**
+
+llama2.🔥: [https://github.com/tairov/llama2.mojo](https://github.com/tairov/llama2.mojo)
+
+llama2.python: [https://github.com/tairov/llama2.py](https://github.com/tairov/llama2.py)
+
+llama2.c: [https://github.com/karpathy/llama2.c](https://github.com/karpathy/llama2.c)
+
+Modular\_AI repost in Twitter: [https://twitter.com/tairov/status/1701345271752343900](https://twitter.com/tairov/status/1701345271752343900) ",active,108
+16jdmkn,1,2023-09-15,Future of Learning with AI?,u/MemesGuyAI,ArtificialInteligence,https://www.reddit.com/r/ArtificialInteligence/comments/16jdmkn/future_of_learning_with_ai/,"Hello guys! As a student, I'm eager to explore how AI can enhance my learning experience. I mean of course, I have been using ChatGPT a lot, but I wanted to know how you guys are utilising AI to help with your studies. Any tips and tricks are welcome!",active,49
+16l406w,1,2023-09-17,"Yes, teaching your students creative ways to memorize math formulas is useful",u/D_Empire412,Teachers,https://www.reddit.com/r/Teachers/comments/16l406w/yes_teaching_your_students_creative_ways_to/,"**While I am a student, I believe this idea has merit and teachers should know about it.**
+
+Around a month ago, I posted on various subs (including this one) about the usefulness of songs as a study/memorization tool for math and [linked a song I made (with the help of ChatGPT) to help study for a quiz on trig identities in Precalc last year](https://share.cleanshot.com/CYcmDxr7). Yesterday, I realized the true usefulness of a song or memorization tool. In AP Calc AB (for us it is still only the 5th day of school so we're reviewing Precalc topics), we had a quiz on trig, which I thought I knew very well as it was my strongest topic in Precalc last year (I think at least partly because that is when I began the strategy of making songs to memorize formulas), and I did many practice problems. However, yesterday, one of the things we were tested on was sin/cos/tan (2x) given sin/cos/tan (x), something I never learned in Precalc class last year and only briefly practiced over the summer on Delta Math, and I was completely stumped and got both of those two questions wrong, making my score 82. Immediately after class, I decided to Google the formula and found out how easy it truly was and now highly regret not making a song or finding some other way to memorize it. It really works, at least for me. This is why:
+
+&#x200B;
+
+* When composing such a song (even with the help of ChatGPT), you have to give it all the information and keep iterating on it until it can accurately convey all the information. The song I have linked above took 17 iterations and prompt refinements on ChatGPT to create a draft of the lyrics, which I then had to add and fix certain things that were incorrect. Being able to drill down on the material in such a way helps you really understand the essence of it.
+* I had to sing the song multiple times to make sure I had a version good enough to share. While it may seem annoying, I felt singing it multiple times helped me further memorize the key points and formulas. Plus, music enhances memory.
+* When making the visuals, I had to go back in and listen to each line or few lines, and create relevant visuals, and in terms of the example problems, show my work, showing that I can ""illustrate"" what I'm saying, a key part of this as often the brain best remembers visual and auditory queues together.
+* Listening again helped further engrain the material.
+* It's fun! While making the song, I was having a lot more fun than just reading over my notes, while studying just as hard, if not harder, but not even realizing it. If you want to understand a hard topic, the best way is to get interested in it, and what better than learning it in a fun way?
+* This shows I can teach the material to someone else. A friend of mine who saw the video above thought it reminded him of a song for third graders. While he kind of meant it as a bad remark, I took it the other way, because this shows I'm presenting ""hard-to-understand"" material in an ""easy-to-understand"" format, simplifying it into material even students not great at math could likely understand.
+
+  
+Because of this, I have a strong regard for songs and other fun, untraditional memorization/understanding tools as a genuine study method for high school-level math classes. It has had proven results. On 4/5 of the Precalc topics I did this with, I got an A on their respective quizzes. Meanwhile, on my first quiz in AP Calc this year, about a central trig topic I didn't learn in Precalc last year, when I didn't try to use a song or untraditional memorization/understanding tool, I only got a B-. When it comes to many problems, as long as you could memorize important formulas and know how to ""plug and play"", you could likely do well on any quiz/test.",User_deleted,4
+16mwi2m,1,2023-09-19,"ChatGPT in Research and Education: How Did We Come Here, Where Are We Headed?",u/NuseAI,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/16mwi2m/chatgpt_in_research_and_education_how_did_we_come/,"- ChatGPT is a large language model that offers immense potential for students, educators, and researchers.
+
+- It allows for natural language conversations and has gained popularity in various domains.
+
+- Educators have used ChatGPT to enhance their teaching, while researchers have used it to simulate complex social phenomena.
+
+- One significant application of ChatGPT in research is its ability to simulate complex social phenomena, enabling the study of human behavior with unprecedented precision.
+
+- By generating realistic scenarios, ChatGPT allows for the exploration of social learning, observational learning, and imitation in controlled settings.
+
+Source : https://us.sagepub.com/en-us/nam/exploring-chatgpt-in-research-and-education
+
+Summarized by Nuse AI",active,1
+16nhf4k,1,2023-09-20,How ChatGPT will change education,u/Super_Towel,Teachers,https://www.reddit.com/r/Teachers/comments/16nhf4k/how_chatgpt_will_change_education/,"Hello everyone!  
+Recently I found some good sources of information about how ChatGPT will be involved in people’s education and how it will be used in the future (a very discussed topic between my peers) and thought I will share it with you all.  
+There is no brainer that with this technology which is evolving rapidly the potential ways are unlimited, but the most exciting part is that it will have a huge significant impact on education. Here are a few:  
+**Foreign language learning**  
+Written text between different languages could be translated using ChatGPT. Although English is favored, ChatGPT can also grasp other languages, and as time goes on, this capability will increase. Thus, it might be used by students to instantly translate information written in a foreign language into their mother tongue.  
+Other language learning applications ChatGPT could be used for include:  
+\- explaining grammar;  
+\- reviewing and correcting written assignments;  
+\- providing vocabulary exercises;  
+\- providing instruction on how to pronounce words;  
+\- re-writing existing articles in Simple English (or other languages);  
+\- generating custom dialogues and stories based on a student’s instructions, which could be helpful in understanding the nuts and bolts of the target language.  
+
+
+It also can help with real time translation during language lessons this way allowing students to make conversations with native speakers of that language.   
+
+
+**Tailored feedback**  
+The capacity of ChatGPT to precisely assess learners' output and deliver focused feedback is another crucial feature.  
+AI is already bridging educational gaps that would otherwise be difficult to identify and remedy.   
+For example, online course providers such as Coursera use AI to identify commonly occurring errors in students' homework assignments. In addition to informing the course instructor of their students' difficulties with the topic, it gives the latter with customized recommendations and instant feedback. Students obtain a correct knowledge of the subject without having to wait for the teacher's contribution in this manner.   
+This means that technologies like ChatGPT will be able to get a sense of individual students' strengths and limitations. Furthermore, it can now precisely and effectively describe these concerns so that students understand how to proceed.  
+
+
+And these are just a few reasons. I actually found this in a [guidebook](https://www.turingcollege.com/playbooks/chatgpt-in-education) created by Turing College. Also [Technology Review](https://www.technologyreview.com/2023/04/06/1071059/chatgpt-change-not-destroy-education-openai/) and [AIMultiple](https://research.aimultiple.com/chatgpt-education/) have very informative articles about this as well. These sources explain other ways as well as discuss the potential problems that could be caused by ChatGPT that I found to be quite interesting.  
+
+
+Additionally, I would really appreciate your opinions about this and if you were able to use it to your advantage? Maybe you already use it in your daily life?",active,0
+16p8uai,1,2023-09-22,Leading an AI PD and need tools for content area teachers. Help!,u/PortmanteaunySoprano,Teachers,https://www.reddit.com/r/Teachers/comments/16p8uai/leading_an_ai_pd_and_need_tools_for_content_area/,"I am leading an AI PD for my teachers and while I know a lot about AI, I would love to hear what tools you use and have students use for content area work. There’s obviously your ChatGPTs and
+EduAides, etc. but I’m looking for tools specific to content. I’m a writing teacher by trade, so I tend to focus on language models but what about the math and science folks? I will listen to any tools you find useful!",User_deleted,0
+16ulgun,1,2023-09-28,Please grade my issue essay :) Let's compare to ChatGPT,u/le_vent,GRE,https://www.reddit.com/r/GRE/comments/16ulgun/please_grade_my_issue_essay_lets_compare_to/,"Hi All! I've been working on my issue essay practice using this incredible platform linked at the bottom.  
+
+
+So far I've been using ChatGPT to grade my essays but would love some human input too :) I'll let you know what score the AI gave me as well so we can explore how useful of a tool it is!  
+
+
+I've mostly been struggling with time constraints, so any tips are appreciated! I also know that the GRE format just changed, is there anything new to be considered when writing an essay now? Hereby my essay:  
+
+
+&#x200B;
+
+  
+**Prompt:** ""Claim: When planning courses, educators should take into account the interests and suggestions of their students.   Reason: Students are more motivated to learn when they are interested in what they are studying.
+
+Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.""
+
+**Essay:** ""Teachers have the responisibility to prepare their students for the challanges they might face after completing their course study. I mostly disagree with the statement that teachers should take student interest into account when planning courses in order to increase motivation. While it is important to evoke passion in students, the experience of teachers places them in a better position to select what topics are essential to the flourishing of the pupil.    
+
+
+Passion in a topic is a great fuel for learning. When something catches a student's eye as worth understanding, they oftentimes seek out ways to learn it on their own. In these cases, teachers have to do little to convey a topic to the pupil and the teaching job might feel delightfully easy. Einstein, for example, is said to have sought out philosophical writings on the nature of time during his early studies without being prompted to do so by his instructors. He then went on to take the understanding of time in physics beyond anything anyone had ever done. Einstein taught himself a topic he had a proclivity for on his own, and with minimal instruction - a teacher's dream.    
+
+
+Sadly, important topics do not always attract interest from students. Many subjects rely on a range of foundational fields in order to be understood. In math for example, you cannot learn calculus without haveing understood algebra. Furthermore, calculus is foundational to the understanding of newtonian physics. Einstein, as a physicist, was notoriously bad at math. One can imagine him grinding his teeth when working through his algebra and calculus exercises as a young pupil. But if he would have never engaged with, and integrated, the fundamentals of math, he would have been unable to understand physics in a way that allowed him to revolutionize it.     
+
+
+Moreover, students lack sufficient in-depth understanding of a topic in order to fully understand whether or not they would find it interesting. Many students picture a wet-lab filled world of microscopes when hearing the word ""biology,"" yet it must not always be so! Biology, like many other fields, is a vast realm of knowledgethat encompasses the study of life at a range of scales. Even if a student might feel repulsed by the squishy cell tissues in a sterilized lab, they might be fascinated by the complex causal relationships that allow oceanic ecosystems to flourish when studying marine biology. A student view on a vast subject before engaging with it is oftentimes too limited to allow for a thorough understanding of potentially intersesting pockets of knowledge.  T  
+
+
+eachers need to balance student interest in course content with their responsibility to prepare for the challanges that might face after the course ends. While it is essential to maintain interest by cultivating passion, teachers should take students suggestions with regards to planning courses to limited extent. The teacher, with years of life and practicing experience, is in a better position to decide what topics will best engage, prepare and even pleasantly surprise their pupils.""
+
+  
+
+
+  
+
+
+appendix:  
+\- essay practice platform (thank you unknown creator): [https://gre-essay-practice.web.app/](https://gre-essay-practice.web.app/)
+
+\- thank you Greg Mat for all your insights - issue essay playlist: [https://www.youtube.com/watch?v=mhzlaHXHaK4&list=PLFzybs-0YWa0MDmtPzqNlnr2g-QNuDM7r](https://www.youtube.com/watch?v=mhzlaHXHaK4&list=PLFzybs-0YWa0MDmtPzqNlnr2g-QNuDM7r)",active,1
+16vzjcv,1,2023-09-30,An academic investigation game powered by ChatGPT,u/Ok-Impact4909,teachingresources,https://www.reddit.com/r/teachingresources/comments/16vzjcv/an_academic_investigation_game_powered_by_chatgpt/,"Hi everyone,
+
+I'm excited to share a project I've been working on. Initially, it started as an investigation game powered by ChatGPT, where you interact with characters to solve mysteries. However, I quickly recognized its educational potential and added an academic mode that corrects student mistakes (see the attached picture) and explains their errors. I'm currently in the launching phase, so everything is free, and I aim to continue offering as much free content as possible. It's an excellent tool for language learning (English, French, Dutch, German, Italian, Portuguese). Would you be interested in a game like this? If you do try it out, please don't hesitate to provide feedback so I can make improvements.
+
+link is here : [Jack & Mani](https://www.jackandmani.com)
+
+https://preview.redd.it/e2txv1h07crb1.png?width=374&format=png&auto=webp&s=930f755da5553a9a284f3c5b897f5273d2bf11bc",active,0
+16wjik6,1,2023-09-30,Can I get some advice on my Statement of Purpose? Applying for SF State for Spring 2024 for Data Science and Machine Learning and the deadline is tomorrow,u/tehsexyone,gradadmissions,https://www.reddit.com/r/gradadmissions/comments/16wjik6/can_i_get_some_advice_on_my_statement_of_purpose/,"With the recent rise in accessibility to Artificial Intelligence based systems, it’s now more important than ever to be prepared for how it will affect everyone’s daily lives. It is for this reason that I’m applying to the Data Science and Machine Learning program at San Francisco State University for the Spring semester of 2024. Through the experience and knowledge I’ve acquired from my undergraduate education until present day, I believe I have a skillset that will not only allow me to prepare for the changes to come, but develop AI with the purpose of helping others prepare as well. I see Artificial Intelligence as a tool that will allow people to do things they couldn’t do before, but a tool that’s still in development and one that requires careful facilitation before it can be used in an effective and ethical manner. 
+
+I graduated from UC Santa Barbara with a Bachelor’s of Science in Physics and a Minor in Mathematics. Ever since High School, I’ve had a fascination with the nature and underlying patterns of mathematics. In 10th grade, I developed a method of interpolating polynomials given a set of numbers by observing the set of differences between each number. In college I opted to expand my knowledge in Math by taking upper division classes such as Numerical Analysis. It was in this class that I learned the language Python and discovered how I could implement my skillset in math to solving computer science problems. During my senior year I took a class on Linear Programming where I worked with partners to solve optimization problems using the program LINGO. Through this experience I got a taste of what it’s like to collaborate on solving math and coding problems in a group setting.
+
+In my time since graduating, I’ve stayed persistent at fostering my skill in math by self studying books on topics I’m interested in. I’ve also worked on independent projects in Python such as one that can solve Ken Ken puzzles using elimination techniques. I believe the ability to translate human thinking into computational logic will be important to have for the Data Science and Machine Learning program. In working on Python projects, I’ve seen what kind of challenges I’ll face when I enter workforce. I’ve also worked as a Math Tutor at Sylvan Learning Center of San Francisco to help students develop the mathematical understanding they will need as developing members of society. In this experience I’ve seen first hand how younger people today are affected by the advent of artificial intelligence, especially in the industry of education.
+
+In the future, I wish to bridge the gap between what computers are able to do and what humans are able to do. One of the biggest limitations I’ve noticed in programs such as ChatGPT and Midjourney is how un-human the creative works tend to be. Humans are good at generating ideas, and computers are good at executing them. I’ve always had a desire to express myself creatively, and I believe that other people are the same. Through getting a Master’s of Science in Machine Learning and entering the workforce, I wish to develop Artificial Intelligence in such a way that it allows people to generate creative ideas that computers can execute on. As AI takes over the job market, more and more focus will have to be put on jobs that require human ideas such as storytelling, which is a personal aspiration of mine. I want to develop tools that will allow people to easily bring their creative ideas to life and share them with people.",User_deleted,2

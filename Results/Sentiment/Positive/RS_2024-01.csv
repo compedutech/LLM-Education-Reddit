@@ -1,0 +1,673 @@
+18wshab,1,2024-01-02,Build amazing AI projects with Google’s Gemini models and Python,u/Quirky-Low-7500,Python,https://www.reddit.com/r/Python/comments/18wshab/build_amazing_ai_projects_with_googles_gemini/,"Hi everyone,
+
+I’m excited to share with you my repository of Python projects and ideas that use Google’s latest and most powerful generative AI models: Gemini-pro and Gemini-pro-vision. These models can perform various tasks such as text-to-speech conversion, interactive chat, image and video processing, and content generation.
+
+With my repository, you can:
+
+* Convert any text into natural-sounding speech with Gemini-pro
+* Chat with a friendly and engaging AI assistant powered by Gemini-pro-chat
+* Recognize and analyze images and videos with Gemini-pro-vision
+* Generate diverse and dynamic content such as poems, stories, code, essays, and more with Gemini-pro
+
+My repository also provides educational insights and project ideas for students and researchers who want to learn more about Google’s Gemini models and their applications. You can explore the limitless possibilities of AI with Gemini and embark on a journey of innovation and discovery.
+
+If you are interested, please check out my repository here: [https://github.com/GitCoder052023/Build-with-Gemini](https://github.com/GitCoder052023/Build-with-Gemini)
+
+I would love to hear your feedback and suggestions on how to improve my projects and ideas. Feel free to leave a comment or open an issue on GitHub.
+
+Thank you for your time and attention. I hope you enjoy building amazing AI projects with Gemini and Python. 😊",active,6
+18yiodc,1,2024-01-04,Leveraging ChatGPT for Enhanced Data Analysis and Reporting in Various Industries,u/cporter202,ChatGPTautomation,https://www.reddit.com/r/ChatGPTautomation/comments/18yiodc/leveraging_chatgpt_for_enhanced_data_analysis_and/,"The integration of AI language models like ChatGPT into data analysis and reporting has been a game-changer across multiple industries. Let's deep-dive into how leveraging ChatGPT has the potential to enhance these crucial tasks.
+
+One of the standout benefits is the ability of ChatGPT to understand and process natural language. This allows it to work with unstructured data, which is prevalent in industries like healthcare and social media. By converting this data into structured insights, it drastically reduces the time analysts spend on data cleaning and preprocessing.
+
+ChatGPT's capacity for generating human-like text also streamlines the reporting process. It can assist in creating comprehensible and detailed reports from complex datasets, making the findings more accessible to stakeholders who may not be data-savvy. This reduces the need for extensive training and enables quicker decision-making.
+
+In finance, ChatGPT can be used to parse through large volumes of financial reports and news articles, identifying trends and key information that can influence investment strategies. It can digest earnings reports, SEC filings, and market news, providing a synthesized report that highlights the most critical information for analysts.
+
+In the retail industry, ChatGPT can analyze customer feedback, reviews, and social media to offer insights into consumer behavior and preferences. Retailers can then tailor their products and marketing strategies accordingly, leading to improved customer experiences and increased sales.
+
+Furthermore, in the realm of logistics, ChatGPT can optimize reporting by analyzing transportation and delivery data, identifying patterns that can improve supply chain efficiency. This can help companies to minimize delivery times and costs, directly impacting their bottom line.
+
+Manufacturing can benefit too, by using ChatGPT to monitor and interpret sensor data from production lines. This enables predictive maintenance and helps in avoiding costly downtime by alerting staff to potential issues before they escalate.
+
+In the realm of scientific research, ChatGPT can sift through numerous research papers, summarizing findings relevant to ongoing studies. This allows researchers to stay abreast of the latest developments without wading through volumes of literature.
+
+Lastly, the education sector can utilize ChatGPT to provide personalized learning experiences, using data analysis to understand student performance and adapt teaching methods accordingly.
+
+Overall, the adoption of ChatGPT for data analysis and reporting promises to make data-driven insights more accessible, enhance strategic decision-making, and provide significant competitive advantages across various industries. It is not just about data crunching but also about transforming data into narratives that can drive business value. Are you already leveraging ChatGPT in your field? Share your experiences and thoughts on how AI is reshaping industry standards for data and reporting.",active,0
+190b8u6,1,2024-01-06,Ask ChatGPT about what field would most benefit from generative AI,u/RockyCreamNHotSauce,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/190b8u6/ask_chatgpt_about_what_field_would_most_benefit/," What fields of employment can most benefit from generative AI?ChatGPT
+
+Generative AI, with its advanced capabilities in creating, simulating, and optimizing content, can significantly benefit various fields of employment. Some of the key areas include:
+
+1. **Creative Industries (Art, Music, Writing):**  
+
+
+* Art and Design: AI can generate new artistic concepts, assist in graphic design, and even create digital art.
+* Music: AI can compose music, create new sounds, or assist in sound engineering.
+* Writing and Content Creation: AI can help in generating ideas, writing drafts, or even creating entire articles, scripts, or books.
+
+1. **Healthcare:**  
+
+
+* Medical Imaging: AI can assist in analyzing X-rays, MRIs, and other imaging data.
+* Drug Discovery: AI can predict the effectiveness of drug compounds, potentially speeding up the discovery process.
+* Personalized Medicine: AI can help in tailoring treatments to individual patients based on their genetic makeup.
+
+1. **Engineering and Architecture:**  
+
+
+* Design and Simulation: AI can assist in designing complex structures or systems and simulating their performance.
+* Optimizing Manufacturing Processes: AI can improve efficiency and reduce waste in manufacturing.
+
+1. **Finance and Business:**  
+
+
+* Financial Analysis: AI can predict market trends, analyze risks, and provide investment insights.
+* Marketing and Advertising: AI can personalize marketing content and optimize advertising campaigns.
+* Supply Chain Optimization: AI can forecast demand and optimize logistics.
+
+1. **Education:**  
+
+
+* Personalized Learning: AI can tailor educational content to each student’s learning style and pace.
+* Automated Grading: AI can assist in grading assignments and providing feedback.
+
+1. **Entertainment and Media:**  
+
+
+* Video Game Development: AI can create realistic game environments and non-player character behaviors.
+* Film Production: AI can assist in scriptwriting, special effects, and even in editing.
+
+1. **Legal and Administrative Fields:**  
+
+
+* Document Analysis: AI can assist in sorting through legal documents, contracts, and case precedents.
+* Administrative Automation: AI can automate routine tasks like scheduling and data entry.
+
+1. **Environmental Science:**  
+
+
+* Climate Modeling: AI can simulate climate patterns and predict environmental changes.
+* Conservation Efforts: AI can analyze data to assist in wildlife conservation and management.
+
+1. **Transportation and Urban Planning:**  
+
+
+* Traffic Flow Optimization: AI can analyze traffic patterns to optimize city planning and public transportation.
+* Autonomous Vehicle Development: AI plays a crucial role in the development and safety testing of self-driving cars.
+
+1. **Research and Development:**  
+
+
+* Data Analysis: AI can analyze vast amounts of data more quickly and accurately than humans.
+* Experimental Simulations: AI can simulate experiments that might be too costly or dangerous to conduct physically.
+
+In all these fields, generative AI not only increases efficiency and productivity but also opens up new avenues for innovation and creativity.
+
+📷Are you sure these fields can benefit from generative AI? or some of these are more appropriate for discriminative AI?ChatGPT
+
+You raise an important distinction between generative and discriminative AI models, which indeed have different applications and strengths. Let's clarify how these two types of AI models are typically used and reassess which fields might benefit more from each.
+
+1. **Generative AI Models:**  
+
+
+* **Primary Function:** These models are adept at generating new data instances. They can create images, music, text, or any data that mimics the distribution of the input data they've been trained on.
+* **Typical Applications:** Useful in creative fields (like art, music, and writing), design (such as fashion or architecture), and any area where new content generation is valuable.
+
+1. **Discriminative AI Models:**  
+
+
+* **Primary Function:** These models are used to categorize or make predictions based on input data. They differentiate between different types of data and are often used for classification tasks.
+* **Typical Applications:** Suitable for fields like healthcare (for diagnosis from medical images), finance (for credit scoring or fraud detection), legal fields (for document classification), and others where distinguishing between categories or making predictions based on existing data is crucial.
+
+Revisiting the list:
+
+* **Creative Industries:** More suited for generative AI.
+* **Healthcare:** Both, but discriminative AI is crucial for diagnosis, while generative AI can be used in drug discovery and personalized medicine.
+* **Engineering and Architecture:** Both, with generative AI aiding in design and discriminative AI in analysis and optimization.
+* **Finance and Business:** Primarily discriminative AI for market predictions and risk analysis, though generative AI could play a role in marketing.
+* **Education:** Both, with generative AI for content creation and discriminative AI for personalized learning paths and grading.
+* **Entertainment and Media:** Mainly generative AI, especially in game development and content creation.
+* **Legal and Administrative Fields:** Mainly discriminative AI for document analysis and sorting.
+* **Environmental Science:** Both, with discriminative AI for data analysis and generative AI for modeling and simulations.
+* **Transportation and Urban Planning:** Discriminative AI for traffic analysis, with generative AI in planning and simulations.
+* **Research and Development:** Both, depending on the specific application, with discriminative AI for data analysis and generative AI for simulations and theoretical modeling.
+
+In summary, while there's some overlap, generative AI is generally more suited to fields requiring new content creation, and discriminative AI is more aligned with classification, prediction, and analysis tasks.",active,1
+192hrg8,2,2024-01-09,Seeking your input for an upcoming university talk on how students can use ChatGPT effectively!,u/Rebeezel,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/192hrg8/seeking_your_input_for_an_upcoming_university/,"Hello Reddit community!
+
+I'm a professor at a university and I'm getting ready for an unconventional lecture this coming Thursday. My goal is to show my students how they can effectively use ChatGPT for their academic pursuits. I see ChatGPT not as a threat, but as a powerful tool, similar to a calculator, but one that needs to be learned and used correctly.
+
+The central idea of the lecture is to show students practical ways in which ChatGPT can help them understand complex subjects, enhance their research or optimise their learning processes. I plan to teach them how to use this tool critically and responsibly to maximise their academic endeavours.
+
+**I want to show the students how they can best use ChatGPT for their (social science) studies.**   
+**Do you have any ideas, knowledge or suggestions that I should definitely pass on to the students?**
+
+I look forward to your creative and informative answers!",User_deleted,2
+193dt4j,1,2024-01-10,"""ChatGPT in Virtual Learning: Revolutionizing Corporate and Educational Training""",u/cporter202,ChatGPTautomation,https://www.reddit.com/r/ChatGPTautomation/comments/193dt4j/chatgpt_in_virtual_learning_revolutionizing/,"The integration of AI, particularly ChatGPT, into the realm of virtual learning is proving to be a game changer for both corporate training programs and educational institutions. With the rise of remote work and online classrooms, traditional learning methodologies are rapidly evolving to incorporate technology that can offer personalized learning experiences, and ChatGPT is at the forefront of this transformative wave.
+
+ChatGPT, a variant of the GPT (Generative Pre-trained Transformer) language models, utilizes advanced natural language processing to understand and generate human-like text. This capability enables it to function as an interactive tool for learners, providing instant feedback, answering questions, and even tailoring instruction to individual needs.
+
+In corporate settings, ChatGPT can streamline onboarding, continuous training and professional development. It can simulate conversations, role-play scenarios, and provide a safe environment for employees to practice customer service, negotiations, and other essential business skills. This not only enhances learning engagement but also ensures that employees can apply what they've learned directly to their roles.
+
+Educational institutions can leverage ChatGPT to supplement teaching by offering additional support to students outside of the classroom. It can assist with homework, explain complex concepts, and give educators insights into areas where students might be struggling.
+
+However, while ChatGPT offers remarkable benefits, it's crucial to address challenges such as ensuring the accuracy of the information provided, preventing the reinforcement of biases, and maintaining a human touch in learning.
+
+As we harness the potential of ChatGPT in virtual learning, it's clear that by combining the strengths of AI with the irreplaceable value of human instruction, we can create a more dynamic, effective, and inclusive learning environment that meets the needs of today's learners. Let's discuss how ChatGPT is reshaping the learning landscape and what the future may hold for AI in education and training.",active,1
+194il3s,1,2024-01-11,Reviving the ChatGPT Conversation: A Call for Homeschoolers Using GPT Plus!,u/at0m7922,homeschool,https://www.reddit.com/r/homeschool/comments/194il3s/reviving_the_chatgpt_conversation_a_call_for/,"Hey all! I see it's been about three months since we last chatted about using ChatGPT in our homeschooling adventures, and a lot has changed in the AI world since then. So, let's dive back into this topic!
+
+First, a bit about me - I was home-schooled, and later homeschooled my child during their middle school years. Although it's been a while since I've been deeply involved in homeschooling, the release of GPT 3.5 in November 2022 really reignited my passion for educational technology. I often catch myself thinking, “Man I wish I had this when I was homeschooling...”
+
+Before we go any further, this is not a sales pitch or any sort of scam. I'm genuinely passionate about creating AI tools that can genuinely help homeschoolers and educators. We all know that the traditional educational system has its flaws - OK let's be real - it's just broken. I believe AI can offer some exciting solutions - and that's why I'm here.
+
+And here's where you come in: I'm looking for homeschoolers who are subscribers of GPT Plus and are interested in testing out some custom GPTs I've developed specifically for homeschooling. For instance, my ""Any Book Character!"" GPT is designed to engage and educate your students by bringing any fictional book character to life. This tool combines age-appropriate GPT4 powered interactive dialogue and DALL-E powered artistic visuals, making literature more engaging, entertaining, and memorable! And NO, you don't have to pay for access beyond your existing GPT Plus $20/month OpenAI subscription.
+
+If this sounds like something you'd be interested in exploring with your kiddos, I’d love to hear from you! Let’s discuss how these tools are fitting into your homeschool routine, and any ideas you might have for future AI educational tools. Looking forward to an exciting exchange of ideas!
+
+I've included a link to my ""Any Book Character!"" GPT if you want to jump over there right now and try it out. Feel free to leave feedback and check out my other custom GPTs while you're there. 
+
+Thank you!",active,1
+194ttos,5,2024-01-12,Teachers should utilize/beware of powerful Custom ChatGPTs,u/51893Eric,Teachers,https://www.reddit.com/r/Teachers/comments/194ttos/teachers_should_utilizebeware_of_powerful_custom/,"The launch of ChatGPT has forever changed the classroom, but I'm afraid its impact is not slowing down. Recently, a **new** accessible tool called custom GPT was launched, and teachers should absolutely be aware of its capabilities compared to the normal model. Custom models are very easy to make, but **very powerful**. Give it some instructions, feed it a couple PDFs, then voila, you have a deadly specialist that can manipulate whatever textbook or novel you fed it with in anyway you want it to. This will allow your students use it for very course specific tasks that can either tremendously help or ruin their learning process. On one hand, it can be used to generate active learning practice questions on specific textbook chapters, or...they can cheat through literary analysis like **never before**.
+
+To see for yourself just how much more capable custom models can be, here is a comparison between the normal ChatGPT and a custom one called ""No Panic Shakespeare"", who has been fed the PDF of Hamlet and instructed to focus on authorial choices and analysis. 
+
+They were both asked the same question, **""Analyze the use of symbolism in Act 1 of Hamlet""**
+
+|Normal ChatGPT 3.5 |Custom ChatGPT 4 ""No Panic Shakespeare""|
+|:-|:-|
+|Certainly, I can analyze the use of symbolism in Act 1 of Shakespeare's ""Hamlet."" In Act 1 of ""Hamlet,"" there are several instances of symbolism that contribute to the overall themes and mood of the play. Here are a few key examples:The Ghost: The appearance of King Hamlet's ghost is a powerful symbol in Act 1. The ghost represents the unresolved issues and secrets of the past. It symbolizes the corruption and betrayal that have taken place in Denmark, foreshadowing the themes of revenge and deception that will play a significant role in the rest of the play.The Throne: The throne of Denmark represents power and authority. Throughout Act 1, the question of who is the rightful king and who should sit on the throne is a central theme. This symbolizes the political instability and power struggles within the kingdom.The Use of Darkness: The frequent references to darkness and night in Act 1 symbolize the moral and political corruption that plagues the kingdom. It also reflects the uncertainty and chaos that have descended upon the state.The Courtly Attire: The courtly attire worn by the characters, especially Claudius and Gertrude, symbolizes the facade of civility and order that conceals the underlying tensions and conflicts in the royal court.Ophelia's Flowers: When Ophelia distributes flowers to the other characters, each flower has symbolic significance. For example, the rosemary symbolizes remembrance, and the pansies represent thoughts. These flowers reflect the characters' inner thoughts and emotions, often hidden behind polite gestures.These are just a few examples of the symbolism present in Act 1 of ""Hamlet."" Shakespeare uses symbolism throughout the play to add depth to the characters and themes, creating a rich and complex narrative.|**Argument:**In Act 1 of ""Hamlet,"" symbolism is used extensively to enhance the play's themes and to set the tone for the unfolding drama. The most prominent symbols are the Ghost of King Hamlet and the dark, cold setting.**Supporting Quotation:**A key quotation that supports this interpretation is found in Act 1, Scene 1, where Marcellus says to Horatio, ""It is offended."" (Act 1, Scene 1, Line 501). This line is in response to the Ghost of King Hamlet, which appears but does not speak to them.**Dissection of Quotation for Literary Techniques:**The phrase ""It is offended"" is symbolic on multiple levels. Firstly, the use of ""it"" to refer to the Ghost dehumanizes the apparition, reflecting the characters' confusion and fear. The word ""offended"" symbolically represents the unsettled nature of the Danish court, hinting at the underlying treachery that led to the Ghost's appearance.**Extensive Analysis:**The Ghost itself is a powerful symbol. It represents the unresolved issues from King Hamlet's reign and his untimely death. Its silence can be interpreted as a symbol of the hidden truths and the unspoken tension in the kingdom. The appearance of the Ghost in a military outfit symbolizes the ongoing conflict and the warlike state of Denmark, foreshadowing the tragic events to come.The setting of this scene - a dark, cold night - also holds symbolic value. It mirrors the looming sense of doom and the moral decay within the Danish court. The darkness can be seen as a metaphor for the ignorance and uncertainty surrounding King Hamlet's death, and the coldness as an emblem of the emotional detachment and the brewing hostility among the characters.Throughout ""Hamlet,"" these symbols recur, reinforcing themes of betrayal, revenge, and the struggle between truth and deception. The Ghost's appearances act as a catalyst for Hamlet's actions, driving the plot forward. The dark and ominous atmosphere pervades the play, maintaining a sense of unease and foreboding.|
+|[https://chat.openai.com/share/1ca8efd3-3815-4356-a862-6d005f8abf81](https://chat.openai.com/share/1ca8efd3-3815-4356-a862-6d005f8abf81) |[https://chat.openai.com/share/136161f1-77d7-4ff5-bff0-f2af50ffbdbe](https://chat.openai.com/share/136161f1-77d7-4ff5-bff0-f2af50ffbdbe) |
+
+If you ever taught or read Hamlet, you would notice that while the normal GPT 3.5 gave good examples of symbolism, they were not elaborated and not all actually in act one. On the other hand, No Panic Shakespeare is capable of accurate deep analysis supported by quotation. If you want to try this model for yourself, here is the link (requires gpt+): [https://chat.openai.com/g/g-e2B1a7n5t-no-panic-shakespeare](https://chat.openai.com/g/g-e2B1a7n5t-no-panic-shakespeare) 
+
+This is a very powerful weapon that students around the world already if not soon will be utilizing. So...teachers, please educate yourselves about these new technologies and guide students on the correct way to leverage these powerful tools instead of cheating themselves of an education. 
+
+Feel free to ask any questions in the comments. I wish you all luck on your teaching journey :)",User_deleted,4
+195t7au,1,2024-01-13,Generative AI Revolution: ChatGPT's Impact on Content Creation and the Arts,u/cporter202,ChatGPTautomation,https://www.reddit.com/r/ChatGPTautomation/comments/195t7au/generative_ai_revolution_chatgpts_impact_on/,"The rise of generative AI has been nothing short of a revolution, particularly seen in the impressive capabilities of ChatGPT. This AI model, trained by OpenAI, is capable of producing human-like text, and its impact on content creation and the arts is both pronounced and multifaceted.
+
+With ChatGPT, content creators now possess an unparalleled tool for ideation and writing assistance. The AI can generate articles, essays, stories, and even poetry, all within a matter of seconds. This efficiency opens doors for creators to produce more content at a faster pace, but also poses the challenge of ensuring originality and authenticity, as the AI's output is based on patterns detected in vast amounts of existing data.
+
+In the arts, ChatGPT and similar models bring both disruption and opportunity. Artists and writers can collaborate with AI to explore new creative territories and expressions. The technology can suggest lines for a play, dialogue for characters, and even provide outlines for complex narratives. However, this blurs the lines between human and machine creativity and brings forth questions about authorship and copyright. We're also seeing emerging discussions around the ethics of AI in creative industries and the importance of keeping the human touch in art.
+
+The educational sector is also influenced by ChatGPT's introduction. In academic settings, students and researchers can leverage the AI for quick drafting and brainstorming, though it also raises concerns about academic integrity and the development of critical thinking skills.
+
+The potential of generative AI is enormous—transforming hobbyist endeavors into polished works, aiding small businesses in content marketing, and democratizing access to creativity. Yet, with all technological advances, comes the need for a balance—cultivating the human element in art and content that resonates with the audience's desire for genuine human connection. 
+
+As we stand at this intersection where AI meets human ingenuity, the future of content creation and the arts looks both exciting and unnerving. How we navigate this new landscape, integrate AI capabilities responsibly, and preserve the unique value of human creativity will define the next era of artistic and content creation.",active,1
+196epti,11,2024-01-14,Passed the 601 with 764 score in 1st attempt,u/Designer_Hornet_7330,CompTIA,https://www.reddit.com/r/CompTIA/comments/196epti/passed_the_601_with_764_score_in_1st_attempt/,"&#x200B;
+
+Hey everyone, I'm thrilled to share my experience acing the CompTIA Security+ SY0-601 exam on the first attempt with a score of 764! It was a wild ride, but with the right strategies and resources, I conquered the beast. So, buckle up and let's dive into my journey!
+
+&#x200B;
+
+Background:
+
+&#x200B;
+
+I'm a second-year CS student with basic programming skills (C, Java, Python, SQL) and knowledge of operating systems, Linux (basic), and DBMS. No prior IT experience or A+ or Network+ certifications
+
+&#x200B;
+
+Preparation Timeline:
+
+I dedicated roughly 5 months to preparation, with intermittent study sessions due to college exams. However, the last month involved intense study sessions, averaging 6 hours per day.
+
+&#x200B;
+
+Resources:
+
+Professor Messer's YouTube playlist(main Resource): My go-to for comprehensive explanations and clear concepts.-[https://youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8&si=CnifJERIGaA-OUVV](https://youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8&si=CnifJERIGaA-OUVV)
+
+Exam Cram's YouTube playlist: Great for supplementing Messer's videos or You can use both.-[https://youtube.com/playlist?list=PL7XJSuT7Dq\_VD3eHXQf3Ld2ceBSFCayns&si=2NBSOd7GhilLIsv6](https://youtube.com/playlist?list=PL7XJSuT7Dq_VD3eHXQf3Ld2ceBSFCayns&si=2NBSOd7GhilLIsv6)
+
+Darly Gibson's ""CompTIA Security+ Get Certified Get Ahead"": A fantastic book for solidifying knowledge and practicing MCQs.(Definetly recommend)
+
+Powercert Animated videos: My lifesaver for understanding networking concepts!-[https://youtu.be/kDEX1HXybrU?si=kI6UWgNY0frJk8Nx](https://youtu.be/kDEX1HXybrU?si=kI6UWgNY0frJk8Nx)
+
+Remembering ports and protocols video: A quick and catchy way to memorize those crucial details.-[https://youtu.be/8lQWmHDeD5c?si=ekIvSbdC165YEna1](https://youtu.be/8lQWmHDeD5c?si=ekIvSbdC165YEna1)
+
+Cybercrafts YouTube channel: Mastered PBQs with his detailed tutorials.
+
+Jason Dion's practice tests on Udemy: Realistic tests that helped me gauge my readiness (60-68% scores),Although many recommend me the professor messer practice tests but i couldn't do it because i was short of time but if you have time you can also try professor messer.
+
+&#x200B;
+
+[101labs.net](https://101labs.net): Hands-on labs for practical experience and long-term retention-[https://www.101labs.net/comptia-security/](https://www.101labs.net/comptia-security/)
+
+&#x200B;
+
+Study Strategy:
+
+&#x200B;
+
+Early morning focus on book chapters, reading complete chapter at a time.
+
+Daytime emphasis on Professor Messer's video lectures on different domains.
+
+Afternoon sessions also dedicated to Professor Messer's videos with note-taking.
+
+Nighttime reserved for PBQs and practicals from [101labs.com](https://101labs.com).
+
+watched professor messer study groups while travelling.(this really helped me and i recommend you if you travel daily)
+
+Sequential learning: Studied domains in order, then revisited them with the book and videos for deeper understanding.
+
+Revision with AI: In the last 10 days, ChatGPT and Bard helped me refine my knowledge by explaining topics about which i dind't remeber.
+
+Motivation: Followed the CompTIA subreddit for encouragement and learning from others' experiences.
+
+&#x200B;
+
+Exam Day:
+
+&#x200B;
+
+I encountered around 74 MCQs and 4 PBQs (firewall config, attacks, networking). I initially skipped the PBQs, focusing on the MCQs. In the final 40 minutes, I tackled the PBQs and reviewed some unsure MCQs. I felt shaky, but my preparation paid off!
+
+&#x200B;
+
+Key Takeaways:
+
+&#x200B;
+
+Plan and prioritize: Create a study schedule and stick to it.
+
+Find the right resources: Choose materials that resonate with your learning style.
+
+Practice makes perfect: Take practice tests and hands-on labs to build confidence.
+
+Don't skip the PBQs: Allocate time for them, even if you tackle them later.
+
+Remember: Everyone's journey is unique. Adapt my strategies to your needs and rock that exam! Feel free to ask me anything about the experience, and let's conquer the cybersecurity world together!
+
+&#x200B;
+
+Thank you for reading about my journey, and best of luck to those preparing for the CompTIA Security+ exam!",active,12
+1992am6,1,2024-01-17,"""ChatGPT Revolutionizing Virtual Learning: Corporate and Educational Impacts Explored""",u/cporter202,ChatGPTautomation,https://www.reddit.com/r/ChatGPTautomation/comments/1992am6/chatgpt_revolutionizing_virtual_learning/,"The advent of AI-driven technologies in education and corporate training has reached a remarkable milestone with the integration of models like ChatGPT. The possibilities afforded by such advanced systems are reshaping how we approach learning and development across sectors. 
+
+ChatGPT, a conversational AI developed by OpenAI, has been harnessing natural language processing to provide a more interactive and personalized learning experience. In education, this means students can now have access to a tutor that is available 24/7, capable of addressing a wide array of queries in a conversational manner. Whether for understanding complex theories or for practicing language skills, ChatGPT stands as a robust adjunct to traditional educational frameworks.
+
+In the corporate world, training and professional development take on a new dimension with ChatGPT. Onboarding processes, continual learning programs, and even skill-specific training can be tailored to individual employees, thus enhancing their engagement and efficiency. Furthermore, it facilitates just-in-time learning and support, which can vastly improve performance and problem-solving in the workplace.
+
+However, this technological integration is not without its challenges. Questions regarding the extent of AI's role in learning, the potential decrease in human interaction, and data privacy concerns surface as we delve deeper into this domain. Additionally, the digital divide could widen if access to such technologies is not equitably distributed.
+
+Nevertheless, the benefits ChatGPT offers cannot be ignored. By augmenting our learning environments, both educators and corporate trainers can provide more dynamic and effective teaching methods. It unlocks a horizon where the limits of virtual learning are continually expanding, and the traditional barriers of geography, time, and accessibility are incrementally dismantled.
+
+What are your thoughts on the integration of ChatGPT in learning environments? Share your perspectives and let’s discuss the future of AI in education and corporate learning!",active,1
+1994jwa,12,2024-01-17,UMD syllabus options for AI use (from TLTC),u/joeythibault,UMD,https://www.reddit.com/r/UMD/comments/1994jwa/umd_syllabus_options_for_ai_use_from_tltc/,"When classes start next week, be sure that you understand which policy is in the syllabus!   
+from [https://tltc.umd.edu/artificial-intelligence-ai](https://tltc.umd.edu/artificial-intelligence-ai) 
+
+***Option 1 (AI for drafting):*** *In this course, you are welcome to use artificial intelligence (AI)-powered programs such as ChatGPT or Bing AI to help you create outlines or first drafts of your work. These tools can be a great starting place, and I encourage you to spend time editing your final draft into something you are proud of. It is your responsibility to verify that any information you get in these drafts is accurate and represents your own point of view well. If you have any questions about this policy and what constitutes acceptable or unacceptable use of AI-based tools, please do not hesitate to ask me -- I would be happy to talk with you about this!*
+
+***Option 2 (some AI):*** *In this course, I encourage you to use artificial intelligence (AI)-powered programs such as ChatGPT or DALL-E to help you with some assignments. When you use these tools, it is your responsibility as a scholar to make sure you are clearly communicating the AI involvement in your work. Please make sure to use phrases such as “\[your name\] via DALL-E 2” (for images) or “This paper was generated with the help of GPT-3” (for essays). Please review the instructions in each assignment for more details on specifically how to show your work.*
+
+***Option 3 (no AI):*** *In this course, my expectation is that you will not use any artificial intelligence (AI)-powered programs such as ChatGPT or DALL-E to help you with your assignments. Any use of AI-generated work to outline, write, create, or edit your assignments will be considered an academic integrity violation. My reasoning for this is that these programs may provide inaccurate or biased information, but more importantly, they do not serve your development as a student. In this course you will learn valuable skills from outlining, generating, and editing your own work. If you have any questions about this policy or are not sure if a resource you have found will violate this policy, please ask.*",active,13
+199vkna,1,2024-01-18,Exploring ChatGPT's Versatility in Data Analysis and Reporting Across Industries,u/cporter202,ChatGPTautomation,https://www.reddit.com/r/ChatGPTautomation/comments/199vkna/exploring_chatgpts_versatility_in_data_analysis/,"As businesses and industries continuously search for efficient ways to analyze data and generate reports, OpenAI's ChatGPT has emerged as a powerful tool that's garnering attention for its flexibility and versatility. In this discussion, I'd like to deep-dive into the various ways ChatGPT can be, and is being, utilized across different sectors for data analysis and reporting tasks.
+
+ChatGPT, an AI model trained on a diverse dataset, can process natural language and generate human-like text. This capability can prove highly beneficial in data analysis, where it can help interpret complex datasets and extract insights by conversing with users in an intuitive manner. For example, in finance, ChatGPT can assist analysts by summarizing stock market trends or by generating portions of financial reports. It can even explain the implications of financial metrics in layman's terms, democratizing access to expert-level analysis.
+
+In the healthcare sector, the AI can sift through vast amounts of patient data to identify patterns or anomalies. It can compile these findings into understandable reports for healthcare professionals, helping in diagnosis or treatment plan development. This is just one of the many potential applications in healthcare, leading to more informed decision-making and better patient outcomes.
+
+The marketing industry similarly stands to benefit from ChatGPT's data analysis capabilities. It can analyze consumer behavior data, campaign performance, and market trends to create comprehensive reports that inform strategy. ChatGPT can take this a step further by suggesting potential actions or generating content for marketing materials based on the data insights.
+
+Education is another field where data reporting is crucial. ChatGPT can aid institutions in aggregating educational data, like student performance metrics or course engagement levels, and then produce reports that can help educators adapt their teaching strategies or materials.
+
+It's important to recognize the potential constraints and ethical considerations of using AI in these contexts, such as data privacy concerns and the importance of human oversight to avoid misinterpretation of the data. But the possibilities ChatGPT opens up for enhancing productivity and making complex data more approachable are very exciting.
+
+I'm keen to hear from others about their experiences or thoughts on the implementation of ChatGPT in various data analysis and reporting tasks. What industries do you think could be transformed by AI like ChatGPT? What challenges might they face in its integration? Let's discuss the future of AI in data and the vast potential it holds across different fields.",active,1
+19a0gep,1,2024-01-18,Is it worth it to become a professor?,u/FineOpinion3462,AskProfessors,https://www.reddit.com/r/AskProfessors/comments/19a0gep/is_it_worth_it_to_become_a_professor/,"It’s me again, the student who asked about chatgpt but with a different question. Hopefully not as controversial. 
+
+I want to become a professor. I love school, journalism, and academia (for the most part). If I could learn and teach at the collegiate level I’d be a pretty happy person. I am planning on pursuing my masters while working full time once I graduate (next Spring). Despite this, I read r/Professors and feel this dark cloud. Not to be mean but everyone in the sub comes off as angry and defeated. With that being said, I have a few questions. 
+
+1. Is it worth the schooling?
+
+2. Do you regret pursuing this career path.
+
+3. Are all professors…defeated?
+
+4. Will this be a profitable and stable career path in the next 10-15 years?
+
+5. Would it be okay to pursue my Master’s and PhD online while working full-time?
+
+I thank you for reading and look forward to hearing any responses. I don’t really want to be discouraged but I also would like to know the reality of it from people in the industry.",User_deleted,0
+19aibeq,33,2024-01-19,OpenAI partners with Arizona State University to use ChatGPT in classrooms,u/NuseAI,OpenAI,https://www.reddit.com/r/OpenAI/comments/19aibeq/openai_partners_with_arizona_state_university_to/,"- Arizona State University (ASU) has partnered with OpenAI to bring ChatGPT into its classrooms.
+
+- ASU aims to enhance student success, conduct innovative research, and streamline organizational processes using ChatGPT Enterprise.
+
+- Faculty members with expertise in AI will guide the usage of generative AI on campus.
+
+- The university plans to accept project submissions from faculty and students on how to use ChatGPT.
+
+- ASU already has professors using generative AI in composition and journalism classes.
+
+- The partnership with OpenAI is the first of its kind with an educational institution.
+
+Source: https://www.theverge.com/2024/1/18/24043017/openai-arizona-state-university-asu-chatgpt",active,37
+19avwnx,3,2024-01-19,OpenAI Partners With Arizona State University To Integrate ChatGPT Into Classrooms,u/saffronfan,ArtificialInteligence,https://www.reddit.com/r/ArtificialInteligence/comments/19avwnx/openai_partners_with_arizona_state_university_to/,"The is the first partnership of it's kind. Arizona State University has become the first higher education institution to collaborate with OpenAI, gaining access to ChatGPT Enterprise. ([Source](https://fortune.com/education/articles/openai-launches-first-university-partnership-providing-full-chatgpt-enterprise-access-to-asu/))
+
+If you want the latest AI updates before anyone else, [look here first](https://www.theedge.so/subscribe)
+
+**ChatGPT Coming to Campus**
+
+* ASU gets full access to ChatGPT Enterprise starting February.
+* Plans to use for tutoring, research, coursework and more.
+* Partnership a first for OpenAI in academia.
+
+**Enhancing Learning**
+
+* Aims to develop AI tutor personalized to students.
+* Will support writing in large Freshman Composition course.
+* Exploring AI avatars as ""creative buddies"" for studying.
+
+**Driving Innovation**
+
+* ASU recognized as pioneer in AI exploration.
+* Runs 19 centers dedicated to AI research.
+* OpenAI eager to expand ChatGPT's academic impact.
+
+**PS:** Get the latest AI developments, tools, and use cases by joining one of the [fastest growing AI newsletters.](https://www.theedge.so/subscribe) Join **15000+ professionals getting smarter in AI.**",active,3
+19avwtj,7,2024-01-19,OpenAI Partners With Arizona State University To Integrate ChatGPT Into Classrooms,u/saffronfan,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/19avwtj/openai_partners_with_arizona_state_university_to/,"The is the first partnership of it's kind. Arizona State University has become the first higher education institution to collaborate with OpenAI, gaining access to ChatGPT Enterprise. ([Source](https://fortune.com/education/articles/openai-launches-first-university-partnership-providing-full-chatgpt-enterprise-access-to-asu/))
+
+**ChatGPT Coming to Campus**
+
+* ASU gets full access to ChatGPT Enterprise starting February.
+* Plans to use for tutoring, research, coursework and more.
+* Partnership a first for OpenAI in academia.
+
+**Enhancing Learning**
+
+* Aims to develop AI tutor personalized to students.
+* Will support writing in large Freshman Composition course.
+* Exploring AI avatars as ""creative buddies"" for studying.
+
+**Driving Innovation**
+
+* ASU recognized as pioneer in AI exploration.
+* Runs 19 centers dedicated to AI research.
+* OpenAI eager to expand ChatGPT's academic impact.",active,6
+19cwlsu,1,2024-01-22,Navigating the Tides of SUSS: Lessons and Insights from a Year 4 Accountancy perspective 🌊,u/Nightknighty,Suss,https://www.reddit.com/r/Suss/comments/19cwlsu/navigating_the_tides_of_suss_lessons_and_insights/,"# Hello r/Suss👋🏻
+
+My name is NightKnighty, a current Y4 accountancy undergraduate and a proud Govt Scholar. As I approach my final exam in the Jan 2024 semester, I'm filled with a mix of excitement and nostalgia. Reflecting on my journey that started with over 80+ students in the Full-Time Accountancy (FTACC) cohort, I've witnessed it dwindle to about 50+, as some of my peers drop out, while some transitioned to different programs like MKT, SCM, or ECE.
+
+I stumbled upon this Reddit community by chance, but it quickly became my go-to source for not just information, but also a fair share of entertainment. As the July 2024 intake at SUSS is just around the corner, I find myself eager to share my story with you all. It's been a rollercoaster of late nights discussion calls, last minute submissions and information overload, and I'm here to share my story, hoping it lights your path and eases any worries about embarking on your own journey as a ***Work Study Accountancy Student at SUSS.*** 📚
+
+**Why this post?** With the A-Level results just around the corner, I felt this is the perfect opportunity to share my journey with those who are considering a path similar to mine.  As someone who stepped into the world of accountancy at SUSS straight from Junior College, with no prior knowledge in the field, I intimately understand the feelings of uncertainty and apprehension that come with choosing this path. The decision to dive into a completely new area of study was daunting, yet it turned out to be one of the most enriching experiences of my life. 
+
+Think of this as a friendly guide from someone who has already walked the path you're about to embark on. My hope is that by sharing my experiences, I can provide some insights and guidance to potential accountancy undergraduates who are standing where I once was, 4 years ago.
+
+In the next few paragraphs, I'll take you through why I chose SUSS, the ups and downs of each year, some advice on time management, and study tips that I wish someone had shared with me. Whether you're a fresh A Lvl/Poly student who just received your results or a working adult looking to upskill, I hope my journey gives you a glimpse of what's to come and prepares you for the challenging but somewhat exciting times ahead! 🌟
+
+## Choosing SUSS and the Reality of Accountancy
+
+**Why SUSS? A Big Fish in a Small Pond 🐠**
+
+When I chose SUSS for my accountancy degree, my strategy was clear: be a big fish in a small pond. The allure was obvious - standing out in a less competitive environment as compared to the Big 3. (SIT was out as I did not like their trimester curriculum).
+
+However, the journey unfolded differently than I had imagined. The course content in accountancy was just as demanding as what you'd find in the Big 3 universities as we are all following the same financial reporting standards / tax code set out by ACRA / IRAS. The major difference lay not in the complexity of the material, but in the method of delivery. Unlike the seminar and tutorial approach of the Big 3, SUSS “prides” itself on its flipped classroom style with only 6 lessons per module… Why? Idk. [Unique](https://www.suss.edu.sg/about-suss/why-choose-suss/the-suss-difference)? Indeed.
+
+**The Evolving Landscape of Accountancy**
+
+[The Indicative Grade Profile (IGP) for Accountancy](https://docs.google.com/spreadsheets/d/1MPEDZpw26TjN7dTsQzsbnXHZa47og0qSrdHrlT7nLKc/pubhtml) has been changing 📉 across universities, a trend that reflects shifts in the sector (Updated as of 4th Jan 2024). Even the govt has recognised these changes, setting up a task force to revitalise the accountancy sector and shed its 'boring' tag, as reported by [The Straits Times](https://www.straitstimes.com/business/task-force-set-up-to-persuade-more-to-take-up-accountancy-and-change-boring-tag).
+
+Despite these shifts, the fact remains solid: an accountancy degree is a ticket to job stability. This is evident from the [2022 Graduate Employment Survey](https://www.moe.gov.sg/-/media/files/post-secondary/ges-2022/web-publication-suss-ges-2022.ashx) which shows a 94.6% employment rate for SUSS accountancy graduates. This was another major factor in my decision - *the promise of a stable job post-graduation.*
+
+**The Appeal of the Work-Study Program**
+
+The [Work-Study Program](https://www.suss.edu.sg/about-suss/centres/student-success-centre/career-development-office/work-programmes/work-study-degree-programme) at SUSS caught my attention for its promise of practical experience alongside academic learning. The idea of graduating in 4 years with a year's worth of internship experience seemed like a significant advantage over peers who would only complete a minimum of six months as required by the school.
+
+**Reality Check: The Trade-Offs**
+
+However, the reality of the Work-Study Program was a trade-off I hadn't fully anticipated. To stay on track for a four-year graduation, I had to overload the first three semesters, averaging 30-35 credit units (6-8 modules) with 5-6 exams each semester. The pace and pressure were mentally exhausting, especially as I was also aiming for second-upper honours (2UPP). I realised much later that this program isn't made for everyone; it pushes you to your limits, which also explains why some of my peers decided to drop out.
+
+&#x200B;
+
+## Year 1 at SUSS: Adjusting to New Realities
+
+**A Virtual Start Amidst the Pandemic**
+
+My university journey began in July 2020, amidst the ongoing COVID-19 pandemic where I attended the freshman orientation. I didn’t expect much but having only a 3-hour Zoom session was a stark contrast to the typical university experience that I was anticipating. It also helped adjust (lower) my expectations of SUSS despite being really excited about starting university. This online mode of interaction continued, and it wasn't until January 2021 that I met my course mates in person. This situation often left me pondering whether I was attending an online university or a [Coursera](https://www.coursera.org/) audit track…
+
+**First Impressions**
+
+My first class, ACC213 (Income Tax), was a night class conducted online. Let’s just say the prof gave me the best and worst impression of what university life at SUSS is all about (Iykyk).
+
+For accountancy courses (ACC), I was stunned by the 15% class participation component. Initially, I thought this would be an easy component to score in, but soon learned that active participation (via zoom🙄) was crucial to secure good grades. This realisation pushed me to overcome my shyness and become more vocal in class discussions (aka becoming a Class Part Slut).
+
+**Assignments and Group Dynamics**
+
+For my first night class, finding part-time (PT) senior group mates was a blessing. They were patient and inclusive, helping me navigate through seemingly 'silly' questions like “how to cite web articles in assignments.” They also shared with me some useful tips such as the existence of the “PCQ Quiz Bank,” websites like StuDocu / Course hero and many more helpful tips.
+
+Other non-Acc mods such as SCOs (now renamed NCO) were particularly challenging, and I quickly realised they were not the GPA boosters I had hoped for. Despite our grp’s best efforts, many of us struggled to achieve grades above a B (3.5), a stark contrast to the relative ease with which we handled our core modules. Interestingly, this shared struggle led to what I'd describe as 'trauma bonding' among classmates. The friendships forged during these challenging SCOs turned out to be some of the deepest and most meaningful throughout my journey in SUSS. So, I urge you to choose your NCO group mates wisely, as they may end up being some of the best friends you will ever make.
+
+A unique aspect of SUSS's curriculum is its approach to group formation. PT students don't get the choice to pick their group mates prior to the (night) lessons, leading to a lack of continuity in group chats post-semester. This system, while promoting diversity, sometimes feel impersonal and transient. One advice I can suggest is that I usually do a simple LinkedIn search on my course mates before deciding whether to group with them.
+
+For FT, we are allowed to pick our Tutorial Group (TG) beforehand, which is an advantage IMO as it can lead to a more supportive learning environment and a more consistent group dynamic throughout your SUSS journey.
+
+**Exam Challenges and Personal Growth**
+
+My first two semesters were academically intense, with 5 and then 6 exams, respectively. The lack of study groups and external help, coupled with SUSS's policy of not releasing PYP answers, made it a starkly different experience from my JC days. Despite these hurdles, I managed to survive somehow, which was a small win in my books back in Y1.
+
+**Reflections: Stress & Time Management**
+
+The end of my second semester was a turning point where I learned the importance of stress management and effective time planning. Tools like Google Calendar / MS To-Do / MS Planner became my allies in managing assignments and deadlines. I also realised the importance of breaks to avoid burnout, indulging in computer games or reading manga post-exam periods.
+
+However, these achievements came with sacrifices. My social life took a backseat as I focused exclusively on academics and did not sign up for any CCAs nor made an effort to socialise with my peers outside class. I avoided distractions ruthlessly, going as far as to uninstall social apps (i.e insta/fb) and games. This disciplined approach was challenging but crucial for my success.
+
+**Stepping into Internships and Being the Senior I Wished I Had**
+
+As part of the Work-Study Program, I began looking for internships in my second semester. Despite a decently high GPA (>4), the lack of prior work and CCA experience made the process daunting. I was rejected from MNCs (i.e VISA), Public Sectors like AGD/GIC and local banks (i.e DBS, OCBC). Eventually, I secured an internship with one of the Big 4 audit firms, which to me at that time, was a pivotal moment in my SUSS journey.
+
+Reflecting on the absence of guidance in my early days, I decided to become the senior I wished I had. Thus, I signed up to be an OGL for the 2021/2022 July intake, determined to provide the support and mentorship I initially lacked.
+
+&#x200B;
+
+## Year 2 at SUSS:  Broadening my Horizons
+
+**Adjusting to Higher-Level Courses**
+
+Year 2 started with a significant academic milestone - my first level 3 accountancy module paired with a daunting 3-hour examination. By this time, I had established a study routine that proved successful in my first year, so I stuck with it, believing in its effectiveness.
+
+**The Importance of Networking**
+
+An enlightening aspect of this year was the opportunity to network during the July 2021 orientation as an OGL. I interacted with both seniors and juniors, realising the importance of keeping abreast with trends and insights from both groups. Networking with seniors gave me a glimpse into the future of the field, while juniors offered fresh perspectives and upcoming trends in the job market.
+
+**A Comparison of Non-accountancy modules (i.e Finance/Biz/Anl) and Accountancy Modules**
+
+A revelation I had during Year 2 was the contrast between finance/biz/anl and accountancy courses. From my experience, finance/biz/anl modules were more straightforward than accountancy ones. Despite the effort put into studying for accountancy modules, the outcomes often felt uncertain. In contrast, finance/biz/anl modules were more predictable, with abundant resources available online like YouTube and Investopedia. So, for students who are planning to take an accountancy minor, ⛔**PLEASE RECONSIDER AGAIN ⛔**. Finance or Analytics are relatively much easier.
+
+**Cost-Effective Night Classes**
+
+An interesting discovery that I found out in Y2 was the cost difference between day and night classes. Night classes were approximately $300 cheaper for the same module, a significant saving for FT students looking to cut costs. If you are comfortable not being able to choose your grp mates prior to class as mentioned above, you can request night classes by contacting student support and stating you are ""working"" during the day. How ik it is possible to do this? I have seen invoices showing only night classes despite the student being enrolled as FT.
+
+**Leveraging SharePoint for Collaborative Work**
+
+A tool I found incredibly useful and wish I had discovered in Year 1 is SharePoint. It's an alternative to Google Drive, offering co-authoring on all files while also utilising the features of the Desktop applications on Word, PowerPoint, and Excel. This discovery enhancing my productivity and revolutionised how I approached future group assignments.
+
+**Overseas Experience Requirement**
+
+Y2 was when I did my Overseas Experience (OE) requirement, where I chose a pragmatic route. I participated in a Zoom OE session, which was a quick and cost-effective way to fulfil this requirement. While it wasn't the most exciting option, it was cost-efficient as it saved a significant amount of money compared to traveling abroad (i.e it cost only **$150**).
+
+**Setting the Stage for Internship Experiences**
+
+Although I undertook my first internship in the second semester of Year 2, I'll delve into that experience in Year 3, to provide a more coherent narrative of my internship journey. This is also because normal FTACC students would only start their work attachment in Year 3 as well.
+
+&#x200B;
+
+## Year 3 at SUSS: Navigating Internships and Gaining Real-World Insights
+
+**Internship Experience at Big 4**💼
+
+Year 2/3 marked a significant phase in my journey with two split internships at the same Big 4 audit firm from November to May each year 2022/2023. Despite a hiccup regarding my FT offer – a story for another time – the internships were both meaningful and memorable.
+
+During my internship, despite the demanding and fast-paced environment of the audit team, I was pleasantly surprised by their welcoming and supportive nature. It quickly became evident that they appreciated the extra help, especially when the peak period in January-March started. Their openness made it easier for me to integrate into the team and contribute effectively. This experience not only gave me a practical understanding of audit work but also highlighted the importance of a supportive work culture in a high-pressure work environment.
+
+**Valuable Lessons and Takeaways**
+
+My second stint at the firm allowed me to explore different roles that aren't typically assigned to interns. The trust and responsibility given to me were both gratifying and challenging, and I gave my 120%, despite the disappointment of not being offered the experienced associate position (i.e KPMG: G1, EY: A2, Deloitte: A2).
+
+From these experiences, I learned several key lessons:
+
+* **Expect to Work Overtime:** Especially during peak periods, be prepared for regular overtime.
+* **Be Available and Communicate:** Ensure you're reachable even outside working hours and maintain clear communication with your team, particularly as deadlines approach.
+* **Observe and Learn:** An internship differs significantly from a full-time job. Watch and learn from seniors and associates, as their roles will soon be yours if you decide to join.
+* **Understand the Work Culture:** The culture in big firms like the Big 4 are very team-oriented. This means that your experiences can vary greatly depending on which team and clients you are assigned to. Hence, one person’s bad experience in a particular Big4 does not mean that the entire firm is toxic. It all comes down to whether you are lucky or not.
+* **Networking Opportunities:** Make it an effort to attend networking events hosted by the firms. They're invaluable for making connections, even with top-level executives (Partner/Senior Managers).
+* **High Turnover Rate:** High turnover is common not just in the Big 4 but across the industry. Therefore, it's not necessarily a red flag but rather a characteristic of the industry.
+* **Big 4 vs Mid-Tier:** IMO, the Big 4 is universally + highly recognised and offers better exit opportunities. The notion that mid-tier firms are 'easier' or 'more relaxed' is a misconception as your experience would be valued less than your peers in the big 4 if you subsequently leave the audit field. My advice is to aim for the Big 4 as it will definitely provide a more comprehensive learning experience and better career prospects. After accumulating a few years of audit experience under your belt, you can decide whether audit is for you or it is time for you to explore other opportunities.
+
+**A Memorable Encounter with SUSS Seniors** 🍻
+
+A heartwarming highlight was meeting SUSS seniors who have already started FT employment during my second internship. It was a moment of reflection and camaraderie, discussing the questionable changes in SUSS's new 12w curriculum and sharing our experiences with the same nasty clients. This encounter underscored the value of the SUSS network and the shared journey that all accountancy students will embark on.
+
+**Embarking on the Scholarship Journey**
+
+During my second internship, from February to March 2023, I also started applying for scholarships. With nothing to lose, I applied to various programs including the SUSS , SgIS , IRAS Scholarship, and others listed on [Scholars Choice](https://www.scholarschoice.com.sg/providers/).
+
+**A Surprising Outcome** 🎊
+
+Interestingly, while I was rejected for the SUSS scholarship, I was offered 2 govt scholarship, which led me to ponder the prestige of these awards. It's curious to think if a university scholarship from SUSS is considered more prestigious than one from the govt sector…I'll leave that to your interpretation🤡. Dream, Dare, Do! 😶‍🌫️
+
+**Choosing the Right Scholarship**
+
+A crucial piece of advice for potential scholars: typically, you cannot hold dual scholarships. So, if you find yourself in the fortunate position of having multiple offers, choose which sponsoring organisation do you prefer working with in the future.
+
+**Overcoming Imposter Syndrome** 😔
+
+Receiving the scholarship initially triggered a bout of imposter syndrome in me. I felt as if I didn’t quite deserve this level of achievement. Yet, this milestone proved to be a pivotal moment of self-awareness. It dawned on me that the self-doubt I was experiencing was a byproduct of the low expectations I had unconsciously internalised from my environment at SUSS. Over time, I realised that my achievement was not a stroke of luck but proof of my determination and hard work. This revelation was empowering – it reminded me not to downplay my accomplishments, regardless of the context or setting. SUSS was a crucial part of my journey, but it was my own efforts that defined my success. This realisation helped me see beyond the immediate horizon, recognising that there are broader opportunities and challenges out there, especially when considering the larger landscape encompassing the Big 3 universities.
+
+&#x200B;
+
+## Year 4 at SUSS: Reflecting and Preparing for the Future
+
+**Cruising Through Final Year** 🚢
+
+As a Year 4 student, I find myself in a comfortable position academically due to the strong foundation set in my earlier years. My solid GPA from the first two years has put me in a place where even with C+ grades in my remaining modules, I would still graduate with 2UPP. While FCH may be out of reach, I am content with graduating with a 2UPP.
+
+**Focus on the Future** 🔮
+
+Currently, my focus has shifted from immediate academic achievements to what lies ahead in my career. One of the advantages of being a govt scholarship recipient is the robust support network it offers. I have a dedicated scholarship officer guiding me through my scholarship journey until graduation, which has given me a sense of security about my future.
+
+**Growth and Learning** 🏫
+
+Looking back, I started at SUSS as an accountancy novice, with a blank resume and little relevant work experience. Now, as I near the end of my journey, I have a well-rounded portfolio with multiple Co-curricular activities and experiences, many of which were external as I felt that the SUSS board were not helpful in facilitating student growth among the accountancy cohort.
+
+My advice to my fellow juniors is this: Opportunities will always arise, but it's crucial to pick your battles wisely. Don't feel compelled to seize every opportunity that SUSS promotes. Instead, use SUSS as a stepping stone; explore further beyond, and never look back. This approach has served me well, leading to a rich, fulfilling university experience far beyond the confines of the classroom.
+
+**No Final Year Project (FYP) for Accountancy**
+
+In the Accountancy program, there currently isn't a Final Year Project (FYP). However, students aiming for FCH must still achieve at least an A- grade in BUS 490, the capstone module that all Y4 business students have to enrol in. Nonetheless, you shouldn't worry about this as a Y1-3 student as you have enough problems to deal with in your current semester.
+
+&#x200B;
+
+## Time Management Strategies and Essential Resources
+
+**Effective Study Sessions** 🏫
+
+One of my key strategies for managing time effectively was to dedicate specific blocks of time during the day for studying, usually up to a maximum of four hours per session. During these periods, I ensured there were no distractions – no phone, no notifications – just me and my study materials. This intense focus was particularly crucial for preparing for classes where there was a significant 15% class participation component.
+
+For non-accountancy modules, such intensive and lengthy study sessions may not be necessary. It's about finding the right balance and approach for each subject.
+
+**Study Environment** 🌲
+
+I was fortunate to have a conducive study environment at home. However, for those who might not have this luxury, the [new SUSS library](https://suss.libcal.com/reserve) and other common study areas like the SIM library and enclosed rooms at Block B are good alternatives (Require advance booking).
+
+**Importance of Self-Care** 💅🏻
+
+Self-care is an integral part of my routine, especially post-examinations. I allow myself to relax fully because I know I've given my 100% during exams. This contrasts with peers who often find themselves stressed due to last-minute studying. Remember, self-care is more rewarding when you know you've put in your best and can now relax in peace.
+
+**Must-Read Resources for Accountancy** 📚
+
+For accountancy students, engaging with the right resources is crucial. **The e-textbooks** (not Study Guides) and **FRS standards** / IRAS website **are** **essential reads**. Beyond these, I've found the following resources extremely helpful in understanding various topics:
+
+1. [Open Tuition for Management Accounting](https://opentuition.com/acca/ma/)
+2. [Accounting      GPT](https://chat.openai.com/g/g-7RJghLmOO-accounting-gpt) (ChatGPT Premium required)
+3. [Edspira on YouTube](https://www.youtube.com/@Edspira)
+4. [Accounting Stuff on YouTube](https://www.youtube.com/@AccountingStuff)
+5. [Open Tuition on YouTube](https://www.youtube.com/@opentuition)
+6. [CPDbox on YouTube](https://www.youtube.com/@CPDbox)
+7. [ACC Google Drive Resources](https://drive.google.com/drive/folders/1RyGYZL2bByH_OtD3geV2uiB9G2jeSolx?usp=drive_link) (These are notes made from an ACC senior, **NOT** by SUSS)
+
+&#x200B;
+
+## Key Takeaways and Advice for SUSS Students
+
+**Major Lessons Learned**💫
+
+1. **Focus on the Present:** In my time at SUSS, I've observed a common tendency among some of my juniors, often driven by a 'kiasu' mindset, to anxiously look ahead towards internships, future modules, and even the Final Year Project BUS490. This happens even before they have completed their current semester's courses. While it's great to be forward-thinking, this approach can sometimes lead to unnecessary stress and distraction. My advice to these juniors is simple: focus on your present tasks and challenges. The future will unfold in due time, and it's important not to burden yourself with it prematurely. Direct your energy towards excelling in your current coursework and exams. By doing so, you'll be setting a solid foundation for the future challenges and opportunities. Once your immediate responsibilities are handled, you'll be in a much better position to think about and plan for what lies ahead. Remember, a step-by-step approach is often the most effective way to handle the rigorous academic journey at the university level.
+2. **Resilience in the Face of Challenges:** My journey at SUSS taught me the importance of resilience. Whether it was adapting to a demanding study schedule, navigating internship hurdles, or dealing with unexpected curriculum changes, the ability to bounce back and stay focused was key.
+3. **Balancing Academics and Personal Life:** Finding a balance between studies, internships, and personal time is crucial. It's not just about academic success but also about maintaining a calm and stress-free state of mind.
+
+**Advice for Incoming SUSS Students**📌
+
+1. **Be Proactive:** Don't wait for opportunities to come to you but instead consider taking matters into your own hands. Be proactive in seeking out internships, joining clubs, or starting study groups instead of relying on SUSS job portal.
+2. **Network, Network, Network:** Building a strong network can be as valuable as your academic achievements. Connect with peers, seniors, and professionals in fields that you are interested in pursuing. This is important as most biz mods have Group-Based Assignments as well. By connecting with like-minded individuals, you can form study groups or assignment teams with friends or trusted acquaintances. This strategy is often more beneficial than constantly teaming up with new people each semester as i have mentioned earlier above.
+
+**A Reflection on my University Experience**🎓
+
+This phase of my journey has taught me that while SUSS may not be the top university in Singapore, the quality of one's university experience depends largely on personal mindset and effort. It's easy to blame the university for any setbacks, but I came to understand that the responsibility for change lay with me as well. Complaining is easy, but taking actionable steps towards achieving your goals is what truly makes a difference. It's crucial to remember that our educational journey and achievements are as much about our own attitudes and actions as they are about the institutions we attend.
+
+**Encouragement for the Journey Ahead**🚀
+
+Embarking on your university journey at SUSS is an exciting, albeit challenging, adventure. Remember, every obstacle is an opportunity to learn and grow. Stay curious, be open to new experiences, and don't be afraid to step out of your comfort zone. Your time at SUSS is not just about earning a degree; it's about shaping your future and who you want to become. Embrace it with enthusiasm and determination, and you'll find that the rewards extend far beyond your time at university.
+
+&#x200B;
+
+**To all my fellow SUSS peers and soon-to-be alumni, I wish you the best in your remaining time at SUSS 🫡. Here's to all our futures – may they be as bright and promising as the efforts we put into forging them.**",User_deleted,1
+19cyn6e,4,2024-01-22,Can AI be lifelong learning pals?,u/HugeExchange6177,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/19cyn6e/can_ai_be_lifelong_learning_pals/," With all the cool stuff A.I. knows, you'd think it could rock as a ""Super Teacher,"" right? But surprisingly, no one's really diving into an A.I. education system. Picture this – lower tuition fees, students with their own AI tutors like ChatGPT, [Grammarly](https://www.grammarly.com/), and[Asksia](https://www.asksia.ai/). And hey, how about having an A.I. buddy sticking with you from school days to forever? That's some lifelong friendship and learning combo!",User_deleted,4
+19emkxl,1,2024-01-24,"""ChatGPT Revolution: Transforming Virtual Learning in Education and Corporate Training""",u/cporter202,ChatGPTautomation,https://www.reddit.com/r/ChatGPTautomation/comments/19emkxl/chatgpt_revolution_transforming_virtual_learning/,"In the ever-evolving landscape of education and corporate training, the rise of AI-based technologies like ChatGPT is proving to be a game-changer. With a unique capacity to facilitate interactive and personalized learning experiences, ChatGPT and other AI language models are transforming how we approach knowledge transmission in both academic and professional settings.
+
+Virtual learning, a domain that has expanded significantly in recent years—partially propelled by global shifts toward remote interaction—now stands at the cusp of a new era, courtesy of the ChatGPT revolution. In classrooms, interactive AI can supplement teachers by providing instant feedback, answering student inquiries, and offering tailored support, ensuring that each learner's needs are met more accurately and promptly.
+
+Meanwhile, in corporate settings, ChatGPT enables scalable and cost-effective training solutions. Employees across various sectors can interact with the AI to gain essential insights into industry-specific practices, regulatory standards, or even soft skills development. This form of training is not only convenient but also consistent, ensuring standardized knowledge dissemination across the board.
+
+Furthermore, integrating ChatGPT into learning and training platforms promotes a continuous learning culture. In an age where information updates rapidly, staying abreast of the latest advancements is crucial. AI-driven platforms can instantaneously update content, ensuring learners have access to the most current and relevant information.
+
+The ChatGPT revolution ushers in a time where the barriers to effective education and training are being dismantled. This move towards more engaging, personalized, and efficient virtual learning environments holds the promise of democratizing education and empowering a more skilled workforce. As we navigate this watershed moment, it's vital to discuss the implications, best practices, and potential challenges that may arise. Let's delve into how ChatGPT can be further optimized to reshape the future of virtual learning for individuals and organizations alike.",active,1
+19feq1g,2,2024-01-25,ChatGPT plus for a student?,u/mannerlybassoon,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/19feq1g/chatgpt_plus_for_a_student/,Is it worth getting ChatGPT plus as a student? I would use it to explain specific problems I’m facing with words and images and I feel like that would really help me in school. I also do a lot of self learning so it would definitely be useful there. Worth it or no?,active,2
+19fgfxi,1497,2024-01-25,There's never been a better time to be a GOOD student,u/Waltgrace83,Teachers,https://www.reddit.com/r/Teachers/comments/19fgfxi/theres_never_been_a_better_time_to_be_a_good/,"We always talk about bad students. However, I am constantly *amazed* at the *really good* students who try and are intellectual curious. I teach Computer Science for context.
+
+* ""How the hell did you implement that feature? That's awesome!"" ""I watched a series of YouTube videos."" 
+* ""Where did you learn how to do *that*?"" ""My cousin in \[insert place far away\] zoomed about it last night and he helped me.""
+* ""You were really struggling with the Master Theorem of algorithmic analysis yesterday. What changed?"" ""I had ChatGPT give me examples and I kept on doing examples.""
+
+One of my kids is taking a class at MIT via Youtube! Wow. 
+
+Could you imagine if all students *took advantage of their resources*. It would be incredible. ",User_deleted,1580
+1abn9p6,4,2024-01-26,AI Research Program - Scholarships Available,u/kevin-algoverse,summerprogramresults,https://www.reddit.com/r/summerprogramresults/comments/1abn9p6/ai_research_program_scholarships_available/,"Hey r/summerprogramresults,
+
+I’m Kevin, a former Berkeley EECS instructor and director of Algoverse. I’m pleased to introduce the Algoverse AI Research Program.
+
+The Algoverse AI Research Program is an innovative and unique opportunity for talented high school students and college underclassmen to engage in authentic AI research. The research focus for the Spring 2024 cohort is Large Language Models, such as GPT-4.
+
+Within the program, participants will work closely with accomplished graduate student researchers, developing techniques to push the limit of language models on industry standard benchmarks.
+
+Upon completion of the program, students will document their results in a research paper publication to be submitted to top AI conferences such as EMNLP ‘24, and posted on arXiv, a prominent platform for AI research. To see past papers, please see our website.
+
+We believe in accessibility and offer both financial aid and a select number of merit-based scholarships.
+
+We have been accepting applications on a rolling basis, so it is in your best interest to apply soon! Our admissions team consistently reviews applications, so decisions are generally released within a week of submitting your application. The application takes 5-10 minutes and there are no long essays. Learn more about our program on our [website](https://www.algoversecodingacademy.com/ai-research) and apply [here](https://algoverse.paperform.co/). Welcome to Algoverse :)",active,5
+1ae0wky,1,2024-01-29,Boosting Business Productivity: ChatGPT's Impact Across Key Industry Sectors,u/cporter202,ChatGPTautomation,https://www.reddit.com/r/ChatGPTautomation/comments/1ae0wky/boosting_business_productivity_chatgpts_impact/,"As businesses continually seek ways to optimize operations and increase efficiency, the advent of language models like ChatGPT presents a new frontier in productivity enhancement. ChatGPT’s applications across key industry sectors are showing promising results, revolutionizing how tasks are managed and performed.
+
+In the customer service realm, ChatGPT has powered up chatbots to handle a wide range of customer inquiries instantly. This not only improves customer satisfaction but also frees up human agents for complex issue resolution, thereby optimizing the overall service experience.
+
+The manufacturing industry benefits similarly by integrating ChatGPT in their systems for predictive maintenance. By communicating with the IoT devices, the AI can analyze equipment data, predict potential breakdowns, and reduce downtimes.
+
+In healthcare, ChatGPT's impact is profoundly changing patient interaction and administration. Doctor-patient communication is enhanced through AI-driven systems that can provide medical information, set up appointments, and even offer preliminary diagnostics, leading to better-preparedness and more personalized care.
+
+The education sector is also experiencing a transformation. ChatGPT assists in creating personalized learning experiences by responding to student inquiries, providing explanations, and even helping with grading, allowing educators more time to focus on teaching rather than administrative tasks.
+
+The finance sector has seen improvements in algorithmic trading and personalized customer assistance. ChatGPT can analyze large datasets, predict market trends, and automate responses for customer queries on investments and account information.
+
+The retail industry leverages ChatGPT for personalized shopping experiences. AI chatbots can now handle customer questions, provide recommendations, and support through the purchasing process, which enhances the customer journey and can lead to increased sales conversions.
+
+Overall, ChatGPT offers a multimedia approach to streamlining workflows, reducing operational costs, and providing insightful analytics, which, in turn, drive informed decision-making across all levels of business. Although we're at the cusp of ChatGPT's potential, its current impact is an exciting glimpse into an AI-driven future for business productivity. Have you realized its impact in your industry, yet?",active,1
+1afncdc,1,2024-01-31,"""ChatGPT Revolutionizing Learning: Impact on Corporate Training and Education""",u/cporter202,ChatGPTautomation,https://www.reddit.com/r/ChatGPTautomation/comments/1afncdc/chatgpt_revolutionizing_learning_impact_on/,"The rise of conversational AI, particularly through innovations like ChatGPT, is reshaping how we approach learning across various domains. In corporate training, the integration of AI-driven tools like ChatGPT is proving to be a game-changer by offering personalized, interactive, and on-demand learning experiences. This technology is not confined to the monotony of predefined modules but adapts content based on individual performance, preferences, and learning speed. 
+
+For both trainers and trainees, this presents a multitude of advantages. Trainers can leverage ChatGPT to create dynamic training programs that respond to the needs of each employee, scaling their efforts effectively. Employees, in turn, enjoy a more engaging learning environment that's available around the clock, allowing them to upskill at their own pace without the constraints of traditional classroom settings.
+
+Furthermore, ChatGPT’s ability to simulate complex human interactions facilitates role-play scenarios and practice sessions in a risk-free environment. This is particularly useful for soft skills training such as communication, negotiation, and customer service, which are often harder to teach through conventional methods.
+
+But what does this mean for education at large? Schools and universities can harness the power of AI to supplement the learning process, supporting teachers by taking on the role of a personalized tutor for students, providing immediate feedback, and freeing up valuable time for educators to focus on more nuanced aspects of teaching.
+
+While ChatGPT ushers in a new era of efficiency and personalized learning, we also must consider the implications this technological shift has on the educator's role and the potential for displacing traditional learning mediums. Balancing the benefits of AI with the timeless elements of human instruction will be crucial to maximize the potential of this cutting-edge technology in corporate training and education. How do you think ChatGPT will continue to transform these fields in the coming years? Share your thoughts and experiences with integrating AI like ChatGPT into learning and development initiatives.",active,1

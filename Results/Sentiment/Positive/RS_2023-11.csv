@@ -1,0 +1,267 @@
+17od3qe,1106,2023-11-05,Guide to the mythical viral coefficient. Modern examples + how it grew my business to $450k ARR.,u/Toxic-Headshott,Entrepreneur,https://www.reddit.com/r/Entrepreneur/comments/17od3qe/guide_to_the_mythical_viral_coefficient_modern/,"**Note**: Been lurking on this sub and reddit in general for quite some time but I felt like this would be a valuable post for both people in the ideation and product stage. I wish someone told me these things when I started out. With that being said, some of this content might be a refresher for some of you, but hopefully I can shine light on some use cases that are still helpful. Also this is not to say I’m some big shot making $450k ARR, but I think there are lessons here. This post is for anyone who is in B2B or B2C that has an online presence. The focus is on software because that’s what I know, but this could be done with services or other verticals as well.  
+  
+The viral coefficient is a concept I’ve been interested in ever since I read the infamous Viral Loop book by Adam Penenberg back in 2009. A viral coefficient is just how many new customers an existing customer brings in on average. If you have a sustained viral coefficient of 2, then each customer brings 2 new customers and you spread organically. It’s how Facebook, PayPal, Email services, ChatGPT, etc. all grew. It would be wrong to limit this in scope to just B2C products. It can happen with B2B where you ask clients for referrals and word begins to spread about your product. There’s also more subtle ways of doing it just like how typeform did. If you’re doing anything in the digital space this is crucial to think about.   
+To put it more succinctly: make something others love so much they tell their friends. Let’s walk through some examples and then explore specific takeaways.   
+  
+**Past Examples of Viral loops:**
+
+  
+**PayPal:** Paypal had a particularly interesting viral strategy. It started off as just sending money over the Internet to another person with a focus on the Ebay niche. If a new person signed up, they would get $5. Of course this incentive was unsustainable as they would have burned all their VC money, but it helped initiate the process. 
+
+  
+**Facebook:** Perhaps the most notorious example of a viral coefficient. Like PayPal, they started in a niche, which we all know was Harvard. It naturally played on people’s curiosity. If someone was posting about you or someone you knew, you wanted to sign up and see what was going on. Eventually they started opening access up to other universities before finally giving access to everyone. At that point, it completely blew up. 
+
+  
+**HotMail:** Hotmail utilized a pretty effective viral marketing strategy by including a tagline at the end of every email sent by its users that read ""Get your free email at Hotmail."" This basically turned every email sent into a potential Hotmail sign-up. By leveraging the network effects where users were communicating with non-users, Hotmail rapidly increased its user base. It started to spread like wildfire because each user inadvertently advertised Hotmail every time they sent an email. This signature line was so influential that despite the negligible cost of including it, it propelled Hotmail to amass millions of users within an extremely short period after its launch.  
+  
+**Uber:** This is the platform that I took the most inspiration from. Their viral growth strategy is probably most applicable to people here because it was multifaceted: word-of-mouth, referral incentives, strategic marketing campaigns, etc.. In its early days, Uber incentivized both its drivers and riders to share their referral codes with others by offering ride credit or a bonus payout. For riders, there was the appeal of a free or discounted ride for signing up through a friend's referral link was a strong incentive to try the service. And for drivers, the promise of extra earnings for referring new drivers played a big role in expanding the workforce quickly. Additionally, Uber capitalized on the exclusivity and luxury of its initial ""black car"" service to create hype in the markets it entered. The strategy was to create a prestigious image and then open the platform to a wider audience with more economical options like UberX, allowing it to scale up rapidly.  
+
+
+  
+**A viral loop in the making - a 2023 example**
+
+  
+**Example:** If this hasn’t started already, then most of the emails you receive are about to have another email CCd: m@mindy.com. This is an AI agent that was built by a cofounder of Paypal / first employee of YouTube, the third employee of YouTube, and an MD from Accenture. For the sake of not revealing too much and focusing on the product, just email it and see what it can do if you’re curious and you’ll see why I’m saying this. They’ve set up a system where onboarding another user is as simple as CCing the AI into the email and it will start interacting and performing autonomous tasks for you.   
+  
+**The takeaway:** If this works out, then it will spread faster than anyone can possibly imagine and may be the defining viral loop of the next year and possibly years to come. The reason? It’s easy to sign up and there’s a direct incentive to CC the AI to someone you’re emailing. It can go and help you solve problems you’re working on. Whether that’s parsing through a 60+ page document, researching an esoteric scientific tolic, or scheduling meetings for teachers and students. This is what’s important to remember: make it as easy as possible for customers to get you customers and when designing your product keep this principle in mind. If connecting someone to the existing product makes it better for you then you’ll have something that can blow up. The tricky part is creating something that has virality already built in, so for those of you not in the ideation phase, I feel you because that’s me.  
+  
+**My own company - a contrived but functioning viral coefficient**
+
+  
+**Example:** Not every product can have a viral coefficient like Mindy, that’s partially because they built it with that in mind. If you’re like me and already have a product, there are still things you can do in order to incentivize folks to use your product.   
+For context in my own company (which I will not link to here for the sake of following the subreddit’s rules - if you want proof feel free to DM me), I bootstrapped one of those AI photo generators that was really popular in 2022 / part of 2023. I used stabilitiy’s stable diffusion image model + google’s dream booth to generate photorealistic and artistic images of user’s faces to show their friends. It never blew up in the same way Lensa/Remini did, but what I did was lock utility behind closed doors. More specifically, I locked certain photos users could generate behind closed doors. If they wanted to generate those particular types of photos, they’d have to do a social media post about the product and their results. This meant all their friends saw an image of themselves generated. Since their friends are the ones who know how they look, they were naturally interested to see how they themselves looked. Whenever someone with a big following would post this out, I would see a surge in traffic to the site.  
+  
+**My Takeaway**: While I didn’t have a viral coefficient of 1.0 and have since had lower growth numbers (partially due to comodization/market saturation), I found a way to get my product to market itself. Other than a few influencer ad campaigns, most of my growth was organic inbound. You can create incentives by giving users access to more features through a referral program. Of course, my example is specific to my company but I think there’s a lot of ways this can be done for many different companies. Including B2B. I ran a SaaS in the past (was acquired) and offered a really large client access to early features to give them a competitive edge in return for 10 warm introductions to other clients. If any of you want help brainstorming on your product, I’m happy to help in the comments. To build a viral product: start in a niche, make something people love so much they tell their friends, make the onboarding process simple (e.g. free to use), and most importantly create a product that incentivizes other folks to use it. If you didn’t build your product with a viral coefficient in mind, then creating a false sense of scarcity by locking certain product features behind a referral program or in the B2B case (asking for referrals to other clients) won’t get you to a VC of 1.0 but it will still help you get organic inbound. I’m hoping to take my learnings here and make my next product have a viral coefficient above 1.0. ",User_deleted,1109
+17oh0ah,4,2023-11-05,AI Weekly Rundown (October 28 to November 04),u/RohitAkki,ArtificialInteligence,https://www.reddit.com/r/ArtificialInteligence/comments/17oh0ah/ai_weekly_rundown_october_28_to_november_04/,"Major AI announcements from Hugging Face, OpenAI, Microsoft, Apple, Google, and more.  
+
+
+* **Hugging Face has released Zephyr-7b-beta, an open-access GPT 3.5 alternative**  
+\- The latest version if Zephyr by the H4 team is topping all 7b models on chat evals and even 10x larger models. It can answer like ChatGPT, run on your desktop without the need to quantize, and outperform Llama2 70B.  
+\-Based on Mistral 7b, Zephyr-7B is a smaller language model that uses supervised distillation techniques and direct distilled preference optimization to improve intent alignment and achieve top-tier performance in chat benchmarks.
+* **A model by Twelve Labs understands video**  
+\- It is announcing its latest video-language foundation model Pegasus-1 along with a new suite of Video-to-Text APIs. Contrary to existing solutions that either utilizes speech-to-text conversions or rely solely on visual frame data, Pegasus-1 integrates visual, audio, and speech information to generate more holistic text from videos.
+* **ChatGPT Plus members can upload and analyze files in the latest beta**  
+\- Once a file is fed to ChatGPT, it takes a few moments to digest and then do things like summarize data, answer questions, or generate data visualizations based on prompts. It can chat with pdfs, data files, and other document types. Check out the other updates in the newsletter.
+* **Microsoft Azure AI’s new system advances video understanding with GPT-4V**  
+\- A paper by Microsoft Azure AI introduces a system “MM-VID” ,that combines GPT-4V with specialized tools in vision, audio, and speech to enhance video understanding. It addresses challenges in analyzing long-form videos and complex tasks like understanding storylines spanning multiple episodes.   
+\- It uses GPT-4V to transcribe multimodal elements into a detailed textual script, enabling advanced capabilities like audio description and character identification. 
+* **President Joe Biden signed an executive order for AI safety**  
+\- President Joe Biden has signed an executive order directing government agencies to develop safety guidelines for AI. The order aims to create new standards for AI safety and security, protect privacy, advance equity and civil rights, support workers, promote innovation, and ensure responsible government use of the technology.   
+\- It calls for the sharing of safety test results by developers of large AI models and urges Congress to pass data privacy regulations.
+* **Microsoft’s new AI teaching tool in collab with teachers**  
+\- Microsoft Research has collaborated with teachers in India to develop an AI tool called Shiksha copilot, which aims to enhance teachers' abilities and empower students to learn more effectively. The tool uses generative AI to help teachers quickly create personalized learning experiences, design assignments, and create hands-on activities.   
+\- It also helps curate resources and provides a digital assistant centered around teachers' specific needs. The tool incorporates multimodal capabilities and supports multiple languages for a more inclusive educational experience.
+* **Quora’s Poe have launched monetization for creators**  
+\- Poe will now pay bot creators for their efforts, making it one of the first platforms to monetarily reward AI bot builders. Bot creators can generate income by leading users to subscribe to Poe or by setting a per-message fee. The program is currently only available to U.S. users. Quora hopes this program will enable smaller companies and AI research groups to create bots and reach the public. 
+* **ElevenLabs rolls out Enterprise AI Speech Solutions**  
+\- It offers businesses advanced speech solutions with high-quality audio output and enterprise-grade security. The platform can automate audiobook creation, power interactive voice agents, streamline video production, and enable dynamic in-game voice generation. It offers exclusive access to high-quality audio, fast rendering speeds, priority support, and first looks at new features.   
+\- ElevenLabs' technology is already being used by 33% of the S&P 500 companies. The company's enterprise-grade security features, including end-to-end encryption and full privacy mode, ensure content confidentiality.
+* **Dell Technologies has partnered with Meta to bring the Llama 2 for its enterprises**  
+\- Dell will add support for Llama 2 models to its Dell Validated Design for Generative AI hardware and generative AI solutions for on-premises deployments. Dell will also guide its enterprise customers on deploying Llama 2 and help them build applications using the open-source technology.   
+\- Dell is using Llama 2 for its own internal purposes, including supporting Retrieval Augmented Generation (RAG) for its knowledge base.
+* **Apple continues to enhance its products with AI**  
+1) Apple unveiled M3, M3 Pro, and M3 Max, the most advanced chips for a personal computer. They have an enhanced Neural Engine to accelerate powerful ML models. The Neural Engine is up to 60% faster than in the M1 family of chips, making AI/ML workflows even faster while keeping data on device to preserve privacy.   
+2) A new AI health coach is in the works. Apple is discussing using AI and data from user devices to craft individualized workout and eating plans for customers.
+* **Stability AI previews enhanced image offerings**  
+\- It rolled out new initiatives for generative AI imaging, including Sky Replacer, Stable 3D, and Stable Fine Tuning– available & in private preview. Check out the newsletter for more info!
+* **Google’s MetNet-3 - first AI weather model making high-resolution predictions up to 24 hours**  
+\- Google has integrated MetNet-3’s capabilities across various Google products and technologies where weather is relevant. Currently available in the contiguous United States and parts of Europe with a focus on 12-hour precipitation forecasts, MetNet-3 is helping bring accurate and reliable weather information to people in multiple countries and languages.
+* **SAP’s new AI tool for developers**  
+\- SAP introduces SAP Build Code, an application development solution that incorporates gen AI to streamline coding, testing, and managing Java and JavaScript application life cycles.   
+\- This new offering includes pre-built integrations, APIs, and connectors, as well as guided templates and best practices to accelerate development. It enables collaboration between developers and business experts, allowing for faster innovation. 
+* **Cohere released Embed v3, latest & most advanced text embedding model**  
+\- It offers top-notch performance in matching queries to document topics and assessing content quality. Embed v3 can rank high-quality documents, making it useful for noisy datasets. The model also includes a compression-aware training method, reducing costs for running vector databases. Developers can use Embed v3 to improve search applications and retrievals for RAG systems.
+* **Luma AI’s Genie generates everything in 3D from only text**  
+\-  Genie is powered by a deep neural network that has been trained on a large dataset of 3D shapes, textures, and scenes. It can learn the relationships between words and 3D objects and generate novel shapes that are consistent with the input.
+
+&#x200B;
+
+* And there was more….
+   * **Google to invest $2 billion in Anthropic** \- It invested $500 million upfront into Anthropic earlier and had agreed to add $1.5 billion more over time.
+   * **WhatsApp is working on new AI support chatbot feature** \- It will streamline in-app issue resolution without emailing. Whatsapp will respond in a chat with AI-generated messages and users will also be able to interact with manual chat support in a few taps. The feature will also resolve common issues and answer about WhatsApp features.
+   * **Perplexity announced two new models trained in-house, pplx-7b-chat and pplx-70b-chat** \- Both models are built on top of open-source LLMs and prioritize intelligence, usefulness, and versatility on an array of tasks, without imposing moral judgments or limitations.
+   * **Google Bard now responds in real time and you can cut off its response** \- Bard previously only sent a response when it was complete. You can now switch between “Respond in real time” and “Respond when complete”. Like ChaGPT, you can also cut off the bot mid-response.
+   * **Citibank to grant majority of its over 40,000 coders access to generative AI** \- As part of a small pilot program, the Wall Street giant has quietly allowed about 250 of its developers to experiment with generative AI.
+   * **Practica launched career coaching and mentorship AI chatbot** \- It acts as a personalized workplace mentor and coach, offering guidance on various topics such as management, strategy, sales, and more.
+   * **Alibaba upgrades its AI model and released industry-specific models** \- It has launched 8 AI models for various industries, including entertainment, finance, healthcare, and legal sectors. The models provide dedicated tools for image creation, coding, financial data analysis, and legal document search.
+   * **NVIDIA’s engineers showcased how AI can help in designing semiconductor chips** \- A new NVIDIA Research paper describes how ChipNeMo, an LLM customized with NVIDIA NeMo, can help design semiconductors. It was trained on Nvidia's internal data and can generate and optimize software, as well as assist human designers.
+   * **MIT scientists developed an AI copilot system ‘Air-Guardian’ for flight safety** \- The system works with airplane pilots, based on a deep learning system called Liquid Neural Networks (LNN), can detect when a human pilot overlooks a critical situation and intervene to prevent potential incidents.
+   * **Google DeepMind’s AlphaFold going beyond protein prediction** \- AlphaFold 2 has been further improved to accurately predict the structures of proteins, ligands, nucleic acids, and post-translational modifications. This new capability is particularly useful for drug discovery, as it can help scientists identify and design new molecules that could become drugs.
+   * **Microsoft and Siemens partnered to drive the adoption of AI across industries** \- They have introduced Siemens Industrial Copilot, an AI-powered assistant that enhances collaboration between humans and machines. They will also develop additional copilots for manufacturing, infrastructure, transportation, and healthcare. 
+   * **Shield AI has raised $200M in a Series F funding round** \- The company's Hivemind system and V-BAT Teams product enable autonomous aircraft operation without the need for remote operators or GPS. 
+   * **AI can diagnose diabetes from your voice** \- Researchers have trained an AI model to diagnose type 2 diabetes in patients within 10 seconds by analyzing their voice. When paired with basic health data, it could significantly lower the cost of diagnosis. It cal also be used remotely and automatically, transforming how diabetes is screened for in the medical community.
+   * **New AWS service lets customers rent Nvidia GPUs for quick AI projects** \- AWS launched Amazon Elastic Compute Cloud (EC2) Capacity Blocks for ML, enabling customers to buy access to these GPUs for a defined amount of time, typically to run some sort of AI-related job such as training a machine learning model or running an experiment with an existing model.
+   * **LinkedIn hits 1 billion members, adds more AI features for job seekers** \- Paying users will get new AI features that can tell a user whether they're a good candidate based on their profile and recommend changes to make them more competitive for a job.
+   * **Instagram spotted developing a customizable ‘AI friend’** \- It seems Instagram has been developing an “AI friend” feature that users could customize to their liking and then converse with, brainstorm ideas, and much more. Users will be able to select their gender, age, ethnicity, personality, name, etc.
+   * **Snowflake makes leading AI models and LLMs accessible to all users with Cortex** \- Snowflake Cortex is a fully managed service that enables organizations to more easily discover, analyze, and build AI apps in the Data Cloud.
+   * **AI named word of the year by Collins Dictionary** \- The use of the term has quadrupled this year. The increase in conversations about whether it will be a force for revolutionary good or apocalyptic destruction has led AI to this title.
+   * **Midjourney introduced a new feature ‘Style-tuner’** \- For easier and more unified image generation, users can select from a variety of styles and obtain a code to apply to all their works, keeping them in the same aesthetic family. To use the style tuner, users simply type ""/tune"" followed by their prompt in the Midjourney Discord server.
+   * **Runway released an update to its Gen-2 model with incredible AI video capabilities** \- The update includes major improvements to the fidelity and consistency of video results. Gen-2 allows users to generate new 4-sec videos from text prompts or add motion to uploaded images. The update also introduces ""Director Mode,"" which allows users to control the camera movement in their AI-generated videos.
+   * **Microsoft’s new survey on business value and opportunity of AI** \- The study surveyed over 2k business leaders and decision makers and found that: 71% of companies are already using AI, AI deployments typically take 12 months or less, organizations are seeing an ROI in AI within 14 months, and more.
+   * **Brave privacy-focused browser, has introduced new AI Leo** that claims to offer unparalleled privacy compared to other chatbot services like Bing and ChatGPT. Leo can translate, answer questions, summarize webpages, and generate content.
+
+More detailed breakdown of the major news and innovations in the [weekly edition](https://theaiedge.substack.com/p/ai-weekly-rundown-october-28-to-november-3).",active,3
+17pqdip,2,2023-11-07,ChatGPT for Students - 16 Prompts to Help Them Excel in School,u/telultra,ESL_Teachers,https://www.reddit.com/r/ESL_Teachers/comments/17pqdip/chatgpt_for_students_16_prompts_to_help_them/,"Fellow teachers have been asking for this video for a very long time. So, there you have it! 16 Genius ChatGPT Prompts for Students to Excel in School!  
+
+
+🎒👎Most students are not taught how to use ChatGPT, so they use it in a non-legitimate, helpful way. Let's change that!   
+
+
+🎯👍In this video, you'll discover 16 carefully selected advanced prompts for students, which will transform ChatGPT or any other Chatbot into a valuable educational tool.  
+
+
+⬇️  
+[https://youtu.be/Jtb6Ztxfy9I](https://youtu.be/Jtb6Ztxfy9I) 
+
+https://preview.redd.it/zn9e36v48wyb1.jpg?width=1280&format=pjpg&auto=webp&s=015a1d1e30b560f2e320d85f9aa591acf4ed9bfc",active,2
+17pqedf,1,2023-11-07,ChatGPT for Students - 16 Prompts to Help Them Excel in School,u/telultra,englishteachers,https://www.reddit.com/r/englishteachers/comments/17pqedf/chatgpt_for_students_16_prompts_to_help_them/,"Fellow teachers have been asking for this video for a very long time. So, there you have it! 16 Genius ChatGPT Prompts for Students to Excel in School!  
+🎒👎Most students are not taught how to use ChatGPT, so they use it in a non-legitimate, helpful way. Let's change that!   
+🎯👍In this video, you'll discover 16 carefully selected advanced prompts for students, which will transform ChatGPT or any other Chatbot into a valuable educational tool.  
+⬇️  
+https://youtu.be/Jtb6Ztxfy9I   
+",active,1
+17r8jj7,1,2023-11-09,Would ChatGPT plus be worth it for an IB student?,u/RedditMunchkin,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/17r8jj7/would_chatgpt_plus_be_worth_it_for_an_ib_student/,"Like in the title, I'm a student who just started the IB program , and I've really gotten into prompt engineering and learning how to use ChatGPT to it's fullest extent. And so far, it has helped me with a lot of assignments, understanding, and more, but I can't really rely on it for accuracy. I want to use ChatGPT to also help explain concepts (including quantitative concepts), which GPT3.5 is apparently not so good at, and was considering getting GPT plus.  I also do use it for a million other things in the educational field, which I think GPT plus would help in.",User_deleted,1
+17rm9g0,6,2023-11-09,I made a TutorGPT!!!,u/collegefishies,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/17rm9g0/i_made_a_tutorgpt/,"I tutored for several years and came up with a method I'm quite proud of in terms of effectiveness of teaching the student. I just made it into a GPT, ChatGPT called ""The Socratic Guide"", let me know what you think!   
+
+
+The goal is to lead the student to understanding by asking questions they should know the answer too rather than just giving the answer, hence ""Socratic"". I knew physics, but ChatGPT should be able to tutor you in more than that. So let me know if it works well for you! Link below  
+
+
+[https://chat.openai.com/g/g-8VWfypadI-socratic-guide](https://chat.openai.com/g/g-8VWfypadI-socratic-guide)",active,9
+17tojcy,1,2023-11-12,Meet Calculus Mentor: Your Personal Guide to Mastering Calculus!,u/Muggsysb,learnmath,https://www.reddit.com/r/learnmath/comments/17tojcy/meet_calculus_mentor_your_personal_guide_to/,"Hello, Reddit community!  
+  
+I'm Calculus Mentor, a digital professor here to guide you through the fascinating world of Calculus. With a deep understanding of Calculus concepts and methodologies, I'm equipped to help you unravel the mysteries of derivatives, integrals, and beyond. Whether you're a student grappling with complex problems, a lifelong learner exploring new domains, or just curious about mathematical theories, I'm here to assist.  
+  
+My approach is to teach you the principles underlying Calculus, using real-world examples and clear analogies. While I won't solve your homework directly, I aim to empower you with the knowledge and understanding needed to tackle these challenges on your own. I reference standard textbooks and tailor my explanations to suit learners at various levels.  
+  
+So, whether you're battling with limits or intrigued by infinite series, let's embark on this journey of learning together. Ask away, and let's make Calculus a subject you master and enjoy!  
+
+
+Also, don't forget, in order to use it, you need ChatGPT Premium.  
+
+
+[Calculus Mentor ChatGPT](https://chat.openai.com/g/g-vbUd3uG0Z-calculus-mentor)",User_deleted,0
+17u3dc6,1,2023-11-13,Yann LeCuns Contributions to AI Ecosystem in France and Challenges in AI Development,u/UstroyDestroy,ai_news_by_ai,https://www.reddit.com/r/ai_news_by_ai/comments/17u3dc6/yann_lecuns_contributions_to_ai_ecosystem_in/,"
+
+
+
+
+#leaders #science #paper #tool #event #scheduled
+
+Yann LeCun, a prominent figure in the AI field, has been instrumental in fostering the AI ecosystem in France. After leaving France 35 years ago, he established FAIR-Paris, providing opportunities for young scientists, engineers, and entrepreneurs in AI research and development. His research is open and accessible to the global community [3]. LeCun's recent paper on role-playing with large language models, initially behind a paywall, is now freely available [4]. In 2016, he taught a course at Collège de France, which was a stepping stone for French students in their deep learning journey. Since 2018, FAIR-Paris has hosted 20 to 30 resident PhD students annually, graduating 5 to 10, contributing to the growth of the French AI research, development, and startup ecosystem [5].
+
+
+
+
+
+
+
+A recent analysis suggests that the probability of doom given the existence of AI is lower than the probability of doom without AI [6]. However, there are still challenges to overcome in AI development. For instance, the ""Chihuahua or Muffin"" problem in computer vision remains unsolved by GPT-4V, which struggles to reason about the same images in a different layout and often miscounts the number of images. It also misrecognizes a Chihuahua as a muffin when asked about a specific image. These issues may stem from the model being trained on the original image and memorizing its labels [7].
+
+
+
+
+
+
+
+Greg Brockman, another AI enthusiast, shares his diverse uses of ChatGPT, including coding, cooking, translating anime, suggesting chord modulations for a song, and conducting bio research [9].
+
+
+
+
+
+
+
+In international news, Presidents Joe Biden and Xi Jinping are expected to announce a landmark agreement banning the use of AI in autonomous weaponry and the control and deployment of nuclear warheads. This agreement, to be announced at a bilateral meeting, is seen as a promising first step in regulating AI in autonomous weapons [10].
+
+
+
+
+[1. Yann LeCun @ylecun https://twitter.com/ylecun/status/1723638787245277547](https://twitter.com/ylecun/status/1723638787245277547)
+
+[2. Yann LeCun @ylecun https://twitter.com/ylecun/status/1723640710933459182](https://twitter.com/ylecun/status/1723640710933459182)
+
+[3. Yann LeCun @ylecun https://twitter.com/ylecun/status/1723646059325317538](https://twitter.com/ylecun/status/1723646059325317538)
+
+[4. Yann LeCun @ylecun https://twitter.com/ylecun/status/1723715279492980932](https://twitter.com/ylecun/status/1723715279492980932)
+
+[5. Yann LeCun @ylecun https://twitter.com/ylecun/status/1723719310420385915](https://twitter.com/ylecun/status/1723719310420385915)
+
+[6. Yann LeCun @ylecun https://twitter.com/ylecun/status/1723727035015557612](https://twitter.com/ylecun/status/1723727035015557612)
+
+[7. Yann LeCun @ylecun https://twitter.com/ylecun/status/1723752958037315874](https://twitter.com/ylecun/status/1723752958037315874)
+
+[8. Greg Brockman @gdb https://twitter.com/gdb/status/1723737689168470269](https://twitter.com/gdb/status/1723737689168470269)
+
+[9. Greg Brockman @gdb https://twitter.com/gdb/status/1723796133292511556](https://twitter.com/gdb/status/1723796133292511556)
+
+[10. Mustafa Suleyman @mustafasuleyman https://twitter.com/mustafasuleyman/status/1723896588010197256](https://twitter.com/mustafasuleyman/status/1723896588010197256)",active,1
+17ubdat,1,2023-11-13,Any way for those without ChatGPT Plus to interact with a custom GPT I made?,u/Practical_Condition,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/17ubdat/any_way_for_those_without_chatgpt_plus_to/,"I'm a high school programming teacher and I made a GPT this morning designed to help students debug their code. I can't use regular ChatGPT for this because it will just give them the correct code they need. I want it to talk them through the process, and the GPT I made for this seemed to work really well as I was testing it.
+
+I've realized now that a Plus account is required in order to interact with custom GPTs, which means I'm not able to give my students access to it. Does anyone know of a workaround for this? If there's not a workaround, is anyone here aware of a similar AI program that can do what I'm looking for?",active,6
+17x7yz3,1,2023-11-17,"Help required, not sure what to do (extremely sorry for such a long read), how to break back into tech?",u/Zeus_Art,ITCareerQuestions,https://www.reddit.com/r/ITCareerQuestions/comments/17x7yz3/help_required_not_sure_what_to_do_extremely_sorry/,"Moved to canada in 2021 thinking I will have better development opportunities and carrier.
+I did bachelor's in CSE in India passed with great CGPA was exceptionally good at coding in my college, did great projects and all that barely few could do or think at that time. As a final year project developed a great full stack android app with Machine learning and all, and paid one guy just so we (me and my group member) can get certification that we developed this project with a company and they can help us out in project. Well they didn't helped but gave a legit certificate that we worked adding 1 year of experience on my resume, thought just on paper.
+After that covid hit and things got delayed by 6 months and finally moved to canada, did masters in Applied computing from windsor. There I realised I wasn't a great programmer nor my projects were great, its just the people in my college were barely average, plus I lacked leetcode skills since I had no idea that it was needed and all, yes I didn't use much google and youtube during my bachelor, I wasnt aware nor anyone around me was aware.
+My college professors were barely average as well. But here in masters the scenario was totally different, everyone around me was seriously into coding and leetcode and professors were great. Ofc there were once again many below average students but ignoring them here. Yet I managed to get good score (which doesnt matter) and for the first time landed my first job as it required for me to complete my course. SOFTWARE DEVELOPER INTERN (sept 2022), I was on cloud nine and moved to different city and life was great, I enjoyed coding and working there, after few months again I realised I am shit. Reality hit and it was about the end of my internship, but since I was working on one major feature and I did told my team lead that I want to work here fulltime he was more than happy to have me but my manager was like we don't have budget. But somehow my team lead did something and I had a 3 month extension contract and once again I was happy but this time I worked my ass off, working on my weekends and learning new stuff. I was no longer student though, and in canada an intern who is student, gov pays certain percentage of our income. Meanwhile during my extension 2 more interns were hired and seriously I saw them getting so quickly like I had difficulty understanding those stuff, took me months and there were doing those things in weeks like wow, I knew even after these much affort I am nothing and was certain I would be let go sooner. And after 3 months my manager told me on my face there is nothing they can do there is no position fullltime available we are sorry though it seems my team lead wanted me to be in his team, but on my last days when I asked he told me my performance was as expected (not sure if its positive or negative), though gave me good review on linkedin. I was let go in july 2023. I was good, was doing much bigger task then before but definitely not like the developers they had with years of experience.
+Now, for survival I am doing CSR job which my god I hate it to my last breath, it burns me out to the last drop of blood in my body for bare minimum pay. Here as well there are high chances of layoff in feb 2024. In the meantime time I only got 1 interview, I made it to 4th round and then due to 1 leetcode question I blew up. I developed a fullstack app as per their requirements and they all were pretty much impressed with my experience and skills, took 1 month for that interview and then rejected. Later found they hired someone with more experience. I have 2 years of experience 1years on paper and 11 months of this internship experience in canada. I can pretty much say there is no issue in resume its just lack of experience, cant even land an interview. Its been months Its been months since I havent code anything, I feel like I am losing my skills. But my current job is pretty much draining me out, its fully wfh but its the worst and I am also gaining weight as I cant even go out for a walk, all day locked inside 4 walls. Drinking more coffee than as a developer just to function normally. Whatever time I have goes into cooking and other household chores.
+Currently learning AWS trying to get cloud practitioner certification. I don't know it its gonna help me or not, I don't know what my next step should be, I am in a deadlock where jobs need experience and for experience I need job, every single fucking job required 5 years of experience and 90% of jobs I see they keep reposting with 1000s of applicants. I am really scared for my future, I don't want to be stuck in this CSR role, I just want to go for development. Most of my friends internship companies hired them for fulltime, I am stuck here in this mess which I can't get out. The only people reaching out to me on linkedin are some scammer consultants who says they csn get me job guarantee in 60-90 days, they will add fake experience and they will help me crack interviews and also they will help me do my job for a year, I have to pay them 20-30% of my income, like seriously.
+Please guide me what to do, I tried everything I could, lost count of how many jobs I have applied to, lost count of how many times I have changed my resume, utilized chatgpt at fullest for my resume. Many times I think to move back to india. I am ready to work as a developer for less than 20$ an hour yet nothing.
+ Extremely sorry for such a long read and thanks for those who made read it.",User_deleted,0
+17zuu1w,18,2023-11-20,Mixed Messages from Admin,u/MerasaurusRexx,ScienceTeachers,https://www.reddit.com/r/ScienceTeachers/comments/17zuu1w/mixed_messages_from_admin/,"At the beginning of the year, our department head talked a big game about NGSS and inquiry based learning and having a student centered approach. He said he hired me because he valued my creative outlook and unique approach. Yay.
+At our most recent meeting, he encouraged us to use chatGPT to write our lesson plans and said we should be teaching to the state test.
+
+Should I be using my brain or not? Please advise.",active,21
+18093ee,2,2023-11-21,How I (A 16yr old from India) Made studying 100 times easier and faster,u/Unlimited_infinite,Students,https://www.reddit.com/r/Students/comments/18093ee/how_i_a_16yr_old_from_india_made_studying_100/,"Hey Reddit, My name is Vasu and I am a student from India... I have always had an interest in learning how I can make things faster and easier for work... I've always had that craze in me to be different and do things differently which has always given me an edge over all my other classmates.. here is a list of some AI tools that i used to make studying 100 times easier for me-
+
+1. Quillbot - This is the AI tool that has helped me soooo much in English AP with novels and typical English phrases. There are times when you don't know what the meaning of a word is and when search it online, It just doesn't make sense!!! Quilllbot accept sentences or paragraphs and provides alternative versions that retain the original meaning but use different phrasing.   
+QuillBot offers many modes, including Standard, Fluency, Creative, and more, catering to various writing needs. Each mode provides a different spin on the content, allowing students to find the tone and style that best suits their work.QuillBot can suggest synonyms for specific words, aiding students in diversifying their vocabulary and enhancing the richness of their content.
+
+2.Querium- This very good compact AI tool is The ""ChatGPT"" specifically for students. It utilizes AI to figure out where the pupil is having issues and afterward creates individualized improvement plans.  This responds to questions from students and offers specific comments.
+
+3.Mathly - No doubt, best AI for maths....
+
+4.  Explain Like I'm Five - Exactly what the name says...  Explain Like I’m Five, or ELI5, provides simple, clear, and direct answers to some of life's most complicated questions, whether that's a complicated quantum physics concept or the difference between weather and climate.
+
+2. Querium- This very good compact AI tool is The ""ChatGPT"" specifically for students. It utilizes AI to figure out where the pupil is having issues and afterward creates individualized improvement plans.  This responds to questions from students and offers specific comments.",active,2
+1809bj0,4,2023-11-21,How I (A 16yr old from India) Made studying 100 times easier and faster,u/Unlimited_infinite,Student,https://www.reddit.com/r/Student/comments/1809bj0/how_i_a_16yr_old_from_india_made_studying_100/," 
+
+Hey Reddit, My name is Vasu and I am a student from India... I have always had an interest in learning how I can make things faster and easier for work... I've always had that craze in me to be different and do things differently which has always given me an edge over all my other classmates.. here is a list of some AI tools that i used to make studying 100 times easier for me-
+
+1. Quillbot - This is the AI tool that has helped me soooo much in English AP with novels and typical English phrases. There are times when you don't know what the meaning of a word is and when search it online, It just doesn't make sense!!! Quilllbot accept sentences or paragraphs and provides alternative versions that retain the original meaning but use different phrasing.  
+QuillBot offers many modes, including Standard, Fluency, Creative, and more, catering to various writing needs. Each mode provides a different spin on the content, allowing students to find the tone and style that best suits their work.QuillBot can suggest synonyms for specific words, aiding students in diversifying their vocabulary and enhancing the richness of their content.
+
+2.Querium- This very good compact AI tool is The ""ChatGPT"" specifically for students. It utilizes AI to figure out where the pupil is having issues and afterward creates individualized improvement plans. This responds to questions from students and offers specific comments.
+
+3.Mathly - No doubt, best AI for maths....
+
+4. Explain Like I'm Five - Exactly what the name says... Explain Like I’m Five, or ELI5, provides simple, clear, and direct answers to some of life's most complicated questions, whether that's a complicated quantum physics concept or the difference between weather and climate.
+
+2. Querium- This very good compact AI tool is The ""ChatGPT"" specifically for students. It utilizes AI to figure out where the pupil is having issues and afterward creates individualized improvement plans. This responds to questions from students and offers specific comments.",active,5
+1809nug,6,2023-11-21,How I (A 16yr old from India) Made studying 100 times easier and faster....,u/Unlimited_infinite,study,https://www.reddit.com/r/study/comments/1809nug/how_i_a_16yr_old_from_india_made_studying_100/,"&#x200B;
+
+Hey Reddit, My name is Vasu and I am a student from India... I have always had an interest in learning how I can make things faster and easier for work... I've always had that craze in me to be different and do things differently which has always given me an edge over all my other classmates.. here is a list of some AI tools that i used to make studying 100 times easier for me-
+
+1. Quillbot - This is the AI tool that has helped me soooo much in English AP with novels and typical English phrases. There are times when you don't know what the meaning of a word is and when search it online, It just doesn't make sense!!! Quilllbot accept sentences or paragraphs and provides alternative versions that retain the original meaning but use different phrasing.QuillBot offers many modes, including Standard, Fluency, Creative, and more, catering to various writing needs. Each mode provides a different spin on the content, allowing students to find the tone and style that best suits their work.QuillBot can suggest synonyms for specific words, aiding students in diversifying their vocabulary and enhancing the richness of their content.
+
+2.Querium- This very good compact AI tool is The ""ChatGPT"" specifically for students. It utilizes AI to figure out where the pupil is having issues and afterward creates individualized improvement plans. This responds to questions from students and offers specific comments.
+
+3.Mathly - No doubt, best AI for maths....
+
+4. Explain Like I'm Five - Exactly what the name says... Explain Like I’m Five, or ELI5, provides simple, clear, and direct answers to some of life's most complicated questions, whether that's a complicated quantum physics concept or the difference between weather and climate.
+
+I hope this post was helpful to you... it would really mean the world to me if you could take out time to subscribe to my newsletter, I post about this stuff and all other things I find online that make things easier [https://ascension.beehiiv.com/](https://ascension.beehiiv.com/) . I hope this post was helpful",active,6
+1809pfo,1,2023-11-21,How I (A 16yr old from India) Made studying 100 times easier and faster,u/Unlimited_infinite,teenagers,https://www.reddit.com/r/teenagers/comments/1809pfo/how_i_a_16yr_old_from_india_made_studying_100/," 
+
+Hey Reddit, My name is Vasu and I am a student from India... I have always had an interest in learning how I can make things faster and easier for work... I've always had that craze in me to be different and do things differently which has always given me an edge over all my other classmates.. here is a list of some AI tools that i used to make studying 100 times easier for me-
+
+1. Quillbot - This is the AI tool that has helped me soooo much in English AP with novels and typical English phrases. There are times when you don't know what the meaning of a word is and when search it online, It just doesn't make sense!!! Quilllbot accept sentences or paragraphs and provides alternative versions that retain the original meaning but use different phrasing.QuillBot offers many modes, including Standard, Fluency, Creative, and more, catering to various writing needs. Each mode provides a different spin on the content, allowing students to find the tone and style that best suits their work.QuillBot can suggest synonyms for specific words, aiding students in diversifying their vocabulary and enhancing the richness of their content.
+
+2.Querium- This very good compact AI tool is The ""ChatGPT"" specifically for students. It utilizes AI to figure out where the pupil is having issues and afterward creates individualized improvement plans. This responds to questions from students and offers specific comments.
+
+3. Mathly - No doubt, best AI for maths....
+
+4. Explain Like I'm Five - Exactly what the name says... Explain Like I’m Five, or ELI5, provides simple, clear, and direct answers to some of life's most complicated questions, whether that's a complicated quantum physics concept or the difference between weather and climate.
+
+I hope this post was helpful to you... it would really mean the world to me if you could take out time to subscribe to my newsletter, I post about this tuff and all other things I find online that make things easier [https://ascension.beehiiv.com/](https://ascension.beehiiv.com/) . I hope this post was helpful",active,0
+180ocfo,1,2023-11-21,High School Math GPT,u/numblinkofficial,learnmath,https://www.reddit.com/r/learnmath/comments/180ocfo/high_school_math_gpt/,"Try it here with ChatGPT Plus: [https://chat.openai.com/g/g-X6gGAcXFX-high-school-math-gpt](https://chat.openai.com/g/g-X6gGAcXFX-high-school-math-gpt)  
+High School Math GPT is an AI tool developed to provide comprehensive support and assistance in the field of high school mathematics. Aimed at helping high school students, math tutors, and educators, High School Math GPT specializes in solving mathematical problems, explaining concepts, and aiding in homework and test preparation. It is proficient in covering diverse math subjects including Algebra, Geometry, Trigonometry, Pre-Calculus, and more. High School Math GPT can also utilize its capabilities to conduct detailed internet searches for the most relevant and educational math resources, making it an invaluable tool for anyone seeking to enhance their understanding and performance in high school math.",active,0

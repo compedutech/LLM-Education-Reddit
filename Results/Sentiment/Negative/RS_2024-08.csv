@@ -1,0 +1,237 @@
+1ej1ypl,1,2024-08-03,Stress (or not ?),u/Substantial-Bid-3147,SGExams,https://www.reddit.com/r/SGExams/comments/1ej1ypl/stress_or_not/,Idu why everyones complaining and saying sch or exams are stress ir anyt abt sch us stressful . Like i deadass ong no cyap dont get it . Like for me : idk how to do assignments ? > chatgpt | exams ? > js study one day before and get a b or a or if the exam is hard den a f | struct parents ? > just chg to suit them | no friends ? > talk to random ppl ask them stupid qns lolol | annoying teachers ? > just avoid them | too much work? > let go of some responsibility like stand down from being a student leader or somet ….. not tryna brag but wats yal reason? Genuinely curious,User_deleted,0
+1elr7s4,2,2024-08-06,VLSI project idea,u/KatomPower,ElectricalEngineering,https://www.reddit.com/r/ElectricalEngineering/comments/1elr7s4/vlsi_project_idea/,"Hi  
+After learning some VHDL and Verilog I have decided to try implementing that knowledge on a VLSI project.  
+Unfortunately, after a bit of research I am very confused. I understand that this term is very broad, therefore I am a bit lost in which project to choose.  
+From ChatGPT I got recommended to try making a RISC-V CPU and some more ideas, but I have a hard time finding any good resources.  
+If anyone can help with an interesting project idea that has a lot of documentation, that would be very helpful.  
+I'm a 3rd year E.E student with little to no practical knowledge of implementation.  
+Thanks!",active,3
+1em5ntf,1,2024-08-07,I am loss for words to my cousin na hs student,u/kyutodoggo,studentsph,https://www.reddit.com/r/studentsph/comments/1em5ntf/i_am_loss_for_words_to_my_cousin_na_hs_student/,"Share ko lang na may pinsan akong currently Grade 8 student na nag-aaral sa private school. Privilege naman sila and mayaman but I'm just really shocked sa mga nalalaman ko about my cousin.
+
+I helped with her assignments before, part of which is kasi nahuli siya ng teacher niya na ChatGPT lang yung mga tasks niya. Sinabi ko naman na tutulungan ko siya for now, since I have a lot of time before I go to uni. Nakakainis lang sa part na I have to spoonfed her the answers all the time, parang wala na rin siyang gana mag-aral at all. Worse, hindi siya marunong mag-add! Add na hindi rin siya gumamit ng Word / Google Docs napapakamot na lang talaga ako kung paano niya nalagpasan yung Elem niya nung pandemic. Oh, did I mention na With Honors siya last year? This is ridiculous! Ganto na ba kababa ang standard ng some schools ngayon or hindi lang sila nagfofocus sa natututunan ng mga estudyante nila? 
+
+Bulakbol din naman ako nung bata ako, but not to the point na hindi ko kaya hanapin sa YouTube yung problema ko. Nagalit pa sakin yung nanay niya kasi ""nakakaawa"" naman daw yung anak niya kasi hindi niya alam yung gagawin niya. Simpleng search lang sa internet hindi niya pa nagawa? Kaya niya nga magprompt sa ChatGPT. Hays.",User_deleted,1
+1envfb8,1,2024-08-09,"Close to dropping out, alternative routes?",u/lucky-sway,AskProgramming,https://www.reddit.com/r/AskProgramming/comments/1envfb8/close_to_dropping_out_alternative_routes/,"Firstly, sorry for all the complaining and broken grammar.
+
+I'm going into my third year of computer science. I feel like school is wasting my time. Although the things we learn seem useful, I find myself just trying to find shortcuts through ChatGPT for assignments and cramming for exams, memorizing ppt slides of relevant SW content but worth like 50 % of my grade. I don't do well in those. The way they test is so specific that little mistakes add up to a failing grade and I think that's quite literally the worst representation of my learning and applying it. So far, most of my courses have been like that. Assignments of mini-projects, quizzes, midterms...
+
+Heck, we still need to learn Assembly and C and other bs that I don't feel like I need to spend $1000 on each course to forget like 2 weeks after the semester ends.
+
+For context, my remaining courses include, database, networking, compiler design, server-side development, etc. Yes, I agree they are useful courses but the way they teach it is dump every info taken from a textbook or some Stanford/Berkeley CS course. Then again the cycle continues with exams (taking up like 70% of grade) with very specific info from lectures that I will forget. There is so useful aspects like application or project building! This stuff isn't even what I want to do in the field.
+
+I suck at just memorizing and getting tested on it. I don't think the exams are useful at all.
+
+The other thing is that I know what I want to do in the field, that is, either full-stack dev or machine learning (AI path). Both of those positions seem attainable without a degree. Should I really consider dropping out if I feel this way and I feel like I would benefit much better by learning useful topics online and going straight into application (projects)?
+
+I'm so close to calling it quits in university but my only concern is jobs that require a bachelor's degree (still like 85%) of the industry.
+
+Will I be set back from my classmates? Would it be easier or harder to get a job?
+
+If I do drop out, I know I'll put 100% in my own learning and make sure I get stuff done.
+
+Maybe I'm just a complainer and need to get my shit together. Thanks for reading this.
+
+TLDR: 3rd year uni student, thinking cs degree in uni is useless content. want to dropout and self teach what I want to go into (frontend, backend, fullstack, machine learning). is it worth it?",User_deleted,0
+1eq26ag,3,2024-08-11,Help with Custom GPT for a College Advisor Bot,u/PhyschoPhilosopher,OpenAI,https://www.reddit.com/r/OpenAI/comments/1eq26ag/help_with_custom_gpt_for_a_college_advisor_bot/,"I'm working with my college on creating a custom GPT to help answer student's questions about courses and even possibly suggest schedules for them but it seems GPT keeps getting information about courses wrong. I'm not sure if there is maybe a better way to feed the information to GPT or if these problems are just the current state of GPT.
+
+Originally all of the courses offered in this coming fall were in a somewhat sloppy Excel file so to make it easier for ChatGPT, I created a python script to extract all the information into sentences that look like this:
+
+[text file containing every Fall Course](https://preview.redd.it/ynnapexa35id1.png?width=1115&format=png&auto=webp&s=4c9a5cec9677cf750a4bd852fe413244d8de017f)
+
+The problem is that GPT seems to give the wrong information quite often. For example:
+
+[Part of a suggested schedule](https://preview.redd.it/631j3edh45id1.png?width=645&format=png&auto=webp&s=7137061eba8ff64c5a6c7b054cdfe29c5ce674d2)
+
+[Got this one right](https://preview.redd.it/owwxands35id1.png?width=1138&format=png&auto=webp&s=ca099a3268a7dd243f3aa22e13e5d4e99f690fd7)
+
+[Got both the teacher and Times wrong](https://preview.redd.it/skzmb8cz35id1.png?width=1128&format=png&auto=webp&s=a7ee5443bfa4500da36489adb22f7af28e3ab25d)
+
+It tends to get more wrong than right. Not to mention that for Web Application Development, it said it was taught by Campbell, however, there is no teacher named Campbell in the entire text file.
+
+Note: There is also another text file that contains a planner for a Computer Science major which has a list of when to take certain classes, I'm including this just in case this might be causing any problems, although I doubt it.
+
+https://preview.redd.it/hlyatvpk65id1.png?width=721&format=png&auto=webp&s=eaf12a6eba45c56f42073ab474edc9c42a039c11
+
+",User_deleted,2
+1eqx8td,1,2024-08-12,Nononono i fucked up! ,u/ayanokojifrfr,Vent,https://www.reddit.com/r/Vent/comments/1eqx8td/nononono_i_fucked_up/,Bruh i wanted to delete ny message not video call!!! Bymistake i ended up video calling my teacher. Fuck! Fuck! Fuck! Fuck! This is biggest nightmare for a student. First of all i send message by mistake without using chatgpt to edit it. And then Instead of pressinf of 3 dots i ended up pressing on Video Call! Wtf! Wtf!!!!! ,active,1
+1erpmgx,1,2024-08-13,AITAH for almost entirely redoing a ppt and giving my opinion on something involved with that?,u/Introvertedtravelgrl,AITAH,https://www.reddit.com/r/AITAH/comments/1erpmgx/aitah_for_almost_entirely_redoing_a_ppt_and/,"PLEASE, PLEASE Help. Sorry it's a long one.
+
+I recently did some work for an organization and have been seriously wondering if I've overstepped or done something wrong. Because of this, you're not likely to get kickback from me if I AITAH. 
+
+So I applied to do something else with this organization (unfortunately I have to be vague about some this while being as honest as possible) but was contacted to help them with something else in the interim only temporarily with the understanding that I would be able to do the position I originally applied for in the fall. 
+
+Main responsibilities (as understood them) were to: critique teacher lesson plans for anything that didn't meet the guidlines of the organization (I wasn't really given any specific guidelines but I went with what I knew of the mission and teaching in general) and report anything concerning to my supervisor. The other responsibility was to help with a very important ppt presentation. My supervisor either wasn't thoroughly familiar with all the workings of PPT or didn't care but asked me to clean it up, make edits and add content to areas I was familiar with (things I had reports for or direct information). So I did. My supervisor was a lovely person, truly but really bad at communicating in a clear, concise organized way. I tried to leave the position early on because of the communication issue, without mentioning it but I was persuaded to continue on, so I did. 
+
+So during the critique part, I delicately asked about a teacher's comments on (the plans were pretty empty) and what I got was mild defensiveness. So I stopped asking and didn't really intensively critique anymore. Then the PPT, I got a barrage of different emails with various instructions and files, as my supervisor refused to communicate by phone when I wasn't working in the same place. So I tried my best to do what was asked, ploughing through the emails, trying to make sense of them and reply. All the while, my supervisor sending me flowery compliments and gratitude on my work. By the end of the week, on a Friday, I thought I had finished everything, but late that night my supervisor sends more stuff and more requests for the PPT. So I do it, but they also send other conclicting emails ""Can you do this by this day?"" ""You don't have to do more"" etc. I was so confused, on top of the fact I never said I was available on weekends but I did it. Then Sunday I get more emails and one seems like it wants me to add more content and edit and another seems like it was indirectly saying thanks but stop touching the PPT. 
+
+Truthfully, the PPT before I got to it was awful. Using those pre-created templates of 'put picture here' and 'text here'. And SOOOO MUCH text all over the slide. So I just used chatgpt to take the content and condense it so it was digestible and then reformatted the slides to be more viewer friendly. While doing that I was also reading teacher comments on students and one of them said something that I thought seemed not nice about a student, so I mentioned it and my supervisor seemed irritated that I mentioned it. Anyway, I stopped working on the PPT. They thanked me and I asked about the position that was dangled like a carrot in front of me from the beginning, and they said they I just needed to contact so and so. But here's the weird part, they said, ""I spoke to the person in charge of that position and they're really excited to meet with you"" but doesn't give me their name, instead tells me to contact another person (that I had initially been in contact with) and also asks me to log my hours (this is not a paid position) which I hadn't been told to or how to at all in the beginning (really poor communication) so  I emailed the person she told me to plus the person who set up my technology account, and prior to the powerpoint both people had been very responsive. Now? Ghost town. 
+
+The PPT was theirs, but they seemed to tell me to edit it where necessary. That seemed to be my job. Now I'm wondering whether I am the AH for putting so much work into it and maybe they perceived it as arrogance? I'm spinning in an anxiety circle wondering if this is my fault and I have something I need to fix about my interactions or it really was an unfixable situation to start and I got pulled into an existing bad situation. (I received zero training on anything, and anything I did learn I had to teach myself by googling the shit out of.)
+
+I'm not going to follow up because I already feel like I've been scolded even though every email was flattery, but it was so thick you could tell it wasn't all genuine. 
+
+Any thoughts on this would be greatly appreciated. I bear no ill-will on anyone involved, I'm just so disappointed \[and feel like shit\] how this turned out as I really want to be of help and also hoped I would be able to do the position I applied for.",active,1
+1erqbv3,44,2024-08-13,Intro To Cryptography BLOWS BALLS,u/LetMeShowYouMyRag,WGU,https://www.reddit.com/r/WGU/comments/1erqbv3/intro_to_cryptography_blows_balls/,"Just finished my exam with a passing grade. Took me two weeks to pass this god forsaken class. I have never had as miserable a time in a class as this one. 
+
+  
+Memorizing block sizes, key sizes, and rounds for each cipher is ridiculous. If I wanted to become a rolodex of cryptographic ciphers I would have done that myself. In all my years of working, I have never needed to know deep and dirty specifics, they have always been available to freely access. I do not know how the people in charge can justify this. We should be prioritizing methods, techniques, procedures, use cases, etc. not these fact sheets. FISH was used during WWll, I have no reason for remembering it besides the fact that it WAS used (even that is negligible). 
+
+The book is garbage, mistakes are much too numerous to base the class off of. I would not even read that garbage, just google the chapter requirements and learn from chatgpt or use the student drive. Then memorize the notes you have taken for them.
+
+  
+Two weeks of stress for a needless class. Fuck it, just get that degree. ",active,48
+1erym86,41,2024-08-14,burnt out and demoralised y1 poly student,u/Sad_Pianist8691,SGExams,https://www.reddit.com/r/SGExams/comments/1erym86/burnt_out_and_demoralised_y1_poly_student/,"Y1 poly student here doing a common course, and I'm really struggling to bring myself to study these past few weeks. i spend long hours each day studying lesson materials each day only to get B's and C's, and out of the 13 quizzes so far, I've only recieved 3 A's.  I feel so demoralised because i spend most of my free time studying whenever I can, even staying in during the weekends and sacrificing my hobbies to study. I feel so jealous whenever I see my classmates getting higher GPAs (3.5-3.7 range) while not studying as much as me and maintaining a good social life. I constantly wonder what I'm doing wrong but I can never seem to find the answer, and i feel like all the effort that i poured into studying really went down the drain.  I'm so tired of forcing myself to study for hours only to achieve grades that are mediocre compared to my peers, and its been  like this since the semester started. Most of my grades aren't even that good and now that ESE's are approaching, I really don't feel like studying, or bring myself to at least. Everytime I feel confident about how I performed in a test, I would still end up with a B or a C. If anyone saw my gpa right now they'd probably assume that I'd be the type to slack in group projects/ skip classes. I'm so tired of putting so much effort into studying and not seeing one bit of it show up in my results. I feel so devastated right now because I recently got a B- for a module that I actually enjoyed studying for, because no matter how hard i study the content the test questions would be completely different than I expected. Also i find it quite difficult to concentrate while studying, everything feels like a dream and i can't really bring myself to focus (idk how to explain it) and sleep isn't a problem because i make sure to get 7-8 hours of sleep. At this point i'd be satisfied with a gpa that is at least above 3, I'm so tired of not seeing my hardwork show into my results, and i can't even motivate myself by thinking my grades would improve because they haven't. I honestly miss the traditional secondary school style of learning as it was more slow paced and fits my learning style way more than poly does, but sadly i didn't do well enough to get into jc. I'm so done with this, I can't wait to graduate poly and maybe do something else that I might enjoy. And if you're still reading this I just wanna say thanks for staying till the end :)
+
+  
+TDLR by chatgpt : A Year 1 polytechnic student is struggling to stay motivated in their studies despite putting in long hours of effort. They feel demoralized by consistently getting B's and C's, with only a few A's, despite sacrificing free time and hobbies. The student is frustrated by seeing classmates achieve higher GPAs with less effort and a better social life. They feel their hard work isn't reflected in their grades and are finding it difficult to focus, even though they get enough sleep. The student misses the slower-paced learning style of secondary school and is looking forward to graduating from polytechnic to pursue something they might enjoy more.",active,45
+1esv22f,55,2024-08-15,Limiting the length and scope of responses,u/Acceptable_Month9310,Professors,https://www.reddit.com/r/Professors/comments/1esv22f/limiting_the_length_and_scope_of_responses/,"One thing I find that ChatGPT (and even just poor students) do is to take the shotgun approach.  When I ask them ""Explain this issue to me"" their response will be a series of vague statements about 3-5x longer than any reasonable answer.  This not only takes much longer to mark but these ""kitchen sink"" responses leave me with the impression that the student really hasn't learned anything.
+
+So, in light of this I ran a course this summer where I took an exercise which requires you to write a few short explanations on a particular scenario and put significant length limits on each one.  This includes both straight-up word limits and limiting topics.  ""Express one idea that you consider the best approach to X"".  I point out that anything over the word limit or if you express more than one idea this extra text is simply not read.
+
+I'm just comparing these things now and this seems to produce better work.  In fact, I'm thinking of dropping some of the word counts even more. Anyone have similar experiences?
+
+I also created a specific form that every student has to use, this stops the handing in of increasingly elaborate ""art projects"" where students use title pages, odd text layouts and just far more effort into aesthetics than a simple weekly assignment warrants.  Call me cynical but I suspect several of these are an attempt to try and avoid getting caught by TurnItIn",active,54
+1evz5dp,1,2024-08-19,GAI use as a tool for thesis writing?,u/InspectorSmooth8574,Professors,https://www.reddit.com/r/Professors/comments/1evz5dp/gai_use_as_a_tool_for_thesis_writing/,"I'm teaching thesis this year and in the syllabus I have stated both the university's policy on GAI (that it's up to each department's course coordinater) and separately, that I will not accept any GAI use for writing the thesis. I know I will get push back, namely around the use of ChatGPT as a tool to rewrite and restructure paragraphs originally authored by the student. I admit that I use ChatGPT in this way, but for little stuff like greeting cards or invitations. 
+How do I defend my stance that even as a tool it doesn't belong in the thesis writing process? Or am I wrong? It just feels like a slippery slope.",active,0
+1ewnnku,1,2024-08-20,Hello and Help! Prerequisites topics to survive Calc 1 as a freshman,u/100TheCoolest17,learnmath,https://www.reddit.com/r/learnmath/comments/1ewnnku/hello_and_help_prerequisites_topics_to_survive/,"Hi everyone I'm (20F) a first year engineering student and unfortunately, like many I was a victim of the pandemic. My school years from grade 10-12 were all held online even after IRL Classes started (I even took a gap year to work part time and save up. So you can imagine my mind has been left blank for 4 straight years with my 3 years of online classes comprising of copypasting from ChatGPT)
+
+and because of that I've trying to learn the topics needed for Calc 1 but since I don't have a proper curriculum/study plan. I've been jumping from Algebra to PreCal to Algebra, its been really really messy. I still chose an engineering program even in my situation because I really really love working with hardware and I want to make a career out of it!! I don't want my carelessness that'a coming to bite me in the ass to kill my dream
+
+So I'd like if anyone can help and tell me what topics I need to survive Calc 1?",User_deleted,1
+1ey9k6j,1,2024-08-21,How to box out money chasers. ,u/Stock_Store_7585,csMajors,https://www.reddit.com/r/csMajors/comments/1ey9k6j/how_to_box_out_money_chasers/,"We have all encountered money chasers our schools. People who choose  CS for the money and nothing more. No passion for computers, algorithms, programming, technologies, etc. They use ChatGPT for EVERY single assignment they get, make zero projects on their free time, cheat off all exams, and overall have no interest in computer science. Throughout my career I’ve only encountered a small handful of people who truly had a love for computer science. It’s really discouraging to continue studying this field when most of the students are only in it for the money. 
+
+So here’s the question. How do you guys box these people out of your thoughts? Its so hard for me learn new frameworks and technologies 
+when most of my peers could care less about learning anything. Kinda gives the CS field a bad reputation. I feel the field isn’t as prestigious as it once was. ",active,0
+1f22t69,1,2024-08-26,I need career advice please,u/LuconOsticos,ITCareerQuestions,https://www.reddit.com/r/ITCareerQuestions/comments/1f22t69/i_need_career_advice_please/,"(Apologies for this VERY long post)
+Hey everyone  
+
+I will not pretend that I am in some grave situation since things could be a ton worse but I am grateful for my life. This is just me venting here and needing some wise words or a direction / advice to what I can do since I am feeling pretty stuck at the moment. Firstly, I am a computer engineering student in a university in canada going into my 4th year. I am a 20 year old guy. As you probably know, the market is terrible right now. Extremely terrible. Now, what I have been going into (one of my many mistakes that I will discuss in this very long post) is a mix of different directions. I have not really stuck to anything which is a mistake on my part. I quickly lost interest in many things. I tried a lot of courses (eg harvard’s cs50p python course (thankfully completed it), the complete 2024 web developer bootcamp by angela yu (didn’t complete it), 100 days of python bootcamp (didn’t complete it)) and a ton of tutorials. The thing is, I am not good at all in anything I’ve tried. I’ve also tried AI… everyone tells you it should be a field you look into… I thought some aspects are pretty cool, like being able to create your own model, train it, etc etc… I tried getting books only to find cryptic symbols and diagrams in every single page of it.I ended up going to my very first conference and met an ai engineer who works in amazon. He told me the field of AI and machine learning is more math than actual coding. I had a feeling that was the case but that didn’t exactly encourage me to pursue the field further, as it seemed to be a whole different world full of things that I’m not so passionate about. I am also a perfectionist (ironic since I really am not good at anything I’ve done, I cannot even start a project on my own. Except lousy number guessing games and those that courses encourage you to do). I want to be the best at what I do, I really do, and I know a ton of work and practice will go into trying to make that dream a reality, which makes me know I have to have some passion or at least not dislike what I’m doing. So I thought AI and machine learning wouldn’t be the best fields for me.
+
+Fast forward a bit, I met a guy in university who seemed to be a genius. Anywhere I’ve seen him, he’d be coding. He told me I should try backend coding and work with him. Long story short, he meant FOR him, for free, doing projects that he wants done, and getting nothing in return, no money no recognition, and it ends up being called his project whereas I spent long nights till 4 am coding for him (or in my case using chatgpt, another mistake of mine since I feel like an imposter, but the guy had unrealistic expectations for me, telling me I should just ‘learn’ everything he wants me to do and give him results). I knew it was B.S and after many arguments and trying to end things, I ghosted him. Couple of weeks ago he sent an apology, but that’s done now. I realized I want to go into fullstack engineering, not having to rely on anyone (my other friend was also a victim of that scam, he was the frontend guy. The ‘genius’ guy convinced my friend he should go for frontend and I should go for backend. My friend was sometimes slow on getting stuff done, sometimes abandoning things. I knew I should just do things on my own and try to learn it all for myself so I wouldn’t need to depend on anyone at all. The idea seemed appealing then, that I could build any SaaS and become an independent coder who makes money on his own (I was inspired by Marc Lou, poor at first, fired from his job, made 20 something SaaS ideas, a few were successful, most failed. He was known not to be the most impressive (or impressive at all ability wise) but very consistent and hopeful which made his personality resonate with a lot of people and earned him a huge following). That failed too, ended up not continuing learning it. I have been applying for jobs since forever. Last summer I even went as far as applying in pizza places and supermarkets and in the local mall with several copies of my printed cv. No replies. When I would apply to tech companies, it usually ended in me never hearing from the company, other than that it’d be the ‘unfortunately we don’t want you but subscribe to our newsletter to stay updated’ type of email.
+
+
+I am now genuinely thinking I might be unemployed when I graduate in December of 2025. The only position I’ve gotten is a position in the university to hold some sessions before midterms for some engineering courses for engineering 1st year & 2nd year students, and another was a Research assistant position in a mechanical engineering lab (arduino debugging type of work, I was told I was taken because the professor ‘felt bad’ and wanted to help me, according to him).
+
+
+What do I do? Also, I’m an arab, and international students pay a lot. Thankfully my parents pay for my tuition, but I feel like I am a huge burden to them. I’ve always thought I would get rich quickly, repay them, even retire them as a much deserved thanks for their incredible work. 
+
+Recently, my father told me to consider cybersecurity. His reasoning was that there are cyberattacks everywhere, so surely the demand must be high by all the companies, and that I might find my passion there since I loved that idea since I was a kid. Now it is true, the whole reason why I joined anything computer related, was because I’d always tell him I wanted to be a hacker. I was a kid, and as silly as it was, I used to think hacking games and things like that was the most interesting thing in the world. It felt like I was outsmarting systems created by much older people, perhaps lazy people but if a kid managed to hack (well, download a hack made by a smart person, not me) I was considering it to be very rewarding. I also thought of it this way. If physical prowess was of extreme importance back then and still is now, with out world moving to become nearly entirely technological, surely technological prowess is priceless too, right? It must be! If you were capable to always defend yourself from any attacks, had the ability and skill level to detect anything suspicious, and to be able to even inflict any damage on those trying to harm you or your family (I had imagined by asking to deal with people trying any phishing tricks or scams by family members and friends, despite knowing nothing about cybersecurity at ALL. I was a kid and saw it as almost a game. A battle, and I wanted to learn eveyrhring about this field to win any battle). 
+
+Fast forward to now, thinking if I should do this. Again, I feel like I would be at this disadvantage, with people taking bachelors for cybersec, so they’d definitely be a lot better than me, making me pretty useless against candidates in this highly competitive field. But then again, I feel I am not good at what I have been aiming for already, so either way I would be starting from a very basic level…
+
+It turns out I also had a TryHackMe account when I was younger (ironically, didn’t complete a single path). I find that out when I kept searching for how someone entirely new could get familiar with things. I also like the fact that it’s a lot different, my field being so focused on advanced problem-solving projects and leetcoding for tech interviews. And cybersec being mostly focused on certificates (i might be wrong). I am now in the phase of not knowing what to do, what to start with, and where to head to. It is overwhelming, maybe also because I’ve been constantly trying to get information about this huge new field that I know nothing about. Different certifications, sec+, network+, oscp, etc and different fields/roles (I find red teame to be the most interesting but apparently blue teamsrs are in much more demand). A lot of concepts are confusing like white hat grey hat black hat and if these are categories of red teamers. And if so what’s the difference between red teamers and pen testers? And also apparently there are an abundance of pen testers… but then I’ve been thinking if I should worry about competition and what’s in most demand and what pays the most since if I’m skilled enough in something, it won’t matter how much in demand it is? I don’t know though. I feel like time is running out since I will be graduating in about a year and a half, with everyone in university landing internships and then there’s me, with nothing.
+
+
+If you have made it this far, I’d like to sincerely thank you for your time. I hope you can tell me what you think and what you’d do in my situation and if my thinking is wrong about any of the aspects I mentioned",User_deleted,0
+1f252vv,1,2024-08-26,Students Who Got in Trouble for Using AI Writing,u/gptgabe,stealthgpt,https://www.reddit.com/r/stealthgpt/comments/1f252vv/students_who_got_in_trouble_for_using_ai_writing/,"Read OG post here: [https://www.stealthgpt.ai/blog/students-who-got-in-trouble-for-using-ai-writing](https://www.stealthgpt.ai/blog/students-who-got-in-trouble-for-using-ai-writing)
+
+It’s ironic, many students have faced harsh consequences for using artificial intelligence in their schoolwork, yet at the highest echelons of our educational institutions, plagiarism seems to run rampant among top tier faculty.
+
+If you've looked into the shifting [ethics of AI and academic integrity](https://www.stealthgpt.ai/blog/is-using-chatgpt-plagiarism-academic-dishonesty-in-dishonest-academia), it only makes sense academia would have trouble embracing a new technology like generative AI. However, students that face harsh consequences for the use of AI today aren’t going to be comforted by the full scale acceptance of the technology in the near future.
+
+I’ve scoured the internet to find tales of students using AI-generated text and getting accused of academic misconduct because of it. These are their stories.
+
+# Table of Contents
+
+* Students That Got Punished
+* Students That Actually Wrote Their Essays
+* How Common Is AI Cheating in Schools?
+* Do AI Detectors Work?
+* How to Bypass AI Detectors
+* Conclusion
+* FAQ
+
+# Students That Got Punished
+
+The most reported of these sad instances is [the story of Marley Stevens](https://www.newsnationnow.com/business/tech/ai/student-fights-academic-probation-ai-tool/), a college student who didn’t even use an AI chatbot to write her essay, she used Grammarly, an AI paraphraser, to proofread it. If you’ve read out [blog post about AI paraphrasers](https://www.stealthgpt.ai/blog/will-an-ai-paraphraser-make-chatgpt-undetectable), not only do you know they’re a flawed AI tool, but you’d know that being accused of academic dishonesty for using one is ridiculous.
+
+Speaking of dishonesty though, if you delve deeper into this story, you learn that not only were her professors advocating for using Grammarly, but the university of North Georgia advocated for it on their own website, later taking down any mention of the software after Stevens’ accusation.
+
+Marley was put in on academic probation that she eventually overcame, but she is far from the only student that encountered academia’s hypocrisy and incompetency around AI tools.
+
+Another case involved multiple students at Yeshiva University that used generative AI like ChatGPT to write their take home finals. The students were caught when their English professor ran their finals through AI detection software and discovered the cheating. In response, the university implemented a whole new AI policy prohibiting the use of AI writing.
+
+Reddit is full of these stories, here’s one below. In it, the student was threatened with possible expulsion but after pleading with faculty, her grade was taken from a zero to a C so she could pass the class.
+
+Even more commonplace than punishment for students using AI writing, is AI detection systems screwing up and delivering false positives that sour college experiences.
+
+# False Positives and Bureaucratic Nightmares
+
+UC Davis student [Louis Stevens](https://www.rollingstone.com/culture/culture-features/student-accused-ai-cheating-turnitin-1234747351/) wrote a paper summarizing a court case for a class and hours after uploading it, not only did Turnitin flag a portion of the essay, but it was immediately forwarded to the Office of Student Support and Judicial Affairs.
+
+After being subjected to an academic integrity review, Stevens learned that the university had just integrated Turnitin which was then spouting a 98% accuracy rate. Even though she proved her innocence, this wasn’t the first case of false positives at UC Davis.
+
+Previously that year, [William Quarterman](https://www.usatoday.com/story/news/education/2023/04/12/how-ai-detection-tool-spawned-false-cheating-case-uc-davis/11600777002/) uploaded his history exam to his professor who ran it through GPTZero and after it gave him a false positive, Quarterman was plunged into a bureaucratic nightmare before clearing his name.
+
+These instances are certainly disheartening, but there was one case of false positive AI detection that was so egregious, it was actually funny. This was the case of a [Texas A&M professor that temporarily failed his entire class](https://www.rollingstone.com/culture/culture-features/texas-am-chatgpt-ai-professor-flunks-students-false-claims-1234736601/) after he ran their papers through ChatGPT and it told him that the papers were AI generated.
+
+The class was quickly redeemed and the story goes on to be retold as an example of academic institutional incompetence.
+
+# Do AI Detectors Work?
+
+There wouldn’t be a whole section about false positives if they did what they were supposed to do. Higher education simply doesn’t see another option. They don’t want students to skirt the learning process and not develop the critical thinking faculties that come with it. So, they employ bad technology. Even MIT published this report declaring that [AI detectors don’t work](https://mitsloanedtech.mit.edu/ai/teach/ai-detectors-dont-work/).
+
+As far as Turnitin goes, they claim to have a 4% false positive rate at the sentence level. That means for the millions of AI generated essays that get processed, there are countless false positives that are reported and just as many probably being neglected by faculty that understand the technology sucks.
+
+The problem is simply in the algorithm. AI detectors are taught to check for the watermarks of AI writing, meaning simple and precise word choice, sentence structure, and sentence length, and it’s not like those can’t be exhibited in human writing.
+
+Stanford even did a study that found AI detectors show a bias toward Non-native English speakers and international students for this reason.
+
+As you can see above, each detector tested showed bias against non-native English speakers.
+
+# How to Bypass AI Detectors
+
+In order to bypass AI Detectors like Turnitin, you need to use an undetectable AI service like StealthGPT. By humanizing AI text and removing the watermarks of AI writing, StealthGPT makes any content it generates human feeling enough for no person or detector to consider it AI generated.
+
+If these students used StealthGPT, they would’ve never been caught in the first place, even when they wrote their own essays, StealthGPT knows how to avoid the pitfalls of AI detection that not even human writers are aware of.
+
+If you want to learn [how to bypass AI detectors](https://www.stealthgpt.ai/blog/bypassing-ai-detectors-stealthgpt) with StealthGPT read our blog.
+
+# What to do if you get caught using AI
+
+Lets say you’ve been accused of academic dishonesty. What do you do next? Here are the necessary steps to take to protect yourself:
+
+* When responding to a failing grade or AI-usage accusation, be polite and assertive of your innocence.
+* If this does not work, go to your student affairs office and get further direction.
+* You will need evidence of your innocence so be prepared with documents showing your history with the assignment and preparation for it.
+* Do your own research and compile sources that testify to the faultiness of AI detectors.
+* Try to get witness testimony of your working on the project.
+
+And remember, when you’re in front of a judicial committee, it’s often the case you can have a lawyer present if you feel that's neccesary.
+
+# Conclusion
+
+When OpenAI created ChatGPT, they had to know students would use it for school work. Academia hasn’t exactly reacted to the technological shift gracefully, instead they’ve imposed restrictive measures and turned campuses into climates of suspicion.
+
+Universities need to accept the fact AI will fully integrate into learning and teaching. Teachers will use it for everything from creating syllabi to curricula and students will use it for homework. The only way to ensure they don’t use AI is to host more in-person assignments, which you should fully expect to happen.
+
+If you want to use AI writing tools for your essays, don’t be swayed by outdated notions of academic integrity to avoid using what technology is available to you. Work smarter and get StealthGPT to avoid AI detection in the first place.
+
+StealthGPT bypasses every major AI detection software with unparalleled ease. We now offer a student discount that lets you subscribe to one of our plans at only .99 cents for the first month. Students that join StealthGPT become part of a community with thousands of users that have unlocked their potential using AI.
+
+Don’t get left behind. AI doesn’t hinder your development, it lets you take proven shortcuts to success instead of wasting time.
+
+# FAQ
+
+# How Common Is AI Cheating in Schools?
+
+There are multiple reports with varying answers, all of which are damning to academia for the frequency in which students use AI to generate their schoolwork. Here’s just one of many reports, this one claims only 20% of students say they’ve never used AI. Also, take into consideration that someone people wouldn’t tell you if they were polled.
+
+With such a high rate of students using AI, it’s hardly fair to call them cheaters. They’re just young people growing up in a technological revolution is all.
+
+# Is there a free AI Detection tool?
+
+Yes. Multiple free AI detection tools exist. The best of which is AI Detect because it also features a humanizer, making it a one stop shop for all students and content creators.
+
+# Is there a free Undetectable AI tool?
+
+Yes. StealthGPT offers a free trial version to their software which allows you to use their AI humanizer and Stealth Writer for free and without any word limits. StealthGPT is not like other chat bots, we’re the kings of undetectable AI.",active,0
+1f433mo,6,2024-08-29,How do you deal with imposter syndrome and constantly feeling behind?,u/Scratchpost500,csMajors,https://www.reddit.com/r/csMajors/comments/1f433mo/how_do_you_deal_with_imposter_syndrome_and/,"I'm a junior with a concentration in both software eng. and cybersec and I feel panicked every time I interact with some other students. I never feel like I'm at anyone's level. I have a friend who has been in the industry and tells me I'm doing great and I should apply for internships (which I am), but I talk to my peers and honestly feel like an idiot. 
+
+  
+I practice here and there on leetcode, I do my work, I don't rely on chatgpt at all. I like to stay up to date with tech info like data leaks and can do basic troubleshooting. Have messed around with more languages. But I see people making their own custom arch distro? I don't really understand how to fully use github. I just learned what the term CRUD means. I don't understand why some prefer some IDEs to others (we have to use eclipse this semester and students are frustrated but I didn't get why). Others have used Rust and stuff, etc. You know what I mean?   
+
+  
+Like I can go through line after line of my bugs and look into it..See whats the problem and find solutions. I know how to condense my code the best I can whereas others may use a bunch of if-else statements. Then we have to download something for a class and someone goes ""oh god a webkit2gtk"" and I'm like, what does that mean?? and I have to look into it.   
+
+It's like a huge give and take, I may know some things more but the things I know are not anything special compared to what other students seem to be doing. And it isn't the end because I can easily learn all this stuff, which I try to do. But it feels neverending and I'm always behind. I haven't been practicing as much this year because I dedicated time to networking after seeing the mass layoffs going on, and that's paying off. But what happens if I land a job and I just feel like an idiot still? For one of the companies I wanna work for I saw what they expect or want their software engineers to know and I could faint. I didn't recognize anything.",User_deleted,6

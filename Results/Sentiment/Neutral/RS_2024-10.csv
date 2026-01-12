@@ -1,0 +1,1817 @@
+1ftcnn5,6,2024-09-30,Entire Section Seems Apathetic - What Am I Doing Wrong? ,u/Uptightcatlady,Professors,https://www.reddit.com/r/Professors/comments/1ftcnn5/entire_section_seems_apathetic_what_am_i_doing/,"Context: This is my first year teaching full-time, though not my first time teaching. I teach composition at a rural CC with a 5/5 load. I have 4 sections of English 101 this semester. They are all in-person. 
+
+While each of my classes has their own quirks and issues, I have one class that just seems incredibly strange. None of the students act like they care to be there, and many of them just outright don't listen to instructions, tune out during lecture, etc. Of course, there are always a handful that do this in every class every semester. But this particular section seems to have a majority of students just straight up not listening and not doing their work. I can only think of about three students in this class who actually seem to care at all, and even that group has given me problems on a more minor scale. 
+
+It may help to add that the class includes several athletes and ESL students. On the surface, I try not to let the demographics of the class influence my teaching, but I can't help but feel like it might be playing a role? Many of the students are just turning in absolute garbage written by what I suspect is ChatGPT (and those who are doing this are not currently passing the course). I have a very high number of D's and F's in this class, and the students just seem completely apathetic. Many of them only come once a week or once every two weeks, most of them turn work in late (despite a 10% deduction per day), and many do not follow instructions. Despite mandatory tutoring, feedback on drafts, in-class conferences, and giving them time to work in-class, I just cannot seem to get them to care about their shitty grades. 
+
+Anyway, I guess I'm wondering to what extent this is normal, and what I can do to help mitigate such a high level of apathy? My other classes are nowhere near this level of bad. Other classes have a few problem students, but nowhere near as many as this particular section. I teach generally the same content to each of my 101s because we have strict departmental requirements for what we are supposed to assign and how we are supposed to grade 101 students (due to accreditation); however, I have tried to vary my instruction so that it is a bit more explicit for this class given the demographic. It does not seem to be working, lol. In fact, it might be getting worse. 
+
+What can I do to help this class of seemingly apathetic students who won't do their work and won't ask for help? ",active,6
+1ftcw7r,1,2024-09-30,Ethics of ChatGPT,u/Impractiacal-Advert,learnmath,https://www.reddit.com/r/learnmath/comments/1ftcw7r/ethics_of_chatgpt/,"Is it correct for me as a student to use chatgpt to study and check my answers. Despite how people may say ChatGPT makes mistakes and is not to be trusted, it hasn't had any problem for me. Plus it helps me understand an entire lecture in 3 seconds. 'Chatgpt, I didn't get that, explain it to me like a preschooler'. I've never been good at my maths, I was always into the other subjects. It's good to have a tutor that teaches me faster than any teacher could.  
+But what are the drawbacks of this? What's the monkey's paw  
+I feel guilty for 'cheating' but honestly, if ChatGPT is cheating then tutoring is cheating as well. They're both intelligent figures that tell you to try it by yourself first and then they give you an explanation on how to do it right (granted that's if you're trying the question first before GPTing it) (Which I'm doing).  
+Also I rather cheat than get an F.  Again, is it really cheating if I'm reading a lecture's worth of paragraphing and solving the problem that is of trying to understand what ChatGPT is explaining to me? It's just a teacher. ",User_deleted,0
+1ftkh2t,234,2024-10-01,Problems That I Encountered While Trying To Make A Game With Some Friends,u/Single_Investment64,gamedev,https://www.reddit.com/r/gamedev/comments/1ftkh2t/problems_that_i_encountered_while_trying_to_make/,"Hello, I just wanted to share my mistakes and experiences in this post, maybe getting some feedback/criticism about it. Also sorry for grammar mistakes since English isn't my native language.
+
+Firstly I think I should introduce myself a little bit, before the main theme of the post. I am a medical student in a different country then USA, currently in my last year of school. When I was in highschool, I caught interest in programming and started it as a hobby and it quickly turned into a passion. Since then, I made a couple of toy projects, a couple of abandoned not-toy projects and a reaaly big/time consuming fullstack project when I was part-timing in a job. Still to this day, I am working on my personal projects as a hobby in my little to no free-time. 
+
+Let's get to the main topic then. Some months ago, in the beginning of April, I was chatting with a long friend of mine from my middle school. Let's refer him as ""Friend A"". He is currently doing masters on game design and also finished a game design major. He is currently unemployed so he suggested making a game with me and I gave a serious though about it. I've made a toy game with Unity while watching Brackeys tutorials in the past and I had a lot of fun. I also am somewhat experienced in coding. *Also I should note that getting instant feedback about what you make/code while making games gives a lot of satisfaction to me. Ah, and i thought maybe I can learn a lot of valuable things from my friends about making games.*
+
+Here is the first mistake I made. I trusted my friend's knowledge without checking his previous experiences making games, and I trusted his major. I mean working with a person that getting a masters degree on game design is a great thing I thought. I was wrong :)
+
+It seemed he had this though in his mind for a while. We talked about making a game that has a quality at least worth to publish on Steam. Then we came to the team. I told him that I can handle the coding part, most of it, but I don't have any knowledge on game design and game art, that he could do the game design part but we strongly need a person to handle the 2D art part. He agreed and we found a friend (Friend B) that can do a simple 2D art for us. Also this friend has a friend that could help in the game design aspects (Friend C), also majoring a game design degree. I said ok, then we got to planning.
+
+  
+Since we don't have any real experience making games, we decided on a simple roguelike  game with some money management properties. Small, simple, 2D pixel graphics. Then we decided our roles. The game designer friends will handle the game design and planning (they also offered help with coding, I said okay for the times when I would be unavailable due to school), I will handle the major coding part, the first mentioned friend's girlfriend and my other friend will handle the 2D art part. We were total of 5 people, I had high hopes.
+
+  
+Having unrealistic expectations and high hopes for this team was my second biggest mistake.
+
+  
+When we started making the game, I figured my teammates have no knowledge/experience working as a team. They never even used version control systems like git, GitHub, they don't know how to communicate and synchronize (idk if this is the correct term). So first, I taught them about simple things like this. No problem. 
+
+  
+Then we came to planning part. We brainstormed about a couple weeks. Everytime we make a discord call, Friend A has never have serious ideas about game itself, not a thing like ""I think this should be like this, we can't make this like this, this feature should be in our game."" but more like ""Hey guys, I heard about a few incubation centers for indie game developers. "". Friend A's girlfriend always mutes herself, never says anything. Friend B says okay to all things, Friend C says we should start a company. There is no idea coming from anyone. Then I talked about what kind of game was in my mind and told them. They accepted all of my ideas, never adding anything to it. I said okay, that's fine. I asked Friend A and Friend C to document what we talked about all these talks on Discord. To this day, we don't have any written things about our game's style, features, etc. Also, man, please put some ideas. If I had a solid game idea in my mind, I've probably already started to make it.
+
+When there is no documents about the design, any plan, I don't know what to code. So I asked about a GDD, not like a huge one. I asked one like goes through general aspects of our ideas, I also asked them to open issues on github to give me opinions about what to code. The documentation part is still wonders but they created some issues. We started to work on them.
+
+  
+For the first 3 issues, they were player movement, one melee enemy and one ranged enemy. Friend A and C wanted to make melee and ranged enemies so I completed the movement scripts. Then Friend A asked for help for melee enemy so I helped him and waited for more open issues to come since we don't have any written requirements/documents about what the game should be like. Friend C finished his issue and sent it to me for a review. His ranged enemy worked wonderfully, there was some small/unsignificant errors on his part no problem, I told him about those things and he understood and thanked me. Then Friend A said he finished his issue. Sent me to a review, nothing works. I look at the code, the code is a mess. I asked him ""Did you write this code by yourself using some tutorials or did ChatGPT wrote all of it?"" He says chatgpt. I fixed the code for him, tought him about how he should have written this code for it to work.  He said ""I always use ChatGPT, it always worked! IDK about what I did wrong this time but I will not stop using chatGPT! I even made my graduation project using ChatGPT!"" lol. He doesn't even know what a single line of his code does. I always use github copilot as a helper so I am not against LLMs in coding but for someone who doesn't know how to code, I guess using LLMs for everything is a big no no.  There was a couple issues about Friend A like this so I told my friends that I will hande \*all of the coding part\* myself, they accepted it. Friend A wrote really shitty code that it was faster if o wrote it myself then refactoring his code.
+
+  
+After some time, i closed like 10 issues. Then we went to a 20 day long overseas vacation with a group. Friend A was also in this group so our progress for the game is halted. When we returned from vacation, i closed all issues on github and asked for news. One week passed, no issues, two week passed, no issues. On the third week returning from vacation, i gathered the team for meeting. I told them I have nothing to work with, I have to know what to code, there is no progress on the design part of the game since the first meeting, that they need to try to pay more attention. Also I asked for a project plan. Maybe a simple GDD. Maybe a simple list of the game features. Friend C says he is leaving. He says he expected more from Friend A. Yes, he was right but he as a game designer didn't do anything about the design. He left. Okay, we didn't lose anything from him leaving. Since then i completed like 30 issues, some of them are opened by myself. Still there is no documentation. We can't see ahead. We don't have a clue what to do next. If I could have handled all the game design and game art parts of a game, with the coding knowledge I have, I could have made the whole game by myself too but neither i have time for those parts nor any knowledge/ability. 
+
+
+
+I again asked Friend A for a project plan, 3 days later he sent me a single .png with a 10-11 orange colored bars named Gannt chart. Nothing more. Then I left too.
+
+  
+I guess in our universities' game design departmens, they don't teach students anything or my beloved Friend A somehow passed his lessons with cheating/copying/chatGPT. From the start of the project, he played LoL for stable 8 hours a day. Probably has a worked on the game like a total 10-15 hours. I wasted a lot of time doing hours of pointless coding sessions, we still don't have any assets for the game. Everything is a placeholder box. Later I learned Friend A didin't checked any finished mechanics even once. Maybe he didn't opened the game folder even once. What did I wasted my tens of hours for?
+
+  
+So I learned if I wanted to start a serious project, I have to find serious people as at least as me. Also please, do not trust friends. In my mind, game design degree is reduced to nothing, choose whom to work with with a great consideration.",active,249
+1ftqc2i,7,2024-10-01,how can i ACTUALLY get a 7 in BIO HL as an average (maybe below) student. PLEASE HELP IDK WHAT IM DOINGGG,u/Unable_Landscape_178,IBO,https://www.reddit.com/r/IBO/comments/1ftqc2i/how_can_i_actually_get_a_7_in_bio_hl_as_an/,"Hii everyone!
+
+I’m currently taking Biology HL ( grade 12 ) i have almost 7 months left till my externals. I’m aiming for a 7, but I feel like I’m just an average student in bio. In my final school exams, I usually score around 30/40, so I know I need to work harder for the IB.
+
+I typically take notes based on the IB guide, and I’ve started restudying the material I covered in Grade 11. My teacher mentioned that the best way to get a 7 is to memorize the content, but I’m not quite sure how to do that effectively. My usual study method is studying the content ( from my notes ) first and then solve some past papers like revision village or the question bank, but I’m looking for a resource—like a book or notes—that covers everything I need to memorize especially from the guide ig like actually everyything. i just think it'd be easier to just memorize already made notes or whatever instead of making my own but I'm always scared to trust someone's resources o the ones online like what if they missed something.
+
+I’m definitely planning to solve past papers and write down what I remember, but if anyone has tips or resources that ACTUALLY HELPED them get a 6 or 7, I’d really appreciate it!
+
+I also let ChatGPT help me plan my studies, so my plan for the next 30 weeks is to focus on one new subtopic each day ( that i take in class ), and on the weekends, I go over two subtopics from Grade 11 like restudy and solve pp. Right now, I’m using Kognity for my studies, but honestly it suckks it has too much info in some subtopics and in some too little. btw i have a total of 40 subtopics like A1.1,A1.2 .
+
+ link for the bio guide for the new syllabus of 2025 file:///C:/Users/natal/Downloads/IB%20BioGuide-2025%20(2).pdf
+
+Thanks in advance for any help!
+
+
+
+
+
+
+
+",active,6
+1ftz1wp,174,2024-10-01,Some of my students just make me sad,u/Less-Classroom7119,Teachers,https://www.reddit.com/r/Teachers/comments/1ftz1wp/some_of_my_students_just_make_me_sad/,"I teach 9th grade world history honors. We're writing our first essay in this class. My standards are, it has to be a page and a half minimum, you need 4 sources, and you have to choose 1 of the 5 topics I have given you. 
+
+One of the first questions that I got from one of my students: Mr. Classroom, can we use chatgpt to do our research?""
+
+Me: ""No you can't, because it's not trustworthy.""
+
+Same student: ""Why? Google not always trustworthy either.""
+
+Me:""You're right, it's not. But at least with these Google searches, I know where you got your research from. I'll know if you have bad research, I know what site gave you the bad research and will be able to advise you and anyone else from using that website. With Chatgpt, you never know what information it's going to give you. You have no idea where it got it's information from, yiu have no idea how trustworthy and reliable that information is. You'll just accept whatever answers it gives you, and you won't fact check it. Because AI is wrong way more often than you think it is.""
+
+Same student 20 minutes later: ""Mr. Classroom, can we copy and paste the information for our essay.""
+
+Me: ""No you can't, you have to write it in your own words.""
+
+Student: ""Why?""
+
+Me: ""Because thats plagiarism""
+
+Another student: ""Whats plagarism?""
+
+Me: ""Plagarism is when you try and use someone else's words or ideas and try and claim them as your own.""
+
+1st student: ""I'm just copying and pasting it though, that's not plagarism.""
+
+Me feeling all of my insides chill with sadness because of what he just said.
+
+Me: ""No, that's still plagiarism. Unless you are an immortal vampire and was there in the 1400's, you have no prior knowledge about the printing press, have no prior knowledge on its impact, or anything.""
+
+Student proceeds to just mutter and turn away from his computer. While I will say that I use AI for some tools/resources, I'm starting to develop a deep hatred for these programs.",active,190
+1fulchd,1,2024-10-02,User specific ai model recommedations by chatgpt ,u/lasttimes20,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/1fulchd/user_specific_ai_model_recommedations_by_chatgpt/,"Here are some user-specific AI models and tools, including me, that you might find useful based on different needs:
+
+
+
+1. \*\*ChatGPT (Me)\*\*: Great for conversational AI, answering questions, providing explanations, and assisting with creative writing or coding queries.
+
+
+
+2. \*\*Replika\*\*: A personal AI chatbot designed to engage in conversations and provide companionship. It learns from your interactions to become more attuned to your preferences.
+
+
+
+3. \*\*Google Assistant / Amazon Alexa\*\*: Virtual assistants that can help with daily tasks, set reminders, answer questions, and control smart home devices.
+
+
+
+4. \*\*Duolingo\*\*: An AI-driven language learning app that tailors lessons to your learning pace and style, making language acquisition fun and interactive.
+
+
+
+5. \*\*Jasper\*\*: An AI content generation tool designed for marketers and writers, helping create blog posts, social media content, and more, tailored to your brand voice.
+
+
+
+6. \*\*Socratic by Google\*\*: An AI-powered educational tool that helps students understand concepts by answering questions and providing explanations based on the user's input.
+
+
+
+7. \*\*Notion AI\*\*: Integrated into Notion, this AI helps with note-taking, task management, and project planning, adjusting to your workflow.
+
+
+
+8. \*\*Kuki\*\*: A conversational AI designed for entertainment and companionship, engaging users in a light-hearted manner.
+
+
+
+9. \*\*Chatbot Builders (e.g., Dialogflow, Microsoft Bot Framework)\*\*: If you're interested in creating your own AI models tailored to specific needs or workflows, these platforms allow you to build and customize chatbots.
+
+
+
+10. \*\*Wit.ai\*\*: A natural language processing tool that allows developers to create apps that can understand and respond to human language.
+
+
+
+Depending on your interests—whether for productivity, learning, companionship, or creative writing—there's likely an AI model or tool that suits your needs!",active,1
+1fv5g33,15,2024-10-03, From Dropping Out of School to Launching an AI Startup: My 15-Year Journey,u/sgasser88,SideProject,https://www.reddit.com/r/SideProject/comments/1fv5g33/from_dropping_out_of_school_to_launching_an_ai/,"Fifteen years ago, I was a pretty lost student. School just didn’t click for me, and I eventually dropped out. Fast forward to now, and I’m running my own AI startup. It’s been a long and unexpected journey, and I thought I’d share some of that with you all—just in case anyone else out there feels like they're not following the ""traditional"" path.
+
+# School Didn’t Work, But Coding Did
+
+To be honest, I hated school. I wasn’t good at it, and it didn’t feel like it was leading me anywhere. But then I stumbled into coding, and everything changed. I got into PHP and started learning frameworks like Symfony and Laravel on my own. That was really the beginning of everything for me.
+
+Here’s a rough timeline of how things played out:
+
+* **2009–2012**: Web Developer at R3 GIS – My first coding job.
+* **2012–2020**: Backend Web Developer at ADDITIVE – I was the first developer, building the infrastructure and core software from the ground up.
+* **2019**: Launched *AutoIdle* as a side project – My first step into entrepreneurship.
+* **2020–2022**: Team Lead at ADDITIVE – Managed the development team and oversaw product builds.
+* **2022–2024**: Head of Software at ADDITIVE – Led the entire software department.
+* **2024**: Launched *MailWizard* and left ADDITIVE to focus on it full-time.
+
+Looking back, it’s been a long, winding road with a lot of trial and error. It took me a while to realize that the traditional route wasn’t for me, but finding something I actually enjoyed—coding—completely shifted my mindset.
+
+# The Road of Many (Failed) Side Projects
+
+Before *AutoIdle*, there were a lot of failed side projects. I spent years trying out different ideas, hoping one of them would take off, but none of them ever really got users. I built *Zebrello*, a news reader that was supposed to deliver articles based on your interests. There was also a recipe app I thought could help organize meal planning, and an app to sell used items on multiple platforms like eBay and Facebook Marketplace. But despite my efforts, these projects never made it beyond a small group of supportive friends.
+
+Honestly, it was frustrating. I'd work on these side projects during weekends and vacations, only to hit roadblocks when it came to getting them out there. But I learned something from each attempt, even if they didn’t go anywhere.
+
+One thing I’ve found: vacations and stepping away from work are often when the best ideas come to me. In fact, *AutoIdle* itself was born during a Christmas vacation when I finally cleared my head and saw things from a new perspective.
+
+# Turning a Side Project Into Something More: AutoIdle
+
+When I built *AutoIdle* in 2019, I didn’t expect much. It was a Heroku add-on that idles unused apps to save resources. The idea was simple—useful for some people, but not groundbreaking. I threw it together over a holiday break, and at first, it seemed like just another side project that might fizzle out.
+
+But over time, *AutoIdle* slowly started gaining traction. It wasn’t an overnight success, but people found it valuable, and by 2021, it had started turning a profit. It wasn’t huge, but it was enough to show me that I could build something people would pay for. After years of failed attempts, *AutoIdle* was the first side project that felt like it had real potential.
+
+More than anything, it gave me the confidence to keep going and the belief that I could build something on my own terms.
+
+# The AI Experiment That Turned Into MailWizard
+
+Earlier this year, I was getting really fed up with how much time I spent writing emails. I tried using some AI tools, but nothing really worked the way I wanted. So, I figured, why not just build something myself? That’s how *MailWizard* started.
+
+At first, I just saw it as another side project, but the more I worked on it, the more I felt like this could be something bigger. I eventually decided to quit my job and focus on it full-time. It was scary as hell, but sometimes you just have to take that leap.
+
+# The AI Learning Curve: From GPT-4 to Claude
+
+When I started building *MailWizard*, I was using GPT-4 like a lot of people, but after a while, I realized it wasn’t the right fit for what I needed. That’s when I found out about Claude from Anthropic, and after testing it, I made the switch. It’s been a better fit for the app, and it’s helped me take the project to the next level.
+
+I actually wrote a blog series about the whole process, if you’re curious about the details: [From GPT-4 to Claude: Building MailWizard](https://mailwizard.ai/blog/gpt4-to-claude-building-mailwizard-solo-developers-journey).
+
+# The Toughest Part Isn't the Code
+
+One thing I’ve learned is that the technical stuff, while challenging, isn’t the hardest part. What’s really tough is marketing and getting users. With *AutoIdle*, Heroku’s marketplace handled a lot of the visibility. But with *MailWizard*, it’s all on me to find users and get the word out. It’s been a huge learning curve, and I’m still figuring it out.
+
+# Reflecting on 15 Years
+
+If you had told me 15 years ago, when I was failing at school, that I’d be running an AI startup one day, I wouldn’t have believed you. I’m still learning, still figuring things out, but the fact that I’ve gotten this far feels like a win in itself.
+
+At this point, *AutoIdle* provides me with a stable income, which is a relief, but my main focus is on growing *MailWizard* and seeing where I can take it.
+
+If there’s one thing I’ve learned, it’s that you don’t have to follow the ""traditional"" path to succeed. If you're into tech but feel like you're not fitting into the usual career boxes, it's totally possible to carve your own way. Just keep going, keep learning, and don’t be afraid to take risks. You never know where it might lead.
+
+That’s it! Just thought I’d share in case anyone else is on a similar journey. Would love to hear if anyone else has made the leap from side project to full-time!",active,21
+1fv890u,1,2024-10-03,Recruitment for experiment at NIE,u/dracokang,NTU,https://www.reddit.com/r/NTU/comments/1fv890u/recruitment_for_experiment_at_nie/,"Hi everyone, I am a Y2 CS student doing my URECA project at NIE (Learning Sciences and Assessment Academic Group). We are recruiting 200 NTU students to participate in an experiment, which involves completing programming tasks with the help of AI (we will be using ChatGPT-4O). 
+All NTU students of any year or major are welcome to register, so please help spread to your friends!
+
+Key points:
+- must be current NTU student (any year/major)
+- must be able to code in python (at least understand python basics and syntax)
+- experiment lasts ~2hr (1.5hrs for test, ~0.5hrs for calibration)
+- up to $40 for experiment, +$10 for post-experiment interview (optional)
+- a small subset may be chosen to do experiment without help of AI (still can google)
+
+If you have any other questions, please feel free to pm me. Thanks!
+Here is the link to sign up:
+https://docs.google.com/forms/d/e/1FAIpQLScEugxA961snbt9xN4H3M-mtodOkDW_3tcllX9ehQGZOTQNmg/viewform",User_deleted,1
+1fvg374,1,2024-10-03,ChatGPT: Not Just for Cheating – A Teacher’s Secret Weapon!,u/itsgeorge,Teachers,https://www.reddit.com/r/Teachers/comments/1fvg374/chatgpt_not_just_for_cheating_a_teachers_secret/,"ChatGPT isn’t just a tool for students to cheat; it can be a game-changer for us teachers. Here are a few ways I’ve used it that you might not have thought of:
+
+Graph Creation: Need a quick graph for class? Just instruct ChatGPT to use Python to generate it. Saves time and adds a visual punch to your lessons. This one is invaluable to me when creating new physics lessons.
+
+Handwriting Transcription: Upload images of those hard-to-read student scribbles for easy transcription. No more squinting at illegible handwriting! If you have digital submissions of written work, it just takes a second to take a screenshot of part of your computer screen.
+
+Observations & SPED Feedback: Freeform write your student observations, then prompt ChatGPT to format it into clear feedback for SPED teachers. Streamlines communication and documentation.
+
+What are some of your best use cases?",active,0
+1fvw8lu,1,2024-10-04,Chance an International (Indian) first-gen male applying for CS with Very good ECs but average grades,u/EveningDrive423,chanceme,https://www.reddit.com/r/chanceme/comments/1fvw8lu/chance_an_international_indian_firstgen_male/,"**Demographics:**
+
+* Male, Asian (Indian), International
+* Low income ($20K USD per annum), First Generation, Will apply for Need-based aid for all the colleges 
+* School: DPS (in new delhi) - one of the top schools in North India with over 20% of students going abroad for studies, Senior year class size : 800
+
+**Intended Major(s):** Computer Science or related field like CE
+
+**ACT/SAT:** 1480 SAT Superscored (780M, 700RW), no ACT
+
+**GPA and Rank:** **9th:** 96%, **10th:** 91%, **11th:** 78%, **12th:** 88%. No weighted GPAs calculated, School doesn't rank. As per ChatGPT and other sources, my converted GPA is around 3.74 - 3.82, NOT OFFICIAL GPA
+
+**Coursework:** Indian CBSE Curriculum, took 2 AP tests
+
+* AP Physics: mechanics (3), AP Calc BC (3)
+* Took Physics, Chemistry, Maths, CS, English in grade 11th and 12th
+* FYI, CBSE physics and chemistry are one of the hardest subjects (half my class has failed in chemistry in mid-term examinations)
+* Top scorer in CS throughout HS and decent score in phy and math, bad scores in chem
+
+**Honors & Awards:**
+
+* Winner of ETHIndia 2023, largest ethereum (blockchain) hackathon in the world (2000 final participants out of 25,000 applicants), won \~$1500 USD
+* Gold Medal in ISSO (International Social Studies Olympiad) under 500 Intl. Rank out of \~40K in Grade 10
+* Winner of a pan-india blockchain hackathon, 200 participants, won $3000 USD
+* Top 5 out of 100+ teams in LSE affiliated Startup pitching competition
+* 2nd in a pan-asia hackathon organized one of the major blockchain, 500 participants, won \~$400 USD
+* Won 5+ inter-school pitching and web development events held across best schools in New Delhi
+* Awarded 100% tuition scholarship at my school from grade 7th to 10th in recognition of my exceptional performance in the Pan India Scholarship Test conducted.
+
+Note 1: I have removed some names and made it more generic for privacy reasons
+
+Note 2: I switched my schools after grade 10th, so I did 9th and 10th from a small school and 11th and 12th from the current New Delhi school
+
+**Extracurriculars:** Note: I have enclosed names in { } to make it generic and preserve privacy
+
+**I think this is where my application really shines!**
+
+1. Founded my blockchain company, we have built the world's fastest blockchain, validated by top gov. professionals and top researchers, Provisional Patents granted, Partnered with 3 organizations with cumulative valuation of over $400 million USD, Generated $25K in net revenue
+2. Worked as a Founding member and Lead product developer at {crypto wallet startup}, It is the number 1 wallet on {a big blockchain} ecosystem. Built their core product from scratch, received $3 million in funding within 6 months of inception, over 200K downloads of the crypto wallet extension
+3. Written a research paper on how to scale blockchains and to build the most efficient blockchain architecture which outcompete all the current major blockchains out there.
+4. {Very high position} in my school's most prestigious tech club which was founded in 1993, head of multiple departments within the club, organized annual symposium 2 times which had over 2,000 student participants from 50+ schools across India.
+5. Volunteered at a local NGO, taught underprivileged children of migrant labourers, organized and collected $2000+ in a fundraiser to build a tent-school for them along with providing them mid-day meals 
+6. Freelancing in 8th, 9th and 10th grade, managed sales, customers, and project development alone; Built chrome extensions and websites for clients; Overall 5 star rating on Fiverr, over $2000 USD in profits
+7. Conducted various classes on blockchain and web development for collective of 200 college students as well as school students and Produced content for youtube on chrome extension development, 35K views, 400 subscribers
+8. Built a computer management and monitoring software for my school’s computer labs; installed in over 200 computers, it helps teachers monitor student’s activities on the computers.
+9. Speaker and Organizer for Cybersecurity Workshop at my school for 30+ school teachers from over 20 schools
+10. Senior Member of the Chemistry club of my school; designed and compiled the school's annual chemistry magazine.
+11. Built websites for many clubs at my school, Built websites on contract basis for a leading real estate project management firm with over $4 million USD annual revenue; Built websites for competitions and some personal projects.
+
+**LORs:** CS teacher, CS Club Teacher, Maths teacher, Employer, CEO of a partner company
+
+**Schools:** List of colleges, ED/EA/RD, etc
+
+**High Reach:**
+
+* Northwestern (planning for ED) (Very less chance but Great scholarships)
+* NYU (planning for ED2)
+* Johns Hopkins University (Should I apply here, I don't think I have any chance)
+* Georgia Tech
+* UT Austin
+* UIUC
+* Northeastern
+
+**Reach:**
+
+* Purdue
+* University of Wisconsin-Madison
+* UMass Amherst
+
+**Targets:**
+
+* University of Maryland, College Park
+* Illinois Institute of Technology
+* Amherst College
+* Pomona College
+* Denison University
+* Tulane University
+
+**Safeties:**
+
+* University of San Francisco
+* UConn
+* UCincinnati
+
+Major Factor in selecting my college is amount of aid I will get, I want to ED in a college which gives out generous aid for international students. My parents can at max pay $16K USD per year for my studies, other I will manage via education loan and working on campus and in my startup. 
+
+Here's a sheet I used to know about AID offered: [https://docs.google.com/spreadsheets/d/e/2PACX-1vQnvgb3sTpNvOijvcrALM2JrTF7o4ydrjeSVpe5CnUZoNLFhywcMnKxVX5E4lF0UVa1x1oJpSHhVmDL/pubhtml?gid=689728477&single=true](https://docs.google.com/spreadsheets/d/e/2PACX-1vQnvgb3sTpNvOijvcrALM2JrTF7o4ydrjeSVpe5CnUZoNLFhywcMnKxVX5E4lF0UVa1x1oJpSHhVmDL/pubhtml?gid=689728477&single=true)
+
+Questions I'd love to get answered:
+
+* I understand Northwestern and Johns Hopkins are crazy with acceptances, since I would also be applying for Aid, are there any chances of getting in?
+* Where should I ED into where I get aid also?
+* Any schools I should look into adding/removing? I was thinking of adding UMich as a reach
+* Can I get into atleast one of my reaches? I don't really have high expectations. I see incredibly talented students getting rejected so I really have no clue.
+* Do I submit my 3 on ap physics?
+* Anything I need to switch order-wise on my EC list? anything I should take out/put in?",User_deleted,0
+1fvzeay,1,2024-10-04,Help needed to strategise for finals!,u/asiwoshixuesheng,csMajors,https://www.reddit.com/r/csMajors/comments/1fvzeay/help_needed_to_strategise_for_finals/,"Hello! My finals are in a few weeks time. The final examination will be a written examination. I see that they will give us the main method, expected console output and students are expected to implement various methods or code on different portion. E.g. for OOP, the base class is normally given and not code simple things such as the getters/setters. 
+
+The topics range from fundamental programming, object oriented and Spring. Spring is huge so they having taught us Spring JPA, Spring MVC using Hibernate and Thymeleaf. There are a tonne of things to understand from Spring itself.  
+  
+Considering that I have shortage of time, should I continue to reverse engineer my current learning? There isn't really a lot of time to fully grasp the concepts that they teach.
+
+I have been using ChatGPT and slowly redoing the question until I am able to fully do the question without any assistance.
+
+We are allowed to bring reference paper because it is an open book exam. From my understanding, lecturer really expect us to understand the concepts.   
+E.g. Inheritance, Polymorphism, Spring JPA, Spring MVC and implementing the code for the Controllers given a certain feature.",User_deleted,1
+1fvzf0b,1,2024-10-04,Help needed to strategise for finals!,u/asiwoshixuesheng,NTU,https://www.reddit.com/r/NTU/comments/1fvzf0b/help_needed_to_strategise_for_finals/,"Hello! My finals are in a few weeks time. The final examination will be a written examination. I see that they will give us the main method, expected console output and students are expected to implement various methods or code on different portion. E.g. for OOP, the base class is normally given and not code simple things such as the getters/setters. 
+
+The topics range from fundamental programming, object oriented and Spring. Spring is huge so they having taught us Spring JPA, Spring MVC using Hibernate and Thymeleaf. There are a tonne of things to understand from Spring itself.  
+  
+Considering that I have shortage of time, should I continue to reverse engineer my current learning? There isn't really a lot of time to fully grasp the concepts that they teach.
+
+I have been using ChatGPT and slowly redoing the question until I am able to fully do the question without any assistance.
+
+We are allowed to bring reference paper because it is an open book exam. From my understanding, lecturer really expect us to understand the concepts.   
+E.g. Inheritance, Polymorphism, Spring JPA, Spring MVC and implementing the code for the Controllers given a certain feature.",User_deleted,1
+1fw5nkd,1,2024-10-04,Do you allow ChatGPT in your report submissions?,u/PepperOwn1982,Teachers,https://www.reddit.com/r/Teachers/comments/1fw5nkd/do_you_allow_chatgpt_in_your_report_submissions/,"How are you managing the recent enormous technological updates in your teaching methodologies? 
+
+I think I should allow usage of technology in their assignment preparation / submissions. However I have been observing a trend where students directly copy paste things from chatgpt without reading / understanding it. 
+
+Even If I ask oral questions at the time of submissions, they don't answer. I am observing more & more shamelessness in saying ""I have copied everything from chatgpt, I don't know anything about the topic, don't ask me any questions on the topic"" 
+
+I feel like this is the base/foundation they are creating. If foundation  is prepared without understanding / learning anything, it is going to create much more deeper problems in future. 
+
+  
+How are you able to handle such situation? ",active,0
+1fwa7qr,7,2024-10-04,AITA for yelling at my husband’s grandma after being pressured into an early marriage?,u/Firm-Preference4910,AITAH,https://www.reddit.com/r/AITAH/comments/1fwa7qr/aita_for_yelling_at_my_husbands_grandma_after/,"**AITA for yelling at my husband’s grandma after being pressured into an early marriage?**
+
+*Throw Away Account Because All My Friends Have My Original Account*
+
+I (25F) am studying for my MBBS (Medicine) and recently married my boyfriend (27M) of five years. We had planned to get married after he could move to the States for work, so I could focus on finishing my degree and starting my career without traditional pressures. My in-laws come from a very orthodox background where men are expected to work and women stay home. To avoid those expectations, we wanted to wait.
+
+However, my parents emotionally blackmailed me into marrying earlier, using lines like “What will people think?” and “You’re embarrassing us by delaying.” So, I gave in and married earlier than we wanted.
+
+Now, I’m living with my husband’s joint family while continuing my studies. This includes not just my husband and me, but also his parents, his aunt and uncle, his brother (cousin) and sister-in-law, and his grandmother. My father-in-law, mother-in-law, and brother-in-law have been incredibly supportive—they treat me like their own daughter and sister, and they respect that I’m pursuing my medical degree. But my SIL (30F), BIL’s wife, along with my FIL’s brother and his wife, and especially my husband’s grandma (80F), have been making things difficult for me.
+
+SIL seems jealous that I’m still studying, and she constantly throws passive-aggressive remarks my way, saying things like, “Not everyone can be lucky enough to have people support their little career dreams.” It’s clear she resents that I have ambitions outside of marriage, and that jealousy shows every chance she gets. But grandma is the worst. She keeps pushing the idea that I should prioritize being a good wife over my education. It’s always something like, “Women who don’t focus on their home will never be respected.” I’ve been holding it in for months, but last night was the breaking point.
+
+I came home exhausted after a long day at the hospital, and grandma immediately started up with her usual criticisms. But this time, she crossed the line. She said, “Why are you wasting your time studying so much? No one’s going to respect you for thinking you’re better than your husband’s family. You’re just trying to make yourself feel important. Maybe that’s why your parents forced you to marry—they knew you’d fail otherwise.”
+
+That comment was the last straw. I snapped and yelled at her. I told her she had no right to speak to me that way and that I wasn’t going to give up my education or dreams just because she had outdated views about a woman’s role. My husband, to his credit, immediately backed me up, telling his grandma to stop, but she just kept going. My FIL, MIL, and BIL tried to calm things down, but it was a mess.
+
+After the fight, my husband didn’t say anything to me. He just stayed by my side, which I appreciated, but I felt guilty about causing such a big scene. I figured things would calm down after that, but a little while later, my SIL came into the room with her usual toxic energy. She said, “You know, you really embarrassed us all today. Just because you’re ‘educated’ doesn’t mean you can disrespect an elder. Maybe you should start focusing on being a wife instead of a student—it’s not like you’re going to work after all this, right?” Her words stung, and it’s clear she enjoys seeing me upset.
+
+It Currently 2:40 am and I’m torn. I do feel bad for losing my temper, especially at an elderly woman, but grandma’s words were so hurtful. I’ve been dealing with so much emotional pressure from both sides of the family. I just couldn’t hold it in anymore, I feel I may have crossed a line and ruined my husbands relationship with his grandma.
+
+Also my english is bad so I used chatgpt to improve my writing.
+
+So, AITA for yelling at my husband’s grandma and causing a fight in the family?",User_deleted,8
+1fwbmw6,11,2024-10-04,Ideas to make AGI,u/greenray009,ArtificialInteligence,https://www.reddit.com/r/ArtificialInteligence/comments/1fwbmw6/ideas_to_make_agi/,"Hello! I’m a 4th-year computer science student with a background in intelligent systems, machine learning, and a bit of deep learning, graphics computing, and data mining. I’ve noticed a lot of hype around AI, but it seems that most of the focus is on scaling up existing models like transformers or neural networks (RNN, CNN, ANN), which largely mimic human neural systems.
+
+While we’ve seen exciting developments with generative AI models such as GANs, VAEs, and Diffusion models (e.g., Stable Diffusion), I feel these approaches still feel lacking to me or they fall short. The main issue is that they’re inherently biased due to the datasets they’re trained on and the architecture itself. To truly move towards Artificial General Intelligence (AGI), I think we need to make fundamental leaps in our understanding of knowledge representation and intelligence itself.
+
+One area I find particularly intriguing is the role of tokenization in building large language models (LLMs). By assigning weights and embeddings to words, we create a form of context representation, which is a step in the right direction. But even with this progress, it’s clear that our models are just approximations - that they don’t have a real *understanding* of the world.
+
+From what I’ve read in some research papers, one proposed path to AGI is to map and mimic a person’s brain at a much deeper level, incorporating elements of consciousness and self-awareness. However, this is more speculative and far from feasible at the moment. To achieve true AGI, I believe we need a new paradigm—a breakthrough in our understanding of intelligence that goes beyond merely scaling up neural networks or refining architectures.
+
+My gut suggests that companies should focus more on the field of knowledge representation and transfer. Basically going back to the basics of information theory. And I think some of the techniques related to this are applied to deep learning but I felt like we needed more like a breakthrough.
+
+This is why I suspect we might be heading towards another AI winter. Historically, when AI research failed to produce expected breakthroughs, it led to reduced funding and enthusiasm like in the early 70s I guess. We might see this again unless a revolutionary discovery occurs. But I’m curious to hear others’ thoughts on this. Do you think we’re close to such a paradigm shift, or are we still stuck at the stage of refining what we already know?",active,13
+1fwkuu5,1,2024-10-05,Summarising using AI,u/OverconfidentlyPetty,AustralianTeachers,https://www.reddit.com/r/AustralianTeachers/comments/1fwkuu5/summarising_using_ai/,"Hi everyone! I’m a pre-service teacher and have an assignment that requires me to ask my own research question related to generative AI in education to a professional network of teachers. 
+I’m aware there have been quite a few similar posts to this recently and that it’s frustrating to see and to think we’re asking qualified teachers to do our research for us; it’s frustrating for us to have this as a requirement.
+
+Unfortunately, I cannot use someone else’s post and responses and must present my own as the assignment is based on generative AI and using a PLN. 
+
+That being said, I would greatly appreciate any opinions and insight you have. Please don’t leave comments telling me to use ChatGPT or Google for the answers because as I stated earlier in the post, I am required to ask qualified teachers on a social media platform in order to complete and pass the assignment. 
+
+My research question: Do you think the use of generative AI tools, like ChatGPT, for summarising and note-taking in the classroom could enhance students' understanding of content or hinder their comprehension and development of critical thinking skills?",active,0
+1fxf2zf,1,2024-10-06,Project Ideas,u/Abdur__Rehman,LLMDevs,https://www.reddit.com/r/LLMDevs/comments/1fxf2zf/project_ideas/,"Hi everyone,
+
+I'm a final year BS Computer Science student, currently brainstorming ideas for my Final Year Project (FYP). I’m looking for suggestions in areas like AI, machine learning, large language models (LLMs), web development, mobile applications, or any unique tech-based solutions.
+
+",active,1
+1fy4tye,1,2024-10-07,Professors using tech to teach:  Shortcuts and hacks,u/West_Abrocoma9524,Professors,https://www.reddit.com/r/Professors/comments/1fy4tye/professors_using_tech_to_teach_shortcuts_and_hacks/,"Hoping others might have advice and support to offer.  I'd love to hear from others who are using ChatGPT, NotebookLM, etc.  in their teaching.  I recently made a list of problems I saw in a whole batch of student papers and then fed it to NotebookLM and had it make a podcast about how to write a better paper next time, which I plan to share with my online students.  I'm trying to figure out the best way to share it in Canvas, however.  I'm also a bit wary about the fact that all of my accounts on these services are private accounts and not university accounts.  I am an early adopter of technology but my university is dragging its feet and doesn't really have any policies in place.  Is anyone else nervous about using new tech in these circumstances?",active,1
+1fy6pho,1,2024-10-07,I want suggetions for my machine learning quest,u/miftadib04,learnmachinelearning,https://www.reddit.com/r/learnmachinelearning/comments/1fy6pho/i_want_suggetions_for_my_machine_learning_quest/,"
+
+ I am a Statistics 1st year undergrad student (have not started classes yet).I have spent last 3-4 months on machine learning.
+
+
+ What I learned is: 
+
+ Python
+ Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn
+ Data preprocessing + feature engineering
+ Data visualization
+ Machine Learning Algorithms
+ ML metrics, hyperparameter tuning etc. 
+
+ Learned from:
+ 1)Machine Learning specialization (includes 3 courses)- By Stanford on Coursera
+ 2) 100 days of machine learning (playlist)-By CampusX on Youtube 
+
+ 3)Machine Learning with Python and Scikit- Learn-Full course(18 hours)- By FreeCodeCamp.org on Youtube 
+
+ I will learn more in the future + I am thinking of revising what I have learned and doing projects on kaggle. 
+
+ Problem:
+ The problem is that I didn't learn math and statistics separately for machine learning.
+ I do understand how most of the algorithms work but have skipped all the mathematical proofs . I know scikit learn for the applications of the algorithms, but I find it difficult to build them from scratch. 
+ Besides, in most cases I cannot hardcode Python, I have to take help of chatgpt. 
+
+ The things I seek advice on are:
+ 1) Should I learn Stats or Maths before starting doing projects? 
+
+ 2) Should I learn to build algorithms from scratch? (Eg: linear regression, logistic regression, xgboost etc) 
+
+ 3) What can I do to improve hardcoding? 
+
+ 4) What or how many projects I should do? 
+
+ 5) On what,I should more focus right now?
+
+ 6) If you have other suggestions, please give them",active,0
+1fy6t05,4,2024-10-07,$40 for ~2hr experiment @NIE,u/dracokang,NTU,https://www.reddit.com/r/NTU/comments/1fy6t05/40_for_2hr_experiment_nie/,"Hi all, NIE (Learning Sciences and Assessment Academic Group) is recruiting 200 NTU students to participate in an experiment involving the completion of programming tasks with the help of Generative AI (we will be using ChatGPT-4O). 
+
+All NTU students of ANY year or major are welcome to register, so please help spread the word to your friends!
+
+KEY POINTS:
+- must be current NTU student
+- must be able to code in python (at least understand basic python syntax)
+- up to $40 for experiment
+- +$10 for post-experiment interview (optional)
+- flexible schedule! just fill up your available timeslot on each day and we will contact you via email to confirm a time
+
+If you have any other questions, please feel free to pm me. Thank you!
+
+Here is the link to sign up:
+https://docs.google.com/forms/d/e/1FAIpQLScEugxA961snbt9xN4H3M-mtodOkDW_3tcllX9ehQGZOTQNmg/viewform",active,3
+1fz0fj3,1,2024-10-08,Thinking of assigning a video essay ,u/volcanobite,Professors,https://www.reddit.com/r/Professors/comments/1fz0fj3/thinking_of_assigning_a_video_essay/,"I'm thinking students are tech savvy and would like to tackle an explroatory essay without actually writing one. I teach colonial lit and want them interacting with the city's historical landmarks throughout their textual analysis. 
+
+Any ideas on what kind of software video editing would be easy for students to handle? I think I'd even allow them to use TikTok to create and upload their videos to Canvas for grading. And would asking them to narrate/talk fight off their addiction to chatgpt?",User_deleted,1
+1g0w0xr,1,2024-10-10,Laoshi AI for students and teachers,u/dkhasanshin,ChineseLanguage,https://www.reddit.com/r/ChineseLanguage/comments/1g0w0xr/laoshi_ai_for_students_and_teachers/,"**We’re the team behind Laoshi, a Chinese language learning app.**
+
+  
+Based on user feedback and our experience, we’re developing Laoshi AI (powered by ChatGPT) for Chinese language students and teachers.
+
+  
+**What can Laoshi AI do?**
+
+* Explains grammar in simple terms and highlights key points
+* Creates tests and mini-exams to assess your progress
+* Helps with translation and dialogue creation
+* Turns any text into a word list for studying in the Laoshi app (web also)
+
+Here are a few examples of how you can use Laoshi AI (just type these in the chat):
+
+* Explain the grammar structure with 差不多
+* Prepare a word list from my text
+* Conduct a mini-exam on HSK 3 grammar
+* Correct and explain mistakes in my text
+
+It’s free and accessible via the web — you just need to register with your email, and no app installation is required [https://classroom.laoshi.io/users/chat](https://classroom.laoshi.io/users/chat)
+
+We’d love to hear your feedback and welcome new users to join us in testing Laoshi AI.",active,0
+1g11wz7,1,2024-10-11,ED Cornell. Am i cooked,u/DragonfruitInfinite3,chanceme,https://www.reddit.com/r/chanceme/comments/1g11wz7/ed_cornell_am_i_cooked/,"Chance me for cornell (early)
+
+**General**: Indian, Male, Need Financial Aid, ICSE/ISC Board
+
+**Major**: computer science
+
+**10th**: 97%, 12th: 95% (Predicted)
+
+9th & 11th = 85%: Concurrent enrollment in a JEE coaching center that conducts internal examinations (much more difficult than the normal curriculum). Top 3 in class with a predicted <2000 rank (among 2 million) - Probably will explain this in Additional Info/Extenuating Circumstances.
+
+**SAT:** 1530 (M=800, R&W=730)
+
+**Awards/Hons:**
+* cleared homi bhabha balvaidyanik exam at regional level
+* 3x Personality/Beauty Pageants Winner (among 30+ Schools each time)
+
+**ECs:**
+
+ENGINEERING AND COMPUTER SYSTEMS EXPERIENCES
+Trueserve Technologies, Mumbai, India                                                             
+Part-time Intern as Trainee Engineer, Supervised by Mr. Pritam Jaiswal                                                 July 2024 – October 2024
+·       Troubleshooting network problems researching specific solutions and projects,
+·       Proactively identify, own, and escalate any issue or problem that could affect customer experience.
+·       Responsible for maintaining all levels of account access in accordance with the access management guidelines, across all Managed Service Accounts.
+·       knowledge of operating systems such as Cisco IOS, Wintel products etc.
+·       Experience of using console cables and telnet and fault finding and diagnosis
+Independent Study
+Introduction to Artificial Intelligence (AI) | IBM                                                                           Jun 2024 – July 2024
+●      Acquired knowledge in core AI concepts, including deep learning, machine learning, and neural networks. Closely examined generative AI models, including large language models (LLMs) and their capabilities. [hyperlink]
+HTML, CSS and Javascript for web developers | Johns Hopkins University                                     Jun 2024 – Aug 2024
+●      Gained knowledge in computer science fundamentals, algorithms, data structures, programming languages (JavaScript, CSS, HTML), web development and software engineering via hands-on projects. [hyperlink]
+Computer Science: Programming with a Purpose | Princeton University                                          July 2024 – Sept 2024
+●      Explored programming elements such as variables, conditionals, loops, arrays, recursion, modular programming, and code reuse via hands on projects. [hyperlink]
+PUBLICATIONS
+paper on renal health and applications of ai and ml in planning treatment plans. (google young scholars)
+
+LEADERSHIP EXPERIENCES
+Rotaract Club of Hiranandani Estate, Thane | Treasurer                                                                    Jun 2024 – present
+●      Led 18 members alongside four office bearers to track finances and release budgets to organise 15+ community events, including blood donation camps and stem cell drives, benefiting xx+ individuals and coordinating xx volunteer hours. Fostered community commitment through effective planning and execution.
+Rotaract Club of Hiranandani Estate, Thane | Public Relations Director                                                     Jul 2023 – May 2024
+●      Set objectives for the PR team and monitored team members’ performance, ensured brand consistency in all advertising efforts, tracked and influenced the clubs’ media coverage and led all ventures to display the club on different media platforms effectively.
+Hiranandani Foundation School, Thane | Functionary Prefect (Student Council)                                   Jun 2022 – Apr 2023
+●      Selected by the principal and teachers to represent the students of the school. Led the school in several events such as march past, inter-house sports, and other competitions. Represented students to administration, collaborated with student council leaders, and promoted a positive, sociable atmosphere.
+The Aasha Group | Chief Operations Officer (COO) and Co-Founder                                                  July 2024 - present
+●      Co-Founded the non-profit organization ‘The Aasha Group’, facilitating extracurricular opportunities to students in India who do not have access to them via projects supervised by the board of officers.
+ 
+PERFORMING ARTS (EXTRACURRICULARS)
+Hiranandani Foundation School (HFS), Thane, India
+●      Performed Beat-boxing sequences on Annual Day, Teachers Day, Music Festival,
+Dance event for an audience of 900+ students, parents, and school staff.                                                      2021-24
+●      Won the Rochak Event (Personality Contest) by Christ Church School, represented HFS                                Sep 2022
+●      Won the Perseverantia Event (personality contest) by Bombay Scottish School, represented HFS                     Aug 2022
+●      Won the Melange Event (personality contest) by G.D. Somani Memorial School, represented HFS                   Oct 2022
+●      Won the second position in the ISC Impromptu Speech Competition, HFS                                                  Jun 2021
+●      Won the Inter house Dance Competiton (part of team Beta)                                                                                     Aug 2022
+●      Won the third position in the Perseverantia Event (Inventio) by Bombay Scottish School, represented HFS          Aug 2023
+●      Secured the Merit Award at the Dr. Homi Bhabha Balvaidnyanik Competition                                             Nov 2018
+●      Successfully completed the KUKKIWON’s 1st Poom Taekwondo Promotion Test                                         Jan 2021
+●      Secured the Merit Award at the 11th UCMAS- State Level Abacus & Mental Arithmetic Competition               Jan 2015
+●      Trained in Classical Hindustani music for 4 years and Passed the Prarambhik Level Exam of the Akhil             Jun 2019Gandharv Mahavidyalay Mandal
+●      Won the Bronze medal at the DSO Mumbai Divisional Boxing Championship                                             Nov 2023
+VOLUNTEERING ACTIVITIES
+Anant Khushiyaan Ashram, Thane, India | Daptar Ambassador (Volunteer Tutor)                                    Aug 2023 – June 2023
+- Teaching Maths, English, Theatre and Communication to a class of 40, aged 8 to 14, from lower socio-economic sections.
+INTERESTS
+Languages:     English, Hindi, Kashmiri (native, trilingual), Marathi (novice), French(novice)
+Interests:        Beatboxing, Public Speaking, Boxing, Taekwondo, Gym",User_deleted,1
+1g1kpjo,1,2024-10-11,BuT dId YoU mAkE iT a TeAcHiNg MoMeNt,u/Avid-Reader-1984,Professors,https://www.reddit.com/r/Professors/comments/1g1kpjo/but_did_you_make_it_a_teaching_moment/,"Reason 145 I'm out: small state schools are running scared.
+
+Me: presents the chair with a clearcut case of plagiarism.
+
+The email presents: 
+
+1) clearly AI generated essay and emails in which the students admits to   
+2) using ChatGPT to create examples in a personal narrative (!) (that was not all ChatGPT did, but okay)   
+3) admits that sources were used but were not documented (hastily throws a Works Cited at me---still more questions about why that's in a narrative essay, and still constitutes academic dishonesty for not citing sources in the first place)   
+4) student finally admits that the paid version of Grammarly did all the writing, so that's probably why it sounds like AI (because it *is*)
+
+The chair: well, I can see that the student has a passing grade so far. Will assigning a 0 mean that she won't pass the class? If so, can you use this as a teaching moment and reassign her the essay?
+
+Bruh, the student admitted three times that they didn't write the assignment and tried to lie about it, and you want them to pass the class? Yeah ... not the sort of teaching job I was looking for here. 
+
+Not sure if anyone needs this context, but, yes, students have had academic honesty drilled into them in the first six weeks, which also includes a lengthy lecture on using online tools to write for them. The student heard all that and still did the opposite of everything I said. We're very student-centered. The administrative infrastructure supports the students no matter what (please read with sarcasm). ",User_deleted,1
+1g1npoo,73,2024-10-11,Student yelling at me during class,u/ThrowRA_stinky5560,teaching,https://www.reddit.com/r/teaching/comments/1g1npoo/student_yelling_at_me_during_class/,"I have a difficult 6th period. I teach middle school art and my 6th period is my advanced 7th/8th combo class. A ton of kids were misplaced into that class. It’s my first year so I had no say over it but a ton of kids with no art experience or any passion at all. A ton of behavioral issues and 13 IEPs out of 36 kids.
+
+The principal suggested to me, after exhausting several PBIS strategies, to introduce textbook work to the students who were disruptive. It’s an art class but I don’t have to teach them how to draw or paint. They can learn theory if they can’t handle behaving according to class standards. 
+
+We have routines in place. We have expectations (that we review every day to reward one student with a positive call home). Anyways. A kid today stole another kid’s hat and then ran through my room and threw a stool to the ground behind him. I gave him the textbook assignment right away. I followed through. 
+
+He threw the textbook down on the desk and started yelling at me that it was so unfair and he shouldn’t have to do it. I calmly explained that he could not yell at me and that it was so inappropriate to yell at a teacher. He then leaned back and told me he wouldn’t do the assignment and that I couldn’t make him.
+
+I agreed and told him that it was worth the weight of his original assigned project and that he would just have to take a zero. 
+
+I gave one to another student who pushed someone. He began telling me why he should be allowed to chatgpt his response. I explained again that the assignment was on paper written by hand without the use of Chromebooks. He started yelling at me.
+
+I went home crying today. I wish they were not in my class. I don’t know what to do other than try to be positive again on Monday and stand firm in the decision to assign that work. But I also went home crying because I feel like the rest of my class is suffering over two students who can’t get their behavior in check. 
+
+What would you do?",active,79
+1g1zj8d,1,2024-10-12,I see no hope for me in the age of AI,u/MPM_SOLVER,ArtificialInteligence,https://www.reddit.com/r/ArtificialInteligence/comments/1g1zj8d/i_see_no_hope_for_me_in_the_age_of_ai/,"   I am currently a student in computational fluid dynamics, a few days ago, I tried perplexity.ai's REASONING feature to write some codes, and I found that he could convert the formulas I provided to him into code very quickly.
+
+   although I spent a lot of time writing the prompt words, because in order to derive these formulas I needed to integrate knowledge from multiple papers, but the latest ai agent's information is hot, I think everything I do now can be automated by having a powerful ai agent and then collecting the information from the papers I provide him with and then automatically deriving and completing the code according to my instructions, if this technology matures in the next few years, I think everything I've done so far can be done in less than an hour, so where is the value in that for me?
+
+   Also I'm learning C++ now and in the future I want to become a programmer in the future, but I think AI can drastically reduce the number of programmers in the future, AI has powerful computing power, almost unlimited memory and powerful enumeration and almost limit-less chain of thoughts, I think this AI will be able to outperform human beings in writing C++ code without memory leaks and high concurrency C++ codes, this AI will be able to learn all the code bases and all the coding experiences in the world. AI can't do it now, but what about 5 years from now? transformer architecture was proposed in 2017 and then 5 years later there was an explosion of AI applications like chatgpt, who knows what will happen in the next 5 years?
+
+It is foreseeable that with the rapid development of AI, the importance of knowledge will become less and less, some people may say that the results of the AI still need to be checked by human beings, but fewer and fewer human beings are needed,  And now that AI is already an asset-heavy industry, massive GPU cluster are more important than human resources, and if AGI is born, what will this mean for countries that don't have AGI? I've already thought about it, first there will be massive unemployment then all the foreign exchange reserves will flow into the big foreign tech companies, then there will be total collapse and famine, a lot of people will die in the process and then others will become slaves of the big companies because these people don't have any economic value any more, I don't know what skills I should learn right now, it's likely that my programming skills may be rendered useless in a few years, I'd like to learn blue-collar but I have nearsightedness and astigmatism, I can't see even close things when I take off my glasses, I don't know if I can adapt to drastic exercise, maybe it's a good idea to kill myself when AGI is born or my skills are completely obsolete, I bet there won't be a UBI for a few decades and for those countries that haven't gotten a handle on AI they'll be even less likely to have a UBI
+
+",User_deleted,1
+1g243au,129,2024-10-12,At My Wits End - AI Nonsense,u/oliverkiller,Professors,https://www.reddit.com/r/Professors/comments/1g243au/at_my_wits_end_ai_nonsense/,"I am an adjunct professor at a local CC in the social sciences with a publication record in the area I teach. The most recent assignment I gave had a return of 15/35 students receiving a 0 grade due to either no submission or blatant AI use.  I am approaching a boiling point overall.
+
+  
+This one student used AI to craft their paper and did not even bother to format according to the template given or check the citations. 3 out of 5 citations were completely fabricated out of the air and the work was nowhere close to the template. After receiving this 0, the student emailed me. This email came not from their institutional email, not the LMS system,  but from their personal email. (Think gmail/aol/yahoo). But what really set me over the edge was that this email was created using ChatGPT and asked how they could improve their paper and thus their grade. That this student ""held a sincere commitment to their studies"" and wanted to make sure they were getting graded fairly. All generated bullshit. 
+
+How in the holy hell am I supposed to critique a work that you yourself did not even write? How can you genuinely press send on an email that details your ""commitment to study"" when you didn't write the paper or the email? Why do you think that people who actively contribute to this field are unable to tell industrial grade bullshit from authentic human labor?
+
+Thankfully since the email is from outside the institution I am not required to respond. I have little doubt that my rage would seep into whatever response I would give. ",active,130
+1g33bdu,1,2024-10-13,Advice on helping a friend,u/NOTKuLy,Advice,https://www.reddit.com/r/Advice/comments/1g33bdu/advice_on_helping_a_friend/,"Greetings all, an old friend of mine from high school and I just started our first year at our local community college, and being English isn't his first language he has a lot of hard time with class work and assignments. I consider myself fluent in english and our native language, but I can't really explain or translate the instructions and course material for him in a way that he understands it; so I help him a lot with his work, but sometimes these ""tutoring"" session has me doing half or most of an assignment he may have. These tutoring session happen almost every week, I don't mind helping out sometimes but I think he's being overly reliant on my help. I also learned that he's been mostly getting by most of his class by using ChatGPT. We're about half way through the first semester, and I absolutely don't think this is sustainable in the long term so I'm reaching out for some advice on what I can do to help him. 
+
+Also I've been talking about this with my cousins (they are all in their 3rd or last year of college) on what I can do, and they've suggested that I should be asking for money or some kind of compensation if I'm to keep helping him because I'm spending quite a lot of time helping him (more than just a couple hours a week). I really don't like this as I know we're both broke college student and don't wanna create pressure financially. Any advice on what I can do to help my friend would be greatly appreciated. ",active,1
+1g40bna,332,2024-10-15,My students won’t listen to me about the pitfalls of ChatGPT,u/doctor_window,Professors,https://www.reddit.com/r/Professors/comments/1g40bna/my_students_wont_listen_to_me_about_the_pitfalls/,"I teach a health communications course which is at the 3000 level. They were assigned a 2-3 page health campaign analysis and were required to cite at least 4 objective, peer-reviewed sources. 
+
+Because of the proliferation of ChatGPT, I list the following statement in my syllabus:
+
+“It is understood that AI programs have become popular among students. However, you should note that all AI generative tools are prone to making up incorrect facts and fake citations, and image/art generation tools
+can produce copied work or offensive products. If you choose to use AI tools in
+the development of your work, you will be responsible for any inaccurate, biased, offensive, or otherwise unethical content you submit regardless of whether it originally comes from you or an AI tool. If you use an AI tool, its contribution must be credited in your submission. The use of an AI tool without
+acknowledgement is cheating and constitutes a violation of the University’s Code of Academic Integrity.”
+
+Despite this statement and a class discussion, I have received several papers with fabricated citations. After submitting grades, I receive emails from students feigning ignorance and requesting redos. I do not allow redos considering that the grade received is a slap on the wrist compared to the consequences that can be handed down by the Office of Academic Integrity.
+
+Are any of you experiencing this?",active,368
+1g42hq5,1,2024-10-15,Which university ranking 1-40 is easy to applied with a low GPA,u/Vanilla-W,gradadmissions,https://www.reddit.com/r/gradadmissions/comments/1g42hq5/which_university_ranking_140_is_easy_to_applied/,"I was a bachelor student in very average school ranking in china 500, and I also employed in a Fortune 500 company as a contract worker 
+However I am fortunate that I was participating the production of an online project management course
+So I have 1.5 years working experience
+And I also have several kinds of internships such as NGO’ certification and working for an educational technology company 
+Nowadays I wanna apply a program master and I ask my question in chatGPT, which recommend me several universities:
+
+Based on the QS World University Rankings 2025, here are some universities in the top 50 that you may consider, focusing on institutions that tend to have more flexible admissions criteria for international students, including those from Chinese universities ranked around 500. These universities have strong programs in education technology or related fields like learning sciences:
+
+### UK:
+1. **University of Glasgow** (Ranked 47)
+   - **Program**: MSc in Digital Education
+   - **Why it suits you**: Glasgow’s education faculty is renowned globally, and they emphasize student motivation and experience over just GPA, which can benefit your application if you have strong personal statements and recommendations.
+
+2. **King's College London (KCL)** (Ranked 40)
+   - **Program**: MA in Digital Education
+   - **Why it suits you**: KCL offers a well-regarded digital education program that focuses on the integration of technology in education, with a slightly more flexible admission process for international students.
+
+### Australia:
+1. **Monash University** (Ranked 42)
+   - **Program**: Master of Education (Digital Learning)
+   - **Why it suits you**: Monash has a strong international reputation for education programs and tends to be accommodating toward applicants with diverse academic backgrounds, placing more emphasis on professional and academic potential.
+
+2. **University of Sydney** (Ranked 19)
+   - **Program**: Master of Education (Digital Technologies)
+   - **Why it suits you**: Sydney University’s education programs are highly ranked and offer excellent research opportunities, particularly in the integration of digital tools in education. They have a relatively flexible approach to admissions, particularly if you have relevant work experience or strong academic references.
+
+### The Netherlands:
+1. **University of Amsterdam** (Ranked 56)
+   - **Program**: MSc in Learning Analytics or Educational Sciences
+  
+
+### Switzerland:
+1. **ETH Zurich** (Ranked 10)
+   - **Program**: MSc in Learning Sciences and Technologies
+  
+Could you give advice, do you think these universities suitable for me to apply or having others ",active,0
+1g57nfd,6,2024-10-16,A direct approach to understanding CS employment,u/I-am-ALIVE--,csMajors,https://www.reddit.com/r/csMajors/comments/1g57nfd/a_direct_approach_to_understanding_cs_employment/,"
+
+First and foremost, for about 20 years, there was an extraordinarily high demand for computer science majors. In fact, this demand was so high that coding camps popped up across the country.
+
+At one point, coding was the best way for people to get out of homelessness. Coding camps in the Bay Area would accept homeless individuals who went from being homeless to making $80,000 in six months.
+
+This could be referred to as the high point of the market.
+
+Then came the grifters—a bunch of people promising this kind of prosperity to gullible individuals.
+
+This includes people like ""Profit with JavaScript."" Some of these people promised that you could make six figures just by learning HTML or JavaScript, leading to a flood of low-level coders entering the market.
+
+By the way, pretty much all of those jobs can now be automated with AI, so the low-skill positions in the the west have been heavily impacted and can now be automated or outsourced offshore.
+
+This caused a major changein the low-level computer science job market around 2022.
+
+This outcome was inevitable—those repetitive jobs are now easily handled by artificial intelligence. Unfortunately, people who bought into the idea that they could make six figures in three months were completely misled. Many of these low-level positions were also internships, leaving many college students and graduates struggling to get internships, as the entry-level roles that used to provide a way in have disappeared.
+
+This issue is compounded by the fact that someone with a PhD in computer science in India can be paid $25,000 a year. This is not to suggest that the work is equivalent to that of a Western coder—such comparisons won’t be made, nor is this meant to encourage toxic arguments in the comment section. Discussions around this topic often devolve into accusations of racism, resulting in unproductive debates that should be avoided.
+
+Regardless of how high-quality the overseas work may be, the reality is that the competition for computer science jobs has become fierce. Most of these jobs can be done remotely, meaning an American who needs to earn $150,000 to survive (given how absurd the cost of living in this country has become) is competing with someone willing to do the same job for as little as $15,000. This is not to say the two workers are equal, but the competition is real, and most CEOs will opt for the cheaper employee.
+
+Another major factor is artificial intelligence. Whether AI will fully automate these jobs or not, the promise of automation has led many companies to reduce hiring, hoping to save money by using large language models to replace significant portions of the workforce and increase profits.
+
+Whether this will actually materialize remains to be seen. Regardless, the possibility has already encouraged companies to scale back hiring.
+
+The final factor is increasing investor hesitancy due to fraud. Scandals like the Theranos debacle, along with other overhyped promises that never materialized, have made investors more cautious. Many have pulled back their money, demanding profits from companies that were never profitable. This has resulted in reduced hiring, as there is now less free capital to support bloated workforces.
+
+Taken together, these four factors have created significant challenges in the West. It’s a nightmare situation for many tech workers or aspiring tech workers. For those just entering the industry from college, landing a job is not impossible, but the competition is fierce—and it may require some serious butt-kissing to succeed.
+
+There it is—a streamlined, direct, no-BS overview of the situation.
+
+",User_deleted,7
+1g655sy,6,2024-10-17,"Dear destiny, I know I am wrong but how ruthless could you be",u/navss006,Indians_StudyAbroad,https://www.reddit.com/r/Indians_StudyAbroad/comments/1g655sy/dear_destiny_i_know_i_am_wrong_but_how_ruthless/,"𝘿𝙚𝙨𝙩𝙞𝙣𝙮 𝙞𝙨 𝙨𝙩𝙧𝙤𝙣𝙜𝙚𝙧 𝙩𝙝𝙖𝙣 𝙬𝙞𝙡𝙡. 
+I belong to a upper middle class family of a combined income of ₹2lkhs per month. I'm wealthy but in no way rich. I come from a typical indian family who dotted on govt jobs and iit degrees and doctors. I too was preparing for iit in my 11th grade and dreamt so too since I was in 10 th. Due to which I didn't get a good score in 11th which continued in my 12th grade due to which many of my teacher felt deep repulsion towards me. But somewhere in between my hectic Sechdule for the first time I dreamt and had plans different than what would make my parents happy and see pride in them. I wanted to study abroad specifically the uk specifically in Oxford(until then I planned to take whatever engineering degree available under top3 iit but now I wanted to study computer science specifically). I knew I had to make up a good rep as my predicted grades were in my teachers' hands I worked tirelessly and my school grades were improved slightly, which somehow made my teachers happy. So I was working towards this dream in secrecy of my parents. I prepared my essay, dug through old extracurricular certificates or anything extra to mention. I was doing it without any expert guidance and google, YouTube and chatgpt were my best friends during these times. I was in delusion that I'll definitely get selected.
+𝘽𝙪𝙩
+𝘼𝙡𝙖𝙨, 
+destiny had other plans for me, I was aware that the application submission deadline was 15 October for Oxford and somehow assumed the MAT(entrance exam) registration deadline to be the same but I was wrong, as I opened the exam registration portal in BIG BLUE LETTERS WAS WRITTEN OUT, “THE MAT REGISTRATION PORTAL 2024 HAS BEEN CLOSED. “ I was in shambles turns out the deadline for registration of the exam was on 4th October not the 15th, all that I've worked for, everything seemed to be destroyed in one moment, I went to reddit and found a couple people in the same predicament as me all the comments that replied were pointing to the fact I'll have to wait till the next year, which I CANNOT, I wasn't supposed to have a drop year I was suppose to find some corporate well paying job get married and get settled with kids and repeat I wasn't made to innovate or to be part of an influential group who could Revolutionarise tech I was suppose to grab any engineering degree and get a job which I know is dream to many so i do feel like such a brat for being scared to end up like that, but that's just how it is and is the truth. I can't change destiny no matter how hard I try. Somewhere I was at fault I know, but it wouldnt have been so crushing if my destiny already didn't have plans for me. How dare I dream of being amongst young prodigies when I couldn't even get an 80% in my 11th grade CBSE. Destiny just hated my audacity and looking back I'm ashamed to admit it too. 
+
+~Navya
+
+
+My_qualifications- highschool student 
+",User_deleted,7
+1g6ak0v,2,2024-10-18,triangle help,u/pigmentpunisher,learnmath,https://www.reddit.com/r/learnmath/comments/1g6ak0v/triangle_help/,"Hey everyone,
+
+I'm working with carpentry students, and I need them to understand the formula for finding the area of a triangle: 1/2 base × height.
+
+What I’m noticing is that they’re calculating base × height and then dividing by two, which is essentially finding the area of a rectangle and then halving it. We did a few examples today, and they all got the correct answers.
+
+ChatGPT explained that both methods are equivalent. When students multiply the base by the height first and then divide by two, they are performing the same calculation as 1/2 × base × height. This approach is more intuitive because it follows a simple multiplication and division process. As long as they consistently divide by two, either method gives the correct result.
+
+Here’s where I’m a bit confused: Is there a difference in dividing just the base or dividing the whole calculation by two? Math was never my strong point, and I’ve told the learners I’ll help them figure out if their approach is correct for pricing.
+
+This is important for gables on houses since they often have different cladding (like cedar feature cladding), and accurate pricing is key.
+
+Thanks in advance for any help",active,2
+1g6m843,3,2024-10-18,Seeking help for building an agentic tutoring system ,u/GazzaliFahim,ollama,https://www.reddit.com/r/ollama/comments/1g6m843/seeking_help_for_building_an_agentic_tutoring/,"Hello everyone, I hope everything is going well.
+
+Recently, I have been working on an Llama 3.1 and Ollama based tutoring system for my research project. In our design, we have 3 agents (or as I understand them) with their own system prompts describing tasks, behaviour and other sets of instructions. TeacherBot, QuestionBot and EvaluatorBot. Currently my intention is they should work sequentially, more like a  *Teach-Quiz-Evaluate-Repeat* cycle.
+
+One of the key factor that we want to introduce is **Progressive Difficulty**, which is in short to gradually introduce complex lessons on a particular topic. Just like a human teacher would teach 1D matrix, then 2D and then more complex stuff based on his/her interaction and performance evaluation of the student being taught. 
+
+My current challenge is to how to prompt the LLM to introduce such manners, where it will understand the student performance and level up the next complex lessons. I have a plan to invoke the mentioned cycle in the 2nd paragraph to understand the student's current situation via the Evaluatorbot, based on the interaction with QuestionBot. Thus I could tell the TABot to upgrade or downgrade the lesson to teach in the next cycle.
+
+My supervisor asked me if I could make the QBot and EvalBot simultaneously interact with each other while quizzing the students, and to level up the question difficulties gradually just like a interviewers would do in a viva. 
+
+I am finding this is the hardest part since that would do the handing off between two agents frequently, leading up excessive compute resources and thus breaking down the whole system.
+
+I am seeking help in this regard what to do? What agentic approach to follow to serve this automation? I saw videos on CrewAI but that doesn't serve my purpose. OpenAI's swarm has the near perfect solution to my case, but we want our work to be based the Open source LLMs as our novelty.
+
+Any help is super appreciated.",active,3
+1g6no1g,21,2024-10-18,AI & Online Exam -  Student's Confessing Quickly,u/doberman1291,Professors,https://www.reddit.com/r/Professors/comments/1g6no1g/ai_online_exam_students_confessing_quickly/,"I teach a social psych related course online, and had to give a midterm exam. My exams used to be mostly MC, some short answer/fill in the blank, and one essay. Since moving online and AI's impact, I rewrote my exam to 5 short answer, 2 longer answers, and 1 essay. I tested all of my questions in chatGPT and reworded/tweaked them a few times to try to make it at least harder for the students to cheat (I know this isn't perfect, but I figure it helps). The students knew they couldn't use AI or talk to others, besides that it was open book/notes etc.
+
+I'm only on my third exam and immediately could tell this student used AI. Not only was her answer wrong, it was talking about things we didn't cover in class or the readings. I typed the question into AI, and her exact answer popped out. She did this (with various levels of rewording, but mostly using the SAME EXACT WORDS) for every question except the essay question.
+
+So,  I know that 1. our honor board is awful and even when I've caught even more obvious cheating in the past it turns into a nothingburger and 2. it's harder to prove using AI I sent the entire class an email saying that I've detected AI use on the exams, this goes againts honor policy blah blah and that I'm extending an olive branch to anyone who is honest and let's me know by Tuesday that they used AI. I said if they told me now, I would handle it at the assignment level versus escalating it where they would earn an XF for the course.
+
+  
+It has been SEVEN minutes since I sent the email and two students have already emailed me confessing to using AI on the exam. Neither one is the one I even thought used AI!!! So curious to see 1. if the one who truly copied and pasted AI will come forward and 2. how many students out of 40 will come forward.",active,23
+1g70sf3,10,2024-10-19,crazy idea: AI tool to see if your teacher used ChatGPT to *grade* your paper 😈😈,u/brainhack3r,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/1g70sf3/crazy_idea_ai_tool_to_see_if_your_teacher_used/,"Every couple weeks I read some student screwed because a teacher used one of those fake AI checker sites and it said their paper was created by ChatGPT.
+
+So what if we did the reverse?  
+
+You submit your graded paper, and notes, and it determines if the TEACHER graded your paper with ChatGPT.
+
+I mean I'm trying to go for some Monty Python-esque absurdity here.
+
+It would ALWAYS return true that the teacher cheated.
+
+The license is free for students, and $1000 for teachers who want to check it.  
+
+Think it's worth hacking together?",User_deleted,8
+1g760t6,15,2024-10-19,Common AI Expressions,u/Katnty143,Teachers,https://www.reddit.com/r/Teachers/comments/1g760t6/common_ai_expressions/,"Just finished reading 30 narrative essays. We spent ample time developing the essay in class, but students still felt the need to use AI/cheat. 
+
+Here is a list of ChatGPT’s favorite expression “shape.” Over half of the essays used this word…coincidence? Ugh
+
+- Language and culture shape the way I see the world and connect with others.
+These communities are not just a part of my life, they have shaped who I am
+This narrative is about the way I was able to shape my sense of identity.
+I was trying to juggle the pressure while still keeping my roots in mind
+My Ecuadorian roots and my American surroundings Spanish helps me connect to my roots,
+Snow-covered winters and vibrant autumns shaped my sense of time and place
+Each place I’ve lived has shaped my identity.
+The transitions I’ve made, whether geographical, social, or linguistic, have taught me the importance of resilience and adaptability.
+but it also served as a constant reminder of how deeply her teachings would come to shape my life
+The challenges I would face back then would shape me into a better man today,
+and the challenge of fitting into a world shaped by
+two languages and cultures. Navigating between English and Spanish, academic pressures,
+and cultural identity has shaped who I am today
+I've come to appreciate the strength, resilience, and unique identity that comes from my family’s journey.
+Hispanic community has around the world and shape me into a better human being.his entire journey was what shaped me to be the person I am today in regards to my knowledge of my heritage
+
+- I have been a part of numerous groups that have shaped my personality and the way I live my life today.
+
+- my journey has been shaped by my family, school, and sports
+
+- As I move forward, I carry with me the values, friendships, and skills that have shaped me
+
+- This shaped me as the person I am today and I strive to be the best version of myself and push others to do the same
+I've begun to realize how deeply it has shaped into who I am today
+Growing up in a multilingual household has shaped my identity and perspective on things.
+
+- The person I am today has been shaped by the people I have met and the experiences I
+have had during my life
+
+- These shared experiences have shaped our relationships, grown us as people, and created lasting memories.
+
+- I realized just how much this instrument has shaped my connection with him 
+explaining how different recording techniques shaped the sound of the music he produced
+
+- I learned perseverance through a tough season, discipline in practice, and adaptability during crucial moments shaped my approach to challenges in everyday life.
+
+- My family and my friends shape how I communicate,
+
+- These two discourse communities home and friends are very different, but they both shape who I am as a person
+
+- The vibrant Cuban influence shaped my experience on and off the tennis court,
+
+- While I am reflecting on my personal journey, it is clear that tennis has been a vital thread in the development of my life, a spirited force that helped shape my Cuban identity greatly
+
+- Now, reflecting on that journey, I realize how those moments have shaped my life and love for language
+
+",active,14
+1g78nic,193,2024-10-19,Today I took the HSK6 exam (again)! Here's my postmortem.,u/BeckyLiBei,ChineseLanguage,https://www.reddit.com/r/ChineseLanguage/comments/1g78nic/today_i_took_the_hsk6_exam_again_heres_my/,"First, my previous marks:
+
+- July 2021: HSK5: listening 86; reading 75; writing 88.  (total 248 = 82%)  Postmortem [here](https://www.reddit.com/r/ChineseLanguage/comments/omq7cw/today_i_took_the_hsk5_exam_heres_my_postmortem/).
+
+- March 2022: HSK6: listening 52; reading 63; writing 55.  (total 170 = 57%)  Postmortem [here](https://www.reddit.com/r/ChineseLanguage/comments/toio6w/today_i_took_the_hsk6_exam_heres_my_postmortem/).
+
+- October 2022: HSK6: listening 56; reading 55; writing 45. (total 156 = 52%)  (I didn't to a postmortem for the second time; it was quite upsetting getting worse marks after 8 months of full-time study.)
+
+Two years of full-time Chinese study later, this was my third time taking the HSK6.
+
+
+**How did I do?**
+
+I did as good as I could hope for in the reading and writing sections.  The reading section I timed to perfection (doing the sections backwards: 4, 3, 2, 1)---the lady announced there was 5 minutes left when I had 3 语病 questions unanswered.  The writing section this time was much easier than the last two times I took it (I think there was only one proper noun in the whole exam, and it wasn't essential to narrate the story), so that was just pure luck.  The handwriting was not an obstacle for me; normally, if I forget how to handwrite a character, I can switch to a synonym and/or rephrase the sentence, but there wasn't really any characters I needed to handwrite which I couldn't handwrite.  (The real problem with the handwritten exam is editing.)
+
+My listening section was not ideal, but that's expected as it's my weakness.  Occasionally the audio contained the answer word for word, but usually you have to understand what was said and infer the correct answer.  There were two ""不 questions"" in the listening section (which option is incorrect).  This time, there were no technical difficulties with the recording.
+
+For the HSK6, I feel like my marks this time are as good as I can achieve at my current level.  I was considering taking the HSK6 again (just in case), but I do not believe I'd get better marks just through luck.  (If my marks are poor, I think next time I'll take it in Australia, and see if there's any truth to the notion that it's easier outside of China.)
+
+This is my third time taking the handwritten HSK6 in China, and I'm yet to see anyone who didn't look east Asian.  The exam in Qingdao took place at a Korean school, so most (maybe all) were children with Korean passports.  (There was a lady from El Salvador in the HSKK高级, however.)
+
+It was also my first time taking the HSKK高级, which I did absolutely disasterously on.  For the first two 复述 (""re-narrate"") questions, I basically said a few key words and gave up.  The HSKK高级 audio seemed to be harder than the HSK6 audio.  I spoke with 4 students who took the HSKK高级 with me, and they also said they had no idea what was said in the 复述 section.  Maybe it's just sour grapes, but this seems like a poorly designed exam.  Certainly, my marks on this exam won't reflect my oral Chinese level.
+
+*My HSK6 mark predictions*: listening 65%, reading 80%, writing 70%.  [The marks will be published: 19th of November.]  Last time I overestimated my marks significantly, so maybe I'm doing the same this time (maybe -10% from all three estimates to account for this).
+
+
+**How did I prepare this time?**
+
+I took something like 20 classes on iTalki with [Jenny Chen](https://www.italki.com/en/teacher/1294454) who helped me with the HSK6 and HSKK高级 specifically.  (I used 并 and 于是 on today's exam because of her feedback on my writing.)  I had several other iTalki teachers along the way too.
+
+As usual, I studied multiple textbooks.  I studied the New Practical Chinese Reader 5, from start to finish (spending something like 8+ hours per chapter).  I also re-studied all 40 chapters of the HSK6 Standard Course textbooks (digging much deeper than before; usually I spent 10 hours per chapter).  I tried 《新汉语水平考试教程》 but I couldn't find the mp3s, so it wasn't much use for me.  (Out of curiosity, I tried doing the listening section without the mp3, and got 38/75 = 50% before I got bored, which is a bit unsettling.)
+
+Two years ago, I thought the HSK6 Standard Course Workbook exercises were too hard.  Here's my marks this time around (only including the listening and reading sections; not under exam conditions):
+
+上: 1. 83% 2. 75% 3. 75% 4. 83% 5. 89% 6. 86% 7. 78% 8. 89% 9. 95% 10. 86% 11. 92% 12. 95% 13. 75% 14: 56% 15: 75% 16: 72% 17: 83% 18: 75% 19: 89% 20: 83%
+
+下: 21. 72% 22. 78% 23. 67% 24. 69% 25. 72% 26. 78% 27. 75% 28. 64% 29. 67% 30. 78% 31. 83% 32. 81% 33. 69% 34: 58% 35: 81% 36: 69% 37: 75% 38: 86% 39: 83% 40: 94%
+
+Note the inconsistent marks (e.g., in section 14 I got 56% and in section 40 I got 94%).  Some of these questions felt unhelpful, and even demotivating (especially when they deliberately set ""traps"" rather than help you learn Chinese).
+
+There's a mock exam at the end of the HSK6 Standard Course Workbook; I got: listening 78%, reading 88%.  I did the writing sections throughout too, but they were unmarked (ChatGPT gave me feedback though).  I usually found I mis-handwrote two or three characters, and made some poor word choices and clunky grammar choices, but there's not much I can do to improve this without additional years of practice.
+
+I did the 汉语水平考试真题集 HSK 六级 2018版 Official Examination Papers of HSK (Level 6) again, but untimed this time.  It contains 5 HSK6 exam papers from 2018.  My marks this time:
+
+1: 听力: 86% 阅读: 88%  [2022 marks: 听力: 66% 阅读: 64%]
+2: 听力: 90% 阅读: 90%  [2022 marks: 听力: 74% 阅读: 68%]
+3: 听力: 88% 阅读: 90%  [2022 marks: 听力: 64% 阅读: 76%]
+4: 听力: 84% 阅读: 92%  [2022 marks: 听力: 64% 阅读: 70%]
+5: 听力: 78% 阅读: 80%  [2022 marks: 听力: 64% 阅读: 70%]
+
+I tested my handwriting with the 3018 simplified characters in Heisig and Richardson's *Remembering Simplified Hanzi* (which splits into two volumes, the first with 1500 characters); I turned it into a handwriting printout (posted [here](https://www.chinese-forums.com/forums/topic/63251-handwriting-practice-with-heisigs-character-list)).  I think I did this 3 times over (I did 100 characters each morning for a few months).  I estimate I can handwrite maybe 85% of the first volume, and maybe 40% of the second volume.
+
+The other major change in my study was ChatGPT.  ChatGPT has massively increased my reading volume.  ChatGPT was especially helpful for actionable feedback in the writing section.  Nowadays, using headphones and a lapel mic, I talk with ChatGPT (the free version) for 2+ hours straight, and it barely feels like I'm studying.  ChatGPT is also rather encouraging.
+
+I read all sorts of things, such as 《锐阅读》 (which contains articles suited for Chinese middle-school students), or news articles on Sohu (I feel some of the HSK6 contents are copy/pasted from sites like this), or I'd get ChatGPT to convert r/todayilearned posts into HSK6 reading material, or I'd just read novels.  I make sure I have no ""I've read nothing today"" days.
+
+It seems when studying vocabulary, I've gone through three phases: (a) initial study of the word, (b) becoming more familiar with the word through input, (c) studying the word to exhaustion.  This way, if you tell me an incorrect meaning of a word, I no longer think ""maybe it's a rare usage I don't know"", and now think ""no, I know all the meanings of this word, that's not one of them"".  This helps a lot with sections 1 (""faulty sentence"") and 2 (""fill in the blanks"") in the HSK6 reading section.
+
+I also got into Genshin Impact, and some of its stories are quite entertaining (Kachina's storyline especially), which provided a fair amount of listening practice.  And the characters actually react to what is being said, which helps understanding.  I feel the small subtitles on my phone are unpleasant to read, so I'd rather just listen.  This game is a bit of a double-edged sword though, because a lot of the time you're not learning Chinese, and you're saving primogems to pull for Nahida in the 5.2 update.
+
+
+**Did I improve over the two-year gap?**
+
+Absolutely!  When studying the listening section, I often repeated what I heard in the audio into English in my YouTube videos, which I would not have been able to do if I were just listening for keywords.  I listen with the aim of understanding what they're saying.  My reading speed has increased to the point where I didn't feel rushed in today's exam (although I didn't have time to dilly dally).  Having read lots, I've become familiar with collocations, so I zip through part 2 in the reading section (I can sometimes deduce how to fill in the blanks without even looking at the answers).  My writing has improved, but the HSK6 writing section is just one silly ""abridge"" task and nothing else (sometimes I call it the ""second reading section""); my improvements in writing are more like building suspense, conveying emotion, character developement, pursuasive writing, plot twists, etc., which does nothing for my marks in the HSK6 writing section where I'm instructed to mentally copy/paste some uninspiring story.  ([Here](https://www.reddit.com/r/WriteStreakCN/comments/1frwapc/i_wrote_a_satirical_mock_hsk6_question/)'s an example of my writing.)
+
+There was an important change in my study mindset: **I'm not learning Chinese to take the HSK6, I'm taking the HSK6 to help me learn Chinese.**  So...
+
+1. I didn't practice under exam conditions, but studied past/mock exam papers with the goal of learning as much as possible (I can get 80%+ with unlimited time; I just need to get faster [I have the theory, but not the practice]);
+
+2. when I was in the exam, I didn't feel stressed because the HSK6 is merely a tool to help me learn Chinese, and my Chinese has objectively improved regardless of my HSK6 marks;
+
+3. the reduction in stress led to better concentration during the exam;
+
+4. and if I want better HSK6 marks, then I will genuinely improve my Chinese skills, which will have long-term benefits.
+
+I wish I had had this realization years earlier.
+
+
+The first time I took the HSK6, I wrote:
+
+> If I had a time machine, I would go back and tell myself not to think about the HSK6 until (a) my vocabulary is above 20000 (characters above 3000), (b) I've read 10 million characters worth of input, and (c) my reading speed is 160+ characters per minute.
+
+What about now?  My (passive) vocabulary is in the ballpark of 15000 words, and I probably know a bit more than 3000 characters (it becomes meaningless to count words at this level: you know so many variants of words, and so many proper nouns, your vocabulary size is determined by your choice of dictionary).  So 20000 words is too many.  While 15000 words doesn't guarantee I know every word on the HSK6, I read with relative ease today's HSK6 exam (although there were some unknown words on the HSKK高级), so I don't think 15000 words is necessary.  Still knowing 15000 words helps a lot on the HSK6 exam.
+
+Did I read 10 million characters worth of input?  Over 2 years, that's 13700 characters per day, so probably no.  I'd guess in total I've read more than 10 million characters by now (but it's not like I keep track [I wish there were a browser extension that just counted how many characters you've read]).
+
+PS. I have noticed there's a HSK7-9 exam where I live (in three weeks).  Do you think I should ""YOLO"" it?  I will almost surely not pass, but it might be worthwhile getting an idea of what the exam is like for a future, more serious attempt.",active,216
+1g85aqn,2,2024-10-20,Chance an Indian intl with average stats,u/Individual_Bad_9303,chanceme,https://www.reddit.com/r/chanceme/comments/1g85aqn/chance_an_indian_intl_with_average_stats/,"**Where should I apply RD?**  
+My budget for tuition fees is around USD 40,000 per year. Here's my profile:
+
+**Courses:** Data Science / Mathematics / CS
+
+**Countries:** USA, UK, Ireland
+
+**Academics:**
+
+10th grade: 92.6%
+
+12th grade predicted: 92.2% (Physics, Chemistry, Math, CS, English)
+
+SAT: 1460 (790M, 670R)
+
+**Extracurriculars:**
+
+**1. Music (Piano/Band(Keyboardist)/Choir Accompaniment)**                                                                                     – Trinity College London Piano Exam - Level-Grade 6                                                                        – Placed in multiple competitions at both regional and national levels.                                           – *Award for Excellence in Music - School - Honor given to one outstanding student annually for exceptional musical talent.*
+
+**2. Tech Council**                                                                                                                                       *–* School student-led council
+
+*– Selected as 1 out of the 8 members of the council*
+
+*– Worked on projects related to science and tech events in our school* 
+
+*–  Educated teachers on ChatGPT and AI and children on cybersecurity*
+
+*– Made the intra-school STEM Quiz*
+
+**3. Activity Leader of Data Analytics Club**
+
+*– Led tutorials and workshops* *on data analysis tools like Excel, and SQL for other members*
+
+*– Worked on projects benefiting the school through forms and data collection*
+
+**4. Summer School at a local university ( AI, Economics, Astronomy)**
+
+**6. International Asteroid Search Campaign**
+
+*—  Achieved/Found Preliminary Discoveries, Most preliminary asteroid discoveries in the whole school.*
+
+*— Was showcased in the school's yearly award ceremony*
+
+**7. Startup Program**
+
+*– A 2-day long program about entrepreneurship and startups*
+
+*– As my group's CTO, I created the prototype application for our startup.*
+
+**8. French**
+
+– Romain Rolland Award for Excellence in French (School French Topper)
+
+– DELF A1 French Diploma 
+
+
+
+I've already applied to the UK and Ireland, but I'm still finalizing my list for the US and would appreciate any advice or suggestions on which schools might be a good fit within my budget and academic profile.",User_deleted,2
+1g88kqe,1,2024-10-20,Should I just stop looking for jobs and start a software company? ,u/supercargeneral,careeradvice,https://www.reddit.com/r/careeradvice/comments/1g88kqe/should_i_just_stop_looking_for_jobs_and_start_a/,"Hi everyone, I am a new business grad with 1YOE from internships and a good gpa. Given the condition of this labour market I am wondering if its even worth it to look for jobs. Most people will give advice along the lines of:
+
+- Network: Takes time to build relationships (4-6 months, or more) and even then that ""network"" might not translate into a role.   
+- Shoppers: Okay without, but I have student debt.
+
+It's fine if I can land something by applying to 3-4 roles every day but so far it has not been working, I have a good boring resume (ones that work) minimal white space and good pointers. I need something immediately and at max have a 6 month (I have been burning cash for around 6 months now applying to jobs) 
+
+Take me as greatest noob, but I am just looking for some advice. 
+
+I need to learn flask of django along with postgresql, aws rds, and a few other aws services like auth, cc, etc. and Kubernetes. 
+
+Sounds like a handful and if you haven't laughed by now I'd ideally want to learn them enough to build an app within 2-3 months. Cherry on top is I don't even know how to code and will probably go youtube and chatgpt route, for both building and debugging. 
+
+I did identify a really good niche problem and don't think it would be tough to hit 2K monthly once I have it built out.
+
+What should I do?   
+Get a co-founder while I make calls to potential clients?  
+Build it out myself and just take the leap of fait?
+
+All I know is keeping applying to jobs blindly (even the ones I am qualified for) isn't working out.",User_deleted,1
+1g8czej,12,2024-10-20,I passed both D317 (A+ Core 2) and D316 (A+ Core 1) in less than a month each. Here's how I did it.,u/LimeWire34,WGU,https://www.reddit.com/r/WGU/comments/1g8czej/i_passed_both_d317_a_core_2_and_d316_a_core_1_in/,"Hey there fellow Night Owls. I just wanted to give back to the community by sharing the strategies and resources I used to be successful on the CompTIA A+ exams.
+
+First of all, DO NOT use the reading material on CertMaster Learn's lessons content as a learning resource. The content on CertMaster Learn goes way outside the scope of the certification and you'll be overwhelmed with information that isn't even within the exam objectives. It's also very dry. I'm the type of student that prefers learning by reading as opposed to learning by watching videos, and even I was put to sleep by CertMaster Learn. Seriously. Do not use it.
+
+What you should instead use is Professor Messer's CompTIA A+ playlists on Youtube. He is a CompTIA Authorized Partner and he has two playlists on Youtube for both Core 1 and Core 2. I used his videos as my primary learning resource and it worked wonders for me. His content is very professional and to the point. I watched about ten of his videos each day to prepare for the exams. I also watched each playlist three times over to completion to prepare. 
+
+Also, go on [www.professormesser.com](http://www.professormesser.com) and buy his notes for Core 1 and Core 2. They're only $30. Review the sections of the topics that were covered from the videos you watched for a given day. This will help with your understanding of the material and your retention of the material as well.
+
+To further increase your retention, obtain the exam objectives sheet for both Core 1 and Core 2 and create flashcards for each term. I used ChatGPT to write these flashcards for me. Review the flashcards of one of the Domains of the exam objectives each day. 
+
+Once you have watched the playlist twice over, it's time to take a practice test. I used Jason Dion's practice tests for Core 1 and Core 2, which are provided free of charge by the school through the Udemy platform. Dion's practice test questions are phrased similarly as the questions on the exam. Aim for at least an 80% on the first attempt on the practice exams. After you have achieved an 80% or higher on four of Dion's practice tests, then you're exam ready! It's time to set up an appointment and pass!
+
+And that's all she wrote! With the above strategies, I passed A+ Core 2 with a 754 and A+ Core 1 with a 769. I also finished both A+ exam classes in under a month using these strategies and resources. I hope this post was helpful to you. Feel free to reach out if you have any questions!",active,40
+1g8fwlw,9,2024-10-20,SOLID TIPS since im done with my SAT's 😇,u/Substantial-Skirt-58,Sat,https://www.reddit.com/r/Sat/comments/1g8fwlw/solid_tips_since_im_done_with_my_sats/,"I took the October SAT and I got 1410 (770 maths & 640 r&w), it's my first & last test
+
+okayy I might not be the excelling sat taker like other ppl here but I'm talking from personal experience
+
+I was quite a failing student in high school ngl, my first practice test was abt 2 months before the test (1130)
+
+for math:
+- I honestly don't really find question bank that useful (I'm sure lots of questions come out from there tho) as I don't have the patient to do it and mark it one by one *me problem im sorry*
+
+- khan academy is the GOAT for me, I finished the course & repeated the course challenge about three times per day (helped so much)
+
+- after you finish ur practice test, please review it, it is really important (if you're impatient like me just look at questions u got wrong/was hesitating in test, and look up tutorllini test prep's practice test vids, and review the questions u got wrong)
+
+- write notes of the formulas you encountered frequently when you do questions, so you can read them before ur sat's 
+
+- if you don't know how to do a question, try and use chatgpt to explain it (if you cant find it anywhere on the internet explaining it) and make sure to write the question down, and redo it before your SAT !!!
+
+- may not be the most accurate but some of the questions in those ""questions in the XXXX month SAT"" youtube vids actually came out, so you should try them out
+
+- LEARN DESMOS THROUGHOUT, it helps and saves alot of time (but make sure to check ur answer again with ur calculator if you aren't sure)
+
+
+for reading and writing:
+- honestly I find memorising vocabs hard-to-do for me, so instead, I just remember the prefixes, suffixes and roots (and also do a ton of vocab questions on khan academy)
+
+- ok for reading and writing defo do use the question bank & khan academy together (more questions)
+
+- finish khan academy's standard english convention course, and do a ton of standard english convention questions because they are the easiest to learn and it SAVES UR SCORE (I went from 490 in my first practice test -> 640 in my oct SAT's r&w) 
+
+- start from q15/q16 and finish them, then go back to q1 for the vocabs
+
+- for notes questions, although most of the times you can get answers by reading the question, some questions would require you to kinda skim through the notes (so it depends)
+
+- while many people would say you can just read the question fast, but I would recommend to read the question slowly and comprehend it. You wouldn't wanna read the question again and again quickly then ending up not understanding it
+
+- repeating khan academy course challenge helps too
+
+- KEEP THE TIMER ON so you can kinda keep track of the time and get used to the flow & speed of the exam
+
+lastly, good luck for your SAT!
+hopefully it'll help out, I'll reply if u have any questions ^^",active,11
+1g8ltfx,1,2024-10-21,Where should I apply RD- intl indian?,u/KC26_,chanceme,https://www.reddit.com/r/chanceme/comments/1g8ltfx/where_should_i_apply_rd_intl_indian/,"My budget for tuition fees is around USD 40,000 (just fees) per year. 
+Here's my profile:
+
+Courses: Data Science / Mathematics / CS
+
+Countries: USA, UK, Ireland Academics:
+10th grade: 92.6%
+12th grade predicted: 92.2% (Physics, Chemistry, Math, CS, English)
+SAT: 1460 (790M, 670R)
+
+Extracurriculars:
+1. Music (Piano/Band (Keyboardist)/Choir
+Accompaniment)
+- Trinity College London Piano Exam - Level-Grade 6
+- Placed in multiple competitions at both regional and national levels.
+- Award for Excellence in Music - School - Honor given to one outstanding student annually for exceptional musical talent.
+
+2. Tech Council
+- School student-led council
+- Selected as 1 out of the 8 members
+- Worked on projects related to science and tech 
+- Educated teachers on ChatGPT and Al and children on cybersecurity
+- Made the intra-school STEM Quiz
+
+3. Activity Leader of Data Analytics Club
+- Led tutorials and workshops on data analysis tools like Excel, and SQL for other members
+- Worked on projects benefiting the school through forms and data collection
+
+4. Summer School at a local university (Al, Economics, Astronomy)
+
+5. Digital marketing intern at a Marketing firm
+
+6. International Asteroid Search Campaign
+- Achieved/Found Preliminary Discoveries, Most preliminary asteroid discoveries in the whole school.
+— Was showcased in the school's yearly award ceremony
+
+7. Startup Program
+- A 2-day long program about entrepreneurship and startups
+- As my group's CTO, I created the prototype application for our startup.
+
+8. French
+- Romain Rolland Award for Excellence in French (School French Topper)
+- DELF A1 French Diploma
+
+I've already applied to the UK and Ireland, but I'm still finalizing my list for the US and would appreciate any advice or suggestions on which schools might be a good fit within my budget and academic profile.",User_deleted,1
+1g8nusm,185,2024-10-21,Caught 2 students cheating and they continue to deny,u/Straight-Stay3830,Professors,https://www.reddit.com/r/Professors/comments/1g8nusm/caught_2_students_cheating_and_they_continue_to/,"I teach an English language course to foreign exchange students from non-English countries. Today we had a test and I caught 2 students cheating (in different sections) as clear cut as any cheating case could ever be. Yet, they both vehemently deny any wrongdoing.
+
+For context, they take tests on their electronic devices, mostly because I’m an underpaid adjunct who doesn’t have time for grading and because they find it easier than writing by hand. Plus I can test them on more content if it’s not handwritten. The questions are fairly similar to the questions in their textbook although I do change them up slightly or throw in a few curveballs.
+
+During the listening portion, one student was behaving very suspiciously. She had her tablet on the lowest brightness setting which is odd considering it’s a dark room and I can’t read my own phone or iPad on that same setting. She also positioned herself against a wall and pivoted her tablet screen toward the wall so it was hard to see what she was doing. I was immediately suspicious and monitored her closely. Lo and behold, I caught her looking at a screenshot of a page from our textbook which conveniently was exactly the page that the video I was playing happened to be about. I immediately confronted her and she denied having cheated. She said she was doing something unrelated and that just happened to be something she had open (that doesn’t even make sense). She says she had the photo from a day she forgot her textbook so she took a photo of her friend’s. First, you shouldn’t even be navigating away from the Canva test interface in the first place. Second, it’s obviously not a coincidence considering she had that page open right while I was playing a video about that exact page of the textbook AND she was behaving so strangely during the test.
+
+As for the student in my other section, he was also behaving strange so I casually approached him from behind. I caught him recording the audio of the listening test using the speech to text function of ChatGPT. I assume it was either because 1) a lot of my Asian students (he was of Asian background) have trouble with listening but are good at reading so he probably wanted to read the dialogue rather than listen to it, or 2) he intended to interact with the text once it was produced and ask ChatGPT to answer the related questions. The point is I literally caught him WHILE he was recording the audio with ChatGPT RIGHT IN FRONT OF ME. I saw EVERYTHING clear as day. He vehemently denies all. HOW?!
+
+It just amazes me. I will be giving them both zero but I’m just baffled how they can deny it with such confidence despite so obviously cheating. I admit I actually laughed while hearing both their excuses but they were completely serious. How? How can you actually say this with a straight face?
+
+I think the problem is that first year students are so immature and childish, when any sort of problem arises they go into damage control mode. How can I get out of this? How can I avoid consequences? They don’t have the maturity, experience, or wherewithal to realize that when you are caught with your pants down, it’s going to be better in the long run to just admit your wrongdoing, apologize, deal with the consequences, and do your best to move forward. That’s what they need to learn the most.",User_deleted,190
+1g9gc6p,1,2024-10-22,Need suggestions on how to create a university level exercise on generating Python code using ChatGPT?,u/Datloran,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/1g9gc6p/need_suggestions_on_how_to_create_a_university/,"Hi all, I hope you can help me out.
+
+I am an associate professor in Software Engineering and I am trying to create content for a workshop on Python programming. The workshop is a self-study, and the evaluation criteria is a simple pass/no-pass.
+
+Until recently, I would have created the workshop around a major exercise, like implementing tic-tac-toe in Python, but seeing as that is a simple task to instruct ChatGPT to do, that is not a route I want to do anymore. Instead, I would like to embrace the possibility of turning the workshop away from being a learning experience on the fundamentals of Python and instead having the students doing prompting and having to evaluate/adjust the generated responses. The students are already well familiar with Java syntax and programming paradigms in general, so I judge there is no need to learn this again with Python. As long as they can recognize the programming structures they know from Java in Python, I am good.
+
+But I am struggling with how to formulate the exercise; if I make it too detailed and technical, students will simply throw these instructions into ChatGPT and have no reflections at all. I get the sense, it must be formulated in a way, that makes it approachable for the students, but cannot be directly prompted to ChatGPT, but then I am speculating if that is even possible at all.
+
+Any suggestions from human peers will be welcome, as I have already tried asking ChatGPT and it cannot grasp the issue.",active,0
+1g9k0te,59,2024-10-22,[D] [R] LLMs frameworks for research,u/Debonargon,MachineLearning,https://www.reddit.com/r/MachineLearning/comments/1g9k0te/d_r_llms_frameworks_for_research/,"I'm a Ph.D. student in AI and NLP and I'm currently starting a new research project with LLMs.   
+This time, instead of writing all the code from scratch, primarily using HuggingFace and Pytorch, I'd like to use one of the popular frameworks (like LangChain, LlamaIndex etc.).   
+The motivation behind this is that, ideally, I'd like to learn to use these tools to get a more compact and organised codebase, such that I can easily add pieces to include RAG, Agentic workflows etc.   
+I'm also interested in having an efficient way to load models and make inferences.  
+  
+In your experience, which of the many available frameworks out there is the most suitable for research purposes ? And do you even use a framework or you just code everything from scratch every time you start a new project ?",active,69
+1gafonv,3,2024-10-23,AITAH for questioning how my professor graded an exam?,u/Appropriate-Lock-914,AITAH,https://www.reddit.com/r/AITAH/comments/1gafonv/aitah_for_questioning_how_my_professor_graded_an/,"Throwaway account since I post on my uni’s sub and don’t want to dox myself.
+
+I (23M) have been working professionally for 3 years and returned to uni to pursue a new career. I recently had a midterm in a management course where the professor didn’t provide a rubric for the long-answer questions, only stating that 3 questions were worth 15 points total. I asked her during the exam how the points were split between questions, and she said she wasn’t sure but the first question (which was much longer) would count for more. I ended up getting zero on the last two questions, which were worth 8 points total (27% of the entire exam). Nearly half the class also got zeros. It’s also not a curve based system.
+
+I emailed the professor afterward, asking about the point distribution and expressing surprise at the weight of the last two questions. I didn’t think they were worth as much based on her answer during the exam. She responded by saying she was shocked by my email, and we arranged to meet in person.
+
+At the meeting, I explained that I wanted to learn from my mistakes and understand the exam better. She seemed frustrated with all the questions she was getting from students and repeatedly expressed surprise that so many people got the last two questions wrong. When we discussed how she distributed the marks, she said those two questions were the most important. I was confused since they only took up one slide in the lecture and weren’t emphasized much.
+
+I asked if she was open to constructive criticism, and she said yes. I started by saying I liked her lectures, but maybe more time could’ve been spent on the important questions in class. She cut me off, saying my feedback was an excuse and that I had no right to criticize her because she’s taught the course for years, while I’d only taken it once.
+
+She then went on a long rant, saying I was rude and disrespectful for questioning her in the email. She said that in the “real world,” I’d be seen as unprofessional for questioning a superior like that. I apologized multiple times, explained that I never meant to be disrespectful, and told her I just wanted to learn.
+
+Now I’m confused. Did I go too far? or did she go too far? Is this okay for a professor to say things like that? Although I think what she did is wrong I’m still questioning myself if I’m the asshole and I’m just not understanding it since she’s a management professor and the head of the masters in management department. Surely she knows a lot more about management and teaching than me. I’m also trying my best not to offend her any further because she does mark my exams so  I don’t want to jeopardize my grade.
+
+TL;DR: My professor called me disrespectful for asking how she graded an exam, then said questioning a superior is unprofessional. 
+
+Note: I had a very detailed version but I thought it would be too long so I asked ChatGPT to make it short for a reddit post",active,3
+1gazkai,3,2024-10-24,MOE to roll out new device management applications to Chromebooks and iPads,u/Sad_Strawberry8080,SGExams,https://www.reddit.com/r/SGExams/comments/1gazkai/moe_to_roll_out_new_device_management/,"# Lightspeed Systems will be centrally deployed to students’ Chromebooks by the end of November 2024, and those who use iPads will go through guided onboarding for Jamf in January 2025.
+
+Author: [Ang Hwee Min](https://www.channelnewsasia.com/author/ang-hwee-min)
+
+Published: 24 Oct 2024 05:57PM
+
+[Read Original Article at Source](https://www.channelnewsasia.com/singapore/moe-mobile-guardian-hack-ipad-device-management-app-4699781)
+
+\---------------------------------
+
+TL;DR by ChatGPT:
+
+The Ministry of Education (MOE) in Singapore will introduce new device management applications for students’ Chromebooks and iPads starting in November 2024 and January 2025, respectively. Lightspeed Systems will be deployed on Chromebooks by the end of November 2024, while Jamf will be introduced for iPads in January 2025, requiring a guided onboarding process at schools. Windows devices will continue using Blocksi.
+
+This update follows MOE’s removal of Mobile Guardian after a cybersecurity breach in August 2024 that affected 13,000 users. MOE confirmed legal action was taken against the contractors involved in the breach.
+
+The new applications were selected for their mobile device management, usage management, and classroom management capabilities, as well as their compliance with security standards. Schools will receive training in November to ensure smooth deployment, and MOE will provide ongoing support during the transition, acknowledging that some initial challenges may arise.
+
+\---------------------------------
+
+SINGAPORE: The Ministry of Education (MOE) will roll out new device management applications to students’ Chromebooks and iPads from November 2024 and January 2025 respectively. 
+
+Lightspeed Systems will be centrally deployed to Chromebook personal learning devices by the end of November 2024 with no additional steps required by parents or students, MOE said in a statement on Thursday (Oct 24). 
+
+For iPads, Jamf will be deployed in January 2025 because students will need to go through a guided onboarding process in school, said the education ministry. 
+
+Windows devices will continue to use Blocksi. 
+
+The update follows MOE’s decision in August to [remove device management application Mobile Guardian](https://www.channelnewsasia.com/singapore/mobile-guardian-application-remove-cybersecurity-incident-moe-4526676) from students' devices the day after a global cybersecurity breach
+
+Mobile Guardian suffered a cyberattack on Aug 4 that affected 13,000 users from 26 secondary schools. In September, Minister for Education Chan Chun Sing confirmed that MOE [took legal action](https://www.channelnewsasia.com/singapore/mobile-guardian-cybersecurity-breach-attack-legal-action-contractors-chan-chun-sing-4597791) against ""relevant contractors"" after the breach.
+
+For parents who want “greater say” over how their children use their devices at home, MOE will continue to provide them with options to manage the devices after school hours, it said. 
+
+Noting that no software solution is “entirely foolproof”, the education ministry said it has taken steps to ensure that the new applications “meet schools’ needs effectively”. 
+
+The new applications were selected for their ability to meet “core technology requirements”, including mobile device management, usage management and classroom management, said MOE in its statement. 
+
+They also comply with security standards, including independent third-party security attestations and certifications, said the ministry. 
+
+To prepare to deploy these applications, schools will be trained on how to use them in November, said MOE. 
+
+“MOE will provide resources to schools to guide them through the deployment process as well as to engage students and parents,” the statement read. 
+
+Both schools and parents will need time to familiarise themselves with the new applications and may encounter “some teething issues”, MOE acknowledged. 
+
+“MOE will provide the necessary support throughout the transition period and address any issues that may arise.” 
+
+Source: CNA/hw(rj)",active,4
+1gb1cvk,1,2024-10-24,Can chatgpt create a presentation from scratch,u/shishinia,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/1gb1cvk/can_chatgpt_create_a_presentation_from_scratch/,"Can ChatGPT create a PowerPoint presentation from scratch if I provide the information? I’m a doctor, and I want to make a presentation on a medical condition to teach medical students. 
+
+Could ChatGPT, or any other AI tool, help with that if I upload the guidelines or literature on the topic?",active,1
+1gb2dyd,352,2024-10-24,ChatGPT has made Grade Grubbing insufferable ,u/ProfessorOfAll,Professors,https://www.reddit.com/r/Professors/comments/1gb2dyd/chatgpt_has_made_grade_grubbing_insufferable/,"Every semester I feel like I go through the same cycle: “excited and hopeful” to “this can’t possibly be worth it”. I’ve called out so many students for using chatgpt to be emotional manipulators and it just straight up lies in ways I don’t think students normally would.
+
+Emails like “puzzled”, “concerned”, “ensure my learning”, and so many more. Emails on and on about how much effort they put it into this and they just didn’t understand the assignment etc 
+
+It’s normal to feel like a student misunderstanding is my fault and sometimes it is.
+
+I came down very hard on an assignment since more than 1/3 of the students submitted my example solution as their solution with less than 1% changed. So grade distribution is basically all <=10% and all 90%+ 
+
+This is a graduate class at a “top” university.",active,374
+1gba119,1,2024-10-24,New Adjunct ChatGPT Advice,u/The_Broken_Vessel,Professors,https://www.reddit.com/r/Professors/comments/1gba119/new_adjunct_chatgpt_advice/,"Greetings all, I'm a doctoral candidate teaching a comparative religions course for the first time to an undergrad class at a major Catholic university. I've received next to zero guidance on building a syllabus for this class or the policies that should govern it. 
+
+I have, for the most part, navigated those issues, save ChatGPT and other generative AI tools. Individual professors are left to design their own policies on AI. My class is culturally diverse, with many ESL students, who tend to use AI to translate their thoughts into English from their native tongue, while other atudents use AI to skirt doing work in general. 
+
+Could I get some recommendations on the fairest policy I could implement in this context and perhaps some samples of policies that work for you? Also, I struggle here, too, because I want to make a good impression with the university not only so I can continue to adjunct, but because there is the possibility this could turn into a full-time job after I successfully defend my dissertation. 
+
+Thank you all so much. ",active,1
+1gbepz3,1,2024-10-24,Are OpenAI's o1-mini and o1-preview Truly Undetectable? An In-Depth Review,u/gptgabe,stealthgpt,https://www.reddit.com/r/stealthgpt/comments/1gbepz3/are_openais_o1mini_and_o1preview_truly/,"read here: [https://www.stealthgpt.ai/blog/are-openai-s-o1-mini-and-o1-preview-truly-undetectable-an-in-depth-review](https://www.stealthgpt.ai/blog/are-openai-s-o1-mini-and-o1-preview-truly-undetectable-an-in-depth-review)
+
+Since its inception, StealthGPT has understood that the most optimized form of AI content is humanized, undetectable AI content. Detectable content has no utility as an output than informing the user.
+
+For the longest time, this undetectability is what was lacking from OpenAI’s ChatGPT and other mainstream llms. All the easily decipherable watermarks of bad AI writing were present in what ChatGPT users were delivered as outputs. If a student dared use ChatGPT for their schoolwork, any AI detector would immediately flag the text.
+
+However, [with new AI models, o1-mini and o1-preview, being released to the public today](https://finance.yahoo.com/video/openai-previews-o1-ai-model-212105543.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADjyIPmLqZauF1QYsDT4MSEje1cFg-yq3l_RmaWxerdw4pig0q2PndnPBvif0vMgYdWqfqidqNscFMHU0rvm6NQ_ko39UCHjDBv_zlOGK0MUOA_goo-3mu2GoFHQbWNE3nJ1sQCIE47455SpjY_yRyKem73NgBPnDeLg73-TBSdj), the OG’s of AI content might’ve finally wised up about the future of AI and optimized their text to bypass AI Content detectors. That’s at least what we’re going to find out in this review.
+
+# Table of Contents
+
+* What is OpenAI’s o1-mini?
+* What is OpenAI’s o1-preview?
+* What is Undetectable AI?
+* Are OpenAI’s o1-mini and o1-preview Truly Undetectable?
+* Conclusion
+* FAQ
+
+# What is OpenAI’s o1-preview?
+
+OpenAI’s o1-preview is the first of a slate of new AI models that take more time thinking so they can take on complex tasks and solve harder problems. New levels of reasoning have been input into the process of how these models generate their answers so that like the human thought process, o1-preview will try different strategies and recognize its own mistakes.
+
+This makes for longer time generating outputs, but also more correct answers. o1-preview still does not have the capabilities of browsing the internet as GPT-4o, but for advanced reasoning, o1-preview touts itself as the new benchmark.
+
+# What is OpenAI’s o1-mini?
+
+OpenAI released two new AI models today. The first of which, o1-mini is a cost-efficient reasoning model meant to take on all the demands of STEM, specially math and coding. For 80% cheaper than their o1-preview tier 5 users of OpenAI’s API can o1-mini as a lower latency of o1-preview. Testing for speed against o1-preview and GPT-4o, o1-mini was 3-5x faster in delivering outputs.
+
+After undergoing human preference evaluations, like o1-preview, o1-mini was determined to outperform GPT-4o in reasoning-heavy domains but gets outperformed in language-focused domains, something that spells doom on the detectability front.
+
+# What is Undetectable AI?
+
+OpenAI made these two models to address the STEM fields and made note of their capabilities in math, science and coding, however English or linguistics was largely amiss from their analysis and most likely from the new model’s machine learning.
+
+Odds are it’s just as detectable as GTP-4o. That said, you may still be wondering what Undetectable AI is then. Undetectable AI is AI writing that has been made to feel like human writing by fine-tuning the language and removing the watermarks of AI writing such as low [perplexity and burstiness](https://www.stealthgpt.ai/blog/how-do-perplexity-and-burstiness-make-ai-text-undetectable). Those watermarks of AI writing are the exact elements that AI detection tools use to flag content as being AI generated.
+
+AI tools like ChatGPT might have some use cases, but the only way to make it useful as an essay writer or blog writer is to run the text through an AI humanizer, the likes of which are usually available from tech startups like the best, StealthGPT.
+
+Now that you understand what undetectable AI is and [how to make ChatGPT undetectable](https://www.stealthgpt.ai/blog/make-chatgpt-undetectable), lets see if the new AI models are worth using or if they’ll be detected.
+
+# Are OpenAI’s o1-mini and o1-preview Truly Undetectable?
+
+The only way we can determine whether these new Open AI models are undetectable is by passing them through AI detection tools like Turnitin, Originality, and GPTZero. First, lets see our outputs from each model.
+
+Here is o1-preview’s essay about Los Angeles and San Francisco:
+
+As you can see, the output now includes the duration of the AI’s thought process. When you click on that duration, an analysis of the AI’s thought process will drop down for you to see. More insight into this should open up new possibilities in terms of prompt engineering for more effective outputs.
+
+At 7 seconds, we should expect o1-mini to be faster. Lets see:
+
+o1-mini thought for only a second and didn’t provide a drop down menu of its process. With these two outputs, we’re gonna determine how detectable they really are.
+
+# vs Turnitin
+
+Running o1-preview through the most popular and widely-used AI detector, Turnitin gave us this result:
+
+Turnitin immediately detected this was 100% AI generated content with 10 instances of plagiarism found. Here’s the result for o1-mini:
+
+Slightly worse, 100% AI generated content detected with 11 instanced of plagiarism found. Not good. These new AI models need to come with a disclaimer about its actually utility.:
+
+>“Only use this content it to inform yourself, not actually for anything useful.”
+
+It should read.
+
+# vs [Originality.AI](http://Originality.AI)
+
+[Originality.AI](http://Originality.AI) came up with the same conclusions:
+
+o1-preview was detected as 100% AI-generated content.
+
+o1-mini was also detected as 100% AI-generated content. This exercise has become a closed case of low expectations.
+
+# vs GPTZero
+
+Lastly, before I move on to less obvious questions than the new ChatGPT’s detectability, lets run it through one last detector, GPTZero:
+
+Same as the others. GPTZero detected o1-preview’s text to be 100% AI generated content.
+
+And as for the new AI-model’s little brother, GPTZero detected o1-mini’s text to be 100% AI generated content.
+
+# Conclusion
+
+Nothing is new under the sun. ChatGPT’s ambitions in automation never included using their content in professional or academic settings. Thus, their new models are as completely detectable as GPT-4 turbo.
+
+If you’re a student, thinking about using o1-mini or o1-preview to write your essays, don’t. You will need an undetectable AI software if you don’t want to be accused of academic misconduct. You will need StealthGPT, the most undetectable AI writing tool in the game. You can visit our [pricing](https://www.stealthgpt.ai/pricing) here, where plans are tailored to your needs and discounts are abundant to make sure everyone has the opportunity to use the most optimized AI-content on Earth.
+
+# FAQ
+
+# Can OpenAI’s ChatGPT-4 Be Detected By Plagiarism Checkers?
+
+Yes. Absolutely. Though we tested their new AI models, certainly their old one is just as unable to bypass AI detection tools as the new.
+
+# How to Avoid AI Detection
+
+You will need to humanize your text by removing the watermarks of AI writing such as low perplexity and burstiness. Undetectable AI services like StealthGPT humanize text by making it feel like human writing with high complexity and randomness in the text’s word choice, sentence structure, and sentence length.
+
+# Is StealthGPT Undetectable?
+
+Yes. We’ve proven it time and time again, against AI detectors large and small. No matter if it’s the largest tool on the market, or some free tool in some dark corner of the internet. We’ve tested our software against the best of the best to prove no AI detector or other undetectable service compares to StealthGPT.",active,1
+1gbrfzd,1,2024-10-25,Chance an indian intl for RD,u/Individual_Bad_9303,chanceme,https://www.reddit.com/r/chanceme/comments/1gbrfzd/chance_an_indian_intl_for_rd/,"**Where should I apply RD?**  
+My budget for tuition fees is around USD 40,000 per year. Here's my profile:
+
+**Courses:** Data Science / Mathematics / CS
+
+**Countries:** USA, UK, Ireland
+
+**Academics:**
+
+10th grade: 92.6%
+
+12th grade predicted: 92.2% (Physics, Chemistry, Math, CS, English)
+
+SAT: 1460 (790M, 670R)
+
+**Extracurriculars:**
+
+**1. Music (Piano/Band(Keyboardist)/Choir Accompaniment)**   
+– Trinity College London Piano Exam - Level-Grade 6
+
+– Placed in multiple competitions at both regional and national levels.
+
+– *Award for Excellence in Music - School - Honor given to one outstanding student annually for exceptional musical talent.*
+
+**2. Tech Council** *–* School student-led council
+
+*– Selected as 1 out of the 8 members of the council*
+
+*– Worked on projects related to science and tech events in our school* 
+
+*–  Educated teachers on ChatGPT and AI and children on cybersecurity*
+
+*– Made the intra-school STEM Quiz*
+
+**3. Activity Leader of Data Analytics Club**
+
+*– Led tutorials and workshops* *on data analysis tools like Excel, and SQL for other members*
+
+*– Worked on projects benefiting the school through forms and data collection*
+
+**4. Head of Outreach Marketing, School Carnival**
+
+*-  Booked artists and entertainment for the Winter Carnival*
+
+*- Negotiated partnerships with local vendors and businesses*
+
+*- Managed social media campaigns to promote the event*
+
+**5. Digital Marketing Internship at a Marketing firm**
+
+**6. Summer School at a local university ( AI, Economics, Astronomy)**
+
+**7. International Asteroid Search Campaign**
+
+*—  Achieved/Found Preliminary Discoveries, Most preliminary asteroid discoveries in the whole school.*
+
+*— Was showcased in the school's yearly award ceremony*
+
+**8. Startup Program**
+
+*– A 2-day long program about entrepreneurship and startups*
+
+*– As my group's CTO, I created the prototype application for our startup.*
+
+**9. French**
+
+– Romain Rolland Award for Excellence in French (School French Topper)
+
+– DELF A1 French Diploma 
+
+I've already applied to the UK and Ireland, but I'm still finalizing my list for the US and would appreciate any advice or suggestions on which schools might be a good fit within my budget and academic profile.",User_deleted,1
+1gcka2g,3,2024-10-26,University or AI?,u/Comfortable_Time6164,Using_AI_in_Education,https://www.reddit.com/r/Using_AI_in_Education/comments/1gcka2g/university_or_ai/,"Employers aim to recruit graduates who can perform the same skills as their most productive employees. In selection interviews graduates are increasingly asked, ‘Tell me about a time when you used generative AI such as ChatGPT to rapidly solve a challenging problem in a field with which you were completely unfamiliar’. ‘My degree course didn’t allow us to use AI’ won’t convert the interview into a job offer.  ‘University or AI?’ explores ways students can use AI to extend their employability and increase their return on investment from higher education. [https://www.researchgate.net/publication/385038454\_AI\_or\_University\_ChatGPT\_Skills\_and\_Employability](https://www.researchgate.net/publication/385038454_AI_or_University_ChatGPT_Skills_and_Employability)",active,4
+1gcw9t6,1,2024-10-26,AI Detect: The Free AI Checker,u/AutoModerator,stealthgpt,https://www.reddit.com/r/stealthgpt/comments/1gcw9t6/ai_detect_the_free_ai_checker/,"The year is 2024. Reportedly, 86% of students are using generative AI in their schoolwork. AI is everywhere and both academic and professional moderators are using AI detection tools to try and limit the new technology. Students, creators, academics, and professionals are all using AI-generated content and AI content detectors at the same time, and in this chaotic environment, one software offers a free alternative without moral condemnation of those using AI. That is AI Detect, the free AI Checker.
+
+AI writing will be a necessary tool of the future and the future is now. You need the only free AI Detector able to put weak algorithms like ChatGPT, [Undetectable.AI](http://Undetectable.AI), and Stealthwriter in check.
+
+# Table of Contents
+
+* What is an AI Content Detector?
+* How Does AI Detection Work?
+* What is AI Detect: The Free AI Checker?
+* How Accurate is AI Detect in Identifying AI-generated text?
+* Ethics of AI Detect
+* Conclusion
+* FAQ
+
+# What is an AI Content Detector
+
+Because generative AI like OpenAI’s ChatGPT became so popularized for use in professional and academic settings, AI detector tools were developed and integrated into the each institution. These AI detection models are able to spot the watermarks that come with large language models.
+
+# How Does AI Detection Work?
+
+AI writing from ChatGPT utilizes machine learning that makes its writing low in perplexity and simple and precise in word choice, sentence structure, and sentence length. Meanwhile, human writing features plenty of randomness and complexity in word choice, sentence structure, and sentence length. AI content detection just looks for this simple, precise features and identifies it at AI-written content, often mistakenly flagging human-writing that is just simple and precise too as false positives.
+
+The most popular examples of AI detectors are Turnitin, [Originality.AI](http://Originality.AI), GPTZero and more. And these all still generate false positives, with a 4% rate on the sentence level by Turnitin.
+
+Once you understand AI Detection and how AI writing tools work, you can understand [how to bypass AI Detection](https://www.stealthgpt.ai/blog/bypassing-ai-detectors-stealthgpt).
+
+# What is AI Detect: The Free AI Checker?
+
+If Ai Detection is going to be an inherently flawed process, you might as well not be paying an arm and a leg for it which is what more prominent AI Writing Detectors expect from their subscribers and our educators. To solve this problem and offer AI detection that neither shames AI writing tools, nor abandons academic integrity, AI Detect offers a service open to everyone.
+
+Students, content creators, educators, professionals, you should all use AI detect whether you want to check if your humanized essay will be detected, or if you want to check a student’s work for AI plagiarism.
+
+# How Accurate Is AI Detect in Identifying AI-Generated Text?
+
+There’s only one way to find out if an AI detector works, by testing it against various content creation tools. The first LLM we’re going to test is the original generative artificial intelligence, ChatGPT:
+
+This is our ChatGPT essay about the best actors of all time. Now, lets run that through AI Detect to see how human this essay really is:
+
+At 1% human, AI Detect knew right away that this was AI-generated content. Now lets compare AI Detect to Stealthwriter’s detector and to ChatGPT’s detectability.
+
+First, here is what our ChatGPT essay looks after it was humanized by Stealthwriter.
+
+The less words that pass through an AI detector, the more unreliable the result, however the words allowed by the stealthwriter’s free trial were enough to seal its fate.
+
+With a 44% human score, AI Detect successfully flagged Stealthwriter at its most undetectable setting. AI Detect is much more than a ChatGPT detector, whether you’re using GPT-3, GPT-4 or undetectable AI, AI Detect has your number dialed in.
+
+# Ethics of AI Detect
+
+As the ethics behind academic integrity and academic misconduct are beginning to shift in lew of AI technology, AI Detect is here to embrace both users of AI content checkers and users of generative AI.
+
+AI Detect is for everyone. It is not the essay police like Turnitin. With AI Detect’s ethics integral to its mission, content creators can feel comfortable supporting a technology that doesn’t jeopardize their process.
+
+[Using AI isn’t exactly plagiarism](https://www.stealthgpt.ai/blog/is-using-chatgpt-plagiarism-academic-dishonesty-in-dishonest-academia) in the first place. Because they generate original content, generative AI doesn’t usually get flagged by old school plagiarismcheckers. That’s why academic institutions have coined the use of AI writing tools in school work as “AI plagiarism”.
+
+This is why if you’d like to use AI writing, you need undetectable AI tools to make your AI-generated text feel like human-written content.
+
+# Conclusion
+
+If you need a powerful AI engine to check your content for detectability, AI Detect is the Free AI Checker that will change your process forever. Whether you’re generating undetectable AI and need to see if it’ll really bypass detectors, or if you’re just reviewing work handed in to you, AI Detect is the most user-friendly, best-value, most effective tool to find AI writing in any piece of text.
+
+You can see AI Detect’s [pricing](https://www.aidetect.com/pricing) breakdowns here, where you can find a plan that fits your needs and start detecting today.
+
+# FAQ
+
+# Who uses AI Detectors?
+
+Everyone from students and professionals, anyone that deals with text-based content has a use for an AI detector. Whether it’s a blog moderator or a teacher, these positions deal with so much content that to ensure the content’s integrity, they need to implemenet AI detection software. AI Detection is utilized in content creation for social media and blogs, for SEO to ensure the best content climbs to the top ranks of search engines, and more.
+
+# Do AI Detectors Work?
+
+Although their process is flawed enough for [MIT to declare AI Detectors don’t work](https://mitsloanedtech.mit.edu/ai/teach/ai-detectors-dont-work/), they’re the best technology people have to ensure academic integrity isn’t completely leveled. As a whole though, they’re an imperfect tool because they don’t even claim to be the final word on a document’s origin. Software like Turnitin that has a 4% false positive rate at the sentence level, only claims to point reviewers in the right direction, whether a document is AI-generated or not.
+
+# How is AI Changing Academia?
+
+Beyond integrating AI detectors into the submission process and a reported [86% of students using AI for schoolwork](https://campustechnology.com/articles/2024/08/28/survey-86-of-students-already-use-ai-in-their-studies.aspx), academia has implemented AI at nearly every level of the institution. From content generation to targeted enrollment, we’ve only seen the beginning of AI-driven change.",active,2
+1gd2v1u,5,2024-10-27,Self Study or Homeschool iGCSE/GCSE Advice,u/Andrea_Is_GOAT,igcse,https://www.reddit.com/r/igcse/comments/1gd2v1u/self_study_or_homeschool_igcsegcse_advice/,"Self-study/Home Ed student here. Currently finishing up my first 5 exams. I didn't have a tutor. DM me if you have more questions. Hopefully this isn't too long lol
+
+\*series = anytime during the year that exams are held. May/Jun, Oct/Nov and Feb/Mar (India Only)
+
+  
+1) There are no mandatory subjects. Typical number is 7 but you can do less or more (I'm doing 5 this series)
+
+2) You will need to find a centre to sit your exams. You will have to pay. And they ain't cheap. 
+
+3) You already said this but download and print off your syllabuses. Tick off what you already know and are confident with. The exam board can only ask your questions related to the content in those documents.
+
+4) (IN THE UK ONLY) You need to decide if you want to do GCSEs or iGCSEs. I stands for international, typically sat by students outside the UK. iGCSEs are considered harder and they are more expensive to sit. GCSEs are what UK 15/16 years olds will do.
+
+5) You then need to decide on an exam board. Look the the syllabuses, the paper formats and find a centre for that exam board near you. I was stuck with either CIE or Edexcel for my exams but I went with CIE becasue I struggled too much with the Edexcel maths papers. fyi, you can pick different exam boards but it's unlikely that you will be able to do this in the same series. Decide off those factors. DM me if you'd like the list of centres that I've found. 
+
+6) You can 100% homeschool iGCSEs and GCSEs. I'm doing mine without tutors. Find teachers on YouTube that you like for your exam board. Have websites you go to for notes for each subjects. Get some second hand text books (pretty cheap, £4 or less per book.
+
+1. Print off your syllabuses, preferably in checklist form. Tick off what you know. The thing with the syllabus is that the exam papers can only ask you about content on those syllabuses.
+2. Find YouTube teachers you like for each of your subjects. These will be your main teachers.
+3. Gather up as many resources/websites as you can. Quiz websites, flash cards, websites with notes, pdfs of books, ect.
+4. GET YOUR ENTRY TO SIT THE EXAMS IN EARLY. DON'T PROCRASTINATE.
+5. For me I find it's best that I don't stick to a fixed study schedule. I'll just pick whichever subject I feel like doing on that day and do it until I'm bored. That might be 20 mins or in might be 2 hours.
+6. Have a space for studying that is only used for studying. Have a desk. Keep it 'tidy' with only school materials. How tidy is just personal preference.
+7. Read through this website: [https://he-exams.fandom.com/wiki/IGCSEs](https://he-exams.fandom.com/wiki/IGCSEs)
+8. Motivate yourself if you're teaching yourself. It's hard but I had to learn at a pretty young age. 'Ban' yourself from your phone until you've at least tried to study. Switch it off. Don't use Instagram/Discord, ect on your tablet/computer. Only associate it with study.
+9. Past papers are your best friend. Do as many as possible.
+10. Watch videos for fun. Documentaries are great for geo and bio. Goof around a bit a watch Marc Rober or CrashCourse for physics.
+11. For sciences, watch as many people doing practicals on YouTube as possible, even if they aren't in the syllabus. You need to be prepared for semi-random ones.
+12. Don't rely on ChatGPT to mark your English. It will give you great feedback but the mark will be very inaccurate even if you give it the mark scheme.
+
+",active,14
+1gdd429,2,2024-10-27,Going back to teaching after leaving…?,u/AnonymousFrogFiend,Teachers,https://www.reddit.com/r/Teachers/comments/1gdd429/going_back_to_teaching_after_leaving/,"
+TLDR: I left teaching after 1.5 years due to overwhelming workload and stress from handling all curriculum planning alone in a one-form entry school. Now at 26, with more life experience and tools to manage time better, I miss working with kids and am considering returning to teaching, but teaching A-Level English (AP English). I’m concerned that the same challenges might resurface, and I’m seeking advice from others who’ve returned to teaching after leaving. What did you change, and was it better the second time around?
+
+I taught primary (elementary) school for 1 1.5 years, back when I was 22 - 23 years old. As I’m sure many of you can relate to, my training didn’t prepare me for the realities of having my own class. The added responsibilities that add up over, e.g. setting homework, spellings, reading books, marking, the endless paperwork. I also only worked in one form entry schools (one class per grade/year group), so curriculum planning for the whole grade was overwhelming and I felt alone. I crumbled under that stress and so I left teaching.
+
+I’m now 26 and feel like I have a bit more life experience behind me. I don’t crumble under pressure as easily and I follow some teachers online who showed me some tools to save time as teachers, e.g. Teachermatic, ChatGPT (controversial), etc.
+
+I just really miss working with kids and I was wondering if teaching would be different if I taught A-Level English (AP English), where the students actually choose to be in class. Maybe it would make my life a little easier. Plus finding a job in the industry I want has been tough. But I’m scared that if I go into teaching again, the same issues I had before would resurface.
+
+So I’d love to hear your opinions, fellow teachers! Have any of you gone back to teaching after leaving? Or transitioned from younger to older kids? What was it like?
+
+Thanks in advance for your help and understanding!",User_deleted,2
+1gddc3y,1,2024-10-27,BugGPT: OpenAI powered security vulnerable web app generator!,u/dvnci1452,Python,https://www.reddit.com/r/Python/comments/1gddc3y/buggpt_openai_powered_security_vulnerable_web_app/,"**Introducing BugGPT: Your Ultimate Training Ground for Bug Bounty Hunting and Secure Development**
+
+**✨ What My Project Does**
+
+Harnessing the power of OpenAI's cutting-edge o1 reasoning model, **BugGPT** crafts intentionally vulnerable web applications tailored for:
+
+- **Bug Bounty Hunters:** Hone your skills by tackling realistic and diverse security challenges.
+- **Software Developers:** Learn best practices to identify and prevent common vulnerabilities in your projects.
+
+**BugGPT** is organized into **""rooms""**—each room is a named and numbered folder that includes:
+- A vulnerable Flask application ready for testing.
+- A comprehensive Markdown document that:
+- Explains the specific vulnerability.
+- Guides you through the exploitation process.
+- Provides best practices to help developers avoid similar flaws in their own code.
+
+To keep the challenges fresh and engaging, BugGPT uses **GitHub Actions** to automatically generate new rooms periodically, ensuring a continuously growing repository of learning opportunities.
+
+**🎯 Target Audience**
+
+- **Bug Bounty Hunters:** Practice finding and exploiting vulnerabilities in a safe, controlled environment that mirrors real-world scenarios.
+- **Students and Learners:** Enhance your cybersecurity skills with hands-on experience without the pressure of real-world stakes.
+- **Amateur and Professional Developers:** Strengthen your code by understanding and implementing security best practices, paving the way for a more secure development journey and career.
+
+**🔍 Comparison**
+
+**BugGPT** is designed to complement and even surpass existing platforms like PortSwigger and Hack The Box by offering:
+
+- **Free Access:** Open to everyone, lowering the barrier to entry for aspiring security professionals and developers.
+- **Constantly Growing Content:** Regular updates ensure a wide variety of challenges, keeping your learning experience dynamic and comprehensive.
+- **Developer-Centric Resources:** Beyond just exploitation, BugGPT emphasizes teaching developers how to prevent vulnerabilities, bridging the gap between offense and defense in cybersecurity.
+
+**💬 I’d love to hear your thoughts and feedback! Let’s build a safer and more knowledgeable community together.**
+
+https://github.com/Trivulzianus/BugGPT
+
+Thanks to ChatGPT for writing this post :)
+",active,0
+1gdqiio,2,2024-10-27,Career Advice Needed: Struggling to Find the Right Path ,u/Apprehensive_Share93,findapath,https://www.reddit.com/r/findapath/comments/1gdqiio/career_advice_needed_struggling_to_find_the_right/,"Hi everyone,
+
+I’m currently a junior in college, majoring in Computer Science and minoring in New Media Arts. Lately, I’ve been sitting down and contemplating what career would be most suitable for me. I’ve been thinking about this for years, starting back in high school, but I had a hard time envisioning myself in any specific career path. None of the subjects I was exposed to in school really sparked my interest in terms of my future.
+
+Since then, I’ve done A LOT of questioning and introspection to figure out what I actually enjoy. Choosing a career to commit to has been daunting, and even now, as a 21-year-old college student, I still find myself sorting through my likes, dislikes, and personality traits.
+
+Here’s what I’ve narrowed down so far:
+
+# What I Like:
+
+* **Writing**: I enjoy writing anything—essays, stories, ideas—whatever comes to mind.
+* **Arts**: I love the creative problem-solving aspect of art and thinking deeply about the meaning and purpose behind artwork.
+* **Psychology**: I'm fascinated by how people think and how the human mind works. I’m interested in understanding mental disorders and how relationships affect us. However, I don’t want to be a therapist or psychologist because dealing with others’ emotions sounds draining.
+* **History**: I find history fun, especially when I get to understand how the world was built and how people thought in the past.
+* **Art History**: Since I love both art and history, it’s a natural fit.
+* **Graphic Design**: I’ve always wanted to learn Adobe tools, and I’m fascinated by how people use visual design to communicate ideas.
+* **Pattern Recognition**: I get excited and proud when I recognize patterns that help me solve problems or make predictions. This skill made me think I should pursue Computer Science since I notice patterns in numbers and coding, but I’m not passionate about it.
+* **Aesthetic Sensitivity**: I have a good eye for what looks visually appealing, not just in art and design but in clothes, music, and patterns of any kind.
+* **Music**: I’m deeply passionate about music—it feels like it affects my soul. I used to play piano but stopped for personal reasons.
+
+# What I Don’t Like:
+
+* **Physics**: I’m not a huge fan of physics or memorizing all the formulas. I’ve always doubted myself in this subject. Hence, why I crossed out being an engineer. 
+* **Math**: I don’t hate it, but I’ve never been passionate about it.
+* **Biology**: It’s never sparked any interest in me. 
+* **Chemistry**: I was good at it in high school, but I wouldn’t want it as a career.
+* **Finance**: I was originally a finance major and after taking microeconomics and macroeconomics, I wanted to shoot myself (not literally, but you get it).
+* **Statistics**: Nope, not for me.
+* **Law**: No interest in being a lawyer.
+* **Medical Careers**: I don’t want to be a nurse or spend years getting an education in medicine.
+* **Dentist**: Cleaning people’s mouths just doesn’t appeal to me.
+
+# My Personality:
+
+* **Empathic and Emotionally Intelligent**: People tell me I have a great personality and that I’m in tune with others' emotions.
+* **Shy and Withdrawn**: I’m not much of a talker, and I worry this might make certain careers (like psychology or therapy) difficult for me.
+* **Analytical and Detail-Oriented**: I like breaking concepts down and understanding everything on a fundamental level.
+* **Imaginative and Fantasy-Prone**: This is where most of my creativity comes from and why I’m a good creative thinker.
+* **Cooperative and Collaborative**: I prefer teamwork and collaboration over competition.
+* **Deeply Self-Aware**: I’m always mindful of my thoughts, feelings, strengths, and weaknesses. I would love a career that encourages self-improvement.
+* **Strong Moral Compass**: I’ll fight tooth and nail for the people and causes I care about.
+* **Even-Tempered**: I’m pretty easy to get along with.
+* **Intellectual**: I’m curious about the world and don’t want that side of me to die as I get older.
+* **Cautious and Deliberate**: I like to think things through before committing to anything.
+* **Achievement-Striving**: I love earning the things I want in life.
+* **Self-Efficacy**: I have confidence in my ability to accomplish things, it’s just about prioritizing.
+* **Modest and Humble**: I have a realistic self-image and never put myself on a pedestal.
+
+# My Flaws:
+
+* **Self-Doubt**: This is my biggest flaw. Logically, I know I’m smart, kind, and hardworking, but emotionally, I act like I don’t believe it.
+* **Perfectionism**: I struggle with this.
+* **Thinking without Acting**: I tend to overthink and let decisions slip by without taking action.
+* **Fear of Commitment**: I fear being stuck in situations I can’t escape, whether that’s a bad relationship, a career I don’t like, or a toxic environment.
+* **Sensitive to Criticism**: I take criticism to heart.
+* **Procrastination**: Classic flaw.
+
+# Things I Want in a Career:
+
+* **Work/Life Balance**: I want to live to work, not work to live.
+* **Decent Salary**: I don’t need six figures, just enough to pay the bills, live comfortably, and have some peace.
+* **Remote Work**: This is a bonus, though not a necessity if the work/life balance is there.
+* **Non-Toxic Work Environment**: This is non-negotiable. I’ve struggled with social anxiety and fear of bullying, so I won’t tolerate toxic environments. Good communication and collaboration are essential.
+
+# So, Any Advice?
+
+What career paths should I look into based on my interests and personality? Any guidance or thoughts would be really appreciated. Thanks!   
+  
+P.S. And yes, I did use ChatGPT because I wanted my post to be coherent and organized. Just so that more people can understand it better. But my question and the meaning of my post remains the same. ",User_deleted,2
+1gdz3w9,2,2024-10-28,I am triggered too much when people copy in assignments or tests in college,u/an_underachiever_,Advice,https://www.reddit.com/r/Advice/comments/1gdz3w9/i_am_triggered_too_much_when_people_copy_in/,"So I've been brought up as an honest guy and I pride myself on my honesty. But when I look around me and I can't help but do it, almost everyone in college cheats/copies in literally every assignment or test or project. It riles me up so much. In assignments, few assignments of students do the rounds in the student groups and everyone copies from it. Very rarely I do that. And some people are smart enough to take the best parts of different assignments doing the rounds. In tests, people hide phones in their dresses, even females, bring materials into the examination room, talk to neighbour's when no one is looking and what not. I know it's not possible to have eyes on everyone all the time but still even if caught no action is taken since the higher ups are all corrupt. There's no one to complain to. Projects are downloaded straight from the net and so on. Even in contests, people use chatgpt and Google and what not to get answers. Now, I can't sleep generally if I do such things and hence I live up to my values. But I can't help to wonder where the hell is everyone's ethics and honesty ? This is absolute nonsense. I'm getting so mad, I feel like I want to complain but I also don't want to ruin someone's life because it's not like I'm perfect in every way or haven't done anything wrong. Sure, I may have done less cheating than most kids if not all, but still I feel like this could backfire on me if my name is known. This happens every single day. The worst is when the teacher compares my work and their work and shows me how great there's is compared to mine. It's so damn awkward and frustrating",User_deleted,2
+1ge1on4,1,2024-10-28,Are Students Using AI To Study?,u/gptgabe,stealthgpt,https://www.reddit.com/r/stealthgpt/comments/1ge1on4/are_students_using_ai_to_study/,"read here: [https://www.stealthgpt.ai/blog/are-students-using-ai-to-study](https://www.stealthgpt.ai/blog/are-students-using-ai-to-study)
+
+The more AI technology advances, the more students are using it in their every day lives. Most people are well aware of students using AI to write their essays and do their homework, but this isn’t the only use students are getting out of these AI tools.
+
+Studying and reading is subject to AI integration just as much as academic writing. Generative AI is able to read the assignments either from an uploaded document or the web and create summaries, pinpointing relevant quotes and points so students can quickly get all the necessary proof that they did their assigned reading.
+
+The use of AI in studying and reading has caused higher education institutions to rethink how they assign reading, signaling larger changes on the horizon for academia.
+
+# Table of Contents
+
+* How Are Students Using AI to Study?
+* How is Academia Rethinking Reading Assignments?
+* Why Are Students Reading Less?
+* AI Solutions for AI Problems
+* TL;DR
+* FAQ
+
+# How Are Students Using AI to Study?
+
+For the longest time, college students have looked for ways to skirt this schoolwork, either by reading Cliff's Notes, web summaries, watching YouTube summaries, or simply skimming the material and crossing their fingers that they glossed over the material that’ll end up on the [quiz.Now](http://quiz.Now) though, with advanced artificial intelligence at their fingertips, students only need to ask these AI chatbots to read the material for them and generate a summary.
+
+Many of the caveats of using generative AI tools to create essays aren’t present when summarizing pdf’s. For instance, misinformation that an AI-generated essay might have aren’t present when the AI is tasked with simply reading a piece of text. This was once one of main hallmarks of AI writing for plagiarism detection, however in this case this fatal flaw is lacking from AI-powered studying.
+
+AI powered studying takes many forms. With students even asking AI to generate flash cards, so they can educate themselves the right way.
+
+Still, professors are not convinced that academic integrity is not being tarnished with this less intrusive use of AI tools. If students use AI to read everything assigned to them, professors will have to change what, why, and how they ask students to read in the first place.
+
+# How is Academia Rethinking Reading Assignments
+
+Unlike high school students, some college students have anywhere from 100 pages to 300 pages a week for varying fields of study. Whether because they deem the reading unnecessary busywork, they just don’t have the bandwidth to juggle the load, or for their own mental health, there has been a larger decline of reading for Gen-Z and younger students than previous times in academia.
+
+You can look to [studies from the 90’s and see a steady decline in reading](https://psycnet.apa.org/record/2000-07173-017) begin only to dip further and further all the way up to [70% of students saying they don’t read the texts their professors give them in a 2021 study](https://theconversation.com/up-to-80-of-uni-students-dont-read-their-assigned-readings-here-are-6-helpful-tips-for-teachers-165952).
+
+Where most professors take issue with the refusal to read and use of AI to take on reading assessments for students, is that such practices deprive young learners of the student learning experiences that are required to develop critical thinking and problem-solving skills.
+
+The solution as many professors have found, is conducting more in-class assignments, including in-class reading that teaches them how to read larger loads in a given period of time. Cognizant of declines in reading, some professors assign large reading loads for homework with intentions to quiz students on such hyper-specific material that no chatbot could possibly prepare the student for the quiz.
+
+Other solutions may involve explicitly advocating for using AI as well as changing the way students read. One of the many factors as to why students aren’t reading is surely changing technologies and mediums from which student derive information. Some professors advocate for joining this trend and assigning material to watch or listen to, in the form of YouTube videos or podcasts, instead of traditional reading.
+
+# Why Are Students Studying Less?
+
+Technological advancement holds a large share of fault for the decline in reading by college students, however, there are numerous factors beyond these advents. The Coronavirus pandemic served a large role in changing the way Gen-Z students learn, from shifting school to fully-remote settings and making mental health play a larger role in academia, students were tasked to read less and became used to these behaviors.
+
+With social media, podcasts, streaming services, and an infinite amount of media choices available to them, people have shorter attention-spans than ever, constituting a threat to reading at large, beyond school work. Even English students, who love to read and write, are using AI to complete and summarize the reading their assigned from less interesting classes.
+
+Lastly, economics has a role to play in why students read less. More students are working simultaneously to doing college work and this limits the bandwidth for school work they’re able to take on.
+
+This isn’t just students that need to work at the same time as they study to afford tuition and other bills, it’s student taking advantage of job opportunities that have been made available to younger candidates with remote capabilities that allow them to work anywhere and anytime. In our changing world, young people don’t see graduating as a pre-condition to starting their hustle, and studying often gets in the way.
+
+# AI Solutions to AI Problems
+
+Artificial intelligence is unique from previous Edtech advances that have changed the world. Any problem is subject to new solutions with unlimited capabilities to improve student learning experiences without having to sacrifice academic integrity.
+
+AI tools will soon be able to customize curricula down to each professor’s student and address all of their personal needs, whether they have jobs, mental health concerns, or simply prefer other media to text to get their information. Once curricula are personalized towards students, learning experiences can be crafted that ensure students acquire the skills they need to truly educate themselves, that students don’t just consider boring busy work, and that professors approve of.
+
+# TL;DR
+
+More than half of students are using AI tools to study. Some reports suggest it’s up to 86% of students, meanwhile as previously cited in this article, 70% of students are refusing to read. Obviously, if we truly care about student learning experiences, AI is not the issue. Students are already being deprived of learning experiences simply because they don’t care.
+
+AI should be considered an opportunity to reengage students in academia. AI’s impact on academia has yet to materialize, but we can already expect that it will be responsible for more positive results than cases of plagiarism. [OpenAI’s updated versions of ChatGPT](https://www.stealthgpt.ai/blog/are-openai-s-o1-mini-and-o1-preview-truly-undetectable-an-in-depth-review) alone are capable of more computing power than ever, making it essential in scientific fields. When the humanities become subject to such advancements, they will make AI essential to educating yourself in a field.
+
+# FAQ
+
+# Is Using ChatGPT plagiarism?
+
+[Using ChatGPT or any other generative AI software to do your homework is not traditional plagiarism](https://www.stealthgpt.ai/blog/is-using-chatgpt-plagiarism-academic-dishonesty-in-dishonest-academia). It may be considered academic misconduct, but plagiarism is defined the theft of words or ideas without proper credit, which is not what AI does when generating text. Generative AI creates original content, so having it ghostwrite your essay is not plagiarism but the newer classification of “AI plagiarism”.
+
+# How Many Students Use Generative AI?
+
+A recent [Digital Education Council survey reported that 86% of students use AI](https://campustechnology.com/Articles/2024/08/28/Survey-86-of-Students-Already-Use-AI-in-Their-Studies.aspx) at varying capacities for their studies. Given that using AI for schoolwork is often prohibited, some students may have felt pressure confessing that they use AI as well. Meaning the actual percentage of students using AI may even be higher than 86%.
+
+# What Are People Using Generative AI For?
+
+Students use generative AI for homework but professionals also use these AI tools for all sorts of tasks from writing blogs, to SEO, to social media posts on platforms like LinkedIn and X. Using tools like Stealth Writer and SEO Writer give digital content writers huge advantages for making content personalized to any audience.
+
+# What Other Generative AI apps are People Using?
+
+Beyond ChatGPT, students and professionals are realizing that in order to implement AI into their work, they need to [use undetectable AI services to bypass AI detectors](https://www.stealthgpt.ai/blog/make-chatgpt-undetectable). The best of these services is StealthGPT, with more capability in beating AI detection than any competitor, while also providing high quality content for professionals and academics alike.",active,1
+1ge7yy4,1,2024-10-28,University or AI?!,u/Comfortable_Time6164,UniUK,https://www.reddit.com/r/UniUK/comments/1ge7yy4/university_or_ai/,"Employers aim to recruit graduates who can perform the same skills as their most productive employees. In selection interviews graduates are increasingly asked, ‘Tell me about a time when you used generative AI such as ChatGPT to rapidly solve a challenging problem in a field with which you were completely unfamiliar’. ‘My degree course didn’t allow us to use AI’ won’t convert the interview into a job offer or, beyond paid work, convert your neighbourhood into a community. ‘[AI or University?](https://www.researchgate.net/publication/385038454_AI_or_University_ChatGPT_Skills_and_Employability)’ explores ways students can use AI to extend their employability and increase their life-wide return on investment from higher education. Graphs compare the performance of a reasonably gifted AI-literate school leaver (mauve bars) with graduates (red outline bars) for 33 subjects of study – business and management shown here as an example. Appendix C of ‘[AI or University?](https://www.researchgate.net/publication/385038454_AI_or_University_ChatGPT_Skills_and_Employability)’ illustrates how to increase your employability using AI in your extracurricular life at university and in 6th Form.",active,0
+1geayrt,1,2024-10-28,Incorrect ChatGPT answers for Digital Literacy class,u/jenfl,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/1geayrt/incorrect_chatgpt_answers_for_digital_literacy/,"Hello!  I'm teaching a Digital Literacy class to middle and high school students, and the topic this week is AI.  I've got a lot of great examples of AI going wrong when generating images.  I'm looking for some examples of AI being obviously wrong in text.  I have at one to start with (ChatGPT doesn't do well being asked to general measurements for a scale model of the solar system).  But I'd like to show the kids more, to prove to them that ChatGPT is mostly trying to SOUND correct instead of BEING correct.  Do you have any fun examples?  Thanks!",active,1
+1ged1za,1,2024-10-28,Suggestions for Curbing AI & Encouraging Better Student Writing & Conduct,u/Stock-Review1076,Professors,https://www.reddit.com/r/Professors/comments/1ged1za/suggestions_for_curbing_ai_encouraging_better/,"Hi everyone, I'm a longtime reader, but this is my first time posting. I've read many threads here about AI, cellphone policies, laptops, etc., but I am currently burnt out this semester, and I'm at a loss regarding what to do about my classes regarding AI and class conduct. (I apologize for the long post/rant!)
+
+I am an adjunct teaching two courses at a good state school while completing my PhD. Both my courses are 60 students each, which is an interesting size—not quite a large lecture and small enough that you can have discussions, be mindful of class conduct, etc. I'm usually known as the ""approachable"" professor. I'm fairly young (mid-30s), very accommodating, and have flexible deadlines. (I'm also a woman, so sometimes, female professors get the ""nice"" label.) I teach gender studies and religion. They are lower-level courses that I try to keep easy and fun. 
+
+My courses usually go well, but this semester has been a struggle. I grade attendance because my chair advised me to do so post-COVID. I have added a strict no-cellphone policy this semester because cellphone use was terrible the previous semester. I also have other course conduct policies on my syllabus. I implemented a ""syllabus quiz"" this semester, which tested them on these policies. I also have a strict no-AI policy. In one of my courses, their class conduct has been very distracting—cellphone use, exiting excessively during class, being distracted by their laptops, etc. While meeting with the dean of students last week about another issue, she told me it's good to reset expectations for the rest of the semester, which I sent to my students last Friday in an announcement (I reminded them about cellphones, told them there's been too many class disruptions and class exits, and reiterated that these policies are on the syllabus.)
+
+In my other course, I have several quizzes throughout the semester. This last quiz, I noticed use of AI and so, I audited their first quiz and found A LOT of AI that I had missed. I'm talking bad AI--copied and pasted from Gemini or Chat GPT. These take-home quizzes should be easy because they're open book/note, so using AI for a 150-word short-answer question is appalling to me.
+
+Today, I lectured both classes about AI use and gave both classes an in-class essay to write on the spot. I was pretty hard on them and warned them that I might ban laptops for the rest of the semester and change our assignments to in-class essays. This semester, it all just feels so demoralizing—I have a lot of good students, and I have others who have tried to bully me this semester, have terrible attitudes, and now the rampant AI use. I'm definitely going to get tanked in my evals, because one student just complained on my Rate My Professor: ""bothered about students leaving early, being on your phone, and is very strict about attendance. It's really annoying because it's not that deep.""  (This is all they care about 🙄) 
+
+I'm a former writing teacher, so I used to do fewer lecture-style classes and more classes on close readings, discussions, in-class work, etc. I switched to lectures because lectures seemed better suited for these intro courses, but I fear that lecture-based courses just fuels this behavior...
+
+I'm wondering if anyone has had success with 1) banning laptops and 2) going back to in-class essays / BlueBook exams? Do you think it would be excessive to ban laptops? Do you have any tips on redoing your assignments because of AI or in-class behavior?",User_deleted,0
+1gezx67,1,2024-10-29,Handwritten class feedback forms,u/Jwxtf8341,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/1gezx67/handwritten_class_feedback_forms/,"I teach a variety of continuing education classes that require a handwritten feedback form from students. These forms are a standard government template that rank several elements of the class on a scale from 1-5 and solicit students for both successes and opportunities for improvement. 
+
+I pay for ChatGPT premium and I thought this would be as easy as importing the PDF from my scanner and prompting the LLM for analysis and summary. It looks like the file type isn’t importing. How can I get this data into ChatGPT for analysis? I was hoping to avoid hand typing the feedback at minimum. Thanks in advance for any guidance. ",User_deleted,1
+1gf6dyt,1,2024-10-29,(Advice & Critique) MS Computer Science [Transgender],u/___beepyboopy___,gradadmissions,https://www.reddit.com/r/gradadmissions/comments/1gf6dyt/advice_critique_ms_computer_science_transgender/,"Hi everyone,
+
+I'm planning to apply for master's programs at Harvard, Stanford, Princeton, Yale, and MIT with a focus on Artificial Intelligence. I'd love some feedback on my profile, any areas for improvement, and insights on whether my background makes me a strong candidate. This is a throwaway account because I do get many trans-phobic comments. 
+
+Education:
+
+* Institution: Georgia Institute of Technology
+* Degree: Bachelor of Science in Computer Science
+* GPA: 4.0
+* Relevant Coursework: Machine Learning, Computer Graphics, Data Visualization, Data Structures & Algorithms
+* Honors and Awards: Faculty Honors, and Merit-based Scholarship during high school
+
+Experience:
+
+1. AI Engineer Intern at HealthCare Startup
+   * Currently working on AI development for healthcare insights.
+2. Engineer Intern at a Quantitative Hedge Fund
+   * Developed a micro-service for prime broker, enhancing efficiency and accuracy in data management.
+3. Research Assistant at Georgia Tech FinTech Research Lab
+   * Conducted research on quantitative trading strategies, including stock prediction using BERT embeddings and achieving 90% prediction accuracy on price movements.
+4. Data Science and Machine Learning Intern at Advisory Hedge Fund
+   * Managed data augmentation, real-time web scraping, and NLP sentiment analysis, achieving 87% prediction accuracy on sector movements.
+5. Computer Science Trainee at Pharmaceutical Company.
+   * Applied data science techniques in drug discovery research, focusing on dataset analysis for computational drug discovery.
+6. Technology Intern at Local IT Solutions Company
+   * Designed high-performance database systems and optimized transaction databases for fintech.
+
+Projects:
+
+* SEC 10-K Analyser: Built an NLP tool for SEC filing analysis with RAG modeling, improving data accuracy by 30%.
+* (EMNLP Published): Created a RAG-based assistant to parse and embed sections in research checklists.
+*  (Patented): Developed a mobile app to streamline emergency response, reducing response times by 53%.
+
+Certifications:
+
+* Machine Learning, The Data Science Course: Complete Data Science Bootcamp, Preprocessing Unstructured Data for LLMs, and Building Systems with the ChatGPT API.
+
+Languages and Skills:
+
+* Programming Languages: Java, Python, C/C++, SQL, JavaScript, R, Rust
+* Developer Tools: Git, Docker, GCP, Azure, AWS
+* Libraries and Frameworks: TensorFlow, LangChain, Beautiful Soup, PyTorch, Django, and React
+
+Extracurriculars:
+
+* Teaching Assistant at Georgia Tech
+* Leadership:  Student Government Representative and Event Coordinator for the Origami Club
+* Volunteering:  Red Cross Society & Blood Donation Organisation
+
+Personal Background:
+
+I'm **transgender** and am curious if this aspect of my identity might impact my application, positively or negatively. I’d appreciate any advice on disclosing this in applications and how it might be perceived.
+
+Questions:
+
+1. Profile Strength: Do you think I have a competitive profile for these top universities?
+2. Improvement Areas: Are there any areas to focus on before applying?
+3. Being Transgender: How might being trans impact my application process? Should I mention it, and if so, how might it affect my chances?",active,1
+1gfnio3,1,2024-10-30,Originality AI Update: StealthGPT Still Bypasses Originality,u/gptgabe,stealthgpt,https://www.reddit.com/r/stealthgpt/comments/1gfnio3/originality_ai_update_stealthgpt_still_bypasses/,"check out the full post here: [https://www.stealthgpt.ai/blog/originality-ai-update-stealthgpt-still-bypasses-originality](https://www.stealthgpt.ai/blog/originality-ai-update-stealthgpt-still-bypasses-originality)
+
+Of all the AI Detectors StealthGPT has bested throughout its storied history of wins, Originality is a standout among them. Known as the 2nd most deadly detector in the game, only after Turnitin, we don’t take the task of bypassing Originality as lightly as we may take, oh I don’t know, [DetectGPT](https://www.stealthgpt.ai/blog/how-to-bypass-detectgpt-s-ai-detector).
+
+Still, we’ve beaten them before and we shall beat them again. Simply put, [StealthGPT has Originality’s number](https://www.stealthgpt.ai/blog/originality-ai-s-content-detector-case-study-stealthgpt-is-confidently-seen-as-human). Every time they update, we’re always one step ahead. To show you precisely how we defeat Originality AI, I’m going to run some beautiful AI-generated content from ChatGPT through their AI Detection tool, then I’m gonna run StealthGPT’s undetectable AI content and we’re gonna compare the results.
+
+Users of StealthGPT know Originality will lose. Users of Originality need to learn their lesson the hard way.
+
+# Table of Contents
+
+* What is an AI Detector?
+* What is Undetectable AI?
+* Testing Originality AI Against ChatGPT
+* Testing Originality AI Against StealthGPT
+* Conclusion
+* FAQ
+
+# What is an AI Detector?
+
+Before we execute, lets educate! For those of you new to the undetectable AI space, our software was created to make content that no AI Detector could possibly flag so you can create content safely and without punishment.
+
+When ChatGPT was creating content in a vacuum, without AI detectors to rain on an AI writer’s parade, there was no way of comprehensively concluding that any piece of text was AI-written text. These days, that’s still not completely the case, you can’t ever be 100% sure that any writing is AI but when it comes to ChatGPT, most AI Detectors have no trouble analyzing ChatGPT’s output and declaring that it comes from an AI writing tool.
+
+So, how does AI content detection work exactly? By knowing the watermarks of a large language model’s writing style, you can pinpoint the presence of AI writing on the sentence level. Artificial intelligence is programmed to write for utility and precision, meaning it uses simple, precise word choice, sentence structure, and sentence length. AI checkers simply measure for the perplexity and burstiness of a piece of text and from those metrics determine its source.
+
+# What is Undetectable AI?
+
+To bypass AI Detection so you can actually use AI-written content in academics or professionally, undetectable AI tools were developed to make AI text to feel like human writing and beat AI detection systems.
+
+Among the many undetectable AI services, no software is stronger than StealthGPT.AI at generating high-quality humanized text with its Stealthwriter tool and its AI humanizer tool. StealthGPT has proven it can bypass Turnitin, bypass Originality.AI, bypass GPTZero, Content at Scale and more frequently and comprehensively than the competition.
+
+Just as AI-generated text from ChatGPT has certain watermarks that can be picked up by AI content detectors, the way StealthGPT humanizes its text is simply by flipping those watermarks on their head. It makes text human-feeling by making it more complex and random in its word choice and sentence structure and in doing so, the text can bypass AI Detectors and beat Turnitin or [Originality.AI](http://Originality.AI), all while increasing the text’s readability and quality.
+
+Furthermore, undetectable AI services like StealthGPT offer much more capability than beating popular AI detectors. StealthGPT works for all sorts of purposes, from inserting essay citations to ensure your work isn’t flagged by plagiarism checkers, to chatting with pdfs, SEO writing, and more.
+
+# Testing Originality AI Against ChatGPT
+
+Now that you know the players, lets begin our game. OpenAI just released two new models of ChatGPT, so I’m going to run the new o1-preview against [Originality.AI](http://Originality.AI) to see who prevails. Here is our essay from ChatGPT about ninjas and samurais:
+
+Now, lets paste this into Originality's content scanner and see what it finds:
+
+As I suspected, Originality.AI was able to detect the text was 100% AI generated. ChatGPT should never be used to generate essays you intend to directly hand in because whether it’s against Originality.AI, Turnitin AI, or any detector, chances are you’ll get [caught and punished severely for academic misconduct](https://www.stealthgpt.ai/blog/professor-catches-students-plagiarizing-with-ai).
+
+# Testing Originality AI Against StealthGPT
+
+I want to show you the power of each of StealthGPT’s tools, it’s AI humanizer and it’s Stealthwriter. First, the humanizer. Simply paste ChatGPT’s output into the bypass tool and in moments you’ll get humanized text as you can see below:
+
+Now let’s input that text into Originality AI’s content detector and see if we can ninja past their radar.
+
+With a 98% human score, Originality AI determined StealthGPT’s AI humanizer’s content was likely original content.
+
+With the AI humanizer proven to be as sharp as ever, lets rev up the Stealthwriter to give us a ninja/samurai essay from scratch and compare the results.
+
+First, here's our essay:
+
+Now, lets input that Stealthwriter essay into Originality:
+
+With an even better score, Stealthwriter has slashed through Originality’s defenses to bypass their detection system with a 100% originality score. Meaning it was found to be likely human and likely original.
+
+If you want to pursue AI content creation without fear of consequences, only StealthGPT can guarantee your safety.
+
+# Conclusion
+
+No AI Detector is safe from StealthGPT. Stealth AI is simply too powerful for the likes of Turnitin, Originality, Copyleaks, GPTZero, Content at Scale, Quillbot, Winston AI, or any Detector you can name.
+
+For content creation, no other undetectable AI software has more functionality and can generate higher quality, human-like content. We understand human writing, its style, flow, rhythm and randomness better than other AI chatbots. With dynamic writing style in StealthGPT’s machine learning, our AI becomes a better English scholar with every undetectable essay it generates.
+
+Join the undetectable revolution and take a peek at StealthGPT’s unparalleled [pricing](https://www.stealthgpt.ai/pricing?gc_id=21642348684&h_ga_id=167425671355&h_ad_id=711633826239&h_keyword_id=kwd-2329555557021&h_keyword=stealthgpt%20pricing&h_placement=&gad_source=1&gclid=Cj0KCQjwu-63BhC9ARIsAMMTLXQTJL4adZxJ6D9FtvzAzQYE7lrxIBjL_DARN9o_H4oc9pokWxTlLjgaAp-FEALw_wcB) plans. Our free trial allows for unlimited words so once you take it for a spin and see how StealthGPT elevates your content creation and academic writing, you’ll want to make it a constant fixture in your process.
+
+# FAQ
+
+# Does StealthGPT bypass Turnitin?
+
+Absolutely. As important as it is to be functional against Originality AI, if StealthGPT couldn’t bypass Turnitin AI, then it wouldn’t truly be undetectable.
+
+[StealthGPT has always beaten Turnitin](https://www.stealthgpt.ai/blog/bypassing-ai-detectors-stealthgpt), no matter how often they update, they simply can’t compete against us. And since Turnitin is integrated into [Canvas](https://www.stealthgpt.ai/blog/what-is-canvas), the most popular online student submission portal, if you plan on using AI writing for academic work, you’ll need StealthGPT to be able to bypass anything.
+
+# Is Using AI For School Plagiarism?
+
+Using AI to ghostwrite your essay is considered “AI plagiarism” and academic misconduct. It is not however, traditional plagiarism. Traditional plagiarism is the stealing of words or ideas without proper credit. When you use AI to generate your essay, you’re creating original content, not stealing someone else’s.
+
+Many schools are changing their policies and implementing [more progressive codes of AI ethics](https://teaching.cornell.edu/generative-artificial-intelligence/ethical-ai-teaching-and-learning) in accordance with the changes in how people use the technology. It is safe to assume that the use of AI for school work will have a changing stance as the technology reshapes academia as we know it.
+
+# Do AI Detectors Work?
+
+You’ve seen for yourself how poorly Originality AI fared against StealthGPT. Given most students have wised up to undetectable AI when it comes to submitting work, can it really be said these detectors even work? The answer is no.
+
+Even [MIT declared AI Detectors don’t work](https://mitsloanedtech.mit.edu/ai/teach/ai-detectors-dont-work/) given that Turnitin has a 4% false positive rate at the sentence level and that many detectors show bias against non-native English speaking students. They’re a flawed technology implemented by an institution that has run out of options. Academia can either change or die, and it’ll do everything it can to avoid changing.",active,1
+1ggiag5,2,2024-10-31,"🎤 Talk to any book, document, pdf with voice in real-time",u/thepromptgenius,SideProject,https://www.reddit.com/r/SideProject/comments/1ggiag5/talk_to_any_book_document_pdf_with_voice_in/,"Built this over the weekend after years of agony.
+
+Uploading a PDF to ChatGPT and asking questions doesn't help, I need something I can just talk to that answers me based on the content of a book or document I upload. This helps me study, prepare for interviews, learn new stuff much faster than reading (or ""chatting"" with a PDF). 
+
+VoiceDocs allows you to upload any document and start ""talking"" to it instantly. Ask questions, get insights, get summaries, learn new concepts, jump back and forth with easy. It's my dream tool. 
+
+I made it completely free so you can use it yourself as well! It's still early though so if you have any feedback or suggestions please let me know. 
+
+An open question I have is who would be an ideal ""niche"" for this product that could benefit from it and would be prepared to pay? I initially thought students but someone told me students don't like paying for such tools and look for free options.
+
+Here is the link [https://voicedocs.io](https://voicedocs.io)
+
+",active,2

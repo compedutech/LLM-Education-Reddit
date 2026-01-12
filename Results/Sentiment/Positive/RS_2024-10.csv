@@ -1,0 +1,587 @@
+1fukgrt,1,2024-10-02,"""ChatGPT's Impact on Virtual Learning and Training in Corporate and Educational Arenas""",u/cporter202,ChatGPTautomation,https://www.reddit.com/r/ChatGPTautomation/comments/1fukgrt/chatgpts_impact_on_virtual_learning_and_training/,"The advent of ChatGPT has revolutionized the way we think about virtual learning and training in both corporate settings and educational institutions. This form of AI, which can understand and generate human-like text, presents a host of new possibilities for enhancing the learning experience.
+
+In the corporate world, training employees is crucial for maintaining a competitive edge. ChatGPT can be employed to create interactive training modules that mimic real-life conversations, allowing employees to engage in simulated scenarios that improve their problem-solving skills and decision-making abilities. Additionally, it can serve as a 24/7 virtual assistant to answer questions, providing instant support and guidance.
+
+For educators, ChatGPT opens up opportunities for personalized learning. It can help design custom-tailored educational content based on individual student needs and learning styles. Furthermore, it can assist in grading assignments and even giving constructive feedback, which can be time-consuming for teachers.
+
+One of the most significant impacts of ChatGPT is its ability to overcome the one-size-fits-all approach. It adapts to the user's level of understanding, providing explanations, and examples to ensure comprehension. This adaptive learning approach is particularly effective for complicated subjects where learners might require different types of explanations.
+
+However, the use of AI like ChatGPT raises questions about the integration with current educational philosophies and practices. Are we prepared to redesign our curricula to make the most of these technologies? How do we ensure the ethical use of AI in learning environments?
+
+The potential of ChatGPT in virtual learning and training cannot be overstated. But as we navigate this new terrain, it's important to consider the broader implications on pedagogy, engagement, and the human touch that is so integral to the learning process. Let's discuss how we can leverage ChatGPT to enrich learning experiences without losing the personal element that fosters deeper understanding and growth.",active,1
+1fvbu73,1,2024-10-03,Exploring ChatGPT's Versatility in Data Analysis and Reporting Across Industries,u/cporter202,ChatGPTautomation,https://www.reddit.com/r/ChatGPTautomation/comments/1fvbu73/exploring_chatgpts_versatility_in_data_analysis/,"Title: Exploring ChatGPT's Versatility in Data Analysis and Reporting Across Industries
+
+Body:
+
+Hello fellow Redditors,
+
+Today, I'd like to dive deep into discussing the capabilities of ChatGPT in enhancing data analysis and reporting tasks across various industries. Having witnessed the rapid advancements in AI and machine learning, I believe that ChatGPT, with its language understanding and generation skills, stands as a game-changer in the realm of data analytics.
+
+ChatGPT's ability to understand and generate human-like text allows it to assist in creating comprehensive and insightful reports from chunks of raw data. For instance, in the finance sector, ChatGPT can be used to analyze market trends and generate investment reports, which could help in making informed decisions. Meanwhile, in healthcare, it could interpret patient data to assist in diagnosis and treatment plans, streamlining the workflow for medical professionals. 
+
+But what really piques my interest is how ChatGPT can be customized for niche markets. Agriculture, for example, can benefit from predictive analytics regarding crop yields, soil health, and market demands. Similarly, ChatGPT can help educational institutions by evaluating student data to improve learning outcomes.
+
+One key advantage of using ChatGPT is the speed with which it can process and summarize vast datasets, an otherwise time-consuming task. Moreover, its interactivity allows users to request specific insights or clarifications, making the analysis phase more dynamic and user-friendly.
+
+The matter of trust and accuracy is always a concern when AI steps into the picture. However, with proper oversight and continual training, ChatGPT's performance in data analysis can not only complement but in some cases, outperform manual processing.
+
+Now, I'm curious to know your thoughts and experiences with using ChatGPT in data analysis. Have you integrated it into your workflows? What challenges have you faced, and what successes have you celebrated? How do you see AI like ChatGPT evolving to serve data-driven decision-making in your industry?
+
+Let's discuss how this tool is shaping the future of data analysis and reporting, and exchange insights that could help others leverage ChatGPT's potential to its fullest.
+
+Looking forward to an engaging conversation!
+
+#DataAnalysis #ChatGPT #AI #MachineLearning #IndustryApplications #DataReporting #Analytics #Insights #Innovation",active,1
+1fvtlcw,3,2024-10-04,Last Month In AI | Sept 2024,u/Difficult-Race-1188,learnmachinelearning,https://www.reddit.com/r/learnmachinelearning/comments/1fvtlcw/last_month_in_ai_sept_2024/,"🔍 **Inside this Issue:**
+
+* 🤖 ***Latest Breakthroughs:*** This month it’s all about **OpenAI’s o1, METAs Segment Anything Model, Geometric Deep Learning Introduction, and Latest Developments in Music Generation.**
+* 🌐 ***AI Monthly News:*** Discover how these stories are revolutionizing industries and impacting everyday life: **OpenAI o1 model reasoning capabilities, Meta’s latest augmented reality glasses, and New drama at OpenAI.**
+* 📚 ***Editor’s Special:*** This covers the interesting talks, lectures, and articles we came across recently.
+
+>Check out AIGuys Blog:  
+[**https://medium.com/aiguys**](https://medium.com/aiguys)
+
+# Latest Breakthroughs
+
+The biggest breakthrough of the last month has to be the release of the o1 model from OpenAI. Even though it is a closed-source model. We were able to put a good piece together delving deep into its possible architecture. Is it really smarter than a PhD student or is that just hype? Can it really think so before it answers? The answer is both yes and no. Read the full article here.
+
+[**What Is Going On Inside OpenAIs Strawberry (o1)?**](https://medium.com/aiguys/what-is-going-on-inside-openais-strawberry-o1-717773a9964b?sk=124f5da2f5bc8b39292fbaf7cec319cf)
+
+**Even with state-of-the-art annotation tools, the complexity of annotating complex images limits human annotators to a mere 20 images per hour.**
+
+META’s Segment Anything Model (SAM) presents a groundbreaking method to significantly accelerate the annotation for a vast array of objects. Now you can annotate objects using just with text commands. How cool is that? Take a deep dive into how Meta did this amazing stuff.
+
+[**METAs Segment Anything Model (SAM) Complete Breakdown**](https://medium.com/aiguys/metas-segment-anything-model-sam-complete-breakdown-a576954f1a61?sk=a11bf62cfd9d1b7fe7a424d61fd6a01a)
+
+>
+
+**Geometric Deep Learning** unifies a broad class of ML problems from the perspectives of symmetry and invariance. These principles not only underlie the breakthrough performance of convolutional neural networks and the recent success of graph neural networks but also provide a principled way to construct new types of problem-specific inductive biases.
+
+[**Geometric Deep Learning Introduction**](https://medium.com/aiguys/geometric-deep-learning-introduction-46ff511e0bac?sk=636e58f285d5c5cf8b62cecfc832fcdd)
+
+Lately, the entire AI community feels like AI agents and LLMs are the only things happening in AI. But that’s not true, it is sad that other cool ideas do not get as much attention as they should. So, today we are going to dive deep into music generation and look into **FluxMusic.**
+
+The reason I want you to read this blog is that people in AI should be exposed to new ideas, outside of LLMs, I feel somehow a lot of AI engineers just don’t know enough tricks and rely too much on API calls and copying code from HuggingFace.
+
+[**Latest Developments In Music Generation**](https://medium.com/aiguys/latest-developments-in-music-generation-523b5e205b5c?sk=1b38c38c9dab783b26e34ea3d670bb4c)
+
+# AI Monthly News
+
+# OpenAI releases o1, its first model with ‘reasoning’ abilities
+
+ChatGPT Plus and Team users get access to both o1-preview and o1-mini starting today, while Enterprise and Edu users will get access early next week. OpenAI says it plans to bring o1-mini access to all the free users of ChatGPT but hasn’t set a release date yet. Developer access to o1 is *really* expensive: In the API, o1-preview is $15 per 1 million input tokens, or chunks of text parsed by the model and $60 per 1 million output tokens. For comparison, GPT-4o costs $5 per 1 million input tokens and $15 per 1 million output tokens.
+
+**News article:** [**Click here**](https://www.theverge.com/2024/9/12/24242439/openai-o1-model-reasoning-strawberry-chatgpt)
+
+**o1 Model Card:** [**Click here**](https://openai.com/index/openai-o1-system-card/)
+
+# Introducing Orion, METAs First True Augmented Reality Glasses
+
+Meta recently announced a new version of its **Ray-Ban smart glasses**, integrating advanced AI features. These glasses are equipped with custom-designed speakers, directional audio, and a 12 MP camera, enabling high-quality photos and videos. With Meta AI integration, users can interact hands-free through voice commands, livestream directly to social media platforms, and receive real-time feedback or assistance.
+
+The glasses also support voice-activated functionalities, such as answering questions or providing contextual information based on the user’s environment. This new release positions Meta’s AR glasses as a blend of hardware innovation and AI capabilities, offering a more interactive and immersive experience.
+
+**News Article:** [**Click here**](https://www.theverge.com/2024/9/27/24255557/meta-orion-quest-smart-glasses-ar-connect-vergecast)
+
+**Meta’s Announcement:** [**Click here**](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/)
+
+# MORE OpenAI drama
+
+According to The Times and others, OpenAI is undergoing a significant transition as it seeks to become more appealing to external investors. This includes a shift towards becoming a for-profit business and potentially raising one of the largest funding rounds in recent history, which could increase its valuation to around $150 billion. Despite this, multiple high ranking employees resigned last week, including Chief Technical Officer [Mira Murati](https://x.com/miramurati/status/1839025700009030027), Chief Research Officer [Bob McGrew](https://x.com/bobmcgrewai/status/1839099787423134051), and VP of Research [Barret Zoph](https://x.com/barret_zoph/status/1839095143397515452). All who departed posted messages statements stating they are resigning to explore new opportunities or take a break, and are totally supportive of OpenAI.
+
+More on this:
+
+* [**OpenAI CFO tells investors funding round should close by next week despite executive departures**](https://www.cnbc.com/2024/09/26/openais-cfo-says-funding-round-should-close-by-next-week-in-letter.html)
+* [**As OpenAI CTO and two others depart, Altman denies link to restructuring plans**](https://arstechnica.com/information-technology/2024/09/openais-murati-shocks-with-sudden-departure-announcement/)
+* [**Turning OpenAI Into a Real Business Is Tearing It Apart**](https://www.wsj.com/tech/ai/open-ai-division-for-profit-da26c24b)
+
+# Editor’s Special
+
+* \[EEML'24\] Michael Bronstein - Geometric Deep Learning: [**Click here**](https://www.youtube.com/watch?v=TLeofz0o7uY)
+* Stanford ECON295/CS323 I 2024 I Business of AI, Reid Hoffman: [**Click here**](https://www.youtube.com/watch?v=RXjLGn14Jo4)
+* What’s the future for generative AI? — The Turing Lectures with Mike Wooldridge: [**Click here**](https://www.youtube.com/watch?v=b76gsOSkHB4)
+* Stanford CS229 I Machine Learning I Building Large Language Models (LLMs): [**Click here**](https://www.youtube.com/watch?v=9vM4p9NN0Ts)",active,3
+1fvtlln,1,2024-10-04,Last Month In AI | Sept 2024,u/Difficult-Race-1188,ArtificialInteligence,https://www.reddit.com/r/ArtificialInteligence/comments/1fvtlln/last_month_in_ai_sept_2024/,"🔍 **Inside this Issue:**
+
+* 🤖 ***Latest Breakthroughs:*** This month it’s all about **OpenAI’s o1, METAs Segment Anything Model, Geometric Deep Learning Introduction, and Latest Developments in Music Generation.**
+* 🌐 ***AI Monthly News:*** Discover how these stories are revolutionizing industries and impacting everyday life: **OpenAI o1 model reasoning capabilities, Meta’s latest augmented reality glasses, and New drama at OpenAI.**
+* 📚 ***Editor’s Special:*** This covers the interesting talks, lectures, and articles we came across recently.
+
+>Check out AIGuys Blog:  
+[**https://medium.com/aiguys**](https://medium.com/aiguys)
+
+# Latest Breakthroughs
+
+The biggest breakthrough of the last month has to be the release of the o1 model from OpenAI. Even though it is a closed-source model. We were able to put a good piece together delving deep into its possible architecture. Is it really smarter than a PhD student or is that just hype? Can it really think so before it answers? The answer is both yes and no. Read the full article here.
+
+[**What Is Going On Inside OpenAIs Strawberry (o1)?**](https://medium.com/aiguys/what-is-going-on-inside-openais-strawberry-o1-717773a9964b?sk=124f5da2f5bc8b39292fbaf7cec319cf)
+
+**Even with state-of-the-art annotation tools, the complexity of annotating complex images limits human annotators to a mere 20 images per hour.**
+
+META’s Segment Anything Model (SAM) presents a groundbreaking method to significantly accelerate the annotation for a vast array of objects. Now you can annotate objects using just with text commands. How cool is that? Take a deep dive into how Meta did this amazing stuff.
+
+[**METAs Segment Anything Model (SAM) Complete Breakdown**](https://medium.com/aiguys/metas-segment-anything-model-sam-complete-breakdown-a576954f1a61?sk=a11bf62cfd9d1b7fe7a424d61fd6a01a)
+
+>
+
+**Geometric Deep Learning** unifies a broad class of ML problems from the perspectives of symmetry and invariance. These principles not only underlie the breakthrough performance of convolutional neural networks and the recent success of graph neural networks but also provide a principled way to construct new types of problem-specific inductive biases.
+
+[**Geometric Deep Learning Introduction**](https://medium.com/aiguys/geometric-deep-learning-introduction-46ff511e0bac?sk=636e58f285d5c5cf8b62cecfc832fcdd)
+
+Lately, the entire AI community feels like AI agents and LLMs are the only things happening in AI. But that’s not true, it is sad that other cool ideas do not get as much attention as they should. So, today we are going to dive deep into music generation and look into **FluxMusic.**
+
+The reason I want you to read this blog is that people in AI should be exposed to new ideas, outside of LLMs, I feel somehow a lot of AI engineers just don’t know enough tricks and rely too much on API calls and copying code from HuggingFace.
+
+[**Latest Developments In Music Generation**](https://medium.com/aiguys/latest-developments-in-music-generation-523b5e205b5c?sk=1b38c38c9dab783b26e34ea3d670bb4c)
+
+# AI Monthly News
+
+# OpenAI releases o1, its first model with ‘reasoning’ abilities
+
+ChatGPT Plus and Team users get access to both o1-preview and o1-mini starting today, while Enterprise and Edu users will get access early next week. OpenAI says it plans to bring o1-mini access to all the free users of ChatGPT but hasn’t set a release date yet. Developer access to o1 is *really* expensive: In the API, o1-preview is $15 per 1 million input tokens, or chunks of text parsed by the model and $60 per 1 million output tokens. For comparison, GPT-4o costs $5 per 1 million input tokens and $15 per 1 million output tokens.
+
+**News article:** [**Click here**](https://www.theverge.com/2024/9/12/24242439/openai-o1-model-reasoning-strawberry-chatgpt)
+
+**o1 Model Card:** [**Click here**](https://openai.com/index/openai-o1-system-card/)
+
+# Introducing Orion, METAs First True Augmented Reality Glasses
+
+Meta recently announced a new version of its **Ray-Ban smart glasses**, integrating advanced AI features. These glasses are equipped with custom-designed speakers, directional audio, and a 12 MP camera, enabling high-quality photos and videos. With Meta AI integration, users can interact hands-free through voice commands, livestream directly to social media platforms, and receive real-time feedback or assistance.
+
+The glasses also support voice-activated functionalities, such as answering questions or providing contextual information based on the user’s environment. This new release positions Meta’s AR glasses as a blend of hardware innovation and AI capabilities, offering a more interactive and immersive experience.
+
+**News Article:** [**Click here**](https://www.theverge.com/2024/9/27/24255557/meta-orion-quest-smart-glasses-ar-connect-vergecast)
+
+**Meta’s Announcement:** [**Click here**](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/)
+
+# MORE OpenAI drama
+
+According to The Times and others, OpenAI is undergoing a significant transition as it seeks to become more appealing to external investors. This includes a shift towards becoming a for-profit business and potentially raising one of the largest funding rounds in recent history, which could increase its valuation to around $150 billion. Despite this, multiple high ranking employees resigned last week, including Chief Technical Officer [Mira Murati](https://x.com/miramurati/status/1839025700009030027), Chief Research Officer [Bob McGrew](https://x.com/bobmcgrewai/status/1839099787423134051), and VP of Research [Barret Zoph](https://x.com/barret_zoph/status/1839095143397515452). All who departed posted messages statements stating they are resigning to explore new opportunities or take a break, and are totally supportive of OpenAI.
+
+More on this:
+
+* [**OpenAI CFO tells investors funding round should close by next week despite executive departures**](https://www.cnbc.com/2024/09/26/openais-cfo-says-funding-round-should-close-by-next-week-in-letter.html)
+* [**As OpenAI CTO and two others depart, Altman denies link to restructuring plans**](https://arstechnica.com/information-technology/2024/09/openais-murati-shocks-with-sudden-departure-announcement/)
+* [**Turning OpenAI Into a Real Business Is Tearing It Apart**](https://www.wsj.com/tech/ai/open-ai-division-for-profit-da26c24b)
+
+# Editor’s Special
+
+* \[EEML'24\] Michael Bronstein - Geometric Deep Learning: [**Click here**](https://www.youtube.com/watch?v=TLeofz0o7uY)
+* Stanford ECON295/CS323 I 2024 I Business of AI, Reid Hoffman: [**Click here**](https://www.youtube.com/watch?v=RXjLGn14Jo4)
+* What’s the future for generative AI? — The Turing Lectures with Mike Wooldridge: [**Click here**](https://www.youtube.com/watch?v=b76gsOSkHB4)
+* Stanford CS229 I Machine Learning I Building Large Language Models (LLMs): [**Click here**](https://www.youtube.com/watch?v=9vM4p9NN0Ts)",active,0
+1fw9tac,1,2024-10-04,AI use for teachers,u/rincesslezz,AustralianTeachers,https://www.reddit.com/r/AustralianTeachers/comments/1fw9tac/ai_use_for_teachers/,"Hi everyone! I’m a uni student and we’re doing an assignment on AI, chatGPT in particular. If you have any thoughts on my problem statement I would really appreciate any contributions in the comments! Thanks “Can chatgpt alleviate the pressure and workload for teachers, by creating effective lesson plans and summative assessment tasks? Or does the need to cross-examine counteract its effectiveness?”",active,0
+1fwkpjj,1,2024-10-05,College freshman: Is CS right for me?,u/D_Empire412,csMajors,https://www.reddit.com/r/csMajors/comments/1fwkpjj/college_freshman_is_cs_right_for_me/,"\*This may get a bit long but I feel understanding the whole picture is essential to my story.
+
+I am a CS freshman at Stevens Institute of Technology. Since 6th grade, I felt CS was the right major for me to do because I have been a major tech enthusiast since then. It started when I was given a hand-me down iPhone 5 after my parents upgraded to the iPhone 7, at that time the latest and greatest, the year before. As the iPhone 5 didn't support iOS 11, the newest software at the time, and had trash battery life, I began to religiously research smartphones trying to pick out what I was going to upgrade to. As an Apple user who already had an iPad Pro and several Macs in the house, I naturally gravitated toward the iPhone X, at that time, a completely brand new never-before-seen phone, but of course, as a 12-year-old, I couldn't afford it, so I started religiously watching tech reviews, starting with smartphones, and even how to jailbreak my iPhone 5 to feel like an iPhone X, but eventually getting into laptops, desktops, weird gadgets, and everything else. By 7th grade, I already basically schooled myself on being well-versed in tech specs but that was only the beginning, as that year, I finally got the iPhone XS Max, and from then on, upgraded yearly to the latest ""Pro Max"" iPhone on release day, now owning the 16 Pro Max, while also trying a few Android phones like the ZFold 4 and Pixel 7 Pro. I also shortly after got a 2018 iPad Pro, which I upgraded to an M1 and now M4 iPad Pro, and in 2020, an M1 MacBook Air, which I upgraded to an M1 Pro 14"" MacBook Pro a year later on release day, and the M3 Max 16"" MacBook Pro two years after that (what I am using right now). Point is, I became a major, well-versed Apple (and really all tech) enthusiast, outsmarting Apple Store employees many times, and that inspired me to learn to code, with hopes of eventually learning iOS Development.
+
+So, I applied to one of the top technical magnet high schools in my county and decided to choose CS as my CTE major. I had a great time there as most of the other students were tech enthusiasts and I enjoyed learning Python and Java and taking classes like AP CSP and CSA. However, I still had a major interest in iOS Development, so in 2022, as a sophomore, decided to take it upon myself to learn Intro to Swift and iOS Dev in an EDx course, and with those skills, made a basic storyboard app in UIKit, far from ideal. However, when summer came, I OD'd on it and took a break from it until I had a new idea, which happened in junior year when I began to develop a physics formula calculator in SwiftUI, which was actually looking promising, and I was almost considering releasing it to the App Store until realizing that it would take forever to hard-code the views for 100+ formulas. At that time, I didn't know about MVVM, archetypal views, or anything like that. But, that was also the year, my biggest ""false friend"" came into the picture: ChatGPT. ChatGPT could basically perfect my code and make it do whatever I want; no more searching Stack Overflow and trying to interpret the solutions. It just did it for me like a personalized coding assistant! At that time, I was over the moon about it, and I would say I may have made a mistake and become too reliant on it rather than understanding the actual code running underneath. As a 16-year-old, who was heavily optimistic about the future of tech, I didn't know any better though, and sadly, these AI coding habits have come back to haunt me ever since then.
+
+Anyway, in April 2023, nearing the end of my junior year of HS, I met a fellow 17-year-old Redditor on [](https://www.reddit.com/r/swift/) who was also interested in iOS Development and we started talking and considered collaborating on projects. However, because I was trying to spend the summer on SAT Prep and College Admissions, I didn't really start working with him until after that was done, when, in December, I had the remarkable idea to build an iOS/Mac app to serve as an unofficial client for Google Gemini, written in SwiftUI with a native look and feel like the ChatGPT app. So, we got to work, and I quickly found out how talented of a developer he was as he was able to code complex UI and backend things I didn't even know existed and felt I couldn't hold a candle to with my over-reliance on ChatGPT, while still refusing to try to write the code by hand, knowing it would take so much longer. Anyway, by January, we released our first alpha version to the App Store, and over time, we added feature after feature, all while getting a large amount of downloads. We're now around 200K, and a big reason could be that we were one of the first native Gemini apps, and we were making nearly 1K/month each from in-app purchases. But, he was still leading most of the development, and while I began to feel it was unfair, since I was making good money, I wasn't complaining. I tried developing new features but was too afraid to push them because I know he would find something wrong with them and call me a ""terrible dev"". **But, unfortunately, today, my success with this project is gone. We have been REMOVED from the App Store as allegedly, we were a ""copycat of Gemini"".** We are not, we are an unofficial client, but Apple App Review doesn't listen. I felt like I had a great project on my resume but unfortunately, it is possible it's completely gone and my partner is no longer interested in working on it and IDK if I am either. I feel I would need a lot of catching up to do because I felt I took the easy way (using AI to help solve my code) too much. It killed me in AP CSA as it made it so much harder to think about what code does when running it (i.e. I no longer thought about function call traces).
+
+However, the final nail in the coffin was my declining performance in math classes in high school and now in college. In HS, I got an A- in Algebra 2, B in Precalculus, and B in AP Calculus, but was borderline failing from February to April. At first, I didn't worry about it too much since I already got into a good college and felt like Calculus doesn't matter too much if I want to be a software dev. But, in my first semester at Stevens, a heavily-focused engineering and tech school, I am feeling the troubling affects of this first time. I failed my first exams in MA 125 (Vectors and Matrices) and PEP 111 (Physics and Mechanics) very badly and TBH, don't have a lot of interest in studying these subjects or teaching myself how to do Gaussian Elimination. I would like to get at least a 3.2 GPA so I can stay in Stevens' Pinnacle Scholars (Honors) program but if I get a C in MA 125 and PEP 111, it won't be enough even if I got an A in all my other classes. One semester should be okay but I'm worried this may cause a cascading domino effect. Even my traditional tech enthusiasm is at an all-time low. Personal tech news, especially relating to smartphones and personal computers, what I was typically interested in, is drier than toast, and really, how good could a smartphone even be? Plus, enshittification is a huge problem with many tech services, where they try to nickel and dime users and/or make their software as addictive as possible, and frankly, I can't see myself wanting to code that stuff for the next 50 years of my life. Quite frankly, I can't see myself wanting to be a ""coder"" even if I was paid 1M/year for it. Being a ""coder"" seems like the tech equivalent of a factory worker, and with me not being too interested in the math/theory, and my biggest project getting destroyed, I feel this is the 9/11 moment of my passions in tech and I need to find some kind of way to ""rebuild"". I am considering other majors and fields, like Business and Law and think I would be a good lawyer since I am starting to find my English and History classes more interesting than my Math and Science classes, I am good at defending my arguments to death, and I would like my work on this planet to be noticed. I don't feel the traditional SWE route could give me that satisfaction and it just seems boring. Should I give up on CS?",User_deleted,0
+1fxe4pq,2,2024-10-06,How to Understand AI and technology matters,u/ytffytff,ArtificialInteligence,https://www.reddit.com/r/ArtificialInteligence/comments/1fxe4pq/how_to_understand_ai_and_technology_matters/,"hi, i'm a finance student ever since chatgpt, gemini are out there's a lot of buzz, how ai will replace, we need to adapt to change, With help of gpt and gemini i can summarize and make some good info. Reports. How can i learn more about ai tools which can help in automating some tasks, learn about coding (python is a required skill in job to upgrade pay package), help me in generating infographs with automations? Will be a great help. Not from tech background.",User_deleted,1
+1fy54kn,1,2024-10-07,[D] Flexible compute  deployment based on task complexity,u/Karioth1,MachineLearning,https://www.reddit.com/r/MachineLearning/comments/1fy54kn/d_flexible_compute_deployment_based_on_task/,"Hello ML people. I’m a cognitive science student working at the intersection of neuroscience and machine learning. Probably one of the coolest things about the brain is just how freaking efficient it is for what it can accomplish— running on lightbulb. To my understanding, this likely comes from not using all parameters if it is unnecessary for the task. So far, the only ML approach that I have found akin to this has been Mixture of Experts. 
+Aside from that, in Deep Learning, optimising the inference process seems to be somewhat neglected — usually just using all parameters regardless of top down context or input statistics. 
+
+I’m almost sure I am wrong, so I was hoping you guys could point me to good papers delving into this? Or perhaps the formal name of the problem? As an example, you might take an LLM. If the prediction of the next word in a sentence is simple (e.g. herbivores eat [plants]) I might not need all parameters to get a perfectly good prediction (Claude and LLama would likely do equally fine, but Claude cost more to solve this one), as opposed to one that is more technical and requires more attention and context into the processing (e.g., solving a mathematical proof).
+
+",active,0
+1fypci8,17,2024-10-07,NVIDIA AI Releases OpenMathInstruct-2: A Math Instruction Tuning Dataset with 14M Problem-Solution Pairs Generated Using the Llama3.1-405B-Instruct Model,u/ai-lover,machinelearningnews,https://www.reddit.com/r/machinelearningnews/comments/1fypci8/nvidia_ai_releases_openmathinstruct2_a_math/,"The OpenMathInstruct-2 utilizes the Llama3.1 family of models to generate synthetic math instruction tuning data. The approach is refined through careful ablation studies on the MATH dataset, revealing several key insights. The proposed chain-of-thought solution format outperforms Llama’s format by 3.9% while being 40% shorter. Data generated by a strong teacher model surpasses on-policy data from a weaker student model by 7.8%. The method demonstrates robustness to up to 20% of low-quality data, and increasing question diversity significantly improves performance.
+
+The dataset is created using Llama-3.1-405B-Instruct to synthesize solutions for existing MATH and GSM8K questions and generate new question-solution pairs. A thorough decontamination process, including the lm-sys pipeline and manual inspection, ensures test set integrity. The resulting dataset comprises 14 million question-solution pairs, including 592,000 synthesized questions, making it about eight times larger than previous open-source datasets. The effectiveness of OpenMathInstruct-2 is demonstrated by the superior performance of fine-tuned models, with OpenMath2-Llama3.1-8B outperforming Llama3.1-8B-Instruct by 15.9% on the MATH benchmark....
+
+Read the full article here: [https://www.marktechpost.com/2024/10/07/nvidia-ai-releases-openmathinstruct-2-a-math-instruction-tuning-dataset-with-14m-problem-solution-pairs-generated-using-the-llama3-1-405b-instruct-model/](https://www.marktechpost.com/2024/10/07/nvidia-ai-releases-openmathinstruct-2-a-math-instruction-tuning-dataset-with-14m-problem-solution-pairs-generated-using-the-llama3-1-405b-instruct-model/)
+
+Paper: [https://arxiv.org/abs/2410.01560](https://arxiv.org/abs/2410.01560)
+
+Dataset: [https://huggingface.co/datasets/nvidia/OpenMathInstruct-2](https://huggingface.co/datasets/nvidia/OpenMathInstruct-2)",active,23
+1fzvmk5,1,2024-10-09,"""ChatGPT's Impact on Virtual Learning: Revolutionizing Education and Corporate Training""",u/cporter202,ChatGPTautomation,https://www.reddit.com/r/ChatGPTautomation/comments/1fzvmk5/chatgpts_impact_on_virtual_learning/,"The advent of OpenAI's ChatGPT has opened up new horizons in virtual learning, fundamentally transforming the landscape of education and corporate training. This powerful language model, thanks to its ability to understand and generate human-like text, is revolutionizing the way we approach learning in both academic and professional settings.
+
+In the educational sphere, ChatGPT is being harnessed to personalize learning experiences. As it adapts to individual student queries, it facilitates a tailored tutoring approach that augments traditional teaching methods. Students who might not have access to one-on-one tutoring due to economic or geographical constraints can now receive personalized assistance, potentially leveling the educational playing field.
+
+Corporate training, too, is undergoing a significant transformation thanks to ChatGPT. Interactive training modules powered by AI make learning more engaging and cost-effective for businesses. Employees can have real-time conversations with the AI, asking questions and receiving immediate feedback, which helps in better retention of information and practical application of skills.
+
+Moreover, the instant availability of ChatGPT means learning opportunities are not confined to the walls of a classroom or office. Learning can happen anywhere, anytime, breaking down the barriers of traditional education and corporate training schedules.
+
+However, this technological revolution raises questions about the sustainability of conventional teaching and training roles. As AI becomes more integrated into our learning processes, it's crucial to examine how educators and corporate trainers can adapt to work in tandem with AI tools rather than being replaced by them.
+
+Let's discuss how ChatGPT is already impacting virtual learning and training, and what potential it holds for the future of education and professional development. Share your experiences, insights, and thoughts about the integration of AI in learning and how we can navigate through this technological evolution while ensuring that the human element remains at the core of education and training.",active,1
+1g1dlrt,1,2024-10-11,Laoshi AI,u/dkhasanshin,Teachers,https://www.reddit.com/r/Teachers/comments/1g1dlrt/laoshi_ai/,"**We're the Laoshi app development team** — a Chinese learning platform designed for students and teachers. Based on our user feedback and experience, we’re excited to introduce **Laoshi AI**, a smart assistant powered by ChatGPT.
+
+**What makes Laoshi AI special?**  
+While general AI like ChatGPT can answer questions, Laoshi AI is designed specifically for Chinese learners. Here’s what sets it apart:
+
+* **Grammar & Vocabulary Simplified**: Laoshi AI explains grammar structures in easy-to-understand terms, like breaking down 差不多, with clear explanations and **audio examples** to help reinforce learning.
+* **Instant Word Lists**: Upload any text, and Laoshi AI instantly generates a vocabulary list that can be added to the Laoshi app for immediate study.
+* **Interactive Learning**: We offer exercises with instant feedback. You can practice your grammar, vocabulary, and pronunciation all in one place.
+* **Character Animations**: Visualize stroke order animations for Chinese characters, making it easier to learn and remember how to write them correctly.
+
+You can see some examples of these features in action [**here**](https://imgur.com/a/laoshi-ai-examples-RU1F9P6).
+
+**Why choose Laoshi AI?**  
+If you’re using ChatGPT for language learning, you might appreciate how Laoshi AI takes things further with its focus on structured, guided learning and additional tools like audio for individual sentences and personalized vocabulary lists. This level of integration and interactivity isn’t something ChatGPT alone can offer.
+
+Laoshi AI is **free** and accessible through the web — just [sign up with your email](http://classroom.laoshi.io/users/chat), and there’s no need to install our app to use it.
+
+We’re still in beta, and we welcome your feedback to help shape the future of Laoshi AI.",User_deleted,1
+1g1kjkb,1,2024-10-11,Gen Ai (Future -> Technology),u/Primary-Item6986,ITCareerQuestions,https://www.reddit.com/r/ITCareerQuestions/comments/1g1kjkb/gen_ai_future_technology/,"Ever wondered how ChatGPT creates poetry, DALL-E paints masterpieces, or Copilot writes code? Unlock the secrets of AI magic! :art::sparkles:
+
+
+
+[https://learn.microsoft.com/training/modules/fundamentals-generative-ai/?wt.mc\_id=studentamb\_426550](https://learn.microsoft.com/training/modules/fundamentals-generative-ai/?wt.mc_id=studentamb_426550)
+
+
+
+How AI actually ""thinks"" and creates
+
+The tech behind those mind-blowing AI art generators
+
+Real-world applications that are transforming industries
+
+Ethical considerations shaping our AI future
+
+
+
+Why This Course Matters:
+
+-> Zero to AI Hero in just a few hours
+
+-> Perfect for beginners
+
+-> Hands-on learning experience
+
+-> Industry-recognized Microsoft certification path
+
+Perfect for:
+
+-> Students curious about AI
+
+-> Career switchers
+
+-> Tech enthusiasts
+
+-> Future innovators
+
+⚡️ Fun Fact: By 2025, 97% of companies will use AI in some form. Get ahead of the curve NOW!
+
+:fire: Don't just watch the AI revolution – be part of it!
+
+#GenerativeAI #MicrosoftLearn #TechLearning #AI #StudentAmbassadors #FutureSkills",active,0
+1g2u20p,2,2024-10-13,Ethical AI-Powered ChanceMe for Essays (free),u/Acrobatic-Soil9295,chanceme,https://www.reddit.com/r/chanceme/comments/1g2u20p/ethical_aipowered_chanceme_for_essays_free/,"Hey everyone!
+
+If you were here a month ago, you may have already seen this, but my friend and I (T10 college students) have created a free tool (no ads!) to help students tackle their college admissions essays. You can check it out here: [www.cogssay.com](http://www.cogssay.com/).
+
+Our website uses AI to give you insight into how college admissions officers might read your essay and whether it meets their expectations. Our AI is trained on essays from students who got into top universities, so we think it could be a game-changer for your writing process. While using AI to write your essay might not be the best idea, using it to get feedback can be super helpful.
+
+We’re also serious about data privacy — we never sell your data, and you can opt out of having your essay data stored. This is different than ChatGPT and most other AI-powered tools online. You can learn more in our privacy policy. Our site has three main features:
+
+1. Evaluator: This gives you a thorough explanation of how an admissions officer will read your essay and what they might think about it. This will give specific ratings of 1-5 in different categories, similar to how actual admissions officers will at many top universities. It will also give you specific written feedback on your essay's strong aspects and what can be improved.
+2. Feedback: Feedback takes a closer look at your essay, providing line-by-line insights. While Evaluator gives a holistic view, Feedback focuses on the finer details—catching lines that lack clarity, need more explanation, or don’t fit the context of your essay. This tool helps you refine every sentence in the context of the prompt, paragraph, and essay, ensuring your writing is sharp and impactful. The feedback is similar to how a teacher/college counselor would give you feedback. 
+3. Brainstorm: A brainstorming tool that will evaluate the potential strength of your essay ideas as well as give short texts prompting you to think about what/how you might write an essay based on your particular idea.
+
+We’d love to hear any feedback you have on the site to improve it as much as possible. We know how stressful this process can be, and we wish everyone here the best of luck. If you have any questions about the admissions process, feel free to comment/DM. Thanks so much!",User_deleted,2
+1g2y2sv,1,2024-10-13,Introducing Bloggen AI that I Build,u/newsletter69dotcom,microsaas,https://www.reddit.com/r/microsaas/comments/1g2y2sv/introducing_bloggen_ai_that_i_build/,"Hello Redditors Family! we are excited to launch Bloggen AI on the web. Hope to see some great support from the community. Do support and let us know your feedback. We would love to read your comments and let us know how we can improve Bloggen AI further.
+
+I've been using various AI services like ChatGPT for content creation, Leonardo Ai for image generation, Google Gemini for productivity, Claude for research, Chatbase for custom GPT, Videotoblog for turning YouTube videos into blog posts, ZeroGPT for content AI detection, Copyleaks for plagiarism checking, and more. It's been quite a hassle, not to mention expensive and time-consuming. That's why I've decided to bring all these services together in one place to save time and money. And that's how Bloggen AI came to be! Once it's ready, I believe it will benefit me and others in similar situations. Today, I'm thrilled to share that we've just launched Bloggen AI on the Web!
+
+As a Reddit person always lurking for productivity hacks and smarter workflows, I thought this might resonate with some of you.
+
+My Project: [https://bloggenai.com/](https://bloggenai.com/)
+
+Headline: Supercharged AI for Everyone  
+Main Key Features
+
+✅ Smart Writing Assistant  
+✅ AI Chatbots 🤖  
+✅ Email & Marketing Content Creation 📧  
+✅ Social Media Content Creation  
+✅ AI Video Generator  
+✅ AI Detector & Plagiarism checker  
+✅ AI YouTube: Video Summarize & Video to Blog post 💸  
+✅ ChatFile:- ChatPDF, Doc, Docs, Analysis, Research, Summarize, extract key point, and more.  
+✅ 130+ Custom Template  
+✅ Real-Time Web Search  
+✅ Text to Image Generation, Upscaling, Image to image 📚  
+✅ 30+ Language Supported  
+✅ Top AI Vendor Supported: OpenAI, Google Gemini, Anthropic  
+✅ 19+ Multiple AI Model: ChatGPT 3.5, GPT-4, GPT-4o, GPT-4o Mini, Claude 3.5 sonnet, Claude 3 Sonnet, Gemini 1.5  
+✅ Own Brand Tone  
+✅ AI writer from RSS feed  
+✅ AI code generation  
+✅ AI vision  
+✅ AI Webchat  
+✅ AI Imagechat
+
+Coming Soon
+
+1. WordPress Integration
+2. LinkedIn & X (Formerly Twitter) integration
+3. CustomGPT Embed any website
+
+Who uses our tools?
+
+❤️ Digital Agencies  
+❤️ Product Designers  
+❤️ Entrepreneurs  
+❤️ Copywriters  
+❤️ Digital Marketers  
+❤️ Developers  
+❤️ Students  
+❤️ Teacher  
+❤️ Digital Creator  
+❤️ Blogger
+
+Why You’ll Love Bloggen AI
+
+1. Everything You Need in One Place We’ve bundled all the tools you could ever want:
+
+Smart Writing Assistant: Create awesome written content tailored just for your audience in minutes, saving you hours of writing time!
+
+AI Chatbots: Supercharge customer interactions with friendly chatbots that provide instant help, reducing the need for a large support team and saving you money.
+
+AI Video Generator: Make eye-catching videos effortlessly—perfect for social media or marketing—without the hefty costs of hiring a production team.
+
+2. Customize Your Content: With over 130 templates, you can easily match your content to your brand’s vibe. Whether it’s a blog post, email campaign, or social media graphic, we’ve got the tools to keep your voice consistent and engaging, all while saving you time on design.
+
+3. Choose Your AI Adventure: Explore 19+ AI models, including the latest from OpenAI and Google. You can pick the best one for your project, ensuring you get the most creative and effective results without the guesswork.
+
+4. Stay Ahead with Real-Time Insights: Tap into real-time web search to catch the latest trends and hot topics. This way, your content will always be fresh and relevant, making it easier to engage your audience and boost your ROI.
+
+5. Quality You Can Trust: Our built-in AI detectors and plagiarism checkers help ensure your content is original and top-notch. This way, you can build trust with your audience and keep them coming back for more!
+
+6. Speak to the World: Connect with a global audience using our support for over 30 languages. It’s never been easier to create content that resonates with people from different backgrounds.
+
+7. Exciting Features Coming Soon!: We’re always improving! Keep an eye out for upcoming integrations with WordPress and LinkedIn, making it even easier to share your content where your audience hangs out.
+
+Join the Fun!  
+Don’t settle for average content. With Bloggen AI, you’ll have a toolkit that makes creating content enjoyable, efficient, and budget-friendly. Get ready to save time, cut costs, and engage your audience like never before!
+
+Let’s Get Started!  
+Ready to see what Bloggen AI can do for you? Sign up for a free trial today! 👉 [https://bloggenai.com](https://bloggenai.com/) 
+
+Here to jump in and start your journey with us. We can’t wait to see the amazing content you’ll create while saving time and money!",active,1
+1g3k1yc,1,2024-10-14,ChatGPT Boosts Business Productivity: Top Transformative Sectors Revealed,u/cporter202,ChatGPTautomation,https://www.reddit.com/r/ChatGPTautomation/comments/1g3k1yc/chatgpt_boosts_business_productivity_top/,"Reddit, I'm excited to dive into a discussion about the recent buzz around ChatGPT and the ways it's remapping the productivity landscape across various industries!
+
+For starters, the customer service sector has been revolutionized. ChatGPT's integration into chatbots and support systems is making response times lightning-fast and incredibly efficient. As AI continues to learn and adapt, it can handle an increasing range of queries, allowing human agents to tackle complex issues that require a personal touch.
+
+In content creation, ChatGPT stands out as a paragon of efficiency, churning out initial drafts and creative ideas at an unprecedented pace. This is not to say it's replacing human creativity, but it's certainly a powerful tool for beating writer's block and enhancing productivity.
+
+The educational realm is another key beneficiary. ChatGPT is becoming an indispensable assistant for educators, formulating lesson plans, and supporting students with personalized tutorials. It is transforming the one-size-fits-all education model by enabling tailored learning experiences that can adapt to each student's pace and style.
+
+Software development has also seen a significant impact. ChatGPT assists programmers by debugging code and generating coding snippets, thus accelerating development cycles and promoting a more streamlined workflow.
+
+Moreover, in research and data analysis, ChatGPT helps professionals comb through massive datasets and extract vital insights, saving hours of manual work. 
+
+Though ChatGPT is making waves, it's essential to recognize that these tools are meant to augment human capabilities, not replace them. As we adopt AI more broadly, the focus should remain on leveraging these advancements to enhance skills and productivity rather than solely on automation.
+
+I'd love to hear your thoughts on this topic. Which sectors do you believe will be next in line to experience the productivity revolution thanks to ChatGPT? How do you envision AI-powered tools shaping the future of work in your industry? Share your insights, predictions, and any personal experiences with ChatGPT in your professional life! Let's discuss how this technology is fostering a new era of efficiency and innovation.",active,1
+1g4s124,1,2024-10-16,AI Tools for IGCSE Success: Beyond ChatGPT,u/Super_Cut_9327,igcse,https://www.reddit.com/r/igcse/comments/1g4s124/ai_tools_for_igcse_success_beyond_chatgpt/,"Hey everyone,
+
+AI tools can be a game-changer for IGCSE studies. While ChatGPT can be helpful for general information, there are AI tools specifically designed for IGCSE students that offer more relevant and tailored support.
+
+I've been using [OctiLearn](http://octilearn.com)'s AI Tutor, and it's seriously like having a personal tutor available 24/7!
+
+**Here's why I love it:**
+
+* **It's free:** Who doesn't love free stuff?
+* **It's super accurate:** OctiLearn's AI is trained on the IGCSE syllabus, so it gives me spot-on answers and explanations.
+* **It's like having a personal tutor:** I can ask it questions whenever I need help, and it's always there to guide me.
+* **It helps me stay organized:** I use OctiLearn to plan my study schedule and track my progress.
+* **It can test me pretty well:** It can generate challenging questions to help me prepare for my exams.
+
+If you're struggling with any IGCSE subjects, I highly recommend giving OctiLearn a try. It's been a lifesaver for me!
+
+I'm curious to hear about other AI tools you've been using. Please share your experiences and recommendations!",User_deleted,1
+1g6wleg,1,2024-10-18,Compsci101 success story,u/atomicbomb2150,universityofauckland,https://www.reddit.com/r/universityofauckland/comments/1g6wleg/compsci101_success_story/,"To all my fans and haters reading this post, test 4 of compsci101 was finished a few days ago and I want you all to know that I have finally passed Compsci101. As a student who failed Compsci101 in the first semester but passed in the second, I’ve realized how much coding has changed my life. Here’s my story on what I did to succeed in this course: starting at around June or July (I don’t remember the exact month, but it was either one of the two), I stopped using social media that wasted a lot of my time, such as Discord, Instagram, and Snapchat. Not once during those four or five months did I log into my accounts on those platforms. Instead, I used social media that helped me improve my coding skills, like YouTube and Reddit. Additionally, rather than spending time chatting on Discord or any social media that eats up my time, I used those hours to learning the basics of Python and practicing how to code in Python. I continuously practiced almost every day for more than two hours and I didn't stop there, because when I got stuck on a particular question or didn’t know how to solve a Python question on Coderunner, I used ChatGPT as a tool to give me the solution and help me understand how to do it, and then I wrote the code myself (not by copy-pasting the code onto Coderunner, but by genuinely writing it out even if I were to copy it). Also I used AI, like ChatGPT, to explain what went wrong with my code and why the error occurred whenever I encounter an error or problem with my code. This helped me learn from my mistakes and avoid repeating them in the future. That’s how I managed to improve significantly in Python coding. And I also occasionally watched YouTube videos to enhance my skills further or ask people on Reddit if I am unsure about something.
+
+After passing this course this semester, I realized the mistakes I made last semester that prevented me from succeeding. The main issue was that I didn’t even try to code or write programs in Python myself, instead, I relied entirely on ChatGPT for solutions. Then I would copy and paste the code from ChatGPT into Coderunner to answer the questions. That made me realize and understand that I am actually not learning anything if I just copy and pasting code to answer the questions on Codeunnrer. This semester though, I recognized that this approach was not helping me learn or improve my coding skills. So I changed and I treat ChatGPT as a tool to assist my learning. Whenever I’m stuck on a question, I use it to ask for help, then I wrote the code myself to understand and learn how to do it. If I make a mistake when writing it, I look back and see what went wrong, and sometimes, I take the opportunity to learn from it. And I was extremely motivated and self-disciplined to pass this course. This change in my approach has significantly improved my coding skills. 
+
+My overall grade in Compsci101 this semester was a B-, but I believe I could have performed much better if I hadn’t been in the morning labs or had anxiety about failing the course a second time. Typically, I am not a morning person, so I tend to have difficulty waking up early in the morning. Without enough sleep, I can’t function properly. Being in the morning classes meant waking up early, which left me sleep-deprived. This sleep deprivation affected my mood and concentration, leading to drowsiness and itchy eyes, all of which impacted my overall performance on tests. Most of the time, I attended labs after 1PM, but I had to take the tests during my lab time due to the rules. Out of the four tests, my highest score was 7/10, while my lowest was 5/10. I didn’t manage to get more than 7 questions right or fewer than 5 in any of the four tests. Also I tend to have anxiety especially if I have morning tests or exams because I'm afraid I might fail the course a second time or forget everything. If only I hadn’t been in the morning classes or didn't have anxiety, I feel like I could have done better and achieved a higher overall grade, sad I only got B-, but I manage to pass somehow.
+
+Also Mathmokiwi and everyone who said this course is easy, you guys were right, compsci101 ain't this difficult as long as a student spends the time practicing and learning how to code in Python, anyone could easily pass the course.
+
+After passing compsci101, it made me realize that there is no course at UoA that I cannot pass, as long as I put in the time and effort into each and every one of my courses, I can easily pass it.",active,0
+1gbk12r,42,2024-10-24,Build comprehensive courses and learning materials. Prompt included. ,u/CalendarVarious3992,ChatGPTPromptGenius,https://www.reddit.com/r/ChatGPTPromptGenius/comments/1gbk12r/build_comprehensive_courses_and_learning/,"
+Here’s  a neat prompt chain for being able to generate a course for any subject. Great for self-teaching any subject or getting a high-level view of what it might look to learn a specific subject.
+
+**Prompt Chain**
+
+`Define the course parameters: SUBJECT=[subject name], AUDIENCE=[target audience], DURATION=[course length in weeks]~Create a course outline with main modules, each focusing on a key aspect of the subject~For each module, list 3-5 specific learning objectives that align with the overall course goals~Develop a detailed syllabus including module titles, topics covered, estimated time for completion, and required materials~Create an introduction module that explains the course structure, expectations, and provides an overview of the subject~For Module 1, design a lesson plan with lecture content, practical exercises, and multimedia resources~Develop assessment methods for Module 1, including quizzes, assignments, or projects that test the module's learning objectives~Repeat the lesson plan and assessment development process for the next half of the modules~Create interactive elements for each module, such as discussion prompts, group activities, or hands-on projects~Design a mid-course project or assignment that integrates concepts from the first half of the course~Develop lesson plans and assessments for the remaining modules, incorporating more advanced concepts and building on earlier modules~Create a final project or exam that comprehensively assesses the entire course content~Develop a resource list including textbooks, online materials, and supplementary reading for each module~Create a glossary of key terms and concepts covered throughout the course~Design a feedback mechanism for students to evaluate the course and suggest improvements~Develop a guide for instructors, including teaching tips, common student challenges, and suggested solutions~Create a course completion certificate template and criteria for earning the certificate`
+
+Make sure you update the variable in the first prompt, SUBJECT, AUDIENCE, and DURATION and then you can pass this prompt chain into [ChatGPT Queue](https://chromewebstore.google.com/detail/chatgpt-queue-save-time-w/iabnajjakkfbclflgaghociafnjclbem?hl=en&authuser=0&utm_source=reddit) extension and it will just run autonomously. Would love to hear what course you build.
+",active,62
+1gc3mrm,48,2024-10-25,I am heavily dependent on ChatGPT for work and studies,u/unsuspiciousprofile,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/1gc3mrm/i_am_heavily_dependent_on_chatgpt_for_work_and/,"I'm wondering how much of a problem this really is.
+
+I was a struggling student during my 1st year when ChatGPT came out, and it absolutely saved my exams. I was able to summarise huge amounts of information in a short time frame and get back on track.
+
+Ever since, ChatGPT stuck around as a tool I do 50% of my work with. Obviously, some good stuff has come out of it - I can work ""above my weight limit"" because I'm able to immediately access multiple points of view from chatGPT at an instant. It's really like suddenly becoming much smarter.
+
+But, at the same time, it worries me just how much of a disaster a ChatGPT outage would have been for me. I am doing an extensive project right now which needs wayy too many skills I don't really have, and the only way really to fill these gaps given how it's also time-sensitive is chatGPT. My notes at university are all o1-preview generated, after all it will most definitely know about my lecture's subject more and so it can focus on the important stuff better than me. But it struck me that actually never in my lifetime will I ever learn to make proper notes completely on my own. I wonder if I am fucking my education up because I'm making it easy for myself, if whether I'm improving it because I can focus on the bigger picture while leaving out the tedious details?",User_deleted,46
+1gcahg3,5,2024-10-25,"Build comprehensive courses and learning materials. Prompt included.
+",u/CalendarVarious3992,aipromptprogramming,https://www.reddit.com/r/aipromptprogramming/comments/1gcahg3/build_comprehensive_courses_and_learning/,"Here’s a neat prompt chain for being able to generate a course for any subject. Great for self-teaching any subject or getting a high-level view of what it might look to learn a specific subject.
+
+**Prompt Chain**
+
+`Define the course parameters: SUBJECT=[subject name], AUDIENCE=[target audience], DURATION=[course length in weeks]~Create a course outline with main modules, each focusing on a key aspect of the subject~For each module, list 3-5 specific learning objectives that align with the overall course goals~Develop a detailed syllabus including module titles, topics covered, estimated time for completion, and required materials~Create an introduction module that explains the course structure, expectations, and provides an overview of the subject~For Module 1, design a lesson plan with lecture content, practical exercises, and multimedia resources~Develop assessment methods for Module 1, including quizzes, assignments, or projects that test the module's learning objectives~Repeat the lesson plan and assessment development process for the next half of the modules~Create interactive elements for each module, such as discussion prompts, group activities, or hands-on projects~Design a mid-course project or assignment that integrates concepts from the first half of the course~Develop lesson plans and assessments for the remaining modules, incorporating more advanced concepts and building on earlier modules~Create a final project or exam that comprehensively assesses the entire course content~Develop a resource list including textbooks, online materials, and supplementary reading for each module~Create a glossary of key terms and concepts covered throughout the course~Design a feedback mechanism for students to evaluate the course and suggest improvements~Develop a guide for instructors, including teaching tips, common student challenges, and suggested solutions~Create a course completion certificate template and criteria for earning the certificate`
+
+Make sure you update the variable in the first prompt, SUBJECT, AUDIENCE, and DURATION and then you can pass this prompt chain into [ChatGPT Queue](https://chromewebstore.google.com/detail/chatgpt-queue-save-time-w/iabnajjakkfbclflgaghociafnjclbem?hl=en&authuser=0&utm_source=reddit) extension and it will just run autonomously. Would love to hear what course you build.",active,5
+1gcwzny,1,2024-10-26,Our o1-powered AI spreadsheet is now free for students,u/permaculturalist,OpenAI,https://www.reddit.com/r/OpenAI/comments/1gcwzny/our_o1powered_ai_spreadsheet_is_now_free_for/,"Hi r/OpenAI,
+
+We decided to make our AI spreadsheet, Sourcetable, available for students for free. We noticed a lot of students using it to pair with AI for doing their coursework, so we decided to encourage more of this behavior. The main reason is that it's fun and we can learn a lot when people push the boundaries of AI outside of the business use cases we had originally intended.  
+  
+We use many LLM models but for the free tier the core of the system is powered by OpenAI models. Some Anthropic & Llama (via Groq) as well. 
+
+Here's the announcement: [https://blog.sourcetable.com/sourcetable-is-now-free-for-students/](https://blog.sourcetable.com/sourcetable-is-now-free-for-students/)",User_deleted,1
+1gcyg18,2,2024-10-26,Ideas for High School AI Course – Practical GPT/LLM Project Ideas?,u/Electronic-Ad5094,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/1gcyg18/ideas_for_high_school_ai_course_practical_gptllm/,"Hey everyone! I just started a part-time role teaching AI to high school seniors (18-19) in a tech program, and I’d love to integrate practical GPT/LLM projects. It’s my first teaching job, so I’m both excited and a bit nervous!
+
+Some ideas I’m considering based on my experience include:
+
+Using a Meta Quest 3 VR in some way
+
+Smart home automation with AI integration,
+
+Building an interactive chatbot (I have one on my website),
+
+Creating a custom GPT tailored for business applications. (My favorite right now)
+
+
+For anyone who’s used GPTs in a classroom setting, what projects have worked well with students? Any tips for making content engaging and valuable?
+Is there a cheap way to get the class a chatgpt plus subscription?
+I’d love to hear any advice, thanks!",active,2
+1gd0r0i,232,2024-10-26,The worst part of AI is the increase in students’ willingness to lie,u/MaquinaDeBuhos,Professors,https://www.reddit.com/r/Professors/comments/1gd0r0i/the_worst_part_of_ai_is_the_increase_in_students/,"I love teaching, and I love working with students who care enough to try to engage with the material. AI has not changed my feelings towards teaching. However, it has increased instances of cheating, and it has changed student behaviors *around* cheating in a way that I resent because it gets in the way of actually *helping* the student.
+
+I have been doing this job for a long time. I know what student writing sounds like, and I can also immediately recognize the word salad that results from plugging an assignment prompt directly into ChatGPT.
+
+I have long since stopped trying to *prove* that something is AI and will just give the paper the bad grade that it deserves, but occasionally I used to tell a student “hey, whether or not this is AI, it *sounds* like AI for a, b, and c reason that you should fix.” (My philosophy in my class is that papers that could be mistaken for AI earn bad grades because they are *bad writing*.) From here I would have loved for the students to recognize that they were caught and that I was both *giving them a break* and explaining why their getting caught was inevitable— but the few times I did this they always always always adopted a defensive posture and started lying unconvincingly in a prose style entirely different from the paper they turned in. It’s just exhausting and insulting, and I’m tired of the feigned shock and confusion. I miss old school plagiarism because students would usually fess up and we could move on to the problem-solving stage. 
+
+The behavior seems very high school to me. I’m trying to have a conversation with an adult, and they’re still acting like a teenager who reeks of schnapps trying to convince his parents that he didn’t get into their liquor cabinet, totally focused on *avoiding punishment* rather than listening to what I’m trying to tell them. ",User_deleted,250
+1ge6gjy,2,2024-10-28,Boosting Business with ChatGPT: Key Sectors Transformed by AI Productivity Revolution,u/cporter202,ChatGPTautomation,https://www.reddit.com/r/ChatGPTautomation/comments/1ge6gjy/boosting_business_with_chatgpt_key_sectors/,"In recent years, ChatGPT and similar AI models have been at the forefront of a productivity revolution that is transforming multiple sectors. By leveraging natural language processing and machine learning, these tools are reshaping how businesses interact with customers, manage workflows, and drive innovation. Here's how different key sectors are harnessing the power of AI like ChatGPT to boost their operations:
+
+**Customer Service**: AI chatbots are now capable of handling a wide range of customer service inquiries, providing instant responses and freeing up human agents for more complex tasks. This not only reduces wait times and costs but also improves customer satisfaction.
+
+**Healthcare**: In the healthcare sector, AI is being employed to create personalized patient experiences. From scheduling appointments to providing medication reminders and answering general health queries, ChatGPT-like systems enhance the accessibility and effectiveness of healthcare services.
+
+**Education**: AI is revolutionizing the field of education by providing personalized learning experiences. ChatGPT can analyze a student's learning style and pace, adapting the material accordingly. It's also available 24/7, offering students extra support whenever they need it.
+
+**Finance**: Financial institutions are using AI for customer interactions, risk assessment, fraud detection, and even algorithmic trading. These systems can analyze vast amounts of financial data to provide insights, make predictions, and streamline various financial processes.
+
+**E-Commerce and Retail**: In e-commerce, AI tools offer personalized shopping experiences by recommending products based on user behavior. They also optimize inventory management and logistics, enhancing the overall efficiency of the retail sector.
+
+**Content Creation**: ChatGPT is being used by writers and marketers to brainstorm ideas, create drafts, and even develop content strategies. It provides a creative assistant that can speed up the content creation process while maintaining high-quality standards.
+
+**Travel and Hospitality**: Within travel and hospitality, AI is improving customer service through tailored recommendations for travelers based on their preferences, and managing reservations or inquiries with greater efficiency.
+
+**Legal**: The legal industry is starting to use AI for document analysis, research, and even prediction of case outcomes, which can save legal professionals a considerable amount of time.
+
+Businesses that are adopting these AI-powered tools report increased productivity, higher efficiency, and improved customer experiences. However, it's essential to address the ethical implications and job displacement concerns that accompany such technological advancements. The debate is ongoing about the best ways to integrate AI solutions like ChatGPT into the workforce, ensuring that the human touch remains an essential part of customer and client relationships.
+
+How else do you think ChatGPT or similar AI technologies can boost productivity in other sectors? What are the potential challenges of integrating these AI tools into our daily work lives, and how can we mitigate them? Let's discuss the prospects and pitfalls of the AI productivity revolution.",active,2
+1geyshu,726,2024-10-29,"New article says AI teachers are better than human teachers. Quote: ""Students who were given access to an AI tutor learned more than twice as much in less time compared to those who had in-class instruction.""",u/blit_blit99,singularity,https://www.reddit.com/r/singularity/comments/1geyshu/new_article_says_ai_teachers_are_better_than/,"From this article dated 10-29-2024: [AI tutors are reshaping higher education](https://www.msn.com/en-us/money/careersandeducation/ai-tutors-are-reshaping-higher-education/ar-AA1t76j3?ocid=msedgntp&pc=DCTS&cvid=71d0e0ea2cdf4485ab69c3356eb09d89&ei=30)
+
+>AI tutors are reshaping higher education
+
+>**Generative AI is already transforming higher ed**, giving students more access to professors' expertise and boosting efficiency for both faculty and students in some fields.
+
+>(SNIP)
+
+>In May, OpenAI released ChatGPT Edu, a more affordable tool for college students, faculty, researchers and campus administrators that OpenAI says includes ""enterprise-level"" security.
+
+>(SNIP)
+
+>Since the summer of 2023 those students accessing the course through distance learning have had access to **AI-powered ""teaching assistants,"" too, via the CS50 Duck — a chatbot built on OpenAI's API** that helps students check their code and get answers to questions about the course.
+
+>Malan tells Axios that genAI can already approximate a pretty good teaching assistant. ""It's wonderfully empowering for that demographic of folks who have never had nearly as much of a support structure"" as the students at elite private colleges, he says.
+
+>(SNIP)
+
+>**By the numbers: Students who were given access to an AI tutor learned more than twice as much in less time compared to those who had in-class instruction, according to a study by two Harvard lecturers of 194 Harvard Physical Sciences 2 students.**
+
+>**Malan cautions against seeing this as a risk to the jobs of professors** or graduate student teaching assistants: ""We already have too few teachers as it is.""",active,747
+1gfpo4z,1,2024-10-30,I Made a tool that call Bloggen AI- Its Multi features,u/newsletter69dotcom,SideProject,https://www.reddit.com/r/SideProject/comments/1gfpo4z/i_made_a_tool_that_call_bloggen_ai_its_multi/,"Hello Redditors Family! we are excited to launch Bloggen AI on the web. Hope to see some great support from the community. Do support and let us know your feedback. We would love to read your comments and do let us know how can we improve Bloggen AI further.
+
+I've been using various AI services like ChatGPT for content creation, Leonardo Ai for image generation, Google Gemini for productivity, Claude for research, Chatbase for custom GPT, Videotoblog for turning YouTube videos into blog posts, ZeroGPT for content AI detection, Copyleaks for plagiarism checking, and more. It's been quite a hassle, not to mention expensive and time-consuming. That's why I've decided to bring all these services together in one place to save time and money. And that's how Bloggen AI came to be! Once it's ready, I believe it will benefit me and others in similar situations. Today, I'm thrilled to share that we've just launched Bloggen AI on the Web!
+
+As a Reddit person always lurking for productivity hacks and smarter workflows, I thought this might resonate with some of you.
+
+My Project: [https://bloggenai.com/](https://bloggenai.com/)
+
+Headline: Supercharged AI for Everyone  
+Main Key Features
+
+✅ Smart Writing Assistant  
+✅ AI Chatbots 🤖  
+✅ Email & Marketing Content Creation 📧  
+✅ Social Media Content Creation  
+✅ AI Video Generator  
+✅ AI Detector & Plagiarism checker  
+✅ AI YouTube: Video Summarize & Video to Blog post 💸  
+✅ ChatFile:- ChatPDF, Doc, Docs, Analysis, Research, Summarize, extract key point, and more.  
+✅ 130+ Custom Template  
+✅ Real-Time Web Search  
+✅ Text to Image Generation, Upscaling, Image to image 📚  
+✅ 30+ Language Supported  
+✅ Top AI Vendor Supported: OpenAI, Google Gemini, Anthropic  
+✅ 19+ Multiple AI Model: ChatGPT 3.5, GPT-4, GPT-4o, GPT-4o Mini, Claude 3.5 sonnet, Claude 3 Sonnet, Gemini 1.5  
+✅ Own Brand Tone  
+✅ AI writer from RSS feed  
+✅ AI code generation  
+✅ AI vision  
+✅ AI Webchat  
+✅ AI Imagechat
+
+1. WordPress Integration
+2. LinkedIn & X (Formerly Twitter) integration
+3. CustomGPT Embed any website
+
+Who uses our tools?
+
+❤️ Digital Agencies  
+❤️ Product Designers  
+❤️ Entrepreneurs  
+❤️ Copywriters  
+❤️ Digital Marketers  
+❤️ Developers  
+❤️ Students  
+❤️ Teacher  
+❤️ Digital Creator  
+❤️ Blogger
+
+Why You’ll Love Bloggen AI
+
+1. Everything You Need in One Place We’ve bundled all the tools you could ever want:
+
+Smart Writing Assistant: Create awesome written content tailored just for your audience in minutes, saving you hours of writing time!
+
+AI Chatbots: Supercharge customer interactions with friendly chatbots that provide instant help, reducing the need for a large support team and saving you money.
+
+AI Video Generator: Make eye-catching videos effortlessly—perfect for social media or marketing—without the hefty costs of hiring a production team.
+
+2. Customize Your Content: With over 130 templates, you can easily match your content to your brand’s vibe. Whether it’s a blog post, email campaign, or social media graphic, we’ve got the tools to keep your voice consistent and engaging, all while saving you time on design.
+
+3. Choose Your AI Adventure: Explore 19+ AI models, including the latest from OpenAI and Google. You can pick the best one for your project, ensuring you get the most creative and effective results without the guesswork.
+
+4. Stay Ahead with Real-Time Insights: Tap into real-time web search to catch the latest trends and hot topics. This way, your content will always be fresh and relevant, making it easier to engage your audience and boost your ROI.
+
+5. Quality You Can Trust: Our built-in AI detectors and plagiarism checkers help ensure your content is original and top-notch. This way, you can build trust with your audience and keep them coming back for more!
+
+6. Speak to the World: Connect with a global audience using our support for over 30 languages. It’s never been easier to create content that resonates with people from different backgrounds.
+
+7. Exciting Features Coming Soon!: We’re always improving! Keep an eye out for upcoming integrations with WordPress and LinkedIn, making it even easier to share your content where your audience hangs out.
+
+Join the Fun!  
+Don’t settle for average content. With Bloggen AI, you’ll have a toolkit that makes creating content enjoyable, efficient, and budget-friendly. Get ready to save time, cut costs, and engage your audience like never before!
+
+Let’s Get Started!  
+Ready to see what Bloggen AI can do for you? Sign up for a free trial today! 👉[https://bloggenai.com](https://bloggenai.com/) here to jump in and start your journey with us. We can’t wait to see the amazing content you’ll create while saving time and money!",active,1
+1gfqrb4,1,2024-10-30,"""ChatGPT's Impact on Virtual Learning and Corporate Training: Effectiveness Explored""",u/cporter202,ChatGPTautomation,https://www.reddit.com/r/ChatGPTautomation/comments/1gfqrb4/chatgpts_impact_on_virtual_learning_and_corporate/,"As the landscape of education and professional development continues to evolve, one of the most intriguing developments has been the integration of AI-driven platforms like ChatGPT into virtual learning and corporate training modules. The key question that this raises is: How effective is ChatGPT in enhancing the learning experience and outcomes for students and employees?
+
+ChatGPT, created by OpenAI, is a sophisticated language processing AI that can understand and generate human-like text. Its capabilities allow it to engage with users in a conversational manner, which could revolutionize the way we approach education and training. From personalized learning paths to interactive Q&A sessions, ChatGPT seems poised to offer a range of benefits.
+
+In the realm of virtual learning, ChatGPT can provide instant feedback, answer questions at any hour, and even help students struggling with complex concepts by breaking them down into simpler terms. The idea is that this could lead to a more inclusive and customized learning environment that caters to individual needs.
+
+Corporate training, on the other hand, can be significantly streamlined with ChatGPT's assistance. It can simulate various business scenarios, facilitate skill development, and serve as an on-demand mentor for employees. This accessibility and responsiveness could potentially increase employee engagement with training materials, leading to better retention of information and improved performance on the job.
+
+However, some skeptics question whether a machine can ever truly replace the nuanced guidance of human instructors or the collaborative learning that happens between peers. There's also the concern about integrating this technology responsibly and ethically within existing educational frameworks.
+
+So, where do we stand with ChatGPT as a tool for learning and development? Have you had any experiences with it in your virtual classrooms or corporate training sessions? Let's discuss the practical implications, the benefits we've seen, and the hurdles that we need to overcome for ChatGPT to effectively enhance our educational and professional landscapes.",active,1

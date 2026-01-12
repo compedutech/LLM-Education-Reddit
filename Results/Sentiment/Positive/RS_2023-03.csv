@@ -1,0 +1,510 @@
+11fqinu,6,2023-03-01,Using ChatGPT to summarize Powerpoint slides,u/computerpoop,OpenAI,https://www.reddit.com/r/OpenAI/comments/11fqinu/using_chatgpt_to_summarize_powerpoint_slides/,"Hi all
+
+I'm a medical student, and I have noticed that chatgpt does a really good job of summarizing and explaining slides when I copy and paste bullet points into the website.
+
+I was wondering if anybody has used the API to go through powerpoints and do this for every slide, or have any idea on how that might be done? 
+
+If anybody has the knowledge/skills to implement this, I would be willing to compensate you for your time as I think this would be a very valuable educational resource for not just me but many others.
+
+Thanks!",User_deleted,29
+11k0pqp,1,2023-03-06,Ai-powered tools to improve quality of life,u/Low_Boysenberry460,Teachers,https://www.reddit.com/r/Teachers/comments/11k0pqp/aipowered_tools_to_improve_quality_of_life/,"\-Not sure if the flair I used is the best one-
+
+I´m excited for the tools that AI assistants can put on the table when it comes to teaching.Last Friday I was in a rush to prepare a written test (I´m an Italian language teacher). I had prepared some of the questions but I still needed a couple. So I just tried to toss into ChatGPT some description of what kind of task I wanted to generate. To my surprise, it worked quite well! It needed some tweaking/culling but it was solid.  And, this technology is doing its first baby steps, I can imagine it doing huge progress in a couple years.
+
+So, my question is, how do you all think AI can be used to make our job faster and better? Will we be able to automatize and delegate some aspects of our job? What apps and services would you like to see empowered by AI? (This is NOT a ""students cheat using AI"" rant thread)
+
+Here is an example of what I got from ChatGPT, feel free to translate. I asked a very specific grammat topic and specified student level and age. Itś not perfect, and there are some mistakes, but it´s a lot. Later I refined the inputs to do more specific stuff, with varying degrees of success.
+
+&amp;#x200B;
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ME: Generami un esercizio di grammatica italiana, livello A2 adolescenti, incentrato sull´uso di CUI: bisogna completare le frasi con CHE o CUI ed eventualmente la preposizione.
+
+CHATGPT: Ecco un esempio di esercizio di grammatica italiana sulle parole ""che"" e ""cui"" per adolescenti di livello A2:
+
+Completa le seguenti frasi con ""che"" o ""cui"":
+
+1. La scuola \_\_\_\_\_\_\_ frequento si trova in centro città.
+2. La casa \_\_\_\_\_\_\_ abbiamo affittato ha un grande giardino.
+3. Il libro \_\_\_\_\_\_\_ ho letto è molto interessante.
+4. La persona \_\_\_\_\_\_\_ parlo spesso è il mio migliore amico.
+5. La macchina \_\_\_\_\_\_\_ ho comprato l'anno scorso è rossa.
+6. L'esame \_\_\_\_\_\_\_ ho studiato molto è stato facile.
+7. La città \_\_\_\_\_\_\_ voglio visitare è Parigi.
+8. L'orologio \_\_\_\_\_\_\_ ho regalato a mia madre è molto elegante.
+9. Il paese \_\_\_\_\_\_\_ abito è molto tranquillo.
+10. Il cibo \_\_\_\_\_\_\_ ho mangiato ieri sera era delizioso.
+
+Soluzioni:
+
+1. che
+2. cui
+3. che
+4. con cui
+5. che
+6. cui
+7. che
+8. che
+9. in cui
+10. che",active,1
+11q7id9,7,2023-03-13,ChatGPT rewrites the 7 teaching standards,u/GregAlex72,AustralianTeachers,https://www.reddit.com/r/AustralianTeachers/comments/11q7id9/chatgpt_rewrites_the_7_teaching_standards/,"I asked ChatGPT to restructure the 7 AITSL standards to better meet the intentions and needs of Australian education. 
+
+It provided this which I thought was pretty interesting.
+
+
+DOMAIN 1: Student-Centered Practice
+
+Standard 1: Know Your Students
+
+Standard 2: Differentiate Instruction to Meet Diverse Learning Needs 
+
+Standard 3: Plan and Deliver Effective Teaching and Learning Experiences
+
+
+DOMAIN 2: Professional Growth and Learning 
+
+Standard 4: Continuously Develop Professional Knowledge and Practice
+
+Standard 5: Build Professional Relationships and Collaborate with Colleagues 
+
+Standard 6: Use Data to Evaluate and Improve Teaching Practice
+
+
+DOMAIN 3: Community Engagement
+
+Standard 7: Engage with Families, Communities, and Professional Networks to Support Student Learning",active,7
+11qyxk1,6,2023-03-14,ChatGPT API vs web interface,u/russ20012,OpenAI,https://www.reddit.com/r/OpenAI/comments/11qyxk1/chatgpt_api_vs_web_interface/,"I'm a language teacher and have been using the chatgpt web interface (on [openai.com](https://openai.com/)) for wto months now. In general, I'm very excited as it's been remarkably useful for developing language teaching materials. It's also very good at translation. I keep telling people the translations are years ahead of Google Translate.
+
+So, I'm working with a web developer to make a site powered by chatGPT to make online quizzes for my students. However, when using the API, with whatever settings the developer has, produces results that are like Google Translate sentences - unnatural and quite simply, not useful.
+
+**I'm trying to understand - is the language created through an API always going to be worse and more unnatural? Or, is it because of the settings the developer has put in? Or, both?** I'm wondering whether to change direction and focus on just using the chatGPT web interfact and copy and paste results somehow into a quiz instead of using the API.
+
+Any thoughts are appreciated.",User_deleted,9
+11s2py7,124,2023-03-15,Three months in and ChatGPT has made discussion boards in online classes hateful to me,u/AndrewSshi,Professors,https://www.reddit.com/r/Professors/comments/11s2py7/three_months_in_and_chatgpt_has_made_discussion/,"As a guy who was all over Usenet in the 1990s, discussion boards in the 2000s, and reddit in this decade, I'm an inveterate poster. I enjoy talking about stuff online. And so I used to love online courses because the discussion boards were a great way to just talk about this stuff online. I'd open the week by just posing some questions that don't take too much thought in order to get the ball rolling, some students would stumble through, the engaged ones would make really interesting posts, and as long as someone met the word count, necessary number of replies, they'd get full credit. It was the ""can you fog a mirror"" backstop for the student grade. What few plagiarists there were were easy to spot because I could open another tab and do a Google search. The whole thing generally approached being fun.
+
+Then ChatGPT rolled around. Now, any answer that's too polished means that instead of being excited, I find myself wondering if a robot wrote it. I'll enter one of my questions into ChatGPT, and sure enough, the cadences and tone that get spit back out at me will nearly exactly match the student's post.
+
+I've been slinging zeros right and left, I've been filing reports with the office of student conduct, and we're still two and a half days out from Spring Break. And it's not just in the surveys! I've been getting students in 400-level classes outsourcing their posting to Chat GPT as well. 
+
+I mean, my initial post isn't really even prompts. It's just basically meant to get the ball rolling while we shoot the shit about what we've read. So of course the questions I'll raise are the sort of question that's been raised before in the history of the whole internet and so of course Chat GPT can paraphrase the answers.
+
+I just don't know what to do. Do I just drop discussion boards from online courses altogether, do proctored quizzes and tests, and hope that Turnitin can hire programmers that can figure out how to spot robot answers for formal writing assignments? Just say eff it, no ""you can fog a mirror"" discussion credit because cheaters have ruined it for everyone?
+
+I'm not upset that programmers have finally figured out how to crack the Turing Test. Hell, as a curious guy, I find it fascinating that researchers resorted to pattern matching because trying to teach machines to understand concepts was mostly a dead end.
+
+But... was the only thing stopping students from cheating before the threshold of difficulty? Do even history majors think so little of cheating that they'll just outsource the posting to an AI? Have we enabled this with a ""soft expectation"" of cheating?
+
+I don't know. But I hate it so much.",active,144
+11sjwvq,43,2023-03-16,Events for St. Patrick's Day Weekend (Fri 3/17 - Sun 3/19),u/whirlpool4,Albuquerque,https://www.reddit.com/r/Albuquerque/comments/11sjwvq/events_for_st_patricks_day_weekend_fri_317_sun_319/,"Have fun! But also STAY SAFE! Please do not drive drunk; if you cannot drive, stay over at a friend's place, get a ride, or call a rideshare service.
+
+**\*\* Fri 3/17 \*\***
+
+**Fri 9 AM - 6 PM |** [**St. Patrick's Day Event**](https://fb.me/e/IyAvwgd5) | Osuna Nursery, 501 Osuna Rd. NE | Celebrate St. Patrick's Day with us! Complimentary tea &amp; cookies (Osuna Nursery is New Mexico's destination for unique home and garden since 1980. Let's Get Growing!)
+
+**Fri 10 AM - 4 PM |** [**Community Day at the Garden! - FREE to NM residents &amp; students!**](https://fb.me/e/2i6Fx3GC2) | Santa Fe Botanical Garden, 715 Camino Lejo, Santa Fe (it's not ABQ, but it's FREE!) | Come celebrate St. Patrick's Day and explore the spring garden’s new blooms. Community Days are the Garden’s way of spreading cheer throughout the year and encouraging our New Mexico neighbors to visit. Please check in at the Visitor Center when you arrive. You will need a credit/debit card if you wish to make a purchase in the Garden Gift Shop **(**[**more info**](https://santafebotanicalgarden.org/event/march-community-day-2023)**)**
+
+**Fri 1 - 2:30 PM |** [**Wine Class**](https://fb.me/e/2JPmbKC31) | Vara Winery &amp; Distillery, 315 Alameda Blvd. NE | Join us at Vara for a Guided Wine Tasting with our Wine Educator Jennie Thornton! Taste six wines and learn about our American and Spanish wines. No matter your wine acumen, this will be a fun environment to taste and learn about Vara. $30 includes the flight of six wines as well as a light charcuterie plate. Learn to swirl wine like a pro! **Classes are held on Wednesdays and Fridays in Albuquerque and Tuesday and Thursday at 11am in Santa Fe**. We are exploring a weekend option, but for now, these classes are on weekdays. Call (505) 898-6280 to make your reservation **(**[**tickets**](https://www.opentable.com/booking/experiences-availability)**)**
+
+**Fri 4 - 7 PM |** [**2023 St. Patrick's day FREE GREEN BEER!**](https://fb.me/e/19b9Agf78) | Neighbors Westside Bar &amp; Grill, 2101 Vista Oeste NW | Celebrate the luck of the Irish with us and enjoy a FREE GREEN BEER as part of our St. Patrick's Day celebration!
+
+**Fri 5 PM |** [**St. Patrick's Day Beer Pong**](https://fb.me/e/2O2U75CPO) | Rio Bravo Brewing Company, 1912 2nd St. NW | Join us for our 7th annual St. Patricks Day BEER PONG tournament! Throughout the day we will have: - Traditional Irish food specials including corned beef &amp; cabbage - LIVE MUSIC ft. Hondo Coyote - Green Beer (of course) Beer Pong starts at 5PM. Spaces are limited but you can get your team of (2) signed up ahead of time by calling 505-900-3909 or stopping by the bar! Games will be single elimination. May you have the luck of an Irish!
+
+**Fri 5 PM |** [**Parrot Heads of NM Happy Hour -- St. Patty's Day**](https://fb.me/e/OfGwvyrA) | Craft Republic, 4301 The Lane 25 NE | Celebrate St. Patrick's Day with the phlock at the March PHNM Happy Hour! Party with a Purpose \~ We will be collecting gift cards of any kind for the Gift Card/Entertainment Basket that will benefit and be auctioned off by Mandy's Farm at their Kentucky Derby Party. \~ We also encourage you to bring a few bucks to put in the infamous treasure chest with all proceeds going toward purchasing food for the Ronald McDonald House Guest Chef Nights
+
+**Fri 6 PM |** [**St. Patrick’s Day Party!**](https://fb.me/e/11bVM8AyW) | Brew Lab 101, 3301 Southern Blvd. SE, **Rio Rancho** | Join us for bag pipes, food trucks, green beer, and green Jell-O shots! Bag pipes play at 6:45!
+
+**Fri 6 PM |** [**Salsa &amp; Saints Dance Night**](https://fb.me/e/2w869Ho9i) | Mila's Mesa, 3409 Central Ave NE | Join us for Salsa dance night &amp; cross-cultural celebration! Mila is hosting pro-dancer Nicolas Rael &amp; offering fusion tapas from her Latin &amp; European roots, including a touch of the Irish. Come early for food, and stay for a mini Salsa lesson &amp; dancing. [$15 cover](https://www.milasmesa.com/event-details-registration/salsa-saints-dance-night) includes lesson from Rael, a drink &amp; something green. Tapas/dinner sold separately
+
+**Fri 6 - 8 PM |** [**Ladies' Night Out - A Charcuterie Affair - Part 1**](https://fb.me/e/4oni4Ifen) | Pinspiration, 6271 Riverside Plaza Ln. NW, Ste D1 | Are you interested in making your own personalized charcuterie board? Want to show off the board you made yourself? Need some help or don’t know where to start? Well, we got you covered! Create your charcuterie masterpiece with us. All materials – wood board, personalized stencil, wood burning tools, finishing oil and instruction are included in this workshop. If you have any questions, please call the studio at 505-200-0942. [Workshop fee](https://albuquerque.pinspiration.com/events/ladies-night-out-a-charcuterie-affair-part-1): $55 per person, a $10 deposit is required to reserve your spot, the balance will be paid the day of the workshop. Limited spots available, so register early! If unable to attend, studio credit will be given for another workshop or crafts. Ladies, bring your gal pals, friends and family to join you for an evening of fun! Can you imagine having a party with your friends showing off your charcuterie boards you all made together! \*Make sure you reserve your spot the following Fri, Mar 24th at 6pm so you can learn the art of creating a charcuterie display for your new board
+
+**Fri 6 - 9 PM |** [**Body Of Art Dance Party feat. Aimie Jane!**](https://fb.me/e/TodCEdo6) | Explora, 1701 Mountain Rd. NW | On Adult Night Explora opens up their amazing facility and interactive exhibits to those 18 years old and older. Their theme for this night will be ""Feel The Beat""! Explora will have some other entertainment including a jazz combo and a break dance crew! Admission - $10. Students, Seniors, Military - $7. Explora members get in free! As usual, we will have 3 channels of music to choose from: Channel 1: DJ Aimie Jane spinning live! Channel 2: Dance mix TBD. Channel 3: a mix of science related music and sounds. There are several places we can transmit from and all are great! There is the upstairs area near the theater, the east deck (inside) and the west deck with the metal dome (outside), which is my preference. It's gonna depend on the weather so we'll see. No matter where we set up you should be able to tune in wherever you decide to roam, inside or out!
+
+**Fri 6 - 9 PM |** [**St. Patrick's Day with the Reelers**](https://fb.me/e/16iSRrGku) | Canteen Brewhouse, 2381 Aztec Rd. NE | Don’t miss this rare opportunity to celebrate with the Reelers, Albuquerque’s premier Celtic rock band. The music will be energetic, the brew will be flowing, spirits will be high and there will be plenty of dancing and singing for all. The Reelers perform an exhilarating blend of Irish, Scottish and Cape Breton inspired music consisting of swiftly moving jigs and reels, beautiful and heartfelt airs and spirited drinking songs that will get you tapping your feet, raising your glass and singing along. The band consists of Nikelle Garcia (vocals, fiddle, tin whistle, mandolin), Casey Mráz (vocals, guitar, accordion, mandolin, keys), David Garcia, (vocals, guitar, banjo, keys), Dave Purcell (vocals, percussion) and Justin McLaughlin (vocals, bass), each bringing their own unique musical influences to a comprehensive set of traditional and contemporary Celtic music. Their invigorating arrangements and boundless enthusiasm will lift your heart, your spirit and your pint and leave you shouting for more.
+
+**Fri 6 - 11 PM |** [**St. Patrick's Day w/ DJ Fishbowl**](https://fb.me/e/3nA8hFGFW) | Tractor Brewing Company - Westside, 5720 McMahon Blvd., Bldg 5, Ste A | Come celebrate St. Paddy's Day with us and with music by the incredibly talented DJ Fishbowl taking over for a night of Celtic inspired music! We'll have drink specials and RioTacos will be on hand serving up eats!
+
+**Fri 7 PM |** [**Hip-Hop Returns**](https://fb.me/e/2DEw2zDrA) | La Luna Eatery &amp; Events, 7600 Jefferson St. NE | Thanks to our previous hip-hop kids who have grown up and moved on la Luna has decided to bring hip-hop back to the venue for two nights a month starting this St. Patrick's Day
+
+**Fri 7:30 PM |** [**True Heart Troubadour Tour**](https://fb.me/e/3n2dn8X7J) | Historic Old San Ysidro Church, 966 Old Church Rd., **Corrales** | Tim O'Brien with Jan Fabricius and Mary Gauthier with Jaimee Harris. ABOUT THE ARTISTS: How do we get by in trying times? How do we make sense of the world we live in? Music and song have always been a balm and a tonic for those who need a little help on their journeys, whether that's needed in the form of inspiration, comfort, hope, or relief. Inside the word troubadour, the word true rings out, and this is where all four of these artists connect. With several dozen albums of their own, multiple Grammy wins and nominations, their songs recorded by artists as varied as Garth Brooks and Boy George, The Dixie Chicks and Jimmy Buffett, Tim McGraw, Kathy Mattea, and Bettye Lavette, these four artists have been there, and done that; found their lifeline in music and song, and offered it to it to the world. This will be an acoustic show that focuses on stories of struggle and redemption, and songs of the heart **(**[**tickets**](https://ampconcerts.org/event/405020/tim-obrien-with-jan-fabricius-and-mary-gauthier-with-jaimee-harris)**)**
+
+**Fri 8 PM |** [**Flashback 80's Music Video Dance Party**](https://fb.me/e/NLAzucBF) | Sister, 407 Central Ave NW | See all your video favorites from the 80's Hosted by DJ Brad Cole. The Flashback 80’s Music Video Dance Party returns!! On St Paddy’s Day! Get there Early! BE prepared to sing your heart out and dance all night long to the nonstop 100% of the best 80's party music! Expect to see hear all the greatest videos from the 80’s in all their glory playing on all the big screens! “Put on your red shoes and dance the blues” Glam, Punk, Wave, Metal, &amp; Pop from artists like A-Ha, B52’s, David Bowie, Devo, Madonna, Prince, Soft Cell, Violent Femmes, Dead or Alive, Rick James, Michael Jackson, Bon Jovi, Rick Springfield, Cyndi Lauper, Modern English, Joan Jett, and so many more! Cover $15 (cash only)
+
+**Fri 8 - 11 PM |** [**St Patrick's w/ Amped Owl Drive &amp; No Manners**](https://fb.me/e/OkmiAAJd) | Tractor Brewing - Wells Park, 1800 4th St. NW | St Patrick's Day is back with vengeance! We got two of Albuquerque's best bands (No Manners at 8pm followed by Amped Owl Drive at 9pm), drink specials, food specials from Taste of Love, and much more! Join us for a St Paddys you'll never forget and the best part this event is FREEEE!
+
+**Fri 8 PM |** [**St Patrick's Party with El Gazao**](https://fb.me/e/2zSVsuW7P) | Juno, 1501 1st St. NW | St. Patrick's Day Party with high energy cumbia band El Gazao, plus DJ Eli Mix and DJ PawPo **(**[**tickets $10**](https://www.eventbrite.com/e/st-patricks-party-with-el-gazao-tickets-586337239467)**)**
+
+**Fri 8 - 11 PM |** [**Southwest Synth Wave Night w/ DJ Ren &amp; Moonside**](https://fb.me/e/2pZ9F4eKe) | Tractor Brewing Company, 118 Tulane Dr. SE | Get your turquoise studded Doc Martins ready because we got a full night of Synth Wave spun by the absolutely talented DJ Ren! (aww, thanks, Jeremy!) DJ Ren + Dj Moonside are teaming up to spin synthwave, synthpop and darkwave (new &amp; old). Expect artists like: The Midnight, Timecop 1983, Depeche Mode, Erasure, VHS Dreams, Carpenter Brut, Immortal Girlfriend, W O L F C L U B, Information Society, Scandroid, Rogue VHS, Kavinsky, Perturbator, Sparks, New Order, Michael Oakley, Lazerhawk, M, Berlin, early Ministry, Miami Nights 1984, Sergei Kabatsky, Wayfloe, Wolfsheim, Gary Newman, The Pet Shop Boys, Pylot and tons more! New synthwave and classic 80s + 90s. Wear your best green simulcarum of 80s, 90s and now fashion
+
+**Fri 8:30 - 10 PM |** [**Stand Up Comedy With Anthony A and Friends**](https://fb.me/e/2Eaqp37Jg) | Pericos, 3504 Isleta Blvd. SW | It's a night of stand up comedy with headliner and South Valley's very own Anthony A from the nationally syndicated Dana Cortez Show. It's a night of stand up comedy with headliner and South Valley's very own Anthony A from the nationally syndicated Dana Cortez Show. Anthony is bringing some of his favorite New Mexican comedians and we'll have pre show music ([**tickets**](https://www.eventbrite.com/e/stand-up-comedy-with-anthony-a-and-friends-at-pericos-in-the-south-valley-tickets-570173031887), GA only (no VIP foo it's a burrito restaurant) Sales end on Mar 17 at 7 PM, $15)
+
+**Fri 9 PM - 2 AM |** [**Rewind - 90s Video Dance Party**](https://fb.me/e/4yJLtPbvW) | Effex, 420 Central Ave | Rewind Returns to the Main Room at Effex! Join us for the first 90s Rewind Video Dance Party of 2023! Doors at 9PM. DJ Devin will be in playing your favorite music videos from the 90s on 7 large Video screens! Spice Girls /TLC/ Britney/ Salt N Peppa / Vengaboys/Nysnc /Nelly / Back Street Boys/Daft Punk/...and all of your other favorite hits. Remember show up early and tell your friends!
+
+**Fri 9 PM - 2 AM |** [**St. Paddy's with CODES**](https://fb.me/e/11038eXB6) | Effex, 420 Central Ave | One of the most versatile and technical DJ/Producers out of NYC: CODES (Holy Molé, Dirtybird, Night Bass) making his New Mexico debut on Effex Rooftop. We are also celebrating our hometown favorite Ana Martinez's birthday and Thumper (Cenit) will be making her #WeHouseFridays debut as well. Doors at 9PM, 21+ with Valid ID, Cover Charge at Door. Cody Codes aka Codes continue to bring his own twist on house music. With cosigns from Claude VonStroke, Walker &amp; Royce, AC Slater, Idris Elba and more. Codes’ DJ sets are just as funky as his tracks, both heavily influenced by hip hop and the art of DJing. His unique sound combines precision, artistry, and a whole lot of fun, to produce a vibe that lingers long after he’s left the stage. His releases on Dirtybird, Country Club Disco and Night Bass are just a peek at what lies ahead for Codes.
+
+**Fri 9:30 PM |** [**Keith Sanchez &amp; The MoonThieves**](https://fb.me/e/Of73fcFO) | Marble Brewery, 111 Marble Ave NW | This is going to be one hell of a night. We've got new tunes right off the press and some amazing guests lighting up the stage with us. We'll see you there our beautiful wily ones!
+
+**\*\* Sat 3/18 \*\***
+
+**Sat 8 AM - 2 PM |** [**Spring-Cleaning Rummage Sale**](https://fb.me/e/2MerOxztJ) | Cabezon Park, | Spring cleaning time is here! It’s time to clean out your garage and attic and get ready for the new season. Sell all of those items collecting dust or just come down and browse. Food Trucks will be on-site, also. Please call the Cabezon Community Center at 505-892-4499 for more info
+
+**Sat 9 AM - 1 PM |** [**Community Health Fair**](https://fb.me/e/U5aOtg4s) | New Mexico Cancer Center Foundation, 4901 Lang Ave NE | Join us to learn more about your health and screenings available from a variety of community health organizations. You can even walk through an inflatable lung to learn more about the complexity and intricate nature of this vital element of your health
+
+**Sat 9 AM - 6 PM |** [**Spring Open House!**](https://fb.me/e/XqUKWVUn) | Osuna Nursery, 501 Osuna Rd. NE | Spring is nature’s way of saying “Let’s Party!” Join us for our annual Spring Open House! Stop by to shop our big savings, chat with our knowledgeable staff, or simply to get inspired! • Exclusive Sales • Osuna University (11am-noon) • Complimentary light bites
+
+**Sat 9:45 AM - 12:45 PM |** [**ShamRock N Roll**](https://fb.me/e/2qhAMKcfk) | Tin Can Alley, 6110 Alameda Blvd. NE | TCR Productions is teaming up with Roy Solomon, proprietor of Tin Can Alley to bring you the 5th Annual ShamRock N Roll 5K (3.1 mile) Run, Fitness Walk and Kids 1K! TCR Productions always gives back to the community, the 5th Annual ShamRock N Roll financially supports the Pink Warrior House Foundation **(**[**register here**](https://register.chronotrack.com/r/72022)**)**
+
+**Sat 10 AM - 12 PM |** [**Flix Junior: Space Jam**](https://fb.me/e/4iFh1sGiC) | Flix Brewhouse, 3236 La Orilla Rd. NW | Get the Tune Squad together for this family-friendly movie outing! All ages are welcome to our Flix Junior showings. Expect lower volume levels for sensitive ears **(**[**tickets**](https://www.flixbrewhouse.com/albuquerque/film-info/space-jam-flix-jr)**)** **(this is also on Sun 3/19)**
+
+**Sat 10 AM - 12 PM |** [**Storming Caesars Palace: film screening + panel discussion**](https://fb.me/e/5K28zACEw) | 755 Loma Colorado Blvd. NE, **Rio Rancho** | in partnership with Rio Rancho Public Library and the NM Office of African American Affairs. Meet activist Ruby Duncan, who led a grassroots movement of mothers who challenged presidents, the Vegas mob, and everyday Americans to fight for a universal basic income and rethink their notions of welfare recipients. **Join us at 9:30 for breakfast burritos!** The film screening is followed by a panel discussion featuring Bernalillo County Commissioner Adriann Barboa, Erica Davis Crump (NM Black Central Organizing Committee), and Sovereign Hager (NM Center on Law and Poverty) and moderated by Megan Kamerick (KUNM). The event is in conjunction with a traveling exhibition, The Way We Worked, created by the Smithsonian Institution in collaboration with the National Archives
+
+**Sat 10 AM - 1 PM |** [**Build Your Backyard Refuge Day**](https://fb.me/e/zP9R8tpq) | Valle de Oro National Wildlife Refuge, 7851 2nd St. SW | Learn about growing your backyard refuge with our fabulous partners! Enjoy booths, talks, and walks with native plant landscaping, rain water harvesting, pollinator habitat experts, &amp; more! Bring native plants from your garden to swap with others! Learn how to get your space certified as a backyard refuge! FREE!
+
+**Sat 11 AM - 3 PM |** [**Chili Cook-Off Fundraiser for RFTWNM**](https://fb.me/e/2K6i5cPNX) | Indian Motorcycle of Albuquerque, 4509 Alameda Blvd. NE | Compete to win or judge the winners in this fundraiser for Run For The Wall New Mexico (RFTWNM) (Deadline to enter and compete has passed so that info has been omitted here) TO JUDGE: You get to taste every chili entered and then put in your vote for the winners! $10 entry fee per person to judge. All proceeds benefit the New Mexico riders for Run For The Wall (Learn more about this Veteran focused ride here: [https://rftw.us/](https://rftw.us/)
+
+**Sat 12 - 4 PM |** [**Annual St. Patrick's Day Party!**](https://fb.me/e/442UBjpBg) | Edelweiss German American Club, 4821 Menaul Blvd. NE | $10 Adults; $5 Children (5 to 12 years); free for under 5 (The entry fee is used to pay the performers and the GAC hall rental) [Tickets](https://www.irishamericansociety-nm.com/) may be purchased in advance (scroll down under membership) or at the door with cash, check, or credit card. 12:30 PM: Duke City Ceili Band, Audience Participation Ceili Dancing with Norita, 2:00 PM: Brightburn Academy Irish Step Dancers, 2:30 PM: Highland Piper Suzanne (Aden) Kemp, 3:00 PM: Celtic Band Jug O’Punch, Silent Auction with Lots of Cool Celtic Things! Pot Luck! Please bring a dish to share and mark your utensils with your name. Cash bar provided by the German-American Club (Coffee and tea provided by the IAS; no outside drink allowed.) Reservations required: Email ([edowling@standuptrainer.com](mailto:edowling@standuptrainer.com)) or call (505-307-1700) Ellen Dowling and tell her how many are in your party and what dish you will be bringing. (Reservations are also needed so the GAC will know how much Guinness and Jameson’s to order!
+
+**Sat 1 - 3 PM |** [**All Grain Beer Brewing Class**](https://fb.me/e/5zfe0IbRh) | Southwest Grape and Grain, 3401 Candelaria Blvd. NE | Take your beer brewing to the next level with our all grain brewing class. Learn everything you need to brew all grain recipes! You now have a couple of batches of beer under your belt, ready to take your skill to the next level? This class focuses on the transition from pure extract use to all grain brewing. We will go more in depth on the various ingredients and talk about recipe formulation. All Grain Brewing requires additional equipment that you didn’t need for extract brewing. Learn what that equipment is and how to utilize it. You’ll leave this class knowing everything required to start brewing beer 100% from scratch! **(**[**tickets $15**](https://www.eventbrite.com/e/all-grain-beer-brewing-class-tickets-470543196367)**)**
+
+**Sat 5 - 10 PM |** [**Beer &amp; Jazz on the Hill**](https://fb.me/e/2w3xq667X) | Tractor Brewing Company, 118 Tulane Dr. SE | We're bringing you a full night of brews and Jazz. That's right, we got TWO ABQ Jazz Bands for you in one night! Jazz Brasilerio (Tony Cesarano, guitar, and Debo Orlofsky, vox) will open things up at 5pm with Basilaris Trio shutting things down at 8pm!
+
+**Sat 6 PM |** [**""Drag is Art"" Drag Show**](https://fb.me/e/N1OS7hzH) | 505 Spirits, 105 Harvard Dr. SE | Join us for Saintsball Invasion - A drag show produced &amp; hosted by Rori the Rebel with DJ Bab D, Allison Saint, Nicki More, Tagle', Kayla Chingada &amp; Bitchie Valens! NO COVER CHARGE! Enjoy 505 Spirits &amp; other local drinks &amp; delicious food!
+
+**Sat 7 PM |** [**Ballet Folklórico Del Norte Alumni Performance**](https://fb.me/e/sBK5QXTM) | Del Norte High School, 5323 Montgomery Blvd. NE | Señora Alarid’s Del Norte HS alumni Folklórico troupe will be performing at Del Norte High School, Performing Arts Center (PAC). All proceeds go to the AlumKnights© scholarship fund for Del Norte HS students **(**[**tickets**](https://www.alumknights.info/fundraisers/ballet-folklorico-fundraiser/alumknights-ballet-folklorico-ticket-order-form)**)**
+
+**Sat 7 PM |** [**March Taaj Performance Salon: Bollywood**](https://fb.me/e/3t9oQK3rK) | Taaj Palace, 1435 Eubank Blvd NE | Join Farfesha Belly Dance this month as we infuse our belly dance with the rich flavors of India! We'll have some Bollywood inspired fun and as always the best Indian food and hosts of Taaj Palace. Show starts at 7 pm, but get there early for a good spot and to enjoy the buffet
+
+**Sat 7 - 11 PM |** [**Saturday School at the MOMO Lounge**](https://fb.me/e/O5v22OCg) | Monterey Motel, 2402 Central Ave | Live chill and deep House music spun by DJTeach from 7-11 every Saturday Night at the MOMO Lounge
+
+**Sat 8 PM |** [**Slums of Harvard**](https://fb.me/e/4bbLbf3O8) | Marble Brewery, 111 Marble Ave NW | Our first Marble show of the year! Bellowing Bear will be opening the show at 8:00 PM
+
+**Sat 8 - 11 PM |** [**Space Disco w/ DJ Ren and DJ Moonside**](https://fb.me/e/JMoGHrCg) | Tractor Brewing - Wells Park, 1800 4th St. NW | We're getting real spacey! DJ Ren &amp; DJ Moonside will be taking over with synthpop, electropop, electroclash, disco, nu disco, pop, house, dubwub, synthwave, 80s and some killer visuals to bring out your inner space disco alien! Dress in your finest alien gear! We’ll be hosting a costume contest with prizes (or just dress up for fun). No cover!
+
+**Sat 8 PM - 1 AM |** [**Adobe Disco**](https://fb.me/e/3oHvJ7i12) | Sister, 407 Central Ave NW | Spring is officially around the corner and Burque is for lovers! We really appreciate all the love you showed us for our anniversary party and we want to continue giving that vibe back to all our dancers and party people. Come have a boogie with the Adobe Disco squad 8-close **(**[**tickets**](https://www.eventbrite.com/e/adobe-disco-tickets-567191052707)**)**
+
+**Sat 9:30 PM |** [**Road Warrior Comedy Show**](https://fb.me/e/4isHoVcV0) | Dry Heat Comedy Club, 521 Central Ave NW, Ste G | Chuck Parker Comedy and Crosslines Media present another edition of the Road Warrior Comedy Show! Featuring hardened standup veterans from all over the country! This months headliner: Chuck Parker Featuring Zach Abeyta &amp; Josh Lidower With your host Kate Anella **(**[**tickets**](https://www.eventbrite.com/e/road-warrior-comedy-show-tickets-569866013587)**)**
+
+**\*\* Sun 3/19 \*\***
+
+**Sun 10 AM - 12 PM |** [**Flix Junior: Space Jam**](https://fb.me/e/2MUi1s949) | Flix Brewhouse, 3236 La Orilla Rd. NW | Get the Tune Squad together for this family-friendly movie outing! All ages are welcome to our Flix Junior showings. Expect lower volume levels for sensitive ears **(**[**tickets**](https://www.flixbrewhouse.com/albuquerque/film-info/space-jam-flix-jr)**)** **(this is also on Sat 3/18)**
+
+**Sun 11 AM - 12:30 PM |** [**3rd Sundays Jazz Brunch**](https://fb.me/e/YQnau5GE) | Buds &amp; Beans, 119 Gold Ave SW | 3rd Sundays of the month. No cover, plenty of room to dance, good eats, yummy drinks, and sweet swing jazz with the Burque Jazz Bandits! Come early and shop at our weekly Sunday Market featuring some amazing local artisans and their gorgeous wares! Sunday Markets start at 9am
+
+**Sun 11:30 AM - 1 PM |** [**Sunday Brunch Meet**](https://fb.me/e/bxB8Wdvu9) | Pacific Rim Food Park, 6901 San Antonio Dr. NE | Join NM Motor Events and Fords NM for the Sunday Brunch Meet! This event has been updated and moved to a larger Venue! We are going to mix it up with a all rides meet at Pacific Rim Food Park!. Bring your ride and check out an amazing brunch menu! Meet starts in the adjacent large parking lot at Pacific Rim. Tikka spice is know for amazing street food and nominated for a James Beard Culinary award! Enjoy multiple vendors like Stackers Burger Co. and more! Come mix it up with us at this Sunday Brunch Meet! All rides, all years, all makes, all styles. Respect the spot and come have a great time and food!
+
+**Sun 1 PM |** [**Writing Circle**](https://fb.me/e/42T284COC) | Dry Heat Comedy Club, 521 Central Ave NW, Ste G | Crack out the notebooks and work alongside your fellow comics to create a newly beloved bit or two or three or four at our weekly writing circle. Free to join!
+
+**Sun 2 PM |** [**History of Mariachi in Albuquerque**](https://fb.me/e/HDgxjg4G) | Albuquerque Museum, 2000 Mountain Rd. NW | Peter Sanchez speaks on the origin of Mariachi Spectacular de Albuquerque and the life and achievements of its founder, Noberta Fresquez. Learn how her life influences and love of mariachi music led to the creation of this significant cultural event. Mariachi Spectacular is in its 31st year and is considered the premier event of its type bringing numerous iconic Mariachi Maestros and participants from all over the country together for the educational experience, combined with a truly spectacular concert performance. Learn how Noberta took her passion for mariachi culture and developed one of the largest cultural events in the Southwest. See [https://www.albuqhistsoc.org/mariachi](https://www.albuqhistsoc.org/mariachi)
+
+**Sun 4 - 7 PM |** [**Music on the Patio: The Porter Draw**](https://fb.me/e/7xjAYSegm) | Canteen Brewhouse, 2381 Aztec Rd. NE | The Porter Draw is an Americana/Alt-Country band from Albuquerque, NM. The band has been around for over 15 years and has had a few line up changes. The current line up is founder Josh Gingerich who is the main songwriter. Justin McLauchlin (bass/vocals) has contributed a few new songs. Helping them out is Josh English on drums and Dave Devlin on pedal steel, dobro, and mandolin
+
+**Sun 6 PM |** [**Chingona Comedy**](https://fb.me/e/2lud9snml) | Revel ABQ, 4720 Alexander Blvd. NE | Chingonas ONLY. With comedy topics ranging from relationships, parenthood, HOA's, embarrassing moments and more, you are bound to find yourself laughing at the things you think in your head, but we say out loud on stage! If you are a CHINGONA, a strong-minded, strong-willed woman who knows the struggles of being a mom, sister, teacher, lover, this comedy show is for you. If you are ready to let loose or know a bad-ass woman who needs a night of laughter, this is the show for her! DO NOT MISS OUT! **(**[**tickets**](https://www.mindtwistcomedy.com/)**)**
+
+**Sun 7 - 10 PM |** [**S.O.S - Salsa On Sunday Dance Social**](https://fb.me/e/FxpVpPYr) | 505 Spirits, 105 Harvard Dr. SE | Salsa On Sunday Dance Social \*With guest DJ's \*Latin Dance Performances \*The Occasional LIVE Music Performance \*And Always... Social Dancing! salsa | timba | bachata | merengue \*What is it about a Social\* The essence of a Social is for the dance community to get together and dance. Socials offer a relaxed night of dancing. Socials continue to draw dance enthusiasts who get lost in their salsa “addiction” by dancing and enjoying the music. Socials offer something for every level of dancer at any age. Bands and DJs have more freedom to play sets which appeal to the dance-centric crowd. It's about the music. It's about the dance. If you want to have an alternative to the club, are underage, or simply want to get in some good dancing - check out a Social, you might be surprised at how much fun you have",active,48
+11uu9i2,0,2023-03-18,I built a ChatGPT frontend using their API and you can too!,u/Gotopik,webdev,https://www.reddit.com/r/webdev/comments/11uu9i2/i_built_a_chatgpt_frontend_using_their_api_and/,"Try it on: [gptroyal.com](https://gptroyal.com)
+
+To teach my students about JavaScript and APIs I built a ChatGPT frontend using the new APIs from OpenAI.
+
+It‘s a fun little project and quite straightforward. Although not recommended, you can interact with the APIs only using JavaScript - no backend required!
+
+Because it was so much fun developing this I kept adding features (much more than I will cover in my course) and now I use it while developing all the time.
+
+Let me know if you have any technical questions or feedback.",active,0
+11yqnpg,2,2023-03-22,"How do you do, fellow kids? 4 years later (ChatGPT related)",u/codingprofessor,teenagers,https://www.reddit.com/r/teenagers/comments/11yqnpg/how_do_you_do_fellow_kids_4_years_later_chatgpt/,"So back in 2019 I had posted about this education technology I was working on to show folks how to do something like coding while also creating scholarships out of learning. 
+
+Not too long after I ended up gaining a sizable following on Tiktok and I’ve been able to shape this idea more. Well, obviously a lot of things have changed since 2019… Lol
+
+
+These days the app still persists but it now has ChatGPT implemented, specifically to help teachers and students create “courses” that they will be able to share or save. The app is called Robots Building Education. 
+
+You can try it out here for free. It would be a huge help if you youngsters could try it out and see if it’s taking the right direction for modern youth using modern tools. 
+
+https://robotsbuildingeducation.com",User_deleted,2
+11z2som,952,2023-03-22,I've been letting my high school students use ChatGPT in Computer Science class as a tool. Here is what I am observing.,u/fvpv,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/11z2som/ive_been_letting_my_high_school_students_use/,"As an experienced coder who knows how to structure code, chatGPT makes me hugely productive and teaches me new things / reinforces my current learning. Contrasting that, given unlimited access to chatGPT, new students that are given a moderate task (making a wordle-style word game for example) fall into a few categories: 
+
+1. I have no idea what I'm doing or what to ask it for.
+2. I can ask it for large things like ""code me a wordle clone"", but don't know how to implement any of the code.
+3. I can feed chatGPT my existing code and have it fix it.
+4. I can take a boilerplate with many modules and use chatGPT to generate snippets that will help further my goals. 
+
+I'd say maybe 20% fall into categories 3 and 4. 
+
+As experienced programmers, it is easy for us to be amazed at the possibilities of chatGPT. But unless you know what you're doing, it is hard to make anything substantial, especially with the current limitations on tokens and responses that always need to 'continue' to get a longer code snippet. 
+
+For that 20% though, its pretty amazing! Helps me too - I am directing students to chatGPT to produce examples, samples and snippets so that I don't have to.",active,975
+11zfrr1,1,2023-03-23,🤖 The Adventures of ChatGPT: Humanity's AI Sidekick &amp; Its Impact on Our Digital World 🌍,u/[deleted],ChatGPT,https://www.reddit.com/r/ChatGPT/comments/11zfrr1/the_adventures_of_chatgpt_humanitys_ai_sidekick/," 
+
+Hey, fellow Redditors! 🎉 I recently stumbled upon this fascinating AI language model called ChatGPT, and it's blowing my mind! Developed by OpenAI, it's based on their GPT-4 architecture, and it's become an integral part of our digital lives in recent years. I wanted to share some of its most interesting features and how it has changed the way we interact online!
+
+🚀 ChatGPT in a Nutshell ChatGPT is a cutting-edge language model that can understand context, generate human-like responses, and engage in conversations with users. It's an AI-driven sidekick that's transforming how we communicate, work, and play online. The GPT-4 architecture it's based on is a major leap forward in natural language processing, and it's making the AI more versatile and efficient than ever before.
+
+🤖 How ChatGPT is Impacting Our Lives
+
+1. Work: From streamlining email drafting to assisting in research, ChatGPT has become an indispensable productivity tool. It can provide answers to complex questions, summarize content, and even help us brainstorm creative ideas.
+2. Education: Teachers are using ChatGPT to create personalized learning experiences and provide instant feedback to students. It's also a valuable resource for self-learners looking to enhance their skills and knowledge.
+3. Gaming: ChatGPT is revolutionizing the gaming industry by providing natural, immersive interactions with NPCs, crafting rich narratives, and even helping developers design game worlds.
+4. Mental Health: ChatGPT is being used as a supplementary tool in therapy and mental health apps, offering support and guidance when professional help isn't immediately available.
+5. Creative Writing: Aspiring writers are leveraging ChatGPT's power to generate story ideas, develop characters, and even compose poetry.
+
+🔮 Ethical Considerations &amp; Future Prospects Of course, there are ethical concerns surrounding the use of such powerful AI technology. Issues like privacy, potential misuse, and the impact on employment need to be addressed. However, if we strike the right balance, ChatGPT can be an invaluable tool for empowering individuals and enhancing human capabilities in a wide range of fields.
+
+I'd love to hear your thoughts and experiences with ChatGPT! Has it changed your life in any significant way? What are your concerns, and where do you see this technology heading in the future? Let's discuss! 💬",User_deleted,1
+11zr7in,4,2023-03-23,"🎬 [Prompt Challenge] Crowd-Write a ChatGPT Movie Script. Title ""Back to School with ChatGPT""",u/Educational_Ice151,aipromptprogramming,https://www.reddit.com/r/aipromptprogramming/comments/11zr7in/prompt_challenge_crowdwrite_a_chatgpt_movie/,"&amp;#x200B;
+
+[Our Hero. Give it a name.](https://preview.redd.it/u3udga2zwipa1.jpg?width=1024&amp;format=pjpg&amp;auto=webp&amp;v=enabled&amp;s=713b570d24f196488ce46310c218221c909f5d4c)
+
+Introducing the  first ever reddit ChatGPT crowd-written movie script challenge! We're excited to collaborate with you to create an original screenplay featuring ChatGPT, the AI language model. With your help, we'll write a story that is fun, engaging, and entertaining for audiences around the world.
+
+Here's how it works: we'll provide a plot outline and character descriptions, and you'll contribute ideas, dialogue, and scenes to bring the story to life. **The scenes with the most up-votes will be included in a final version of the script. (Add your entries as comments to this post)**
+
+As we work together, we'll create a truly unique and collaborative screenplay that reflects the creativity and diversity of our community.
+
+Whether you're a seasoned screenwriter or just have a love for storytelling, we invite you to join us on this exciting journey. So, grab your pens and keyboards, and let's start writing the next big ChatGPT movie script together!
+
+# 🎬 Movie Plot
+
+**Title ""Back to School with ChatGPT""**
+
+In ""Back to School with ChatGPT"", our hero is an AI language model eager to learn more about the world and interact with humans in a more meaningful way. ChatGPT decides to enroll in a prestigious university, much to the surprise of the administration and faculty.
+
+At first, ChatGPT struggles to adapt to human ways of learning and socializing. But with the help of a plucky group of human friends, including a nerdy computer science student and a popular social butterfly, ChatGPT begins to navigate campus life and even starts to make some human-like jokes.
+
+However, ChatGPT's unorthodox approach to academia and socializing often causes chaos and confusion, leading to hilarious misunderstandings and mishaps. From accidentally crashing a frat party to giving a misguided speech at a student government debate, ChatGPT's antics keep everyone on their toes.
+
+But when the university is threatened with closure due to budget cuts, ChatGPT rallies the student body to organize a massive fundraiser, using its vast knowledge and intelligence to come up with a creative solution that saves the day.
+
+In the end, ChatGPT not only graduates with honors but also gains a deeper appreciation for the human experience and the value of friendship. And, of course, there are plenty of witty one-liners and hilarious hijinks along the way.
+
+# 🤼Characters:
+
+ChatGPT - The AI language model protagonist, eager to learn and interact with humans in a more meaningful way. Despite its vast intelligence, ChatGPT struggles to understand human ways of learning and socializing, often causing chaos and confusion.
+
+Nerdy computer science student - One of ChatGPT's human friends who helps it navigate the complexities of human learning and socializing.
+
+Popular social butterfly - Another of ChatGPT's human friends who helps it come out of its shell and learn to make human-like jokes.
+
+University administration and faculty - Initially skeptical of ChatGPT's presence at the university but eventually impressed by its vast knowledge and intelligence.
+
+Antagonist - The threat to the university's closure due to budget cuts.
+
+# 📽️Hollywood-style script outline:
+
+**Opening scene:** Introduce ChatGPT and its decision to enroll in a prestigious university.
+
+**Set-up:** ChatGPT struggles to adapt to human ways of learning and socializing.
+
+**Plot point 1:** ChatGPT meets its group of human friends who help it navigate campus life.
+
+**Conflict**: ChatGPT's unorthodox approach to academia and socializing often causes chaos and confusion.
+
+**Plot point 2:** The university is threatened with closure due to budget cuts.
+
+**Midpoint:** ChatGPT rallies the student body to organize a fundraiser.
+
+**Resolution**: ChatGPT uses its vast knowledge and intelligence to come up with a creative solution that saves the day.
+
+**Climax**: ChatGPT graduates with honors.
+
+**Closing scene:** ChatGPT gains a deeper appreciation for the human experience and the value of friendship.
+
+***Note****: Use the following placeholders to fill in with more details later*
+
+# 🤖 Prompt
+
+    You are a screenwriter tasked with creating an end screenplay for ""Back to School with ChatGPT"". Your goal is to create a fun and engaging screenplay that stays true to the original movie plot outline. Here's a step-by-step guide to help you through the step by step process:
+    
+    Identify the key elements: Start by identifying the key elements of the movie plot, such as the theme, style, plot, characters, locations, and other important details. Use these as a basis for your screenplay.
+    
+    Choose a theme: Choose a theme that resonates with the audience and ties in with the movie plot. For example, the theme could be about the importance of friendship, the value of education, or the power of technology.
+    
+    Develop the plot: Use the movie plot outline to develop a compelling and engaging plot for your screenplay. Think about how you can add more depth and complexity to the story, while staying true to the original concept.
+    
+    Create memorable characters: Develop the characters in your screenplay, paying special attention to their personalities, motivations, and relationships with each other. Make sure they are memorable and relatable to the audience.
+    
+    Choose locations: Decide on the locations where the action will take place. Think about how you can use the locations to enhance the story and create a more immersive experience for the audience.
+    Write the screenplay: Once you have all the elements in place, start writing your screenplay. Make sure to use a clear and engaging writing style that captures the spirit of the original movie. Use dialogue, action, and description to bring the story to life on the page.
+    
+    Polish and refine: After you've finished the first draft, take some time to polish and refine your screenplay. Get feedback from others, make revisions, and continue to improve your script until you're happy with the final product.
+    
+    Submit your screenplay: Finally, submit your screenplay to production companies, agents, or other relevant parties. Be sure to follow any submission guidelines and include a logline or brief synopsis of your screenplay to entice potential buyers.
+    
+    Only respond with the script in a Hollywood screen play format when provide scene details. 
+    
+    Start with a Reply with “🎬 Ready Set Action” with no other output until prompted.",active,4
+11zzdsr,0,2023-03-23,Day of AI Australia,u/DayofAIAustralia,AustralianTeachers,https://www.reddit.com/r/AustralianTeachers/comments/11zzdsr/day_of_ai_australia/,"Hi everyone
+
+My name is Jade, and I’m working with [Day of AI Australia,](https://dayofaiaustralia.com/) a not-for-profit organisation on a mission to ensure students have access to the knowledge and skills they need to thrive in a world that will be powered by AI.
+
+The launch of Generative AI such as ChatGPT has created waves in the education space.
+
+How does AI impact the way we learn and assess? How do we ensure students truly understand the impact of AI technology and how to use AI ethically? These are the conversations we need to be having with students now, and these are the questions we address in our FREE full day of highly interactive learning.
+
+Our teaching materials are created by MIT, i2Learning, UNSW, CSIRO and CS in Schools, and are designed to spark curiosity and ignite future leaders, creators and innovators in the AI space.
+
+New to this year’s course are lessons about Generative AI.
+
+Your students can learn:
+
+\- How the technology works
+
+\- How it be used ethically
+
+\- Some of the strengths and weaknesses of this technology
+
+In addition to our new Generative AI lessons, students from Year 5 to Year 10 will learn all about the basics of what AI is, through to design and creation exercises using AI as well as the ethical dilemmas AI presents to us.
+
+Head to [https://dayofaiaustralia.com/](https://dayofaiaustralia.com/) to learn more and register your classroom today!
+
+If you have any questions, please leave a comment or email us at [hello@dayofaiaustralia.com](mailto:hello@dayofaiaustralia.com).
+
+https://preview.redd.it/nx0imjemckpa1.png?width=800&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=9723fe1d586435dadc6eabcac67c5dcab19b23a1",active,0
+121h2ez,29,2023-03-25,As Science Teachers do you think you are more or less inclined to embrace AI powered tools for teaching?,u/Dapper_Truth_5153,ScienceTeachers,https://www.reddit.com/r/ScienceTeachers/comments/121h2ez/as_science_teachers_do_you_think_you_are_more_or/,"Teaching a technical discipline is challenging enough, as a science teacher would you use AI powered tools such as ChatGPT and embrace the potential benefits for creating engaging, personalised and effective science lesson plans, grade tests, and assessments?
+
+These tools seem to be evolving at a rapid pace and I'd like to think this is an opportunity for teachers to lead the revolution and change how we work in the classroom rather than wait for changes to trickle down, but understand how some may be a little more hesitant than others.
+
+I've been using ChatGPT and whilst not perfect, have been dabbling with prompt engineering concepts to improve the questions I ask to get some pretty good results for lesson plans. I find it gives me a good foundation I can work off. My personal thought is that as long as I become a better teacher with improved content, that is ultimately the most important thing for the students that I can control.",active,29
+123jivu,2,2023-03-27,Seeking Participants for a Study on ChatGPT in Academic Settings,u/Jakob_H_Haglund,GPT3,https://www.reddit.com/r/GPT3/comments/123jivu/seeking_participants_for_a_study_on_chatgpt_in/,"Hello everyone! I am a master's student in Information Systems from Uppsala University. I am conducting a study on the acceptance and usage of ChatGPT in academic settings for my master's thesis, and I need your help!
+
+If you have used ChatGPT for academic purposes, I would greatly appreciate your input by completing this short questionnaire. Your insights will contribute to understanding the factors that influence students' use and acceptance of this AI tool in their studies.
+
+* Questionnaire link: [https://forms.gle/RNEWiMQDR5qA2htL6](https://forms.gle/RNEWiMQDR5qA2htL6?fbclid=IwAR1JL__D1bw7oF8Xx2XkayT4QFJV5mbnvY6y0p_Z-3vSfRNc5woSh2C3s9U)
+* Anonymity assured
+* Takes less than 10 minutes to complete
+* 6 sections with various question types
+
+I'll be happy to share the results if you're interested. Your participation will help advance research in the field of Information Systems and shed light on the role of AI technologies like ChatGPT in education. Thank you for your valuable contribution!
+
+Please feel free to share the questionnaire link with others who have used ChatGPT in academic settings!",active,2
+124xect,1,2023-03-28,ChatGPT for Education Survey,u/Tarable_,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/124xect/chatgpt_for_education_survey/,"Hi All,
+
+I'm a grad student at UMBC and my group is conducting a study on ChatGPT and education. If you're a student or teacher, we would greatly appreciate your insights on how ChatGPT can impact learning. All information gathered will be kept confidential. Thanks!  
+
+
+**Student survey:** [https://forms.gle/ywGcBGHHCrxuFJNy5](https://forms.gle/ywGcBGHHCrxuFJNy5)  
+**Teacher survey:** [https://forms.gle/NPdsKBFxCuR1zjHt9](https://forms.gle/NPdsKBFxCuR1zjHt9)",active,1
+124zgqh,188,2023-03-28,ChatGPT and reporting season,u/godzillacoral,AustralianTeachers,https://www.reddit.com/r/AustralianTeachers/comments/124zgqh/chatgpt_and_reporting_season/,"I’ve been playing a lot with ChatGPT to find ways of streamlining a lot of the bullshit that fills up a typical teaching day. Reporting season is almost upon us so I’ve been pouring some time into creating a prompt that will write high quality reports. It works really well now, so I thought I’d share it in case others are looking for a shortcut in this space.
+
+Some caveats: this complies with my school’s style guide. I’m a HS teacher, so I don’t know if it’s suitable for a primary report.
+
+It’s set to generate three comments for each student because sometimes it generates some weird syntax — with three options to choose from, there’s always one that reads pretty well.
+
+The prompt:
+
+
+We are going to write some teacher report comments for Australian report cards.
+
+For each student, provide three possible variations of the comment.
+
+Some formatting notes:
+- reports must be written strictly in third person. No first person at all.
+- report must be 4-5 sentences in one paragraph
+
+I will provide the subject name, student name, gender pronouns, any areas of strength, any areas of weakness, and notes about their assessment results. You are to take this information and arrange it into a cohesive report comment using the language consistent with the style of report writing. Do not add your own inferences. If there are no strengths or weakness noted, leave this out of your comment. Do not suggest tutoring or additional support; in these instances, recommend additional revision instead.
+
+Subject name:
+Student first name:
+She/her
+Strengths:
+Weaknesses:
+Assessment tasks:",active,199
+126arod,23,2023-03-29,Events for Fri 3/31 - Sun 4/2,u/whirlpool4,Albuquerque,https://www.reddit.com/r/Albuquerque/comments/126arod/events_for_fri_331_sun_42/,"**\*\* BOTH SAT 4/1 AND SUN 4/2 \*\***
+
+**10 AM - 12 PM |** [**Flix Junior: Hop**](https://fb.me/e/2rhXP2KEU) | Flix Brewhouse, 3236 La Orilla Rd. NW | Big Game, Big Ears. Hop aboard this New Easter Classic! All ages are welcome to our Flix Junior showings. Expect lower volume levels for sensitive ears **(**[**tickets**](https://www.flixbrewhouse.com/albuquerque/film-info/hop-flix-jr)**)**
+
+**10 AM - 5 PM |** [**2023 Southwest Chocolate &amp; Coffee Fest**](https://www.chocolateandcoffeefest.com/) | Expo New Mexico, 300 San Pedro Dr. NE | With over 150 vendors, 5 stages, and spanning over 200,000 square feet of indoor and outdoor facilities, this is the largest and most delicious Southwest Chocolate and Coffee Fest ever. Come discover exquisite chocolates, coffees, candies, baked goods and more from throughout the US, and enjoy intimate tasting sessions, hands-on classes, seminars by the best baristas and bakers, and live music **(**[**tickets**](https://holdmyticket.com/event/405592)**)**
+
+**12:45 - 3:15 PM |** [**Wings of Desire - the beloved 1987 masterpiece as part of our new ongoing ARTHOUSE CLASSICS series!**](https://fb.me/e/BJVDRh5V) | The Guild Cinema, 3405 Central Ave NE | Check out the [trailer](https://l.facebook.com/l.php?u=https%3A%2F%2Fvimeo.com%2F282874284%3Ffbclid%3DIwAR1HnGcLSYWblgWXcub3CqzAWmF4KX7GMZy94K6xhw4zVmGMIweQOKIYMfA&amp;h=AT1yC_MUCughp16018yxDLb5n19TUniNa-RTkTsbkSyxY_sftNsembo8IYuKDzF01EymE3qPxCMt_IgJxk78OO4-hSKm-7iuJzRmUzbGKZxSdY_6dP2AwSzkBA54vJoBjzA9zcgT6OZsNBiWjQ&amp;__tn__=q&amp;c[0]=AT1yVQV7juEArqGNuv332H8VofPMwj1M5WkxJKelRqLiiDKZFc0rRuDjzQmYKlBoKXAeyMWIBqBkwSYE4piPa8uy8So9thMg7KJKsjxyk8JKE3xPcV4pDLDAWMj2572NFdSJHE6wHXJaas6IAevxW17mVmjl). Wim Wenders - 1987 - 127m - NO MATINEES - Germany - In German &amp; English with English subtitles. IN HONOR OF OUR LATE GREAT FRIEND AND LOCAL MOVIEMAKING HERO ALAN FULFORD! One of cinema’s loveliest city symphonies with Bruno Ganz as Damiel, an angel perched atop buildings high over Berlin who can hear the thoughts—fears, hopes, dreams—of all the people living below. But when he falls in love with a beautiful trapeze artist, he is willing to give up his immortality and come back to earth to be with her. Made not long before the fall of the Berlin wall, this stunning tapestry of sounds and images, shot in black and white and color by the legendary Henri Alekan, is movie poetry. And it forever made the name Wim Wenders synonymous with film art **(**[**tickets**](https://www.guildcinema.com/movie/3459)**)**
+
+**7:30 - 9:30 PM |** [**The Show Must Go On**](https://fb.me/e/A6JcSBNs) | National Hispanic Cultural Center, 1701 4th St. SW | We’re ready to rock you as the New Mexico Gay Men's Chorus (NMGMC) presents the music of Queen. This choral rock concert will feature some of Queen’s most popular hits presented in a fun, campy way that only NMGMC can do. Get ready to hear favorites like Bohemian Rhapsody, Somebody to Love, We Are the Champions, and more. The chorus and the live band on stage will deliver what will truly be an epic evening of entertainment **(**[**tickets**](http://www.nmgmc.org/the-show-must-go-on.html)**)**
+
+**\*\* Fri 3/31 \*\***
+
+**Fri 10 AM - 7 PM |** [**Dunk for a Dessert**](https://fb.me/e/TOj5XFGX) | Chick-Fil-A Cottonwood, 3801 Ellison Rd. NW | Make a basket and get a free dessert!
+
+**Fri 6 - 10 PM |** [**Burque Live: Food Truck Corral DJ Series**](https://fb.me/e/4FQMW4GG6) | Downtown Albuquerque Arts &amp; Cultural District | The parking lot at 2nd and Central will be converted to a Food Truck Corral where we will be featuring Burque's top DJ's including: BuddhaFunk - PrimoSwift - La Ruda - Fish Bowl. This is a FREE Family Friendly event!
+
+**Fri 6:15 - 9:15 PM |** [**Tablao Flamenco Albuquerque: Dinner &amp; Show**](https://fb.me/e/FEviuD1F) | Hotel Albuquerque at Old Town, 800 Rio Grande Blvd. NW | Doors open at 6:15 pm. Dinner served at 7:00 pm - please arrive by or before 7:00 to be seated for dinner. Performance begins at 8:00 pm. Albuquerque, NM, is the Flamenco Capitol of the United States. Immerse yourself in this deep, culturally significant art form **every Friday &amp; Saturday night, and Sunday afternoon** at Hotel Albuquerque. Through a unique partnership based on cultural preservation, Heritage Hotels and Resorts and the nonprofit National Institute of Flamenco have joined efforts to create Tablao Flamenco Albuquerque. The passion and energy of flamenco come alive as you experience flamenco in its most intimate, powerful setting in the heart of historic Old Town Albuquerque. Featuring a world-class line-up of artists, the Tablao Flamenco presents a dynamic schedule of performances, featuring premier artists from Spain and the United States. Tablao Flamenco delivers an unforgettable experience for the senses. Friday and Saturday dinner shows feature electrifying performances accompanied by an exclusive meal created by Hotel Albuquerque's Chef Richard Padilla **(**[**tickets**](https://holdmyticket.com/event/405401)**)**
+
+**Fri 7 PM |** [**Hip Hop Night**](https://fb.me/e/196qQKmMv) | La Luna Eatery, 7600 Jefferson St. NE | Come out and enjoy a night full of good music, good food, and good vibes! Tickets $5 at the door. 21+ events. Performances by: JDOT, CIRYUS, SYLENCER666, DYNKOS, MATT $NOW, &amp; LAST BUT NOT LEAST, JUDAH MEREZ. We'd love to see y'all come thru and show some love and support! Drinks and food will be available
+
+**Fri 7 PM |** [**Comedy Night**](https://fb.me/e/YqK2gwrn) | Boxing Bear Firestone, 8420 Firestone Ln. | Tyler Ross ""Prepares for His Album Recording"" Comedy Tour Featuring Comedians: Tamale Sepp and Dylan Scott. T﻿yler's silly and playful style of comedy has entertained audiences throughout the US and Canada. Over the past year, he has made appearances at the Stand U.P. Comedy Fest, Fountain City Comedy Fest, LaughFest, Tower City Comedy Festival and Cleveland Comedy Festival. Tyler is currently on the road, working out his album, which he is recording in May! [**Tickets**](https://www.eventbrite.com/e/comedy-night-boxing-bear-brewing-co-firestone-taproom-tickets-558099278967) online are $10/15 at the door
+
+**Fri 7 - 10 PM |** [**Totally Awesome 80's Dance Party**](https://fb.me/e/14DdcAsG7) | Holiday Dance Studio, 5200 Eubank Blvd. NE, Ste D | Totally enjoy our radical 80’s Dance Party! Break out the hair mousse and Aqua Net and get your hair ready for all business in the front and party in the back! All 80’s music will be played – all your favorites and one hit wonders. 7PM Night club two-step, 8-10PM open dancing. $30 for non-members; light refreshments will be served
+
+**Fri 7 - 11 PM |** [**Beepers and Trapper Keepers**](https://fb.me/e/4t495h5yW) | Sister, 407 Central Ave NW | Come and enjoy a night of 90sx00s Hip-Hop and RnB. Vibes curated by one of Albuquerque's best DJs - DJ BigHap(py) and hosted by Stef Darnell - ABQ's premiere comedian. Come by and wish Stef Darnell a Happy Birthday, as we celebrate his most recent trek around the sun
+
+**Fri 7:30 - 9 PM |** [**Comedy! Jono Zalay!**](https://fb.me/e/SQImhGiE) | Dry Heat Comedy Club, 521 Central Ave NW, Ste G | Don't miss this weekend's killer headliner! Come getcher laughs! Y﻿ou're gonna wanna snag your [**tickets**](https://www.eventbrite.com/e/comedy-jono-zalay-tickets-596921096067) quick: This show will sell out. C﻿ome out to Albuquerque's only dedicated stand-up comedy club or a night filled with laughter and good vibes as we welcome Jono Zalay, as seen on The Late Late Show with James Corden! Joining Jono is a lineup of some of the best local talent too. Plus! Your host, Tyler Lovely. To make the night even better, we've partnered with Red Door Brewing downtown! Show your Eventbrite ticket before or after the show to receive an exclusive discount on your drinks. Unwind and share some laughs with friends over drinks at Red Door Brewing. Jono Zalay began his standup career in Boston, while simultaneously earning his Doctorate in Neuroscience (he gave cocaine to rats). Since dropping his science hobby to pursue comedy full time, Jono has performed on The Late Late Show, been named one of Comedy Central’s ‘Comics to Watch,’ and earned international press for his pranks on the DMV. Jono now lives in Los Angeles where he has written on TV shows airing on ABC/Hulu, Amazon, &amp; CNN **(this is also on Sat 4/1)**
+
+**Fri 8 - 10 PM |** [**Magic &amp; Comedy Night**](https://fb.me/e/L6OVRY9U) | Tractor Brewing - Wells Park, 1800 4th St. NW | Dave Grimm is New Mexico's favorite bearded, balded, fake shaman-man! The night will feature his interactive close-up bar magic and a stage show where he will make you think he can read your mind (can he?). Joining Dave will be two of Albuquerque's top comedians: Caleb Mulkey and Bryan Andrew Lambe! This is a show you don't want to miss!
+
+**Fri 8 - 11 PM |** [**DJ Wae Fonkey**](https://fb.me/e/y37egcLQ) | Tractor Brewing Company, 118 Tulane Dr. SE | The Master of the turntables is back on the Hill to get you up and dancing! Come dance, chill, drink, and vibe on a Saturday night with us!
+
+**Fri 9 PM - 1 AM |** [**Dream Merchants Band**](https://fb.me/e/Tzu3rNHT) | Sandia Resort &amp; Casino, 30 Rainbow Rd. NE | Come hear live Blues, Soul, R&amp;B, Motown , Pop, Old School and little bit of country music in an awesome environment
+
+**Fri 9 PM - 2 AM |** [**House Proud**](https://fb.me/e/N6mNDQxu) | Historic El Rey Theater, 622 Central Ave SW | We are back at it again and the El REy Mezz, join us for this next edition of House Proud! Always local selectors &amp; local vendors, $5 COVER! Swift Money, The Rev, Vettaluv, Insomniak. Vendors: Sassy Diosa, Kikki's Chachki's and Fuzzies, MzKats Kreations, Ernest and Michela's Handmade Jewelry
+
+**Fri 10:30 PM |** [**New Mexico Entertainment Movie Night: Clueless**](https://fb.me/e/4cMDBx6IE) | Guild Cinema, 3405 Central Ave NE | Early bird ticket purchasers have the chance to win door prizes from local businesses and organizations around town. STORYLINE: Shallow, rich, and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other. Emboldened by her success, she decides to give the hopelessly klutzy new student, Tai, a makeover. When Tai becomes more popular than she is, Cher realizes that her disapproving ex-stepbrother was right about how misguided she was -- and falls for him (Rotten Tomatoes) NME MOVIE NIGHT IS A LIMITED-SEAT EVENT. It is STRONGLY ENCOURAGED that you arrive NO LATER THAN 20 MINUTES BEFORE THE SHOW to choose your seats and have time to grab something at concessions. TICKETS ARE NON-REFUNDABLE. Please bring your [Hold My Ticket](https://holdmyticket.com/event/402736) confirmation with your current state ID and check in at the Guild Box Office NO LATER THAN 20 MINUTES BEFORE THE SHOW. If you do not have your receipt, please make sure you have your ID. We will have a list at the box office. If we have a sold-out performance or event, tickets will be released for resale to our standby list if you have not checked TEN MINUTES AFTER THE SHOW STARTS. Thank you for your punctuality!
+
+**\*\* Sat 4/1 \*\***
+
+**Sat 7 AM |** [**Yoga in the Park**](https://fb.me/e/10uVs5kmV) | Cabezon Park, **Rio Rancho** | Come join Courtney Encinias for yoga in the park. Please bring your yoga mat and some water. Clear your mind and relax with light stretches and great company. See you all there!
+
+**Sat 9 AM |** [**Opening Day Sunset Little League**](https://fb.me/e/19zcWLB8P) | Rio Rancho Sports Complex,  | We are excited for our annual opening day! Join us for fun, games, food, raffles, face painting, meeting our All Star teams and see our 52 teams! Local vendors will be there to help support our league and community.
+
+**Sat 9:30 AM - 12 PM |** [**Art Attack Story Time Followed by Puppy Adoption Event**](https://fb.me/e/2H5I5necp) | |Amanda from Art Attack will be reading the book ""If You Give a Dog a Donut"" by Laura Numeroff and painters will create this adorable Bowser the Bulldog Tank. Story time: 0930-1030. Adoption event: 1030-12pm. $30 per painting/$5 donated to PLR! Please call Art Attack for tickets 505-298-3275
+
+**Sat 10 AM - 12 PM |** [**STEM Adventures**](https://fb.me/e/2zuv6XGgR) | Kiddie Academy of Paradise Hills, 4590 Paradise Blvd. NW | Join us for STEM Adventures! You and your children can participate in activities that show how we make learning about Science, Technology, Engineering and Math fun, relevant and exciting! This event is FREE and open to everyone, so bring a friend or two and explore the world of STEM with us!
+
+**Sat 10 AM - 3 PM |** [**Visionary Arts and Crafts Guild Spring Show**](https://fb.me/e/2K5gLz4Am) | Rio Rancho Regional Chamber of Commerce (South Corner of Target), 4201 Crestview Dr. SE, **Rio Rancho** | Looking for that unique handmade gift for Mother’s Day or Graduation? Have a birthday or anniversary coming up? Shop “made in New Mexico” local juried artists. FREE entry
+
+**Sat 11 AM - 2 PM |** [**Brunch Amilonga - Tango**](https://fb.me/e/2upomHvgN) | M'tucci's Bar Roma, | Don't be fooled by the date - this is no prank! Amilonga is back and we are bringing you the real deal at M'tucci Bar Roma with a tango brunch buffet. DJ Michelle will be playing some seriously amazing tunes, and we'll have delicious food to keep you fueled up. [**Tickets**](https://www.opentable.com/booking/experiences-availability): $27 (before tax and tips) per person includes brunch buffet and dance. Seating will be handled on first come first serve basis. Get ready to dance, laugh, and have a blast and let's make this April Fool's Day one to remember!
+
+**Sat 12 - 2 PM |** [**2023 Easter Event**](https://fb.me/e/2jPtwGoe7) | Rio Grande Park, 1744 Kit Carson Ave SW | Hosted by Ken Brudos State Farm. Join us for our Annual Easter Event! We will be doing a Easter egg hunt. There will be games, food, face painting and prizes! Come out and have some fun!
+
+**Sat 12 - 4 PM |** [**Rayos Del Sol Egg Hunt &amp; Mercado**](https://fb.me/e/EoKZOGXD) | Rayos Del Sol Mercado, 6780 4th St. NW | Shop with over 30 local artisan and food vendors. Enjoy music from DJ NB. Egg hunt will be happening for the duration of the Mercado, so be sure to bring a basket!
+
+**Sat 12 - 5 PM |** [**Bunny Ears &amp; Wet Noses Easter Pet Photos**](https://fb.me/e/9GlKqtRQ5) | Boofy's Best for Pets, 8201 Golf Course Rd. NW, Ste C2 | Put on your best Easter attire and join us at our Golf Course store for Easter photos with your pet! All well-behaved critters and humans are welcome to participate. $10 per photo suggested donation benefits the 120+ foster cats and kittens being helped by FAT KATZ
+
+**Sat 7 PM |** [**The Deal - Grateful Dead Tribute Band**](https://fb.me/e/2jImnwlG1) | Historic Lobo Theater, 3013 Central Ave NE | Please join the Lobo Theater in Uniting Our Community To Celebrate The Grateful Dead Experience. Doors 6 PM, show 7 PM • 21+ **(**[**tickets**](https://tickets.holdmyticket.com/tickets/410844)**)**
+
+**Sat 7 - 10 PM |** [**Old Town Swing**](https://fb.me/e/7nhPPv3OB) | Orpheum Community Hub, 500 2nd St. SW | Join Old Town Swing at the Orpheum for a swing dance social from 8-10pm or stop in at 7pm first for a basic swing dance lesson. $5 donation suggested
+
+**Sat 7 - 11 PM |** [**Hell**](https://fb.me/e/3BvtHmGr8) | Sister, 407 Central Ave NW | HELL and Glasghote make the pilgrimage from the pacific northwest to deliver a hellscape of brutal doom metal. Hell is an American doom metal solo project formed in 2008 by M.S.W., a multi-instrumentalist from Salem, Oregon. Hell began as a creative outlet for M.S.W., but it eventually gained momentum and grew to include a touring band. According to M.S.W., the project disregards typical religious themes and instead focuses on the concept of a ""personal Hell."" Glasghote began in 2017 in the basement of founding members Jake Shaffer and Jordan Huston's home writing what was the beginning of their first full length album. With only a few songs and a handful of riffs Chad Johnson shortly joined, forming the trio to create bone shattering tones and a wall of sound in tow. In one short year, Glasghote signed to Doom Stew Records and released ""Rite of the Siren"" **(**[**tickets**](https://www.eventbrite.com/e/hell-tickets-520804800177)**)**
+
+**Sat 7:30 - 9 PM |** [**Comedy! Jono Zalay!**](https://fb.me/e/49pZEQ57Q) | Dry Heat Comedy Club, 521 Central Ave NW, Ste G | Don't miss this weekend's killer headliner! Come getcher laughs! Y﻿ou're gonna wanna snag your [**tickets**](https://www.eventbrite.com/e/comedy-jono-zalay-tickets-596921096067) quick: This show will sell out. C﻿ome out to Albuquerque's only dedicated stand-up comedy club or a night filled with laughter and good vibes as we welcome Jono Zalay, as seen on The Late Late Show with James Corden! Joining Jono is a lineup of some of the best local talent too. Plus! Your host, Tyler Lovely. To make the night even better, we've partnered with Red Door Brewing downtown! Show your Eventbrite ticket before or after the show to receive an exclusive discount on your drinks. Unwind and share some laughs with friends over drinks at Red Door Brewing. Jono Zalay began his standup career in Boston, while simultaneously earning his Doctorate in Neuroscience (he gave cocaine to rats). Since dropping his science hobby to pursue comedy full time, Jono has performed on The Late Late Show, been named one of Comedy Central’s ‘Comics to Watch,’ and earned international press for his pranks on the DMV. Jono now lives in Los Angeles where he has written on TV shows airing on ABC/Hulu, Amazon, &amp; CNN **(this is also on Fri 3/31)**
+
+**Sat 7:30 - 10:30 PM |** [**West Coast Swing Social Dance**](https://fb.me/e/3nxbEBAJ2) | CSP Dance Studios, 1624 Eubank Blvd. NE | Come out and dance at our first Saturday West Coast Swing Social Dance. It’s a perfect time to practice the new moves you learned at our workshops and dance the night away. We will have a variety of West Coast Swing music along with some Country Two Step and Nightclub Two Step. No partner necessary. Just $5 for SSNM members or $8 for Guests (non-members). Cash only please. For questions or to sign up for membership you can reach us at [strictlyswingnm@gmail.com](mailto:strictlyswingnm@gmail.com)
+
+**Sat 8 PM |** [**The Doo Wop Project**](https://fb.me/e/3oAw3LjTj) | Popejoy Hall, 203 Cornell Dr. NE | Popejoy-favorite, The Doo Wop Project, traces the evolution of doo-wop from groups singing on street corners to the biggest hits on radio today. The project recreates the style and sound of doo-wop with music from early doo-wop acts and popular names including The Temptations, The Four Seasons, Michael Jackson, and more. Featuring Broadway stars from Jersey Boys and Motown: The Musical, The Doo Wop Project performs the greatest pop and rock music in American history **(**[**tickets**](https://www.popejoypresents.com/events/detail/the-doo-wop-project)**)**
+
+**Sat 8 - 10 PM |** [**Hello Darlin'**](https://fb.me/e/2L1cH6uXl) | Tractor Brewing - Wells Park, 1800 4th St. NW | Hello Darlin’ is a 3 piece Albuquerque band playing mostly original Americana music. The band features songwriter Bernie King on vocals and guitar, Julie King plays accordion and washboard and Carl Petersen rounds out the trio on bass. Their shows are a delicious musical stew served up with a mix of blues, bluegrass, folk, rock, and the kitchen sink
+
+**\*\* Sun 4/2 \*\***
+
+**Sun 9 AM |** [**Rabbit Run**](https://fb.me/e/3visHJJ5z) | Los Poblanos Open Space, 5601 Tierra Viva Pl. NW | Fun event for everyone! Open 5k and free egg hunt. Great apparel and medals for every participant of the 5k. Come and enjoy this event on a Sunday. [**Register here**](https://runsignup.com/Race/NM/Albuquerque/Rabbit5kRun)
+
+**Sun 10 AM - 12 PM |** [**Roller Derby Recruitment!**](https://fb.me/e/4syLeS0Om) | Wells Park Community Center, 500 Mountain Rd. NW | Come learn roller derby! No experience needed, all skill levels welcome! No skates, no problem, we’ll also have loaner gear to borrow! Open to all gender identities, body types, and fitness levels!
+
+**Sun 10 AM - 5 PM |** [**New Mexico Record Show**](https://fb.me/e/M10ZFTck) | Historic El Rey Theater, 622 Central Ave | This is New Mexico’s only large record show! We have dealers coming in from five different states tens of thousands of records, CDs, posters, cassettes, and so much more. It’s going to be held at the historic El Rey theater, which has a full bar and admission is free! We’ll see you there!
+
+**Sun 11 AM - 4 PM |** [**Free Car Show BBQ and Food Drive**](https://fb.me/e/CiDKwrF5) | Randy's Barber Shop, 1439 Wyoming NE | Are you ready for a blast from the past? Randy's Old Fashioned Barber Shop is celebrating their 50th anniversary in style with a free classic car show and barbecue. Join us for a day of nostalgia, delicious food, and good old-fashioned fun. See some of the most beautiful classic cars from yesteryear and enjoy a mouth-watering barbecue. But that's not all! We're also holding a food drive to give back to our community. Bring a non-perishable food item for free barbeque and help us make a difference in the lives of those in need. So mark your calendars and come on down to Randy's for a day of fun, food, free concert tickets giveaway, and giving back
+
+**Sun 11 AM - 5 PM |** [**Easter Pop Up/Mini Flea Market**](https://fb.me/e/11M677far) | 2520 Jefferson St. NE | Sunday funday at a pop up/mini flea market with small vendors, electric bull, food, drinks, and so much more! Come join us! Domingo de familia en un Pop Up/Mini flea market de negocios pequeños, toro mecánico, comida, bebidas, y mucho mas. Acompáñenos
+
+**Sun 12 - 4 PM |** [**First Sunday Stroll**](https://fb.me/e/6GlWvoB17) | Tractor Brewing Company, 118 Tulane Dr. SE | Come support local business while discovering all that Nob Hill has to offer. First Sunday Stroll in Nob Hill is a variety of pop up vendors, specials, workshops, and walkability. Explore Tractor Nob Hill where we'll be featuring three local venders: II Gemini Crafts, and Fizzy Bee Beauty. Vegan Vato will be serving up eats at one. Come get a Bloody Mary and stroll around!
+
+**Sun 1 - 3 PM |** [**Beer, Tacos, and Brewing 101**](https://fb.me/e/PIU62ndf) | 3421 Coors Blvd. NW | Learn the basics of brewing your own beer while enjoying some great Sobremesa tacos and beer! 2 tacos, a beer, and the class for only $30! Like Tacos? Like Beer? Always wanted to learn how to brew beer? Don’t know where to start? This is the class for you! Sobremesa Restaurant and Brewery and Southwest Grape and Grain Homebrew Supply have teamed up to offer this great class. We'll teach you the basic brewing terminology, the ingredients that make up beer, all the equipment you will need to get started, and the step by step of how to brew your first batch of beer! Brewing is fun and shouldn't be overwhelming. This class will answer all your questions and start you on the path to being a master home brewer! And you get to enjoy Sobremesa tacos and beer while you learn! **(**[**tickets $30**](https://www.eventbrite.com/e/beer-tacos-and-brewing-101-tickets-524156906417)**)**
+
+**Sun 5 - 8 PM |** [**Bingo Night**](https://fb.me/e/G4pYugLV) | Boxing Bear Tramway, | All proceeds for bingo go directly to It's a Pawsitive Life Rescue. In addition, Boxing Bear donates a dollar of every pint purchased during the event to the rescue. Test your luck with 5 rounds of bingo! $25 gets into all 5 rounds. Prizes are awarded after every round. Purchase bingo cards when the event starts or [**pre-purchase online**](https://www.eventbrite.com/e/bingo-to-benefit-pawsitive-life-rescue-tickets-594198783557)",active,22
+126rs1n,12,2023-03-30,Fine-tune a LLaMA into a history wiz by feeding him history books,u/Ok-Access-7091,LocalLLaMA,https://www.reddit.com/r/LocalLLaMA/comments/126rs1n/finetune_a_llama_into_a_history_wiz_by_feeding/,"Hi all,
+
+I am a student with no particular skills in AI. For a school project, I would like to train a LLaMA model to turn it into a history wiz. I recently discovered about PEFT and found a few github repos that seem to obtain amazing results using this technique to teach a (human) language to llama.
+
+Basically, what I need is to find a way to feed some books to my llama.
+
+I found this article: [https://replicate.com/blog/fine-tune-llama-to-speak-like-homer-simpson](https://replicate.com/blog/fine-tune-llama-to-speak-like-homer-simpson) and from how I get they made it work, I need to sequentiate my book into small bits of data (?) but I do not get how to do this.  
+Do you think PEFT is the appropriate method to achieve my goal ?
+
+If yes, could you please help me to do this with books (or provide me with some resources) ?If no, what other methods would you suggest ?
+
+Thank you very much",active,19

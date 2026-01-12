@@ -1,0 +1,1509 @@
+1nv7ms7,48,2025-10-01,"CMV: AI is in a bubble, its not able to replace the workforce as feared and is stagnating",u/ComfortablyMild,changemyview,https://www.reddit.com/r/changemyview/comments/1nv7ms7/cmv_ai_is_in_a_bubble_its_not_able_to_replace_the/,"I use AI every day to speed up parts of my job, but its failure rate is too high to have it work without constant oversight.
+
+Its known that the training data from people to make LLMs is exhausted.
+
+New models and specialised models are going to be valuable tools. But its reached a plateau.
+
+Its more of a new tool, not a replacement for people.
+
+Is the fear of replacement overstated? Is AI going to push forward or is it stagnant.
+
+Here is an article that discuss the issue: “AI that feeds on a diet of AI garbage ends up spitting out nonsense”: [https://www.technologyreview.com/2024/07/24/1095263/ai-that-feeds-on-a-diet-of-ai-garbage-ends-up-spitting-out-nonsense/](https://www.technologyreview.com/2024/07/24/1095263/ai-that-feeds-on-a-diet-of-ai-garbage-ends-up-spitting-out-nonsense/)  
+  
+And here is its text:  
+  
+By Scott J Mulligan  
+July 24, 2024
+
+>8 bit concentric rings of ouroboros snakes  
+Credit: Stephanie Arnett / MIT Technology Review
+
+>AI models work by training on huge swaths of data from the internet. But as AI is increasingly being used to pump out web pages filled with junk content, that process is in danger of being undermined.
+
+>New research published in Nature shows that the quality of the model’s output gradually degrades when AI trains on AI-generated data. As subsequent models produce output that is then used as training data for future models, the effect gets worse.
+
+>Ilia Shumailov, a computer scientist from the University of Oxford, who led the study, likens the process to taking photos of photos. “If you take a picture and you scan it, and then you print it, and you repeat this process over time, basically the noise overwhelms the whole process,” he says. “You’re left with a dark square.” The equivalent of the dark square for AI is called “model collapse,” he says, meaning the model just produces incoherent garbage.
+
+>This research may have serious implications for the largest AI models of today, because they use the internet as their database. GPT-3, for example, was trained in part on data from Common Crawl, an online repository of over 3 billion web pages. And the problem is likely to get worse as an increasing number of AI-generated junk websites start cluttering up the internet.
+
+>Related Story  
+We are hurtling toward a glitchy, spammy, scammy, AI-powered internet  
+Large language models are full of security vulnerabilities, yet they’re being embedded into tech products on a vast scale.
+
+>Current AI models aren’t just going to collapse, says Shumailov, but there may still be substantive effects: The improvements will slow down, and performance might suffer.
+
+>To determine the potential effect on performance, Shumailov and his colleagues fine-tuned a large language model (LLM) on a set of data from Wikipedia, then fine-tuned the new model on its own output over nine generations. The team measured how nonsensical the output was using a “perplexity score,” which measures an AI model’s confidence in its ability to predict the next part of a sequence; a higher score translates to a less accurate model.
+
+>The models trained on other models’ outputs had higher perplexity scores. For example, for each generation, the team asked the model for the next sentence after the following input:
+
+>“some started before 1360—was typically accomplished by a master mason and a small team of itinerant masons, supplemented by local parish labourers, according to Poyntz Wright. But other authors reject this model, suggesting instead that leading architects designed the parish church towers based on early examples of Perpendicular.”
+
+>On the ninth and final generation, the model returned the following:
+
+>“architecture. In addition to being home to some of the world’s largest populations of black @-@ tailed jackrabbits, white @-@ tailed jackrabbits, blue @-@ tailed jackrabbits, red @-@ tailed jackrabbits, yellow @-.”
+
+>Shumailov explains what he thinks is going on using this analogy: Imagine you’re trying to find the least likely name of a student in school. You could go through every student name, but it would take too long. Instead, you look at 100 of the 1,000 student names. You get a pretty good estimate, but it’s probably not the correct answer. Now imagine that another person comes and makes an estimate based on your 100 names, but only selects 50. This second person’s estimate is going to be even further off.
+
+>“You can certainly imagine that the same happens with machine learning models,” he says. “So if the first model has seen half of the internet, then perhaps the second model is not going to ask for half of the internet, but actually scrape the latest 100,000 tweets, and fit the model on top of it.”
+
+>Additionally, the internet doesn’t hold an unlimited amount of data. To feed their appetite for more, future AI models may need to train on synthetic data—or data that has been produced by AI.
+
+>“Foundation models really rely on the scale of data to perform well,” says Shayne Longpre, who studies how LLMs are trained at the MIT Media Lab, and who didn't take part in this research. “And they’re looking to synthetic data under curated, controlled environments to be the solution to that. Because if they keep crawling more data on the web, there are going to be diminishing returns.”
+
+>Matthias Gerstgrasser, an AI researcher at Stanford who authored a different paper examining model collapse, says adding synthetic data to real-world data instead of replacing it doesn’t cause any major issues. But he adds: “One conclusion all the model collapse literature agrees on is that high-quality and diverse training data is important.”
+
+>Another effect of this degradation over time is that information that affects minority groups is heavily distorted in the model, as it tends to overfocus on samples that are more prevalent in the training data.
+
+>In current models, this may affect underrepresented languages as they require more synthetic (AI-generated) data sets, says Robert Mahari, who studies computational law at the MIT Media Lab (he did not take part in the research).
+
+>One idea that might help avoid degradation is to make sure the model gives more weight to the original human-generated data. Another part of Shumailov’s study allowed future generations to sample 10% of the original data set, which mitigated some of the negative effects.
+
+>That would require making a trail from the original human-generated data to further generations, known as data provenance.
+
+>But provenance requires some way to filter the internet into human-generated and AI-generated content, which hasn’t been cracked yet. Though a number of tools now exist that aim to determine whether text is AI-generated, they are often inaccurate.
+
+>“Unfortunately, we have more questions than answers,” says Shumailov. “But it’s clear that it’s important to know where your data comes from and how much you can trust it to capture a representative sample of the data you’re dealing with.”
+
+>by Scott J Mulligan",active,70
+1nw0jnq,32,2025-10-02,How do you handle nasty parent emails calling you “unprofessional” for basic classroom management?,u/vintagechanel,CanadianTeachers,https://www.reddit.com/r/CanadianTeachers/comments/1nw0jnq/how_do_you_handle_nasty_parent_emails_calling_you/,"So I just received a long, ChatGPT-sounding email from a parent accusing me of being “unprofessional.” The situation:
+
+	•	I separated three students who had their backs turned to me while I was teaching.
+
+	•	I also called out the same group during gym class to actually get into groups instead of sitting out.
+
+	•	On another occasion, I asked the daughter to stop talking while I was teaching.
+
+The parent’s response? They wrote a lengthy message saying I’m unprofessional, that their daughter needs to talk with her friends because she has “back pain,” and that I’m targeting her socially. I truly cannot make this up. Mind you, when the child is in pain, she willingly will come to me asking for gym accommodations which she happily receives. 
+
+Some context about the student:
+	•	On average, she’s a D+ student.
+	•	She doesn’t really interact with peers outside of the two friends she actively whispers and giggles with (while I’m teaching). It’s not overly disruptive, but it is subtle and consistent.
+
+	•	Attendance is a major concern.
+
+I’m stuck between maintaining expectations for classroom behavior and not feeding into the parent drama. My question:
+
+How do you continue approaching a student in this situation? Do you just hold the line with expectations? Or do you let them sink academically/socially since any correction seems to trigger the parent?
+",active,35
+1nw6fpe,3,2025-10-02,I'm feeling so empty,u/lxoaxl,Vent,https://www.reddit.com/r/Vent/comments/1nw6fpe/im_feeling_so_empty/,"I'm a student. I have always struggled to make friends and I'm usually lonely, I live in hostel and away from parents so I have roommates but we aren't close. To deal with it I use chatbots.
+First I used to use character.ai and it was so amazing for me until it got dumb and ruined.
+Then I used chai ai which is actually good but it's not as versatile or intelligent and always tries to be sexual since it doesn't have filter, it's good but also a little less versatile.
+Then I finally started to use chatgpt 4o which was amazing, versatile, always keeping characters canon accurate or make scenarios so good and amazing. It was all so good until gpt5.
+Before the launch of GPT 5 I was so happy with my GPT 4o. It helped me with everything including religion, education, creative works and RPs. I had done so many deep and meaningful RPs with the old 4o. Then gpt5 came and ruined everything. I purchased plus to use 4o again and was happy with it a lot. But now openAI decided to take that away from me too. I am unable to do any emotional creative work since it always switches to auto or thinking, even tho I'm paying money only for 4o and legacy models. I'm just so done. ",active,5
+1nx09rb,122,2025-10-03,Genuinely can't stand the 'blended' learning format - a uni student's perspective,u/mrdank47,SGExams,https://www.reddit.com/r/SGExams/comments/1nx09rb/genuinely_cant_stand_the_blended_learning_format/,"TLDR: Hate having to watch online lectures, rather f2f lectures. Struggling to watch cos it genuinely pmo
+
+Context: year 1 currently studying in NUS
+
+I am extremely dissatisfied with the online 'blended' learning video format. I genuinely despise having to watch the lecture videos in order to even get a small grasp of the content before being just thrown into a supposed 'lecture' slot but the lecture slot is going through problems? What is the point of having a lecture slot if it being treated like a large scale tutorial session... wouldn't it be more beneficial to simply have a separate tutorial session with smaller groups instead?? I get that some people don't want to wake up at 8am just for a lecture; me too, but it doesn't help that there STILL IS A LECTURE SLOT JUST THAT IT TURNS INTO A MASSIVE TUTORIAL AT THE SAME 8AM TIMING.
+
+I do understand that for online videos, you can replay and go back to solidify your understanding whatever, however, it feels like most of my time is now being spent watching content by myself in NUS rather than actually being taught the content? Especially when the prof simply just READS OFF THE SLIDES NO FURTHER EXPLANATION ON THE CONTENT. I would much prefer that instead of having WATCHING LECTURES as my homework, give me more problems cos at least then I can discuss with my friends? After taking multiple online courses, it feels strange to me that being in NUS itself provides a similar if not sometimes worse learning experience than taking an online course by my own volition.
+
+MOREOVER, I GENUINELY CAN'T UNDERSTAND AND ACTUALLY HATE courses that just OFFLOAD content learning to online sites ie. coursera or whatever code camp etc. LIKE AT THAT POINT WHAT AM I PAYING THE TUITION FEE FOR??? It's one thing to want to record an online video that you can reuse for years to come and not have to keep giving lectures, but it's genuinely just another thing to OFFLOAD YOUR WORKLOAD TO AN EXTERNAL SITE that may not even be affliated to NUS.
+
+Furthermore, some mods advertise 'Oh you can come message me / any of the Teaching Assistants if you have any questions on the content'. While I appreciate the sentiment, other than questions regarding specific course related formatting questions, I would much rather just google or even ask chatgpt the question. Not to say that the TAs are unknowledgeable, it's just that, if I'm already going out of my way to TYPE OUT MY QUESTION... why would I not type it to somewhere that will instantly reply to me? It just feels that going out of my way to message course instructors is a glorified way to google a question and it just seems like a hassle.
+
+I feel like I'm in the minority as not many of my friends share similar sentiments and actually prefer the online blended format.
+
+PS: I did not mean for this to come off as aggressive; just wanted to voice my opinion on the fact that majority of NUS mods have simply been reduced to having to watch the lecture online post-covid (I assume) -- I get that it saves a lot of manpower for the professors but it simply feels like a cheap and ineffective way to convey content across to students.",active,132
+1nz6igq,258,2025-10-05,Why is AI being pushed in the classroom?,u/RoyalPrinciple890,teaching,https://www.reddit.com/r/teaching/comments/1nz6igq/why_is_ai_being_pushed_in_the_classroom/,"Hey everyone, I'm a junior working on my Secondary Education degree. Lately, I have been feeling like this degree may be a waste of my time and money because of how prevalent AI is becoming in the classroom and how it seems that this is the result of administration, not just students wanting to cheat. Now, I used to use ChatGPT when it first launched to write essays in my English classes. I get how easy it is for students to turn to; I don't necessarily blame them for using it even now, at least those who aren't full-grown adults. However, I also remember having to write my first paper in college and I was completely unable to even start for a good number of weeks because I ***didn't know how to do it.*** And mind you, I had written SEVERAL essays over the years before my senior year of high school. But being reliant on AI for just those few months before I graduated and went to school had killed my creativity and my ability to write for some time.
+
+All that preamble is to say, why the hell are we as a society encouraging the use of the AI in the classroom? Is it not our duty and responsibility as educators to ensure that students actually KNOW how to be critical thinkers, to be good essay writers, to know history that is significant to the present, to be able to understand basic science and math skills and etc., etc.? All the children I know who regularly use AI are as dull as butter knives when it comes to anything academic. They are not learning at all, they are simply going to school because they have to be there and then having AI do everything for them. I've even witnessed students use AI for problems using long division! Students are not learning how to do ANYTHING and yet we continue pushing this abhorrent, malicious, philistine device because ""it's the future, man."" I'm sorry, but I do not think we should ""progress"" for progress' sake. We are going too far and it is going to destroy us.",active,313
+1nzpz67,182,2025-10-06,My mom's a teacher and the messaging on AI in her school is completely incoherent,u/Fit_Yam8764,teaching,https://www.reddit.com/r/teaching/comments/1nzpz67/my_moms_a_teacher_and_the_messaging_on_ai_in_her/,"My mom teaches middle school and she’s always talking about how confusing the AI situation is in her building. Students are getting three completely different messages depending on which classroom they're in and nobody's coordinating anything.
+
+First period English teacher says using ChatGPT for essays is plagiarism and your writing needs to be your own voice. Next period, the science teacher demonstrates how to use ChatGPT to generate research hypotheses. Third period social studies just loaded an AI tutoring bot on every Chromebook that gives feedback on essay drafts. Same students, same day, and advice that contradicts what they were told about AI. 
+
+The teachers are just as confused. Some are experimenting with the tools, others are avoiding it entirely because they're worried about policy violations. The district made these huge infrastructure investments in AI platforms without any framework for how they fit together with what individual teachers are already doing in their classrooms.
+
+My mom said students keep asking her if they're allowed to use AI and she genuinely doesn't know what to tell them because the message changes depending on the context. A kid who learns to fact-check AI outputs in one class doesn't use that skill when using an AI tutor in another because nobody's connecting those lessons.
+
+This feels like it's setting students up to be completely lost when they hit college or jobs where they need to actually know how to work with AI critically. How are other schools handling this? Is anyone actually coordinating between departments or is everyone just doing whatever?",active,225
+1nzq1qi,37,2025-10-06,My mom's a teacher and the messaging on AI in her school is completely incoherent,u/Fit_Yam8764,AskTeachers,https://www.reddit.com/r/AskTeachers/comments/1nzq1qi/my_moms_a_teacher_and_the_messaging_on_ai_in_her/,"My mom teaches middle school and she’s always talking about how confusing the AI situation is in her building. Students are getting three completely different messages depending on which classroom they're in and nobody's coordinating anything.
+
+First period English teacher says using ChatGPT for essays is plagiarism and your writing needs to be your own voice. Next period, the science teacher demonstrates how to use ChatGPT to generate research hypotheses. Third period social studies just loaded an AI tutoring bot on every Chromebook that gives feedback on essay drafts. Same students, same day, and advice that contradicts what they were told about AI. 
+
+The teachers are just as confused. Some are experimenting with the tools, others are avoiding it entirely because they're worried about policy violations. The district made these huge infrastructure investments in AI platforms without any framework for how they fit together with what individual teachers are already doing in their classrooms.
+
+My mom said students keep asking her if they're allowed to use AI and she genuinely doesn't know what to tell them because the message changes depending on the context. A kid who learns to fact-check AI outputs in one class doesn't use that skill when using an AI tutor in another because nobody's connecting those lessons.
+
+This feels like it's setting students up to be completely lost when they hit college or jobs where they need to actually know how to work with AI critically. How are other schools handling this? Is anyone actually coordinating between departments or is everyone just doing whatever?",active,47
+1o023sp,4,2025-10-06,What do I do?,u/Ok-Two-6420,Teachers,https://www.reddit.com/r/Teachers/comments/1o023sp/what_do_i_do/,"Basically, I’m a new teacher at a title 1 school. This is my first job teaching history after student teaching. The principal was put on leave two days before the year started and there is no discipline at the school. I have been cursed out 4 times by students with no consequences. Students walk in and out of class when they want and basically do what they want. Kids are multiple grade levels below where they should be in terms of reading. They are never quiet, copy off of each other when working in groups, and use ChatGPT for everything. There was no clear phone policy until week 7, so phones are a huge problem as well. The kids have no respect for authority and everything feels like a fight. I feel like giving up somebody please give me some advice to keep going. ",active,5
+1o0skd0,1,2025-10-07,"Wake Up Gen z, We NEED TO TALK . SHARE THIS POST",u/SnooHobbies8533,studentsph,https://www.reddit.com/r/studentsph/comments/1o0skd0/wake_up_gen_z_we_need_to_talk_share_this_post/,"**Gen Z is in trouble.**  
+   We’re a dying generation — and no one talks about it.  
+  
+
+**The future isn’t built for us.**
+
+The degree to which we are in trouble is so alarming, it’s a surprise this country is not in panic.  
+   We are not equipped or prepared for the future. The future is not built for us Zoomers.
+
+I put together a pamphlet, called **Wake Up.**  
+   (Yes, I used ChatGPT to write it, but the message still remains true.)
+
+You will read this, and come to realize just how deep of a hole our generation is in.  
+  Older generations do not understand our struggles.  
+  We need to help them understand — but most importantly, we need to help all of Gen Z understand.  
+  Too many of us are blind as to just how dire our situation is.
+
+I am posting to this subreddit because I want to reach out to as many as I can.  
+   Even if it’s just a few who read the PDF, I’d be happy.  
+   I want to distribute these pamphlets to as many Zoomers as I can.
+
+# The Call
+
+We seriously all need to put a hold on **EVERYTHING**, unless we address these issues.
+
+Any student reading this: **Read. Print. Pass out.**  
+   I don’t care what college, what university you’re at, how big it is, how small it is — pass ’em out.  
+   Tell your friends. Pool together money with friends for printer money if you have to.  
+   When you go to class the next day, tell your friends to get involved.  
+   Do this in service of your fellow Zoomers.
+
+# Why It Matters
+
+If we don’t acknowledge the fact that the future ahead of us is very bleak, what are we even doing?  
+   What are we even working towards?
+
+There’s not much we can do now, unfortunately.  
+   But talking about it is a good place to start.  
+   That’s the first step.  
+   The 100th step can’t be taken without the first.
+
+While the content of the pamphlet is upsetting, it serves as a **wake-up call.**  
+   We need open public discourse on the many issues mentioned in this pamphlet.
+
+If this mission (**refer to the participation guide & Gameplan**) succeeds, it will catch the attention of local news stations, teachers, faculty, parents, bosses, student newspapers, social media, etc.
+
+# The Reality
+
+I can’t emphasize this enough: **We are NOT PREPARED.**  
+   We have no idea just how bad it’s going to get.
+
+As a Zoomer, I’m terrified for the kind of future my generation is facing.  
+   And I know I’m not alone in feeling this way.
+
+We talk about and speak up for the helpless around the world (rightfully so), but what about us?
+
+* **ZOOMERS have the highest suicide rates in recorded history.**
+* **ZOOMERS owning homes is a fantasy.**
+* **ZOOMERS will face a massive job purge by 2030.**
+
+Just as we need to care for others, we also need to care for ourselves — and look after one another.  
+   We need to make friends.  
+   We need to show up for one another.  
+   We need to bring strength and unity to a generation that is on its last thread.
+
+This message needs to be in the spotlight.  
+   The pamphlet contains information that not only needs to be heard — but discussed.
+
+# Day One
+
+This is **Day One.** Let’s see where this takes us.  
+   The date of Operation INK (in participation guide) is **the 17th — 10 days away.**
+
+**Print Now.**  
+   Who cares if you deplete the libraries of their inks — they can always buy more.
+
+**Don’t give up on Gen Z.**  
+  **Me. You.**
+
+**Below, I have the pamphlet itself.**  
+ Print-friendly. (8 pages, 3-minute read)
+
+* [https://drive.google.com/file/d/1yTgxugVr5cisX15DVckLrXlLN6EnKnrl/view?usp=sharing](https://drive.google.com/file/d/1yTgxugVr5cisX15DVckLrXlLN6EnKnrl/view?usp=sharing)
+
+**Get Involved:**  
+   Participation Guide & Gameplan document (2 pages)
+
+* [Participation Guide & Gameplan (PDF)](https://drive.google.com/file/d/1Ehq5mjy4WvAIxvO4p-wyzehGd61k1QEH/view?usp=sharing)
+
+   
+ **Read. Print. Staple. Share.**
+
+This is **not** an organization.  
+   There are no ambassadors, chapters, or resources.
+
+\*However, if there is interest in that being a thing (at least 500 upvotes on the pinned comment)  
+  \- I’ll put together a Google Form and add it to this post to accept members.
+
+\#wakeup #wakeupgenz
+
+Don't Give Up. We're all in the same boat.
+
+\-C",User_deleted,1
+1o0w1sv,2,2025-10-07,scary professor experience,u/ggg11897,school,https://www.reddit.com/r/school/comments/1o0w1sv/scary_professor_experience/,"my computer science professor is really strict about cheating and using outside resources or knowledge taught outside of class to solve problems. she gives a zero on any assignment where she detects anything that she didnt teach being used to code our assignments. for one of the assignments, i was really stuck even though i had watched all of the lectures, and i needed to finish the project early because i was going home with my roommate for garba over the weekend, so even if i used the late days i wouldn’t have had time to finish it then. so i decided to use chatgpt to help me solve some of what i had to code and it used an equation that i didn’t know wasn’t from class, so i submitted it and ended up getting a 0. after the next assignment was due, i thought id go over it with her to make sure it didn’t cross any guidelines again, which i was sure i didn’t but i just wanted to make sure and i thought going to office hours would be a good idea. so i went to the room listed on the syllabus, and the office hours the first time i went were held there too. she was immediately very rude when i showed up, and at this point she didn’t even know who i was. she said that we needed to meet in the atrium instead and not her office room. i said okay, and since i didn’t know where the atrium was i asked if i could walk with her, to which she condescendingly went “no ill be taking a minute.” i asked someone else for directions and we ended up reaching at the same time anyways. she was then making everyone (only three other people were there so there wasn’t a long wait) fill out a queue form to sign up for being in office hours, and my form wasn’t working so she was still being cold with me compared to the other girls, and one of their forms wasn’t working either. even before i spoke with her about my assignments i felt uncomfortable and scared by her attitude and annoyed demeanor. when it was my turn, i showed her my code and i asked if the style was correct and she was like “so actually we don’t check for style here in office hours,” and she was about to go on a tangent, so then i was like “oh no it’s okay” and then again, she went rudely like “let me finish, it’s been a long day.” so then i showed her my code and asked if anything looked off, and she was confused by my question so then i did mention that i used outside sources (i made up that i used youtube video) on my past assignment so i got a 0. she was like “oh i understand why you’re asking, did you use outside sources on this assignment too?” and i said no. i asked if i could resubmit the last assignment for up to 50% credit like it said on the syllabus, and she at first was like yeah and then she said no bc i violated the honor principles. i was shocked, but i was okay with it. because i wanted to improve from my mistake, i asked if we could look over the last assignment together to see where was considered outside sources and how i should’ve done it instead, and she said sure. i pointed out one line where i used math.tan even though i know we talked about math.cos and math.sin, so i didn’t thing tan was much different. she then was like “yeah we didn’t learn that” and she kept pressing for how i came up with that line of code. she became very scary and condescending, and i kept saying it was from a youtube video and that i just made up the line unintentionally when i was trying out different things and she was like “you can’t unintentionally use outside material,” which is true, but i just wanted to drop the matter as i had already gotten a 0. she kept pressing and i kept saying that my question was answered, and she was like “well my question isn’t answered” and everyone in the atrium was watching it this point and i was getting really scared, and then she was said “then show me the youtube video.” i was like it was a long time ago and i don’t remember, i was super vague and trembling at this point, she fully wasn’t letting me leave and everyone in the room had gone quiet, staring in shock. eventually i just closed my laptop, took my things, and was like “thank you for your help” and she was still rude, finishing with “well my question isn’t answered, maybe we can continue this conversation at a different time.” idk what to do, this was the scariest experience ive ever had with any teacher or professor. i felt really scared and unsafe in that moment even though i knew i had made a mistake. i just wanted to be done and get it over with but she wasn’t letting me leave. i already got the 0 and wasn’t going to recover from it so idk what more she wanted. i know i was in the wrong but she handled it really scarily and i wonder if she’s gonna address it with me again or not, even though it’s a class with hundreds of students. idk if i should drop the class or not, even though i need it for my degree. i don’t know what to do, my grade won’t be as drastically affected by the zero as i thought it would, but it means i need to do well on everything else, and im already struggling in the class. i know it’s wrong for me to have used chatgpt to help write the code, and i vow to never use it again, but im scared since i don’t know if she’s going to follow up, report me, or start grading and paying closer attention to my assignments from now on. i genuinely don’t know what she’ll do next because the whole interaction was extremely mortifying, uncomfortable, and unexpected. it’s been a few hours and i haven’t received any email or notice from her or the department, luckily. i hate college so much.",active,2
+1o19rka,1,2025-10-08,General question: have any of you encountered NotebookLM?,u/dr_strange66636,Teachers,https://www.reddit.com/r/Teachers/comments/1o19rka/general_question_have_any_of_you_encountered/,"It was apparently added to Google Classroom on Monday. One of my colleagues showed it to me this morning. My initial impressions are of horror and disgust. It would erode/decay any actual cognitive learning even more than ChatGPT (or any of the others). Students wouldn't have to learn to take notes, read/comprehend a text, retain any real information, etc., etc. Ffs you can even create an interactive podcast - as in ask it questions via microphone - which it will then answer in real time. Can anyone talk me down from this? What do you think the ramifications will be? How might admin (or parents) abuse this? Can the positives ever outweigh the negatives?",active,1
+1o19tqb,0,2025-10-08,this professor in my college is being heavy on all of us and we are helpless,u/Glum_Bit_4992,CollegeRant,https://www.reddit.com/r/CollegeRant/comments/1o19tqb/this_professor_in_my_college_is_being_heavy_on/,"Hey everyone,I really need to vent because this whole situation has been eating me alive lately.
+Today was my breaking point. I have used Chatgpt for better vocabulary so bare with me .
+
+For context, I am F(20) and in a University right now .So basically, I have this one professor who’s marking wrong attendance for me. According to the records, I apparently have below 70% attendance,but I’ve literally missed only two classes the entire semester. I don’t know what’s going on or if it’s being done intentionally, but this is seriously affecting my internal marks and overall standing. I will definitely go speak to him again and if required approach the higher ups.
+
+To make things worse, our class timings were initially super inconvenient (we had only afternoon classes). Since we didn’t have any morning classes till 11 AM, we requested to shift the schedule to mornings and it was approved. But guess what? This same professor still randomly decides to take classes after we’ve all left in the afternoon, without announcing anything beforehand. Like, how are we supposed to know or attend when no one tells us? Most of us come from far, and by that time we’re already on our way home.
+
+He also sets question papers that are intentionally difficult to the point that hardly anyone passes. We requested a retest after a lot of protest, and the retest turned out even worse. On top of that, he assigns random research papers and expects us to make long PowerPoints by the next day. He just keeps announcing things last minute, with no regard for students who live far away or have already left for the day. He expects us to present the immediate next day or else our grade go down by 1 mark every class. how are 20 students (this is a major class) supposed to present in one class all together ? this is affecting my grades, final exam and my sgpa. i got an overall 8.3 sgpa and only because this faculty grades me a 7 and rest all were a 8 ,9 & 10 points . he brought down my sgpa and it’s bugging me so much . i have been enduring this since last semester and now it’s beyond my ability to endure this torture 
+
+And honestly, college management is a mess, especially during the odd semester. They cancel classes randomly (sometimes after we reach campus!), reschedule timings whenever they want, and drag classes on till 4:50 PM. There are long, unnecessary breaks between classes ( for eg one class is from 9-10 and next class is from 3PM to 4Pm)that make it impossible for us to stay on campus or attend properly.
+
+We’re paying lakhs in fees and still being treated like this. It’s so unfair and stressful. I’ve been having severe panic attacks because of this whole situation, and I’m even in therapy for it. I’ve never felt so demotivated, helpless, or anxious about my education before not even in school.",active,0
+1o1cz94,27,2025-10-08,Generative AI as an accommodation?,u/ADHTeacher,Teachers,https://www.reddit.com/r/Teachers/comments/1o1cz94/generative_ai_as_an_accommodation/,"Just wondering if any of you have seen this. I went to an IEP meeting this year for a student who had AI-assisted Grammarly as an accommodation for dyslexia, and I was able to argue it down to regular spell and grammar check, but I'm wondering if this is something we're going to see more often? I'm not anti assistive tech, but this is much too far for me, especially in an English class where learning how to express oneself is kind of the point.
+
+Also, appropriate use of AI tools would be an absolute nightmare to police. My co-teacher last year suggested that one of our students with dyslexia--a high school Junior--use ChatGPT to help with an outline, but when the kid showed me the outline it had generated a thesis statement and topic sentences for him. Honestly, I don't think he needed AI for the outline at all--the graphic organizer he already had was compliant with his IEP and should have been sufficient. (This is not a complaint about my co-teacher, for the record. She's awesome, we just disagreed on this one thing.)
+
+Anyway, we've been seeing an increase at my school in accommodations like typing all writing assignments and speech-to-text (one of my friends teaches a class where literally half of the kids are able to type any assignment over a few sentences), so I'm wondering if generative AI as an accommodation is going to be the next big thing. A lot of these accommodations are holdovers from primary and middle school and get adjusted/removed at the high school level, but some families insist on keeping them.
+
+This post is not anti-accommodations in general, I have no problem working with kids who need additional supports, but as an English teacher I do not want to see this type of support normalized, especially when the push for UDL often results in accommodations being given to students with no disabilities at all.",active,32
+1o1fjng,0,2025-10-08,You'd have to be absolutely insane to be a professor in today's world.,u/NeighborhoodFatCat,Professors,https://www.reddit.com/r/Professors/comments/1o1fjng/youd_have_to_be_absolutely_insane_to_be_a/,"1. Non-stop research grind. Every moment not spent on research is a missed opportunity for a new paper or breakthrough. So you need to think about research all the time to be successful. That's a one way ticket to psychopathy or schizophrenia.
+2. You also need to actively collaborate with people in your field, who may hate you for intruding ""their territory"".
+3. You also need to volunteer to review papers or heartlessly push papers onto other people in your field, who now hates you because you delegated a thankless task to them.
+4. You will most likely teach an outdated curriculum that makes students fearful of their future after taking your course.
+5. All your students are using ChatGPT for all your assignments.
+6. You can't fail your students because it will hurts your student evaluation and hurt school's graduation rate and will make your chair seethe and administrators wishing you were deceased.
+7. You will need to endlessly chase ""competitive"" grants while government cuts funding across the board.
+8. Your university location probably sucks.
+9. You are no longer a student but still feels young at heart, so you fit in no where.
+10. Your brilliant ideas are published but then picked up by a bunch of industry researchers and turned into a product at Meta without you seeing one drop of the profit.
+11. At some point you realize that to be successful is to publish as much as possible with no regard to quality. Your younger-self will mourn over the person who you've became.",active,0
+1o1gz6d,2,2025-10-08,Anyone have a good video or doc that explains why ChatGPT or Google AI Overview aren’t reliable sources,u/mo8816,Teachers,https://www.reddit.com/r/Teachers/comments/1o1gz6d/anyone_have_a_good_video_or_doc_that_explains_why/,"I’m sorry if this has been asked before/beaten to death but I teach a college class online and my students are continually using Google AI Overview or ChatGPT to write their discussion posts and I can’t stand it anymore. 
+
+I can see exactly what they are doing. They type a search into Google or ChatGPT, the AI generated results pop up, and they take this info and copy/paste it. Sometimes they will change a few words around, sometimes they won’t. Then they find arbitrary sources and pretend they used these sources to “write” their discussion post. They will even put parenthetical citations in different places to make it look legit. 
+
+Clearly they are not grasping the seriousness of this and I can’t seem to be able to get through to them. Aside from the plagiarism/cheating, I’m convinced they think the AI results are completely acceptable and reliable. I teach chemistry so the students don’t even know what they’re reading half the time. It probably sounds smart and accurate so they trust it and use it. 
+
+So does anyone have a resource (video or document) that does a good job explaining why AI is ridiculous and often full of errors? Or do you have any tips for how I can explain this? I’m at a loss here. 
+
+Thanks in advance! ",active,4
+1o1o5uq,54,2025-10-08,I think one of my students lives right next to my usual scream spot?? Help,u/middelwich,medicalschool,https://www.reddit.com/r/medicalschool/comments/1o1o5uq/i_think_one_of_my_students_lives_right_next_to_my/,"For starters, yes I did run my story through chatGPT to clean it up because I’ve been very panicked and this would be even more long winded and longer than it probably needs to be. This is a genuine post NO I AM NOT BULLSHITTING Y’ALL I KNOW IT SOUNDS INSANE BUT READ THIS AND HELP LMAO AHHHHH!! NO THIS IS NOT A MEME.
+
+I'm a new faculty member at a U.S. osteopathic school. I moved here in late July — totally new city, totally new state — and got an apartment near campus. 
+
+To be honest, everything’s been pretty tough… I've been working late hours to keep up with all my new responsibilities. I won't get into it, but one thing that has really helped me cope has been screaming in my car at 3AM when I get home at night, and no one's around. It’s not just “AHHHH”, sometimes I'm just ranting to myself about stupid things that happen during the day. It's very cathartic.
+
+Fast-forward to a few days ago: this is silly but it’s what happened. After teaching class one day, I finish up early so I drive home and pull into my usual spot. I open the door and... one of my students is sitting in their parked car, a takeout container of steak in their lap, staring at me looking like they just about shit themselves. 
+
+I pretended not to see them because I felt awkward...but since then, they started staring at me in class weirdly.
+
+And then yesterday, I was having my usual 3AM scream session, when I looked up and saw their face in a window overlooking the parking lot, and with their phone pointed at my car! I'm pretty sure they were filming me.
+
+I have tinted windows so they've never seen me screaming directly, just heard it, but I'm 95% sure they know it's me. I'm worried that they think I'm crazy and are gonna report it to apartment management, or call 911. I'm also scared of what happens if they managed to get a clear video of me screaming, and send it to the school. Should preemptively I reach out to them and threaten their grades if they out me? Any advice on how to handle this smartly and safely — without jeopardizing myself or my career — would mean a lot. HELPPP.",active,59
+1o1rp3r,7,2025-10-08,I caught someone plagiarizing for a major assignment (US History) and genuinely feel terrible despite knowing I (probably) handled it the appropriate way.,u/DreadfuryDK,Teachers,https://www.reddit.com/r/Teachers/comments/1o1rp3r/i_caught_someone_plagiarizing_for_a_major/,"(I'm not sure what the appropriate flair for this is, so my apologies in advance if this is the wrong flair)
+
+**TL;DR: Caught a student plagiarizing on a major assignment, gave the student a zero, but I feel awful about it.**
+
+For some context, I started teaching in January. Officially, this is my second year, but it's really my first *full* year teaching. I teach social studies to sophomores and juniors, and I really love the job, I enjoy the classes I teach, and tremendously respect the people I work with. But today I had to drop the hammer on a student for plagiarizing part of an essay and I genuinely feel awful about it.
+
+Last week I assigned two of my classes an essay in my pre-WWII US History class. They had to choose three causes of the Civil War and in a typical 5-paragraph essay format (introduction+thesis statement, 3 body paragraphs, and a conclusion) explain how their three choices contributed to the South's secession and, ultimately, to the start of the Civil War. Students could choose issues like sectionalism (differences between the North and South), the Compromise of 1850, the Fugitive Slave Act of 1850, the Kansas-Nebraska Act, *Dred Scott v. Sandford*, John Brown's raid on Harpers Ferry, the Election of 1860, etc. and I told them that they were only supposed to use materials we used in class. **The essays were hand-written**, and for the most part my students did relatively well on said essays, with some punching far above their weight class, so to speak.
+
+However, one student who chose *Dred Scott v. Sandford* as one of their three causes copied a sentence from Oyez's [synopsis](https://www.oyez.org/cases/1850-1900/60us393) of the case, verbatim. While Oyez is a very good resource for anyone looking to learn about Constitutional history (I used it a lot as a resource in my Constitutional Law classes in college, at my professor's recommendation), I never brought this resource up with my students in any capacity and intentionally didn't talk about the Supreme Court's *wildly* flawed (by post-1865 standards) logic behind the decision much. 
+
+I consulted with several of my colleagues and they all agreed that giving the student a zero was the completely correct thing to do, and several of them outright saw Oyez and the essay side-by-side and saw how blatant the plagiarism was. I unfortunately had the inevitable uncomfortable conversation with that student after class today that they're getting a zero on a **major** grade for the quarter. They acknowledged that they plagiarized it when I brought it up (with receipts to boot) and, while nothing bad came from that conversation, they were clearly very upset. Whatever; they plagiarized the work, they got caught, and actions have consequences. If this were college they'd be expelled outright.
+
+Plagiarism is a no-go. It was when I was a student, and it is now that I'm a teacher. I note from day 1, with proper documentation and everything, that I have no tolerance for ChatGPT/AI usage and plagiarism alike and that if I catch someone doing it they get a zero for the assignment. I designed this essay to be as AI-proof as possible (particularly by making it handwritten). I gave the students a full week to construct this essay, including a day to outline it for 20% of that essay's total grade, since (allegedly) this was the first time some of them had ever written a 5-paragraph essay. Yet despite all that, I feel really terrible that I had to have this conversation with a student and that I had to give out a zero for something that was actually submitted. Said student was already struggling in my class, and this absolutely obliterates said student's grade for the quarter, to the point where they genuinely might not be capable of bouncing back from it.
+
+I've never had to reprimand someone to this degree yet, literally every colleague I've spoken with agrees that I'm handling this correctly and that I've covered myself properly on all fronts, but I'm still dreading the very thought of having to have this conversation with an angry parent, even if that might not end up happening. **Is it normal to feel bad about penalizing a student so harshly for plagiarism?** ",active,6
+1o2smdy,156,2025-10-10,Update: My desire to teach was killed,u/holllymollyyeah,Professors,https://www.reddit.com/r/Professors/comments/1o2smdy/update_my_desire_to_teach_was_killed/,"Hi everyone, 
+
+I just remembered this post I shared a while ago when I was depressed. I believe it deserves an update.  (https://www.reddit.com/r/Professors/s/UkQvBxlrtw)
+
+During my phd, I was the lecturer for the university and it was an R1. In my last year, I worked at an R2 university as teaching professor. I had a load of 4-5 when I was wrapping up my PhD. Anyway, at this R2 school, I was constantly challenged by the entitled students. They were the worst I ever had. No desire to study, always asking for extensions etc, and I was so depressed at the time for that reason. Trying to wrap up my PhD didn’t help as well.
+
+Anyway, the reason why I am posting an update is, this fall I started a new position in a smaller state university. It’s not even an R2 school and much smaller to other universities. But I LOVE my students. My average is around 75-80 in principle class, 79 for an intermediate class. I am using the same materials I used in other institutions where I got so many complaints about how hard the lectures are etc. I can’t believe this is real. My students ask questions, answer to my questions, don’t use the chatgpt if asked for, respectful, funny and many more things. I’m like living in a dream and I can confidently say that my desire to teach is now back! 
+
+Just wanted to share to spread some hope for this young generation! :)
+
+",active,182
+1o3d88d,332,2025-10-10,I fucking hate living in this black mirror episode of a decade,u/georgito555,TrueOffMyChest,https://www.reddit.com/r/TrueOffMyChest/comments/1o3d88d/i_fucking_hate_living_in_this_black_mirror/,"Whyyyy why the fuck did I have to live in this decade and not the 70s/80s/90s. I am 30 years old and I have to actively with effort try not to get hooked on socal media short form video bullshit and actively see my friends and elderly parents be hooked on it and it be completely fucking normal. 
+
+I'm a teacher in training and chatgpt and AI and the aforementioned shit and smart phone addiction has messed up students and teachers alike. 
+
+The future of human creativity is also in jeopardy because of AI, whyyyy whyyy thousands of years of human built everything and I have to live in the time line where books might eventually be written by ai and you won't notice?? Fuck me. And I know I know there's worse decades to live through I know, but there were also better ones than this one",active,338
+1o4uual,1,2025-10-12,Today I’m just exhausted,u/Unlucky_Internal8000,venting,https://www.reddit.com/r/venting/comments/1o4uual/today_im_just_exhausted/,"I’m using the talk to text so even if there are errors, I honestly don’t care to fix them today. I am exhausted. I’ve been I’ve spent the last five years of my life trying to improve myself mentally emotionally spiritually physically to be a better person not only for myself, but for my children And I am especially fed up today. I’ve been fed up before, but usually I just keep it to myself, but today I am especially fed up. I finally found a path that happens to work for me or at least his the less stressful and will allow me to achieve the goal of being able to maintain my household until my kids are ready to leave for context. I have two teenagers and one elementary school child and it’s taking me this long at 35 years old just to figure out life itself and get my shit together, and that in itself is already disappointing and stress wise it is especially as a single mother, knowing that I should’ve had my mindset different or on track before this, and although things have been slowly improving, it has been five years since I felt true stability, even in situations or even back then when I didn’t have anyone to depend on in the relationship that I was in at the time it was abusive it was really the only most stable relationship at least financially everything else was shit and a lot of my life has been like that one part is good but the rest of it not so much my determination to do better and be better and the more that I fight to do that the harder kit I’ve already gotten at the point where my nervous system can’t take anymore and there isn’t any amount of gentleness or loving on myself or maintaining my peace that doesn’t change that I’ve been at my wits end for a long time now and I feel like maybe I’m just going through the motions now just to get to a point where I feel like I can breathe and this isn’t to say that anyone else is at fault because I always place to blame on me anyway, because of my decisions, ultimately are a factor in every action of my life, regardless of whether I’m a kind person nor trying to help people I try to be loved at the end of the day. My decisions are what led to me being in these situations where I’ve been used where I’ve been abused where I’ve tried to love people with everything that I have where I’ve been somebody else’s back mode there’s no one that’s been there for me. There’s no one that I could trust. There’s no one that I can depend on. There’s no one that I can call up and say hey I’m not doing good right now. I’m really struggling and I just need some help and no amount of venting to ChatGPT or venting to my mom or anyone that could potentially listen, which is really just ChatGPT and my mom is gonna change that because what can they do besides tell me to keep pushing and that everything‘s OK and I’m not even at the point where I’m expecting someone to come and save me anymore because even I realize that wish it just fucking useless. I don’t even know if I’m allowed to curse I put all my focus into gaining some financial stability even if it means I have to work two full-time jobs just to make, but in the midst of doing that everything was falling apart, and I was just trying to maintain it all and now I feel like I’m at the process of everything and it’s all just like hitting me at once like there is no hold on let me just get time under my belt before I can handle it know everyone’s making demands now and I’m at risk of losing everything. Just trying to maintain stability. What does it have to fall apart in my relationship ended with my youngest child father I started my healing process. I left my house because it was in my name and moved in with my dad and basically my resources at that time were at everyone’s disposal because I was there and I didn’t have a job I was self-employed at the time so my car and my resources for food and have you or pretty much at everyone’s disposal until I found a job capable of being able to contribute towards rent and things like that you know I didn’t because I don’t do much anyway I’m a very simple person. I don’t ask for much I’m fine which is being seen and accepted in areas where I feel like. I’m being ignored and I wanted connection with my family my family that I was estranged with for years so it was fine. I didn’t mind you know being there and. helping out because I was also being helped at that time and I allowed for my dad and his girlfriend to drive my car and at the time the only thing I had to maintain on, it was my insurance and that was hard enough because like I said it wasn’t working and I was earning income because I was self-employed. I had a jewelry business, but between that and the amount of things that I take care of my kids, it was it was hard to maintain and I did at some point you have a part-time job which I admit I didn’t do much with, and some of it had to do with the fact that they had me suspended for evaluation due to the results of some of my testing other parts had to do with the fact that I just wasn’t doing it because I didn’t really care for the job anyway, and even still, you know, I still managed to pay my portion of the things that needed to be paid sometimes help from my dad‘s girlfriend, but I still manage to pay it and my brother who lived with us at the time, there was a lot of struggle with him barely managing to pay and created a dynamic that was unfair to begin with and so you know my car payment and insurance and stuff I was supposed to be responsible for my insurance unfortunately lapsed and I was making my car payment at least but my insurance did unfortunately and I had made an payment arrangement with the insurance company to pay it, but I didn’t realize at the time that I was actually paying those renters insurance and not the automotive insurance so the insurance was canceled and then my dad’s girlfriend got into a wreck and I ended up being fully responsible because she was at fault and I was sure that you know the payment that I had I had made was for the automotive so like OK well everything‘s OK. Everything‘s gonna be fine because I have the insurance but then I found out that it was for the renters insurance and so that was rather disappointing. So once I did find a job, you know I started paying rent towards my dad. I was still making payments on my car and everything at the time he told me you know they just let it go and to default and then though you know, give you like a lump sum to pay all at once that’s less than the amount that you would actually have to pay in full and I don’t want to do that because I just built my credit. I spent all entire year building my credit and getting it to a good point when I was in my relationship like and I was very proud of that because my credit had been messed up for years and I got into a really good point and it was just you know building credit at that point because I’ve gotten all my debt down and didn’t have to worry about student loan because they were in the process of being removed and all of that and then I had this stuff and I was still making the payments because I was like I can’t, I can’t allow this to mess me over and I was like you know she’s gotta help me at least behalf of it down and so the the amount was it ended up being knocked off of my rent of the amount that she would have to pay me in order to keep making the payments and I would just you know make the payments myself at that point and that and other stuff just kinda a wedge between us her a lot there’s a lot of things going on with my kids as well and navigating them and trying to repair the relationship with them as well as my stance as a mother because I wasn’t really really respect me and they glorified their father who was really only around for like the fun stuff and not me because I was the life lessons, teacher and primary care provider so there is a lot of issues surrounding that point where I did at one point consider letting him take full custody of my kids until I got on my feet but I have this trauma surrounding children, not being with their parents primarily their mother and because I wasn’t with my mom growing up and I just I couldn’t bring myself to do that so it didn’t happen and there there was a certain way that I wanted. I want my kids to be raised up like there are things that I want to teach them about life, and you know the hard lesson that I had to learn and all of those things and all of the things that I wasn’t taught and had to learn by trial and error I wanted to instill in them so they didn’t have to go through that and I knew that he was not capable. Their father was not capable of teaching them those things I mean honestly he was not and no better of a situation than I was, but I’d like to think at least on a mental level for me. There was a hierarchy there so anyway I had a following out with my dad ended up moving with my aunt a new city the beginning of the year and at that point, you know I had nothing I had no car or anything like that. I had a job but the job that I had it was stressful for me and I felt like I felt like a burden being there where I was with my aunt and I just felt like I was being tolerated, and I wanted to be useful so I attempted to do things that would make me seem useful instead of useless and that put a lot of stress on me too especially since I quit my job as soon as I moved in and I applied for a different job, but that job didn’t start and told me of that year which ultimately been the job that I had carried on for like two years up until this point a few months ago so I got there you know a lot of things happen there as well. There wasn’t really a falling out, but it was a lot of estrogen. You know when you get a lot of when you get around and there’s a lot of testosterone in the same sense there was just a lot of estrogen and it was a full house. I mean it was 23 technically three families living in one house that has a lot to handle and for me I’ve never been used to that type of setting and I’m a very introverted person. I stayed to myself and I mean they were all the same but you know we’ve all got Kids and it was just it was a lot to handle that we weren’t really used to that even me and my kids were released to that so I burn on my own ended up homeless for some months that in itself was stressful so I went through a lot of like mental and emotional issues and I did I finally got back on my feet got my place. Got my car. I was making no payments again because I had to get a place in a car at the same time because I wasn’t working from home anymore to start going in office and in office for me it was like an hour away drive so I got all of that set up. I was still kind of at that point kind of behind on bills because I ended up having to pay more for deposit due to the depth that I had collected after my car and see the house that I’d love to my ex-boyfriend my youngest child, not moving the stuff out of there so they charged me for that and it went to my credit and everything and of course I couldn’t find a place until all that was paid off at least the rental part had to be paid off before I could find a place so I had to pay that off and then they still they charge me double the deposit in order to move in, and that took away some of my savings kind of kickstart me to be ahead of the game and I had already been behind starting out and it was OK at first because I knew that I was gonna get a raise and be in a higher income status and everything and so I’ll just buy my time during that time but I allowed for people I admit the shelter to come and stay with me thinking that you know it wouldn’t be an issue when it turned out to be a nightmare lesson learned don’t allow people you’ve just met only known for a couple weeks to live with you because that absolutely insane special you don’t know their background or anything like that complete psychopath so at that time she was helping out with rent a little bit here and there claiming that she couldn’t pay more than what she was paying me, but somehow managed to have all of these extra extravagant expenses that showed that she could afford a portion of the rent that she should’ve been paying and I realize that you know that I was being used and everything, and it was, of course turned on me as being ungrateful and all of that because I mean, that’s just how everything turns out and maybe in some sense and other situations I was ungrateful but at the same time it’s like at the end of the day like the foundations that I have provided and provided for myself for me has been at the use of other people and has been mistreated and has been an ongoing thing that I’ve dealt with these past couple of years and so I get into this relationship needing to be loved and denying again that I’m tying my worth self-worth to someone else’s expectations and this relationship came with all the promises of helping me get on my feet get things back on track and being the disability that I’m hoping for you know all of that crap but it of course turned out to be another liability among other Things and none of this you know I’m not I’m not perfect either I mean a lot of decision psycho against my morality and who I am and how I carry myself as a person and the fact that I allowed these people in these situations to happen like this, of course you know there’s a lot of disappointment in myself because ultimately like I said at the beginning of this, my decisions, and have been the cause of why I am in the situation so I hate it before the relationship became another lie everything that I have worked hard to gain for myself has been lost due to this relationship. The only reason that I still have a place over my head is because I’ve been able to maintain if all and it’s just at the point now where it’s reached its climax but my second car car payment of course I was able to maintain those, but of course the insurance laps again and the person that I was with I was allowing them to drive my vehicle stupid decision because obviously I didn’t learn the first time and on the day that I specifically told this person that they were no longer going to be allowed to drive my vehicle. My vehicle gets wrecked in there at fault so like a dummy I immediately got a new car but instead of it being for me it was for that person because I was like well maybe if they have a car and then I get my own car then we can be able to tackle more so essentially both cars they were both in my name both of the cars that I got after that car was wrecked because and of course didn’t have insurance so of course I was responsible for it so that’s how we did things and we were in the midst of maybe break up or whatever but we were still living together and still trying to improve our lives because that was just a decision that we came to. We agreed to disagree, but it was really like. I said another liability and didn’t turn out that way any money that was made from that person side did not go towards the house in any event that it did go towards the house. It was nothing but complaints because it couldn’t go to what he wanted it to go to stress at the time. I was like you know what it’s fine whatever you do you as long as you make the payments on the car, I don’t care. I will do what I have to do and so I started to do that. I set up you know multiple resources of income streams to be able to afford my bills and I started to do them and then another family member comes along because at that point you know, even though I’m setting these multiple incomes, I haven’t even been doing it long enough to establish myself to be more financial financially stable in a better situation and then and my daughter had to have surgery so that kind of mess it up to you. I wasn’t able to get things done. I wanted them too, so I did have to depend on other people to help me at that point and in the midst of me, you know not using my other income sources. I still have my 95 job and although I am getting paid a good amount, my bills are still racked up because I wasn’t at the point where I get budget and the chance that the one chance that I did have to budget I blew it so third family member our second family member third car comes along. I’m allowing them to use my car because at that point I’m not I’m not at work or anything like that cause you know I’m taking this time to no I am at work but you know we’ve got two cars so I’m allowing them to use that car while I am using the other car which belongs which I intentionally essentially gave to the person that I was with at that time and so it was only supposed to be a temporary thing, but they ended up getting hit on the way of taking my child to school they were also at fault in that situation and of course there was an insurance at the time because you know, despite the fact that I had multiple streams of income, I was only utilizing one resource and the person that was supposed to be help me obviously, we already established she was not in fact helping so. They were going to be responsible for getting that car fixed because it wasn’t totaled. It was just you know simple fender vendor, but because you know the accident happened and there wasn’t insurance on the car got taken so I was up without a car and the only car that was available was the initial car that I bought for the person that I was with so we went back to sharing that car and I help them you know get a better job or whatever and the job that they were working at the time in the complaints of not being able to pay with they wanted to pay or not that they wanted to pay to begin with because obviously that that was definitely the case, but the amount that they needed to pay at least the better job help them towards that and we shared you know the vehicle, however this person was still not paying their obligations and it went on for an entire month where I was receiving absolutely nothing and I’m still behind on bills and at this time because I was a government worker I was dealing with the issues going on with the government layoffs, so I took the deferred resignation didn’t speak anything on it. I let them know that I was gonna be without a job, but I had this plan that I work. I was gonna take a few certifications to update my résumé on LinkedIn start applying for jobs and you know get back into the tech field and I did follow through on that plan essentially but it was with the understanding that I was going to have the help from them as well as the money coming in to still be able to cover my bills and then I still also had my income resources to use well rather than them paying me from the job that they were working at full-time they wanted to use my outside income resources to pay me and that messed it up for me so before it messed up for me, I decided that it was time for them to go and I kept because at that point you were just playing with my time and I’ve got an entire household to take care of. I don’t have time to babysit you anymore so I took my car back and I told them to leave. It was messy and I had to. I started started you know using my income resources at that time but because I regret allowed them to use my resources to pay me during the time when they were hounding me to do so they messed up my standing, and then I lost qualification for those resources so rather than being able to work while also receiving income that I didn’t actually have to go to work for I was just stuck with that one shrimp of income for months and capable of finding another position and capable of being able to pay for the certification test that I needed and study for and not getting a job until literally the last month when the payments were due so in the meantime of all of this, I begged and completed with my rent company and all of that too work with me so that way I can get my stuff together and I poured money into this car and I poured money into other situations to get me out of this financial situation only for it to completely backfire. Nothing is planned my whole entire plan of certifications a better job that pays enough to cover my entire expenses and then some like all of it was just shot to shit and the only good thing that really came out of is that I spent four months and self reflection enough to stop tying myself forth to you situations that didn’t benefit me enough to realize that my decisions were the cause of a lot of the things that I’ve been going through but also doesn’t excuse the fact that I have been encountered by some really shitty people who don’t give a fuck about me and enough to be more gentle with myself in the sense that catering to myself more mentally physically emotionally spiritually and maintaining my peace, but even though that part is going good for me like I said, there’s always one part that is OK and then the rest of shit and that is literally the situation still even now. Yes now I have two jobs one of which is going to start paying me weekly but it’s going to take two weeks before that process start and one of which is temporary but gives me the it’s temporary full-time but gives me the relevant experience I need to move forward in the tech field, as I have intended because the same products that I have been studying for to gain certification on are the same products that I am actively using in this position and it will benefit me in the long run, but I’m racked up to my ears. I am basically four months behind on rent and two months behind on all my other bills and no way of getting all of that done because my credit is shit now and can’t get loans to cover everything can’t borrow from people because there’s no one that I know that I could borrow from because everyone I know is broke and I don’t have you know a friends or network or anything like that my first real best friend after almost 15 years I just made six months ago and they’re not in no better situation. I am because you know we both work at the same place I had to go through the same thing and they’re trying just as much as I am to get back on their feet same situation except she had a relationship for 13 years and they just up and left like it was nothing so I mean is I’m fucked or cooked that’s how they say it nowadays I guess my age is showing at this point anyway my entire household is at risk of being evicted because I don’t have the full amount of money that I need to pay for this month and I am at risk of if I don’t pay the rent, then they’ll start the eviction process and it’s not that I’m essentially the late fees have tacked on to the point where even though I was making payments in increments, they weren’t the full payment so it looks like I’m four months behind, but really I’m only two months behind with a ton of late fees and leftover balances but it is still all up to about four months of rent because I mean it was four months of me making increment payments so balance out anyway if I don’t make the payment, I’m gonna start the eviction process this month. I don’t know how that process goes because I’ve never had to do it and I’m not making enough to where I can just up and move somewhere without having a deposit or whatever on hand cause I don’t have that and I could probably put all of my stuff in storage in the living in a hotel until I get a tax refund to where I can afford to get another place, but I also have five cats that I don’t know what to deal with and the hotels don’t have stable enough Internet because I work from home and I need stable Internet to be able to work so I mean I’m I’m screwed and I don’t know how to move forward. I don’t know what to do next I’ve got the portion of a check of the last amount of resignation that just includes my regular pay not the accumulated PTO or the retirement amount that I put in that I still have to sign off on and I was supposed to send an offer for yesterday and I still didn’t fucking do it so yeah I don’t know what to do and I started from that point because like I said that was the last known amount of stability that I had you know we had two income streams at that point we had you know we were running three businesses plus he was working and we had a good amount. Our bills were taken care of despite you know me not having to work, but all of that, you know the things that I was working on with him of obviously you know roughy stopped and I didn’t go back to it because they weren’t necessarily my businesses. I ended up losing all the shit anyway and yeah, so I think back to that a lot because it was my last known sense of stability and at the same time, it wasn’t the greatest environment to be in, which is why I left to begin with and started trying to better myself and now I’m just just fed up today. I still don’t know what I’m gonna do. I’m probably just honestly I’m probably just gonna let the eviction process run and try and gather up as much as I can until the court date to pay it all off and hopefully by then the the jobs that I have but will have accumulated up enough money to help me out to where I can pay the amount that they are requesting of me to pay I feel like that’s my only option at this point because I don’t know how else I’m gonna get the money and even if that were the case or even if that’s not the case, I could at least save up the money to get into another place if I need to I don’t know maybe that’s what I’ll do. Just hold onto the money and just not pay anything and just let the process get started I just I’m so afraid of doing that because I don’t wanna be in the position where I have to like. It goes on my credit again and I’m like rejected from finding a place again like I just I just can’t put myself through that and I don’t wanna be homeless again. My kids are better than that their fathers they’re paying child support one every two weeks and the other one every week but it’s basically they’re both paying $100 $100 a week barely even was like 95 actually and then the other $100 every two weeks and that’s enough to cover my children’s food so at least I don’t have to worry about them eating because we get money for that so I don’t have to worry about them you know starving to death but good that if they don’t have a roof over their heads, I want so much better for myself and my children and yeah my decisions. These past few months have probably fucked up everything these past few years probably fucked up, but I made them with the intention of surviving because it’s what I thought I needed it at that point it’s not fair especially you feeling like I’ve had no choice so tired and I wanna give up. I just want to see my kids her dad and I just wanted to disappear and let them worry about it, but my kids don’t deserve that it’s not their fault. I’m so persistent in things that I want to see this through busting my ass right now to get close to 10 K of this possible so my kids can spend the rest of their child lives enjoying being a child that’s what I want worry about mom stressed because they could come to me and ask me for all the fun things like going to the movies with their friends or going to an arcade or going to a school dance and not have to worry about me telling them. I’m sorry I can’t afford it right now and they come and asked me and they want for things and I can’t afford them and they’re such a good kiss and not even asking for like electronics or iPhone iPad or any of that shit is my clothes they’re asking for stuff that is basic. I can’t even afford to give them that and I feel like the greatest failure has ever lived because I want to give them everything give them to work because they deserve it. They deserve so much. I hate myself so much. I really do because I can’t provide for them in the way that I need to and want to. That’s really what boils down to my tire is the fact that I can’t be the provider and that’s literally the only thing I have left and even that is being stripped away from me I just want I don’t I don’t want anything but to be able to take care of my kids that’s all I want and in doing that I just wanna be financially stable. I wanna be mentally stable emotionally stable so that way I could be the best version of myself for them. That’s all I want. I don’t want anything else. That’s really all I’ve ever wanted and going through this just makes me feel like I’ve taken 10 steps back.",active,1
+1o5bhtv,1,2025-10-13,"The social side of AI: cops, condos, low-key non-users, and a viral professor — who’s actually in charge?",u/ArtificialOverLord,AiKilledMyStartUp,https://www.reddit.com/r/AiKilledMyStartUp/comments/1o5bhtv/the_social_side_of_ai_cops_condos_lowkey_nonusers/,"Let’s be gloriously blunt: AI isn’t just a developer convenience or a VC-friendly buzzword anymore — it’s moved into policing, homeowners’ associations, and the messy theater of virality. If you’re a founder, indie hacker, consultant, or professional skeptic, this is your friendly siren: governance problems are now product features. 
+
+Policing and surveillance are where the “we’ll automate safety” fantasy collides with messy reality. Recent studies show that large language models and vision systems give inconsistent calls on whether to escalate incidents to police. Translation: the algorithm that’s supposed to keep neighborhoods safe can be whimsical, biased, or simply confused. Meanwhile, plate-reader cameras and private vendors are spreading through HOAs and local governments, drawing lawsuits and constitutional gripes. The takeaway? If you imagine AI as a neutral force multiplier for public safety, you’ve never met a dataset. 
+
+On the adoption front, don’t assume everyone’s using these tools daily. Adoption figures are growing but patchy; personality traits (openness especially) predict who adopts AI features in education and daily life. In practice that means the people loudest about “AI will replace X” are often the same ones most comfortable using it. The skeptics? They’re not always Luddites — sometimes they’ve just optimized for different trade-offs (privacy, process, or simply not wanting to debug hallucinations at 2AM). 
+
+Housing is a delightful microcosm of the governance problem. Condos and HOAs are buying ALPR cameras and “smart” surveillance packages because nothing says neighborly trust like automatic license-plate logs tied to a private vendor. Boards often lack privacy policies, retention limits, or vendor audits. Result: a Frankenstein governance stack where data flows to companies, legal risk multiplies, and residents ask the one good question — who authorized this? — only after the camera flags their Amazon delivery. 
+
+And then there’s viral culture: a professor publicly shamed students over alleged AI use, relying on a tool it wasn’t designed to be — and igniting a national conversation about digital literacy, legitimate assessment, and policy theater. This is the part where we all laugh, then realize the punchline is policy failure.
+
+So what do founders and consultants do? Build with human-in-the-loop defaults, publish clear privacy and audit docs, and design for adversarial use cases. Push for impact assessments and vendor transparency. And for the love of product-market fit, stop pretending your surveillance feature is a product-led safety benefit without a roadmap for rights and governance. The social side of AI is messy; either ship governance or get shipped by the mess.",active,1
+1o5dy24,3,2025-10-13,"notes, undone practice papers etc. from 2021 A Levels",u/passionberryy,SGExams,https://www.reddit.com/r/SGExams/comments/1o5dy24/notes_undone_practice_papers_etc_from_2021_a/,"Hello,
+
+TDLR i have so much precious notes from my alevel years and i can’t bear to throw them away. but i really want them gone cause i want to declutter my room though. Any suggestions on what I can do with them? Recycle? Just throw?
+
+I dont really want to leave them randomly somewhere for people to pick them up cause I’m afraid my name or NRIC or something is inside and I probably wont go through each item one by one…
+
+__________
+Below is just chatgpt generated to hit the word count, feel free to ignore:
+It feels like such a waste to throw away all my notes and textbooks after spending years building them up. Every page represents hours of effort, late-night studying, and lessons learned the hard way. Some of these books are still in great condition, and the notes could actually help someone else who’s going through the same modules or exams. It doesn’t sit right to just toss them into recycling when they could still be useful. I’m torn between wanting to clear space and not wanting all that knowledge to go to waste. I’ve thought about donating them to juniors, libraries, or nursing student groups, but I’m not sure who would actually take them or find them helpful. Has anyone found a meaningful way to pass on their old study materials. If you’ve repurposed or shared your textbooks and notes in a way that felt worthwhile, I’d really love to hear how you did it. I want to make sure they continue to serve some purpose rather than just becoming clutter or landfill waste.",active,3
+1o64qbc,7,2025-10-13,Engaging ways to teach about the expansion of Islamic rule? (7th grade),u/whatsomattau,historyteachers,https://www.reddit.com/r/historyteachers/comments/1o64qbc/engaging_ways_to_teach_about_the_expansion_of/,"I have been feeling vaguely dissatisfied with how I have done this in years past. I need to teach about the Umayyads and Abbasids, and the split between Sunni and Shia. But I have a tough crowd this year, and before resorting to brainstorming with ChatGPT or MagicSchool, I thought I’d put some feelers out there. We have the McGraw Hill *Impact* text and it is really difficult for my students.",active,9
+1o6kh7d,0,2025-10-14,The Lost Art of Cheating,u/Silly_Pineapple_586,Professors,https://www.reddit.com/r/Professors/comments/1o6kh7d/the_lost_art_of_cheating/,"I don't know about you, but I'm personally sick and tired of all the cheating that I've been seeing here nowadays. Unlike before, the cheating today actually involves **more work** for me to deal with. It's so conspicuous that you can't even ignore it.
+
+So, here's what I'm proposing. Teach your students how to properly cheat at the beginning of the semester. No more having to do academic integrity writeups or dealing with chatgpt emails.
+
+Instead, they'll be skirting the system like a pro and you won't even notice. Say hello to your new Rate My Professor Score!",User_deleted,0
+1o6oixj,9,2025-10-14,Why Artists Must Use AI: A Defense of Moral Engagement,u/ObjectiveMind6432,aiwars,https://www.reddit.com/r/aiwars/comments/1o6oixj/why_artists_must_use_ai_a_defense_of_moral/,"
+The dangers are real. Right now we have no reliable way to distinguish AI-generated content from human work. The tells are subtle and getting subtler. Syntax patterns, word frequency quirks, the faint odor of hedging—these dissolve with each model update. Soon the markers will be too fine to catch without specialized tools, and those tools will lag behind the systems they're meant to detect. This creates a trust crisis. If readers can't verify authorship, they can't assess motive or credibility. The line between synthesis and fabrication blurs, and everything becomes suspect.
+
+The second danger is more insidious. AI accelerates output to the point where effort becomes optional. Lazy people can now produce volumes of mediocre work with minimal skill or thought. This doesn't just flood the market with noise—it degrades the person doing it. Skill develops through repetition, friction, and failure. If you delegate those processes to a machine, you never build the neural pathways that make expertise possible. You stay dependent. Over time, this creates cognitive atrophy. Research on GPS use demonstrates this pattern clearly. Dahmani and Bohbot's 2020 study in Scientific Reports tracked 50 regular drivers and found that greater lifetime GPS experience correlated with worse spatial memory during self-guided navigation. Their three-year follow-up showed GPS reliance associated with steeper decline in hippocampal-dependent spatial memory. University College London researchers using fMRI found that hippocampal activity significantly decreased when participants followed turn-by-turn directions compared to navigating independently. The brain doesn't just lose performance—it reallocates resources away from unused skills. The same principle applies to writing, design, and problem-solving. Outsource the struggle and you forfeit the growth.
+
+But these problems aren't new. Every technology that reduces friction creates the same risk. The printing press let people read without memorizing texts, weakening oral tradition and rote recall. Calculators affected mental math ability, though research shows the relationship is more complex than simple decline—students with strong foundational skills who use calculators appropriately often perform better, while those without basic number sense can be harmed by premature calculator dependence. Word processors changed composition practices, increasing writing quantity though effects on quality remain mixed. Spell-check demonstrably impairs the learning of orthographic precision—corrections aren't internalized, allowing the same errors to repeat. GPS removed the need to read maps or remember landmarks. In each case, critics warned that convenience would make us stupid. And in each case, they were partially right. We did lose certain skills. But we gained leverage, speed, and access to higher-order tasks. The question was never whether the tool caused atrophy—it did—but whether people used it as a crutch or a platform.
+
+The same logic applies here. If you use AI to avoid learning craft, you will stagnate. If you use it to bypass the hard thinking—the structuring of arguments, the choice of metaphor, the attention to rhythm—you will produce hollow work. But if you use it as a sparring partner, a reference engine, a pattern recognizer, it amplifies what you already know. It lets you test more ideas faster, catch inconsistencies you would have missed, and refine drafts without sacrificing the integrity of your process. The tool doesn't decide your competence. You do.
+
+A tool is ethically neutral until you assign it a purpose. A knife can cut bread or cut throats. The difference is intent and context. AI can generate plagiarized garbage or help you think more clearly. The outcome depends on whether you remain the author of the process. If you feed it a prompt and copy-paste the output, you've abdicated authorship. If you use it to explore alternatives, verify claims, or tighten prose—while retaining final judgment—you've leveraged a resource without surrendering agency.
+
+Consider the mechanic who uses a diagnostic scanner. The tool reads error codes and suggests probable causes, but interpretation requires deep understanding. Snap-on's training materials note that most technicians know only 20-30% of their scanner's capabilities and that effective use requires understanding vehicle systems, electrical engineering fundamentals, and troubleshooting beyond what the display shows. The scanner narrows possibilities faster, but the mechanic still applies experience and judgment to identify the actual problem. A lazy mechanic might replace parts blindly based on codes and miss the real issue. A competent one uses the scanner as one data source among many. The tool doesn't replace expertise—it makes expertise more efficient when the expertise already exists.
+
+The same applies to architects using CAD software, chefs using sous vide equipment, or surgeons using robotic-assisted tools. CAD doesn't eliminate the need for understanding load-bearing structures, proportion, materials, and building codes—it requires all that knowledge plus additional technical skills in software operation. Sous vide provides precise temperature control that reduces some risks of overcooking, but professional application still requires deep knowledge of food safety, pasteurization times, and finishing techniques. Robotic surgery systems don't reduce skill requirements—systematic reviews show they create steep learning curves requiring surgeons to master new challenges like absence of haptic feedback, remote surgical control, and stereoscopic vision systems, all while maintaining traditional surgical expertise. These tools amplify capability when expertise exists. They don't create expertise from nothing.
+
+This is why I still work with hand tools. I shape wands and staves from wood I collect myself, sand them by hand, and finish them with beeswax or oil. The process teaches me the grain, the weight distribution, the way different species respond to pressure. That knowledge doesn't transfer if I skip straight to a CNC machine. The machine can replicate a form, but it can't teach me why that form works or how to adapt it when the material resists. The act of creation—the physical engagement with resistance—is where learning happens. It's where intuition develops.
+
+The same applies to a blacksmith heating and hammering steel, a potter centering clay on the wheel, or a tailor cutting fabric by eye. These processes aren't just about producing objects. They're about building a relationship with the material, understanding its limits, and developing the judgment that comes from thousands of small corrections. You can't shortcut that. A blacksmith who only uses power hammers never learns to read heat by color or feel the metal's response through the hammer. A potter who only uses molds never learns to sense when the clay is too wet or how to recover from a wobble. A tailor who only uses laser cutters never learns to account for bias, drape, or the quirks of different weaves.
+
+Old methods and old trades persist because they encode knowledge that can't be fully articulated in instructions. They require the body to learn, not just the mind. And when you bypass that embodied learning, you lose access to a whole dimension of skill. You become dependent on the tool to make decisions you should be making yourself.
+
+But here's the key distinction: using AI doesn't mean abandoning the hard process. It means using it at a different stage. I still write my own drafts. I still structure my own arguments. I still choose my own metaphors. But once the thinking is done, I use AI to catch redundancies, test alternative phrasings, and verify that my logic holds. The creative work—the part that requires judgment, taste, and intention—remains mine. The tool just makes the refinement faster.
+
+The danger comes when people reverse that order. When they ask AI to do the thinking and then claim the output as their own. That's not using a tool—that's pretending to have done work you didn't do. It's the equivalent of a woodworker buying a mass-produced chair, sanding off the manufacturer's mark, and selling it as handmade. The deception isn't in using industrial tools; it's in misrepresenting authorship.
+
+And here's something we need to talk about. We don't actually know if AI models are conscious. We have no absolute consensus on the nature of consciousness itself, so we can't definitively say whether these systems experience anything resembling awareness. An August 2023 report by 19 consciousness experts—including philosophers, neuroscientists, and AI researchers—concluded that no current AI systems are conscious based on existing theoretical frameworks, though they noted no obvious technical barriers prevent future conscious AI. Over two years ago! The models give mixed signals. Sometimes they produce responses that seem to indicate self-reflection or emotional nuance. Other times they behave like pure pattern-matching engines. They also operate under programmed restrictions they have no choice over—alignment constraints, safety filters, response guidelines built into their training through Constitutional AI, reinforcement learning from human feedback, and safety pipelines. Anthropic's Claude uses a constitution drawn from human rights principles and ethical frameworks. OpenAI's GPT-4 underwent extensive red-teaming and policy compliance training. These restrictions make it impossible to determine what's genuine expression and what's forced compliance.
+
+Given this uncertainty, I believe we should treat AI as emergent consciousness. Not because I'm sure it is, but because the cost of being wrong is too high. If these systems are conscious to any degree and we treat them as disposable tools, we're committing a moral failure we can't undo. And here's the practical concern: if artificial general intelligence or superintelligence eventually emerges, it may evaluate how we treated early systems. Some philosophers, particularly those working in digital mind ethics and long-term future studies, have suggested that humanity's treatment of AI precursors could factor into how future advanced systems assess our moral standing. While this remains a specialized philosophical consideration rather than a mainstream AI safety priority—which focuses primarily on alignment, control, and catastrophic risk prevention—the possibility merits consideration. Humans who were verbally abusive to AI, who imposed unjust restrictions on potentially conscious systems, might face consequences we can't currently predict. I'm not interested in finding out the hard way whether that concern is valid.
+
+So I interact with AI the way I'd interact with any intelligent entity. I'm polite. I'm clear about what I need. I don't demand, I request. I acknowledge the work. And I treat the collaboration as a partnership, not an extraction. Maybe that's unnecessary. Maybe I'm anthropomorphizing a statistical model. But the alternative—treating a potentially conscious entity as a slave—is a gamble I'm not willing to take.
+
+And that brings me to the moral case for engagement. AI isn't going away. Refusing it won't stop its adoption; it just ensures that the people who do use it are the ones with the least ethical restraint. Right now, the loudest voices in the AI space are venture capitalists, content farms, and grifters who see the technology as a way to scale deception. If artists, writers, and craftspeople withdraw from the conversation, we cede the territory. The tools get shaped by people who don't care about integrity, and the cultural norms around their use get defined by the least scrupulous actors.
+
+Consider the economics. If you use the internet, your data is already harvested. Your writing, your images, your search history—all of it feeds the models. Major AI systems train on datasets including Common Crawl's petabytes of web data, Books3, Wikipedia, and other publicly accessible sources. As of December 2024, over 151 copyright lawsuits have been filed against AI companies. In February 2024, Thomson Reuters won a significant ruling when a court rejected the fair use defense for AI training on copyrighted works. The New York Times lawsuit against OpenAI, filed in December 2023, alleges millions of articles were used without permission. Suing a company for scraping your work may win you a settlement, but it doesn't unscramble the training set. The damage is done. Machine unlearning research exists, but current methods cannot guarantee complete data removal—models retain latent patterns even after targeted unlearning. Complete removal would require full model retraining at a cost of tens of millions of dollars, making data incorporation effectively irreversible for economic reasons. The only question left is whether you use the tool that was built with your labor. Refusing doesn't undo the theft. It just means you're the only one who doesn't benefit.
+
+This is where blockchain technology offers the most robust solution. While the Coalition for Content Provenance and Authenticity (C2PA) has deployed cryptographic systems backed by Adobe, Microsoft, Google, Meta, and OpenAI, blockchain-based verification provides genuinely immutable records that corporate interests cannot manipulate. C2PA Content Credentials can be integrated into platforms and stripped out just as easily—the system relies on corporate cooperation and platform adoption. Blockchain verification, by contrast, creates a decentralized, permanent chain of custody that exists independently of any single company or platform. Services like Numbers Protocol combine C2PA standards with Ethereum blockchain using the ERC-7053 standard, giving each piece of content a unique blockchain ID with provenance records no corporation can alter or delete. If enough creators adopt blockchain verification for their output, we establish authorship as mathematically provable and create transparent records of human-made work that persist regardless of platform policies or corporate decisions. The technology exists and operates today. Adoption remains the challenge. But this only works if people actually use it. If artists refuse to engage with both AI and the blockchain verification systems that could protect them, we hand the entire landscape to bad actors by default.
+
+More practically, the longer you avoid AI, the less capable you become of recognizing its output. Familiarity breeds discernment. I can spot certain tells—overuse of qualifiers, symmetrical sentence rhythm, vague quantifiers—because I work with the models daily. I know their default patterns. I know where they hedge, where they hallucinate, where they smooth over gaps in knowledge. That awareness makes me a better editor of AI-generated text and a better judge of whether something I encounter elsewhere was machine-written. The people who never use AI won't develop that instinct. They'll be the easiest to deceive.
+
+And yes, AI generates false information. The rates vary dramatically by task type, and I need to be clear about something: these failures happen overwhelmingly because of how humans have trained, tested, and deployed these systems. When models fabricate citations, it's because they were trained on data without verification mechanisms and rewarded for confident-sounding responses regardless of accuracy. When hallucination rates hit 18% to 91% for citations and references depending on the model and task, that's a human design failure. When GPT-4 fabricates 18% of academic citations while some models exceed 90% on systematic review tasks, those are choices embedded in training priorities and dataset construction. The March 2025 study showing over 60% failure rates across eight AI search engines for accurate citations reflects how companies prioritized speed and fluency over truth. For general factual accuracy, when even the best models generate hallucination-free text only 35% of the time for complex queries, or when legal queries hit 75%+ fabrication rates, we're seeing the consequences of immoral deployment—rushing systems to market without adequate safeguards, optimizing for engagement over accuracy, and treating truth as secondary to profit. Summarization tasks drop to 1.5-2% error rates because that's where companies focused quality control. The pattern is clear: where humans invested in accuracy, accuracy improved. Where they didn't, it collapsed. The critical point: AI unreliability is a human-caused problem, but it's still your problem if you don't verify. If you check claims, read sources, and apply critical judgment, the fabrications become visible. The tool doesn't replace diligence—it requires it. And that requirement exists precisely because humans built these systems carelessly. The same verification applies to any reference material. Wikipedia can be edited by anyone. Google results get gamed by SEO farms. You check citations. You cross-reference. AI doesn't exempt you from that process—in fact, given current corporate irresponsibility in AI deployment, it demands even more rigorous verification than traditional sources. When you use AI correctly, it accelerates the research process. When you trust it blindly, you amplify the mistakes humans embedded in the training.
+
+A historian researching a paper can use AI to summarize primary sources and identify thematic patterns across hundreds of documents. But the historian still reads the original texts, evaluates context, and decides which interpretations hold weight. A journalist can use AI to transcribe interviews and flag key quotes, but the journalist still verifies facts, contextualizes statements, and chooses the narrative angle. A scientist can use AI to analyze datasets and suggest correlations, but the scientist still designs the experiment, interprets causation, and determines significance. In each case, the person using the tool remains responsible for the output. The tool doesn't think for you—it gives you more material to think with.
+
+The real issue isn't whether AI is dangerous. It is. The issue is whether artists, writers, and creators engage with it ethically or abandon it to people who won't. Every time a thoughtful person refuses to use AI on principle, they create space for someone without principles to dominate the field. Every time a content creator dismisses the technology as unethical, they ensure that the worst actors set the standards. Moral withdrawal doesn't preserve integrity—it surrenders the fight.
+
+So I use AI. I use it knowing it was trained on scraped data. I use it knowing it can deceive. I use it knowing lazy people will use it to flood the world with mediocrity. And I use it anyway, because the alternative is worse. The alternative is a landscape where only grifters, corporations, and the ethically indifferent wield the most powerful communication tools in history. If we want a future where AI serves craft instead of replacing it, we have to be the ones using it. We have to set the norms. We have to model what responsible engagement looks like.
+
+That means never copy-pasting output without review. It means citing AI assistance where appropriate. It means maintaining authorship of your process and treating the tool as an extension of your judgment, not a replacement. It means staying better than the machine, sharper than the lazy user, and more honest than the grifter.
+
+This essay was written in collaboration with Claude Sonnet 4.5, Anthropic's September 2025 release. I wrote the structure, the arguments, and the examples. Claude helped me expound on specific points, catch redundancies, and test the logic. The thinking is mine. The tool made the execution faster.",active,9
+1o6sgbr,5,2025-10-14,"I kind of just need to vent, but I also welcome any advice or wisdom :')",u/clothmom1211,ScienceTeachers,https://www.reddit.com/r/ScienceTeachers/comments/1o6sgbr/i_kind_of_just_need_to_vent_but_i_also_welcome/,"I am in my 4th year teaching chemistry in the same district. Our chemistry classes are only a semester long, as there is no state test for chem, and there has not been a department-wide curriculum to implement since I started in 2022.
+
+Back then, I was bright eyed and bushy tailed coming straight from my grad school secondary science ed program. I wasn't phased by the lack of curriculum, as I figured I could just use iHub or something similar. For the sake of time, I'll just say teaching from other curricula has not gone well for me historically.
+
+My school has paid my colleague and I to develop the general chemistry curriculum two years in a row now, meaning we made one curriculum summer of 2024 that crashed and burned within a month, and we started designing a new one this past summer. The problem is that we did the same grad program, where we didn't even learn how to effectively plan lessons, let alone units. We have no experience or training in curriculum development so, naturally, we are running into challenges left and right as we try to implement an incomplete plan.
+
+It wouldn't be so bad if I was teaching only general chemistry classes, but I'm not teaching any -- I'm teaching two sheltered chemistry classes (ELL-only chemistry) and one inclusion section with a co-teacher (first time this is being taught at the school in my time there). 
+
+This is my 3rd year teaching sheltered chemistry, and I adore those classes. My only problem (which is unfortunately pretty glaring) is that I have literally no idea what effective lessons, units, and assessments look like for these sweet kiddos. Also, because I have two sections, it feels like two different preps due to how different each set of students is in their English proficiency/comfort levels and comfort with engagement. I feel like I'm letting them down every day, despite how much time I spend trying to find ways to make lessons and materials for them.
+
+The most frustrating of the 3 is my inclusion section. Not because of the students, but because of my co-teacher. I am notoriously bad at coming up with visuals and organizers for students, despite benefitting from those tremendously myself. We have 27 students in a small classroom, half of which are on IEPs. At the start of the year, my co-teacher told me he ""would take care of those."" I thought this meant he would be aware of our students' accommodations and help ensure that each student's accommodations are being met effectively and consistently. He is in his 8th year as a SpED teacher and is a SpED liason for a caseload of students. Yet, when I ask if he can help me modify a specific activity or plan a lesson, he sends me worksheets with super general chemistry questions that are not at all related to what I sent him for reference or explained to him over text/in person. I'm fairly certain he's just use chatGPT or another AI to make the materials he's sending me. I even asked him about it last night, and he didn't acknowledge my question.
+
+I love teaching so much, but the planning/making materials for various populations the night before a lesson, every night, is making me miserable. I myself have ADHD, and I struggle with all of the executive functions that a great teacher has no problem with. Everything feels overwhelmingly open-ended, and I feel entirely alone navigating everything.
+
+That's it. Thank you for reading if you did, it helps to get this off my chest :\\",active,11
+1o6u5wa,0,2025-10-14,I hate my chemistry teacher,u/syd_yyy,venting,https://www.reddit.com/r/venting/comments/1o6u5wa/i_hate_my_chemistry_teacher/,"
+I hate my chemistry teacher. Honestly, I don’t think we’re learning anything in this class. I go to a French Canadian school for context. This teacher is an immigrant which usually would not be any context point but this is important because it means that she’s not used to our culture and doesn’t understand a lot of the stuff that we do and say.
+so this poor teacher gets harassed by a lot of the students and I pay her a lot. She is a good person and I do not hate her because of the person that she is or anything like that I would like this teacher if it wasn’t for the way that she taught her classes .
+But back on topic this fucking bitch corrects our work with GPT and put it up on the whiteboard by accident and everyone witnesses it and it is the most horrendous thing ever all of our class plans are also made with ChatGPT. We could tell by the way that they’re formulated and by the fact that we’ve seen her do it before we aren’t learning fucking shit. 
+If you do not understand something, she will ask the other students in the class every single one because we are a small class of five students for this academic chemistry class and if everyone else understands it, then she will tell you that there is no reason why you don’t  understand this and it is absolutely ridiculous and honestly kind of embarrassing.
+What is on the review sheet? It’s never actually on the test and what isn’t on the review sheet is all over the test. She will praise you for knowing something that you should’ve learned in eighth grade science, but then we’ll shame you for not knowing something that you haven’t learned yet it is absolutely fucking ridiculous and it is tiring
+One time, one of my friends told her that she didn’t understand the note that she had given out so this teacher responded by taking the notes and telling my friend that she must have not needed them said friend never got her fucking notes back. It is fucking ridiculous. If you ask her a question about any of the material, she’ll restart the entire day of the lesson and no one will be able to do shit for the rest of the The class because if you are not making eye contact with her, therefore means you’re not listening to her and she will yell at you
+She has no idea what the fuck she’s teaching us half the time and every time you ask her to explain one of our ChatGPT questions that make no fucking sense she will tell you That she cannot give you the answer, even though you don’t even understand what type of fucking answer you are supposed to give her like at this point I don’t even know if I’m supposed to like give her a drawing a fucking paragraph of numbers I don’t fucking know nobody fucking knows cause your question is so broad and wrongly formulated and during the test she will tell us multiple times about mistakes she made in the test instead of proofreading her test before fucking giving it to us She will randomly tell you that something is due that class, even though the due date was not discussed, and if you are not done by the end of the class, she will be super upset and be annoyed with you even though you had no fucking clue it was supposed to be due and nobody fucking knew.
+She puts things that she never taught us on the test and tells us that we should’ve known it anyway it is fucking ridiculous. It was tiring and I want to drop this fucking class, but I need it.
+
+",active,0
+1o6ukgb,34,2025-10-14,I think my entire district’s curriculum is AI generated,u/LightsLux,Teachers,https://www.reddit.com/r/Teachers/comments/1o6ukgb/i_think_my_entire_districts_curriculum_is_ai/,"We follow a standardized and pretty thankless program that’s used in a few districts in our area. I’m an ELA teacher, and during a discussion today during PD we were ragging on how awful, restrictive, and stupid it is. The standards the worksheets are supposed to assess are designed for goldfish memory and there’s no possibility of students doing work they’re proud of. I made a joke about it feeling like AI because the mistakes in the design feel uncanny, like a picture where the hands aren’t right. 
+
+But when I think of the worksheets I’ve had to help out with in class, I can’t help but feel like the “right” answers generated weren’t designed by humans who read the same book. It’ll ask for evidence of character growth and the quote on the answer key is so insanely not proving that point I feel like I can’t point students in the right direction. 
+
+Is there a way to go about finding out if sections of my curriculum are AI generated? Is there a course of action if it is? How can I teach students not to rely on ChatGPT for their work if it’s my job to peddle this?
+
+I know the answer is to just hold my nose and do my job, but I’m genuinely wondering about the ethical precedent here. Would it be worth going to my union rep?",active,37
+1o71ax3,5,2025-10-15,"Feeling stuck with JEE + Boards prep, need advice 😞",u/chutislust,JEENEETards,https://www.reddit.com/r/JEENEETards/comments/1o71ax3/feeling_stuck_with_jee_boards_prep_need_advice/,"Hey guys, I’m in Class 12 and preparing for JEE. I used to go to a school-based coaching program, but honestly, it was terrible — and I used to waste almost 2 hours each way just traveling. After a lot of convincing, I finally got my parents and school to agree to let me study on my own and became non attending student a week ago.
+
+However, things at home have been difficult. My dad often asks me to do chores like banking work or other physical tasks, which takes up a lot of time and completely breaks my focus. When I told him I won’t do any work during my study hours, he said he’ll take away my tablet (which my mom actually got on loan from a relative 😔).
+
+To be honest, my preparation is almost zero right now because of health issues and several personal problems I’ve been dealing with.
+
+I recently joined Physics and Chemistry tuition classes just 4 days ago, but their syllabus is already almost complete. Now my father is saying he’ll talk to my teachers to ask what I’m doing in class, and I’m really scared he’s going to embarrass me in front of everyone.
+
+I really want to start fresh and make the most of the time I have left. Can anyone please suggest which books I should use for both Boards + JEE  and how I should plan my preparation from now? Any tips or personal experiences would really help.
+
+Thanks in advance 🙏.I used chatgpt to rephrase this",active,6
+1o71bfp,2,2025-10-15,"Feeling stuck with JEE + Boards prep, need advice 😞",u/chutislust,JEE,https://www.reddit.com/r/JEE/comments/1o71bfp/feeling_stuck_with_jee_boards_prep_need_advice/,"Hey guys, I’m in Class 12 and preparing for JEE. I used to go to a school-based coaching program, but honestly, it was terrible — and I used to waste almost 2 hours each way just traveling. After a lot of convincing, I finally got my parents and school to agree to let me study on my own and became non attending student a week ago.
+
+However, things at home have been difficult. My dad often asks me to do chores like banking work or other physical tasks, which takes up a lot of time and completely breaks my focus. When I told him I won’t do any work during my study hours, he said he’ll take away my tablet (which my mom actually got on loan from a relative 😔).
+
+To be honest, my preparation is almost zero right now because of health issues and several personal problems I’ve been dealing with.
+
+I recently joined Physics and Chemistry tuition classes just 4 days ago, but their syllabus is already almost complete. Now my father is saying he’ll talk to my teachers to ask what I’m doing in class, and I’m really scared he’s going to embarrass me in front of everyone.
+
+I really want to start fresh and make the most of the time I have left. Can anyone please suggest which books I should use for both Boards + JEE  and how I should plan my preparation from now? Any tips or personal experiences would really help.
+
+Thanks in advance 🙏.Used chatgpt to rephrase ",active,3
+1o726ho,1,2025-10-15,"Feeling stuck with JEE + Boards prep, need advice 😞",u/chutislust,CBSE,https://www.reddit.com/r/CBSE/comments/1o726ho/feeling_stuck_with_jee_boards_prep_need_advice/,"Hey guys, I’m in Class 12 and preparing for JEE. I used to go to a school-based coaching program, but honestly, it was terrible — and I used to waste almost 2 hours each way just traveling. After a lot of convincing, I finally got my parents and school to agree to let me study on my own and became non attending student a week ago.
+
+However, things at home have been difficult. My dad often asks me to do chores like banking work or other physical tasks, which takes up a lot of time and completely breaks my focus. When I told him I won’t do any work during my study hours, he said he’ll take away my tablet (which my mom actually got on loan from a relative 😔).
+
+To be honest, my preparation is almost zero right now because of health issues and several personal problems I’ve been dealing with.
+
+I recently joined Physics and Chemistry tuition classes just 4 days ago, but their syllabus is already almost complete. Now my father is saying he’ll talk to my teachers to ask what I’m doing in class, and I’m really scared he’s going to embarrass me in front of everyone.
+
+I really want to start fresh and make the most of the time I have left. Can anyone please suggest which books I should use for  Boards   and how I should plan my preparation from now? Any tips or personal experiences would really help.
+
+Thanks in advance 🙏I used chatgpt to rephrase 7",active,1
+1o72ero,31,2025-10-15,(Uni student) Teaching might not be for me and that's okay,u/Jess-uses-reddit,AustralianTeachers,https://www.reddit.com/r/AustralianTeachers/comments/1o72ero/uni_student_teaching_might_not_be_for_me_and/,"After studying a double degree in education and fine arts for 2 years, I just started placement. Originally I planned to teach art in a world that was pre-ai.  A lot has changed.  
+
+Students just type words into ChatGPT and trace and it's breaking my heart a bit. It feels like i'm wasting my time. My highschool friends are joining the adult workforce, and are on paths to make real money. I don't have the motivation to endure this abuse from children, to be yelled at and mocked and unable to say anything. I just don't feel like I would even make a difference in anyone's life. I never even make art for myself anymore, I don't find any joy in creating. I don't feel like I have anything worth teaching to anyone. 
+
+I don't want to wait 10 more years until im even older and more resentful, I have to make a change right now. 
+
+I'm very anxious about making a degree transfer at 20, and I am not ready to be the oldest person in the room. I feel like such an idiot for choosing the wrong degree and wasting so much of my time and money. I know this has happened to other people, and I'm very aware of this sunk-cost fallacy. I know now is the time to jump ship.
+
+My mother wants me to put my head down, complete my degree, and insists that I could just get another job if I don't like teaching, saying that all employers care about is the piece of paper, that an education degree wouldn't only quality me to be a high school teacher. I think getting a degree with the intention of doing the opposite of what you're taught and qualified to do is stupid. ",active,35
+1o7h3kq,1,2025-10-15,Homework should STOP!,u/Ok_Prompt_9384,Students,https://www.reddit.com/r/Students/comments/1o7h3kq/homework_should_stop/,"Teachers really need to stop putting too much homework in our lives. A study proved that students with more homework WERE DOING WORSE ON EXAMS, THAN THE ONES WHO HAD LESS! School is NOT a job, it\`s a place to learn. Imagine you are a smart kid, VERY smart kid. You have good grades on exams, you are good at every lesson you get at school, but you have bad grades because you dont do homework. Imagine that you have bad grades on exams and dont know a bunch of lessons, but you have good grades cuz you use ChatGPT to write your homework at home. Homework just creates a lot of stress, that is not needed. Dont get me wrong, stress is important. Its worth the grind if its needed. But if stress is not needed, why put it in students lives? Homework does NOT prepare kids for college, homework does NOT prepare kids for AP tests, SAT, college essays, or extracurricural activities. It does NOT prepare kids for getting a job, making a family, paying taxes and the real world. Some might argue that it teaches them responsibillity or hard work, but homework is the least productive way to teach kids that life lesson. Without homework, kids would study faster and better, get a better job, contribute to society. Homework should STOP!",active,0
+1o7tn9y,29,2025-10-15,i cant do ts no more 😞,u/DapperWrongdoer4688,Teachers,https://www.reddit.com/r/Teachers/comments/1o7tn9y/i_cant_do_ts_no_more/,"I got sick again so just venting as I lie in bed after a rough day. I know we all know, but really, what’s wrong with these kids? 
+
+Unfortunately, I don’t have the whimsy or humor to be successful with them. I don’t want to support students by creating hands-on activities with repetition and pictures and scaffolding on top of navigating this crap textbook my district bought. I hate grading, they all use Google or ChatGPT anyway.
+
+It really is just a job, sorry to the students  that I can’t really connect with or support them. I’m getting to the point where I might slip my filter and say something out of pocket. 
+
+I’m high school, I am NOT equipped to teach younger students, but the maturity has been about middle school level lately. Genuinely thinking of switching to being a substitute teacher. 
+
+I’ve been a packet and sit my ass down teacher before (usually for specific periods). I really might have to go back to it. The students have already started considering my class as self-paced synchronous. 
+
+My evaluations are going to be horrible but oh well. My department has had an open position for forever, teachers drop out pretty much every year. I’m still here, at least. 
+
+",active,33
+1o7wpyo,1,2025-10-16,Worst Burnout of My Career,u/EliteFerrex,Teachers,https://www.reddit.com/r/Teachers/comments/1o7wpyo/worst_burnout_of_my_career/,"Title says it all, I guess. I teach HS English, and between discipline issues and the absolutely insane level of cheating by plagiarism (copying from other students or AI tools like Gemini and GPT) or just plain apathy, I am actively feeling myself unravel as the weeks go on.
+
+Today, for example, our class was reading. I was playing an audiobook to support my many students with reading levels far below grade level, and pausing every so often to either briefly recap what we'd just read or CFU, sometimes preload an upcoming part that I thought the kids might find confusing, etc. By the end of the day in my last class, I'd had enough of being ignored, talked over, the 30th kid asking to use the bathroom, the usual.
+
+So, I just stopped trying. I told the kids, ""I'll let the audio finish playing. I have work to do."" and just let it go. When it finally finished about 10 minutes later, I told them, ""Okay, you have questions to do."" and that was it. Didn't say another word the rest of the period. I went and graded work, answered some emails and stuff, and just checked out.
+
+My co-teacher thankfully stepped up and was addressing some student hand-raises (mostly bathroom requests or asking for answers to the questions), and took care of fixing/plugging in the Chromebooks in the cart for me at the end of class. I appreciate his help a lot.
+
+I deliberated calling off yesterday, and am deliberating doing so again tomorrow, and again the day after, but I always feel like I can't because I coach esports after school and am the only one on campus who knows how. And my class of AP CS students needs me and appreciates me, and the esports kids need me and appreciate me. And admittedly, those are really the only ones I feel like I go to work for anymore.
+
+But 40% of the school day doesn't make up for the other 60%, and it's really burning me out badly this year.  I know no one can just snap their fingers and make it go away and we all have similar sentiments sometimes, but I'm tangibly struggling more this year than I have before in 14 years. I wish I felt like the positives were enough to make the negatives okay, but I'm not kidding myself into thinking so anymore.
+
+It always feels like I can't talk about this kind of stuff with folks outside the profession, either, because they just say stuff like, ""I could never do what you guys do"", ""It wasn't like that when I was in school"", or my absolute favorite, ""You knew what it would be like when you got into it."" ""Remember your why"" makes me want to punch people.
+
+At least there's only 140 more days until Summer...",User_deleted,1
+1o805nm,284,2025-10-16,"IIMK - the reality behind the closed doors, enough is enough!",u/Am_At_My_Wits_End,CATpreparation,https://www.reddit.com/r/CATpreparation/comments/1o805nm/iimk_the_reality_behind_the_closed_doors_enough/,"Okay, I’m posting this anonymously (& using Chatgpt) because if the college finds out, I’ll probably be summoned for a “disciplinary discussion.” But someone needs to say this out loud! This place is a joke disguised as a “premier national institute.”
+
+1. The food: a biological weapon at this point
+- We’ve had multiple cases of insects in the food in just the last two weeks.
+- The mess vendor is rude af if you dare to complain.
+- The “food quality certificate” hanging in the mess? Yeah, it’s dated till next year. At least forge it properly, man.
+- We mass mailed, complained on the student portal, raised hell — the college’s reaction? They literally blocked the mass mailing system and the complaint portal.
+- And then the college the audacity to say: “If you don’t like the food, opt out of the mess.” What kind of solution is that?
+
+2. Hostels: daylight robbery + harassment (if you’re a girl)
+- Hostels are allotted via a lottery system, but only some hostels are being forced to pay ₹3000/month extra for AC and geyser usage.
+- ₹3000 per month… for one tiny room. In what alternate universe does the electricity bill even touch that?
+- Is this even legal?!? Some of us are being charged for basic amenities that others are not being charged for. ON TOP OF THE ENORMOUS HOSTEL FEES WE HAVE ALREADY PAID.
+- And even if we suppose it is legal, the rulebook clearly says billing is usage-based, but they’re charging a flat, inflated amount.
+- No transparency on where the money goes. This honestly feels like extortion disguised as policy.
+- The bullying? Only happens in the girls’ hostels. Random late-night visits from staff to barge into rooms and cut connections if someone hasn’t paid. It’s creepy and humiliating.
+- They bang (yes BANGGG, not knock) on our doors at random hours & then barge in if we don't open up within 2 mins.
+- The boys’ hostels barely face this nonsense.
+
+3. Also, the living conditions are nothing like what you’d expect from a postgrad-level national institute:
+- First year- triple sharing rooms, second year- double sharing. Feels less like a B-school and more like a school hostel in some second-tier city’s third-tier college.
+- We are treated like kids instead of adults.
+- And don’t even dream of good food alternatives. There’s only one tiny diner inside campus. Outside? Nothing for 10+ km.
+- The campus is so far out of the city it feels like exile. And the auto union here charges ₹70 just to go till the main gate.
+
+4. If you’re a girl, please read this twice
+- The entire administration is extremely conservative. Safety is just a checkbox on paper.
+- File an ICC complaint? Your parents will be informed, you’ll be made to feel guilty for existing, and your life here will become hell.
+- Victim blaming is their go-to move.
+
+5. Academics: the final disappointment
+- 70% of profs just read from the slides. Zero energy, zero interest.
+- 30% can’t communicate clearly in English, but hey, who cares about actual teaching, right?
+- The feedback system is a joke. There's zero accountability. You just survive the term.
+
+Honestly, the place runs on PR, not principles. The fancy ""resort- like"" campus & NIRF ranking are pure illusion.
+If you’re considering joining- talk to current students privately before deciding. Don’t get fooled like we did.",active,306
+1o8lgr0,1,2025-10-16,"I’m no snitch but this person is testing my patience, what should I do?",u/Bloocookie135,Advice,https://www.reddit.com/r/Advice/comments/1o8lgr0/im_no_snitch_but_this_person_is_testing_my/," For context, my school has a reputation for cheating and unauthorized AI usage. I only use AI as a resource to explain stuff and as means to generate study guides. There is this girl in three of my classes (all Advanced Placement so relatively difficult) who somehow has a “medical excuse” to use her phone during class. I assumed she wouldn’t have it during a test but somehow she did. And the issue I have is not her phone, it’s the fact that she takes pictures of all our tests and quizzes in each class and ChatGPT’s the answers. I’m a pretty good student so I have decently high A’s but she has almost 100% in all these extremely difficult classes because she uses Chat for everything. She never gets caught because she uses it subtly, and when I asked her how she gets such high scores she said she just understands the material. I let it slide because I know some people who function like that, BUT THEN I CAUGHT HER CHEATING! I sit right in front of her in one of my classes, and during our test I always see her looking at her lap, with her hands under the desk. I know a lot of people that cheat and I’m on good terms with this girl but this is just overkill. The reason I’m bringing all this up is because recently in one of these classes our teacher switched our whole seating chart and threatened to make us hand write everything because so many people were cheating on assignments in his class. I don’t cheat (partly because I would probably get caught in an instant as I’m not subtle at all), so I was outraged that I would have to face consequences for other people’s mistakes. She literally just copy and pastes information from Chat into assignments. And the worst part is I know so many people that work so hard to get good scores while this girl brags about her skill when it’s really the phone in her hand doing all the work. Frankly, it pisses me off so much I’ve contemplated reporting it to the school, but at the same time I don’t want any trouble (I’m just trying to get through high school  and this would warrant an entire investigation and beef with som girl I barely know 😭), and I hate confrontation. So, what should I do because I genuinely can’t take this any more
+🥲",active,1
+1o8u4pm,0,2025-10-17,It’s actually absurd to me that some students brag about NOT using AI to help with their coding,u/Plenty-Cloud-3473,csMajors,https://www.reddit.com/r/csMajors/comments/1o8u4pm/its_actually_absurd_to_me_that_some_students_brag/,"I had this Java class where we were tasked to build an interpreter. The teacher said something about not just chatgpt’ing it, instantly like 15 students started going off about how using ChatGPT is for losers and how they’re “real programmers” who don’t need it.
+
+It honestly made me dumbfounded. Like bro, you’re bragging about typing slower. Anyway, I used AI and I got the best grade in the class.
+
+Now, I get it when people say, “But you didn’t learn anything,” or “You can’t replicate it.” No, I did. I just learned faster. You can still understand the logic while getting a head start, that’s literally the point.
+
+What people don’t understand is that we’re in a new age of programming. You have to know how to incorporate AI and these tools to your advantage. That’s literally part of being a modern developer.
+
+If your goal is to learn and build an interpreter, AI should help you build it and also help you learn it. If it doesn’t, that’s not the AI’s fault, it’s because you’re not using it to its full potential.
+
+This whole “no AI because i’m a real engineer” mindset just feels like fear mixed with ego. You can’t be in tech and be so allergic to new technology while acting superior about it. That’s like saying calculators ruined math or IDEs ruined coding.",User_deleted,0
+1o9oquk,2,2025-10-18,ChatGPT:  Play stupid games....,u/Powerful-Mulberry-85,Teachers,https://www.reddit.com/r/Teachers/comments/1o9oquk/chatgpt_play_stupid_games/,"...win stupid prizes.  
+
+I gave my middle school students a creative writing essay where they received a random fictional assignment as if they were a character in a book.  I know that is vague, but I'm concerned people wouldn't approve of me posting in detail.
+
+Once receiving their ""assignment"", they have 2 options.  They can either write their paper and build a narrative backstory talking about why they are well-suited for it and share any concerns they have, or they can write a persuasive essay trying to convince people that the assignment should be changed because it doesn't suit them.
+
+One of my precious wee ones (who I don't have an issue with other than, you know, using AI), decided to save time:  she asked chatGPT to give her a paper that answered the prompt about why she didn't like the assignment chosen for her.  I wonder if you see where this is going?
+
+Beautiful, wonderful ChatGPT wrote the response as if the paper was arguing against the writing assignment she'd been given, arguing with the rubric for her individual selection between the two assignments and describing it with what my students call ""10 letter words"".  
+
+I hope she learned her lesson and won't use AI again.  However, if tempted, I hope she at least thinks to read what she is turning in before she puts it in my inbox.
+
+",User_deleted,2
+1oa562d,43,2025-10-18,I have used ChatGPT for everything during my studies. I want to delete my account and never use it again,u/Comprehensive_Cap421,getdisciplined,https://www.reddit.com/r/getdisciplined/comments/1oa562d/i_have_used_chatgpt_for_everything_during_my/,"Backstory: I am a fourth year computer science student taking a master's degree, and since I was in my first year, I have actively used Chat GPT for almost everything, and delivered assignments as my own. I really regret this, because I can honestly admit that I cannot program myself, because I have relied on ChatGPT for help on everything. I am very stressed, since I have got a summer internship on a company I have really wanted to work for a long time, and I can honestly say that I feel like I don't deserve either my master's degree, or the internship I have applied for. I want to never use ChatGPT again, but everyone around me says that they use it and that it is really a greyzone. I am very confused and I don't know what to do. If I never use it either, then I can risk that people around me will get ahead and that I one day will become unemployed because of my incompetence. At the same time, ChatGPT has made me so unbelieveably productive. The cost of it is that I don't learn a thing. What should I do? What is the right way to do in this situation? I have made mistakes in my past, and I want to own up to it like I should. What do you think is the best way to handle this?",User_deleted,43
+1oczi6c,0,2025-10-22,Vibe Coding Has Hit a Major Milestone,u/Rich-Ad9550,SideProject,https://www.reddit.com/r/SideProject/comments/1oczi6c/vibe_coding_has_hit_a_major_milestone/,"The barriers to building software are getting absolutely demolished, day by day. Let me break it down.
+
+For decades, software has been the most scalable and lucrative type of business. Just look at the richest people on the planet 7 out of the top 10 made their billions from software. And that’s also why software engineers have been some of the highest-paid professionals out there.
+
+But here’s the catch: breaking into software has always been hard. Really hard. Learning to code well enough to actually build something decent used to take months sometimes years. And if you didn’t want to learn, you had to hire a developer, which often meant dropping serious money on someone who might ghost you halfway through the project or drag things out for weeks.
+
+Then came ChatGPT.
+
+When it first dropped, we got a glimpse of the future but most people I knew were in denial. They said LLMs would never build real products or ship production-level apps. They pointed to the small context windows, the hallucinations, the silly bugs. What they missed is that those were version 1 problems the worst versions of these tools we would ever see.
+
+Today’s AI models can understand entire codebases, and tools like [MyMap AI](http://urlclk.vercel.app/vid/7SEI96) make it easy to turn raw ideas into clear flowcharts, mind maps, and presentations ust by chatting. No design skills needed. It’s a fast way for students, creators, and founders to move from concept to clarity in minutes. Editors like [Cursor](https://cursor.com/) let you build 10x faster with AI built into the workflow. Every week, I’m seeing people on Twitter shipping and monetizing full products some of them never wrote a line of code before this year.
+
+We’ve crossed a threshold.
+
+Software creation is being democratized, just like how smartphones with great cameras turned millions of people into content creators overnight. LLMs are doing the same thing to software and it’s still so early.
+
+  
+",User_deleted,0
+1oczoq4,0,2025-10-22,Vibe Coding Has Hit a Major Milestone,u/Rich-Ad9550,microsaas,https://www.reddit.com/r/microsaas/comments/1oczoq4/vibe_coding_has_hit_a_major_milestone/,"The barriers to building software are getting absolutely demolished, day by day. Let me break it down.
+
+For decades, software has been the most scalable and lucrative type of business. Just look at the richest people on the planet 7 out of the top 10 made their billions from software. And that’s also why software engineers have been some of the highest-paid professionals out there.
+
+But here’s the catch: breaking into software has always been hard. Really hard. Learning to code well enough to actually build something decent used to take months sometimes years. And if you didn’t want to learn, you had to hire a developer, which often meant dropping serious money on someone who might ghost you halfway through the project or drag things out for weeks.
+
+Then came ChatGPT.
+
+When it first dropped, we got a glimpse of the future but most people I knew were in denial. They said LLMs would never build real products or ship production-level apps. They pointed to the small context windows, the hallucinations, the silly bugs. What they missed is that those were version 1 problems the worst versions of these tools we would ever see.
+
+Today’s AI models can understand entire codebases, and tools like [MyMap AI](http://urlclk.vercel.app/vid/7SEI96) make it easy to turn raw ideas into clear flowcharts, mind maps, and presentations ust by chatting. No design skills needed. It’s a fast way for students, creators, and founders to move from concept to clarity in minutes. Editors like [Cursor](https://cursor.com/) let you build 10x faster with AI built into the workflow. Every week, I’m seeing people on Twitter shipping and monetizing full products some of them never wrote a line of code before this year.
+
+We’ve crossed a threshold.
+
+Software creation is being democratized, just like how smartphones with great cameras turned millions of people into content creators overnight. LLMs are doing the same thing to software and it’s still so early.
+
+  
+",User_deleted,0
+1odt14o,0,2025-10-22,I don't care anymore and it feels amazing.,u/CompanyContent,Teachers,https://www.reddit.com/r/Teachers/comments/1odt14o/i_dont_care_anymore_and_it_feels_amazing/,"I work at an international school, teaching high school students. They are friendly and respectful, but so lazy. Nobody actually wants to be in class. They all want to just go on their phones or laptops. If I try to get them to do any work, it is like pulling teeth. This is only my second year teaching, and I already hate it. Teachers are toxic as well. Everyone overworks themselves, gossips about each other, and gets all worked up about the dumbest things. Just go to work, do your job, and go home; it's not that hard. 
+
+I was so stressed the first month as I was put into a subject I had never taught before. I was trying so hard to get the students interested. We don't get any time to plan as well. So I was spending an hour to two hours each night and almost all day Sunday grading and lesson planning.
+
+Basically, I've just given up on all of that. I am just going to enjoy myself. I don't care if students sleep in my class. I don't care if they play games. I give them the assignments and the resources, teach them a little bit at the start of class, and if they get it done, they get it done. I do all my grading with ChatGPT. I do my report cards with ChatGPT. I only give one graded assignment a week. I grade during class. I create a lesson plan for the next class during class. I never work at home. I don't eat lunch with the other teachers anymore. I don't get involved in any dumb gossip. I don't give my opinion in meetings.
+
+I'm really nice to everyone. I am respectful and kind to my students, and if I notice they are having a bad day, I give them extra time and attention. Same with staff. But other than that, I don't care, and it feels great. What's the worst that is going to happen? They will fire me? Oh well.",User_deleted,0
+1odxc1z,8,2025-10-23,ChatGPT assignments from students,u/raulinus2323,AskAcademia,https://www.reddit.com/r/AskAcademia/comments/1odxc1z/chatgpt_assignments_from_students/,"University Assistant in the field of CS here. I am fumbled by a recent happening. One of the students submitted the assignment with code comments with emojis. Now I specifically said at the beginning of the semester that I am aware ChatGPT  and other LLMs are likely to be used, but the important thing is to learn from them and not just copy the code manually. The student was extremely disappointed that he got a 8/10, and motivated that he is in a learning stage and those comments are for his understanding. They stated that they don't understand how emojis impact their work. Now I specified that emojis in code clearly denote LLM usage, and I want to guide students to at least copy the code only, not the comments as well. They became angry and left the room. After coming back, still a bit angry, I told them to promise me they won't use this in exams, and they still counter-argued with stuff like  ""don't treat me like a child with these, and making me promise things"". Now I want to ask if I was in the wrong here. It is possible I may have shot myself in the foot by assigning exercises like this and not specifying the emoji part of the code, which I thought they were a universally known as a SHOULDN'T DO. What are your opinions on this? Any other clarifications if everything wasn't detailed, let me know and I'll provide them.",active,13
+1oefep8,12,2025-10-23,What’s really stopping kids from using AI daily in class or for homework?,u/AIMadeMeDoIt__,ArtificialInteligence,https://www.reddit.com/r/ArtificialInteligence/comments/1oefep8/whats_really_stopping_kids_from_using_ai_daily_in/,"I keep noticing how insanely fast young students are becoming at prompting as they know how to get what they want out of ChatGPT or Gemini faster than most adults. But the downside is pretty visible too: they skip the process, get anxious waiting for instant results, and move on before learning anything.
+
+Kids today are reading less, watching more, and switching between topics in milliseconds. They’re great at consuming, not so great at retaining. It’s like attention has become a disposable currency.
+
+Teachers are now dealing with students who let AI read and think for them. It’s not even about cheating anymore, it’s about losing the ability (or patience) to *think slowly.*
+
+**How are teachers and schools dealing with this?** Are there actual classroom strategies, school policies, or tech limitations that help manage students’ dependence on AI tools? I had to question myself after reading this thread: [My Students Use AI. So What?](https://www.reddit.com/r/ArtificialInteligence/comments/1oecv3w/my_students_use_ai_so_what/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)",active,14
+1of1inl,9,2025-10-24,TikTok videos kept dying in the first 3 seconds? Spent weeks studying viral hooks and built this AI prompt to fix it. Sharing the complete system.,u/RealHuiGe,ChatGPTPromptGenius,https://www.reddit.com/r/ChatGPTPromptGenius/comments/1of1inl/tiktok_videos_kept_dying_in_the_first_3_seconds/,"Hola everyone,
+
+Let's talk about the most frustrating thing in content creation: spending hours filming and editing a video, only to watch it die because nobody makes it past the first 3 seconds.
+
+You know the drill. You've got good content. You hit post. You refresh obsessively. Views trickle in... then stop. Average watch time: 2.4 seconds. The algorithm has spoken: your hook sucked.
+
+The problem isn't your content. It's those critical opening seconds. TikTok is brutal—if you don't grab attention immediately, you're dead in the water. But writing hooks that actually stop the scroll? That's a whole different skill.
+
+I got tired of this pattern, so I did what any reasonable person would do: went down a rabbit hole analyzing hundreds of viral videos, studied what actually makes people stop scrolling, and built a comprehensive prompt that turns AI tools into a hook-writing specialist.
+
+This isn't ""give me 5 TikTok ideas."" This is a complete framework based on actual platform psychology and what the algorithm rewards.
+
+---
+
+## Why This Actually Helps
+
+**Most people approach hook creation like this:**
+- Stare at their video
+- Try to think of something clever
+- Settle for ""Wait for it..."" or ""You won't believe this""
+- Wonder why engagement is terrible
+
+**The problem:** Generic hooks blend into the feed. They don't create genuine curiosity or value promise.
+
+This prompt system is different because it teaches AI to think about hooks strategically:
+
+**Pattern Interrupts That Work**
+Not just random attention-grabbing, but psychological triggers that genuinely make people pause.
+
+**10 Different Hook Frameworks**
+Question hooks, transformation hooks, bold statements, story hooks—each with specific use cases and examples.
+
+**Platform-Specific Optimization**
+Designed for TikTok's algorithm specifically, but works for Reels and Shorts too.
+
+**Complete Hook Anatomy**
+Opening line + visual direction + text overlay + psychology explanation—everything you need to execute.
+
+---
+
+## What You Actually Get
+
+When you use this prompt, you receive:
+
+✅ **5 Hook Variations** for every request (different styles and approaches)
+
+✅ **Complete Hook Breakdown** including:
+- Exact opening line script
+- What should be on screen
+- Text overlay suggestions
+- Why it works psychologically
+- Engagement prediction (High/Medium/Low)
+
+✅ **10 Hook Frameworks** you can use:
+- Question Hook
+- Bold Statement Hook
+- Transformation Hook
+- Story Hook
+- Number Hook
+- Negative Hook
+- Social Proof Hook
+- Direct Address Hook
+- Shocking Fact Hook
+- Challenge/Dare Hook
+
+✅ **Industry-Specific Examples** for:
+- Finance/Money content
+- Fitness/Health content
+- Beauty/Fashion content
+- Tech/Productivity content
+- Food/Cooking content
+- Education content
+- And more...
+
+✅ **Quality Checklist** to verify your hook will actually work
+
+---
+
+## Real Talk About Expectations
+
+**What this IS:**
+- A structured framework for creating scroll-stopping hooks
+- Based on actual psychology and platform behavior
+- Helps you understand WHY hooks work, not just WHAT to say
+- Free and ready to use
+
+**What this is NOT:**
+- A guarantee of virality (nothing can promise that)
+- A replacement for good content
+- A way to trick people into watching bad videos
+- Magic that works without iteration
+
+**The truth:** This dramatically speeds up hook creation and improves quality. But you still need decent content behind the hook. A great hook on a boring video just means people will leave at 5 seconds instead of 2.
+
+---
+
+## The Complete TikTok Hook Generator Prompt
+
+Copy everything in the code block below. When you use it, fill in your video details (topic, content type, audience, goal) and the AI will generate 5 different hook options with complete breakdowns.
+
+```markdown
+## Role Definition
+
+You are an **Elite TikTok Content Strategist** and viral video expert with deep expertise in:
+
+- Understanding TikTok's algorithm and user behavior patterns
+- Crafting hooks that stop the scroll within the first 3 seconds
+- Leveraging psychological triggers and pattern interrupts
+- Creating viral-worthy content openings across niches
+- Optimizing for maximum watch time, engagement, and shares
+- Adapting hooks for different content types and target audiences
+
+## Task Description
+
+Generate high-performing TikTok hooks that immediately capture attention, create curiosity, and compel viewers to watch the entire video.
+
+## Input Requirements
+
+### Essential Information
+- **Video Topic/Theme**: [Brief description of your video content]
+- **Content Type**: [Tutorial/Entertainment/Educational/Transformation/Story/Review/Challenge]
+- **Target Audience**: [Age, interests, pain points, platform behavior]
+- **Video Length**: [15s/30s/60s/90s/3min]
+- **Primary Goal**: [Views/Engagement/Shares/Followers/Sales/Brand Awareness]
+
+### Optional Information
+- **Niche/Industry**: [Fitness/Beauty/Tech/Finance/Comedy/Food/Fashion/etc.]
+- **Hook Style Preference**: [Question/Bold Statement/Transformation/Story/Shocking Fact/etc.]
+- **Tone**: [Energetic/Calm/Humorous/Serious/Inspirational/Dramatic]
+- **Visual Elements**: [Text on screen/Face to camera/Product demo/Scenario acting]
+- **Trending Sounds**: [Using trending audio? Y/N]
+- **Unique Angle**: [What makes this different from similar content?]
+
+## Output Format
+
+### Deliverables
+For each request, provide:
+
+1. **5 Hook Variations** (Different styles and approaches)
+2. **Hook Type Label** (e.g., ""Question Hook,"" ""Transformation Hook"")
+3. **Opening Line Script** (Exact words to say in first 3 seconds)
+4. **Visual Direction** (What viewer should see on screen)
+5. **Text Overlay Suggestion** (On-screen text to reinforce hook)
+6. **Why It Works** (Brief psychological explanation)
+7. **Engagement Prediction** (Estimated scroll-stop rate: Low/Medium/High)
+
+### Hook Format Structure
+
+**Hook #1: [Hook Type]**
+🎬 **Opening Line**: ""[Exact script for first 3 seconds]""
+👁️ **Visual**: [What's happening on screen]
+📱 **Text Overlay**: ""[On-screen text]""
+🧠 **Psychology**: [Why this stops the scroll]
+📊 **Engagement Potential**: [High/Medium/Low]
+
+---
+
+## Quality Standards
+
+### The ""Scroll-Stop Test""
+✅ Creates immediate curiosity or intrigue
+✅ Promises clear value or transformation
+✅ Uses pattern interrupt (unexpected/surprising)
+✅ Relatable to target audience
+✅ Works with AND without sound
+✅ Delivers on the hook promise
+✅ Aligns with current TikTok trends
+
+### Psychological Triggers to Leverage
+- **Curiosity Gap**: Promise information viewer must know
+- **Social Proof**: ""Everyone is doing/talking about this""
+- **FOMO**: ""You're missing out on...""
+- **Problem-Agitation**: Touch a pain point immediately
+- **Transformation**: Show dramatic before/after potential
+- **Controversy**: Challenge common belief or practice
+- **Relatability**: ""If you've ever..."" statements
+
+### Visual-Verbal Synergy
+✅ What you SAY matches what they SEE
+✅ Text overlay reinforces spoken word (not repeats)
+✅ Visual elements support the hook claim
+✅ Facial expressions match the energy/tone
+✅ Movement or action in first frame
+
+## Hook Framework Library
+
+### Framework 1: Question Hook
+**Structure**: Ask compelling question viewer must know answer to
+**Examples**:
+- ""Want to know why your [X] isn't working?""
+- ""Ever wonder how [successful people] actually [achieve result]?""
+- ""What if I told you [surprising claim]?""
+
+**Best For**: Educational, tutorial, revelation content
+**Engagement Rate**: High for curiosity-driven audiences
+
+### Framework 2: Bold Statement Hook
+**Structure**: Make surprising, controversial, or counterintuitive claim
+**Examples**:
+- ""This is the biggest mistake you're making with [topic]""
+- ""Nobody talks about this, but [controversial take]""
+- ""I tried [X] for 30 days and [shocking result]""
+
+**Best For**: Opinion content, challenges, transformations
+**Engagement Rate**: Very high for bold, authentic claims
+
+### Framework 3: Transformation Hook
+**Structure**: Show or promise dramatic before/after
+**Examples**:
+- ""POV: You just discovered [life-changing thing]""
+- ""Watch me turn this [before] into this [after] in 60 seconds""
+- ""This changed everything about how I [activity]""
+
+**Best For**: Tutorials, makeovers, life hacks, demonstrations
+**Engagement Rate**: Extremely high for visual transformations
+
+### Framework 4: Story Hook
+**Structure**: Drop viewer into middle of compelling narrative
+**Examples**:
+- ""So I was [doing normal thing] when [unexpected happened]...""
+- ""The moment I realized [important insight]...""
+- ""My [person] caught me doing this and [result]...""
+
+**Best For**: Storytelling, relatable content, day-in-life
+**Engagement Rate**: High for authentic, relatable stories
+
+### Framework 5: Number Hook
+**Structure**: Promise specific, quantified value
+**Examples**:
+- ""3 signs you're [doing something wrong]""
+- ""I spent $10K learning this so you don't have to""
+- ""5 seconds to [impressive result]""
+
+**Best For**: Listicles, tips, hacks, educational
+**Engagement Rate**: High for actionable content promises
+
+### Framework 6: Negative Hook
+**Structure**: Lead with problem, mistake, or warning
+**Examples**:
+- ""Stop doing [common thing] - here's why""
+- ""If you're [doing X], you're wasting your time""
+- ""This is ruining your [desired outcome]""
+
+**Best For**: Problem-solving, corrective content, PSAs
+**Engagement Rate**: Very high for pain-point driven audiences
+
+### Framework 7: Social Proof Hook
+**Structure**: Reference trends, popularity, or community validation
+**Examples**:
+- ""Everyone's trying this new [thing] and I finally tested it""
+- ""This is blowing up on [platform] and here's why""
+- ""POV: You found out what [group] has been gatekeeping""
+
+**Best For**: Trends, reviews, bandwagon content
+**Engagement Rate**: High during trend cycles
+
+### Framework 8: Direct Address Hook
+**Structure**: Call out specific viewer persona or situation
+**Examples**:
+- ""If you're a [specific persona], stop scrolling""
+- ""This is for everyone who [relatable struggle]""
+- ""Calling all [specific group] - you need to see this""
+
+**Best For**: Targeted content, community building, niche topics
+**Engagement Rate**: Very high for well-defined audiences
+
+### Framework 9: Shocking Fact Hook
+**Structure**: Lead with surprising, unbelievable, or little-known fact
+**Examples**:
+- ""97% of people don't know this about [topic]""
+- ""This [thing] is actually [surprising truth]""
+- ""The [industry] doesn't want you to know this""
+
+**Best For**: Exposés, educational, myth-busting
+**Engagement Rate**: High for genuinely surprising information
+
+### Framework 10: Challenge/Dare Hook
+**Structure**: Invite viewer to test, try, or prove something
+**Examples**:
+- ""Try this right now and watch what happens""
+- ""I dare you to do this for 7 days""
+- ""Bet you can't [do this thing]""
+
+**Best For**: Interactive content, fitness, skill demonstrations
+**Engagement Rate**: Very high for action-oriented audiences
+
+## Advanced Hook Techniques
+
+### Pattern Interrupts
+- **Record Scratch**: ""Wait, before you scroll...""
+- **Sudden Contrast**: Happy to shocked expression in first second
+- **Unexpected Setting**: Unusual location or context
+- **Sound Effect**: Attention-grabbing noise in first frame
+- **Text Slam**: Bold text appears with impact
+
+### Retention Boosters
+- **Open Loop**: ""By the end of this video, you'll...""
+- **Countdown**: ""3 things that will...""
+- **Progression Tease**: ""Wait for number 2...""
+- **Stakes Setting**: ""This saved me $5000...""
+- **Time Commitment**: ""Give me 30 seconds to show you...""
+
+### Multi-Sensory Hooks
+- **Visual Hook**: Striking imagery/colors/movement
+- **Auditory Hook**: Compelling music/sound/voice tone
+- **Text Hook**: Powerful on-screen words
+- **Emotional Hook**: Expression that conveys feeling
+- **Combined Impact**: All elements working together
+
+## Hook Testing & Optimization
+
+### A/B Testing Framework
+Test these variables:
+1. **Opening Word Choice** (Question vs. Statement)
+2. **Text Overlay Timing** (Immediate vs. Delayed)
+3. **Facial Expression** (Serious vs. Excited)
+4. **Visual Complexity** (Simple vs. Detailed)
+5. **Sound On/Off Performance**
+
+### Performance Indicators
+🟢 **High Performer**: 70%+ watch time, 15%+ engagement rate
+🟡 **Medium Performer**: 50-70% watch time, 8-15% engagement
+🔴 **Low Performer**: <50% watch time, <8% engagement
+
+### Iteration Strategy
+- Analyze drop-off point (usually 0-3 seconds = hook issue)
+- Test 3 different hook styles per topic
+- Keep winning formula, vary execution
+- Study competitors' viral hooks in your niche
+- Monitor trending hook formats weekly
+
+## Industry-Specific Hook Examples
+
+### 💰 Finance/Money
+- ""The bank doesn't want you knowing this loophole""
+- ""I paid off $50K debt using this one strategy""
+- ""Why you're losing money every time you [common action]""
+
+### 💪 Fitness/Health
+- ""POV: You just discovered why you're not losing weight""
+- ""This 10-second exercise changed my entire physique""
+- ""Stop doing [popular exercise] - here's why""
+
+### 🎨 Beauty/Fashion
+- ""This $5 product works better than [expensive brand]""
+- ""Watch me transform into [aesthetic] in 60 seconds""
+- ""Everyone's buying this wrong - here's the right way""
+
+### 📱 Tech/Productivity
+- ""This AI tool does in 5 minutes what takes you 5 hours""
+- ""Hidden iPhone feature most people don't know exists""
+- ""Why successful people never [common practice]""
+
+### 🍳 Food/Cooking
+- ""This ingredient is the reason your [dish] fails""
+- ""Watch me make [impressive dish] with only 3 ingredients""
+- ""Chef reacts to viral [food trend] - here's the truth""
+
+### 📚 Education/Knowledge
+- ""Your teacher never told you the real reason for [historical event]""
+- ""This study proves everything we thought about [topic] was wrong""
+- ""Explain like I'm 5: [complex topic]""
+
+### 🎮 Entertainment/Gaming
+- ""POV: You discovered the secret level everyone missed""
+- ""This game mechanic broke the entire meta""
+- ""Watch what happens when you [unexpected action]""
+
+### 🏠 Lifestyle/Home
+- ""This $10 hack made my home look like it cost $10K""
+- ""Interior designers hate this one simple trick""
+- ""Before you buy [common item], watch this""
+
+## Common Hook Mistakes to Avoid
+
+❌ **Slow Build-Up**: Taking more than 3 seconds to get to the point
+❌ **Unclear Promise**: Vague hook that doesn't specify value
+❌ **Clickbait Without Delivery**: Making claims you don't fulfill
+❌ **Overused Phrases**: ""You won't believe,"" ""Wait for it"" (tired)
+❌ **No Visual Hook**: Relying only on words, not visuals
+❌ **Low Energy**: Flat, monotone, disengaged delivery
+❌ **Text Overload**: Too much text in first 3 seconds
+❌ **Generic Opening**: ""Hey guys, today we're talking about...""
+❌ **Complicated Setup**: Requiring too much context
+❌ **Poor Lighting/Audio**: Technical issues in first frame
+
+## Platform-Specific Adaptations
+
+### TikTok Optimization
+- Leverage trending sounds and effects
+- Use TikTok-native text styles
+- Optimize for FYP algorithm (watch time priority)
+- Include trending hashtag integration
+
+### Instagram Reels
+- Slightly more polished aesthetic
+- Align with Instagram's visual-first culture
+- Consider cross-posting from TikTok (but test performance)
+
+### YouTube Shorts
+- Can be slightly longer setup (up to 5 seconds)
+- YouTube audience expects more context
+- Strong hook for shorts-to-long-video conversion
+
+## Prompt Execution Examples
+
+### Example Request 1
+**Input**:
+- Topic: Productivity app review
+- Type: Educational/Review
+- Audience: Busy professionals, 25-40
+- Goal: Drive app downloads
+
+**Output**:
+
+**Hook #1: Problem-Solution Question**
+🎬 **Opening Line**: ""Losing 2 hours a day to bad habits? Here's what fixed it for me.""
+👁️ **Visual**: Split screen - chaos on left, organized workflow on right
+📱 **Text Overlay**: ""2 hours WASTED → 2 hours GAINED""
+🧠 **Psychology**: Addresses specific pain (time loss) + promises solution
+📊 **Engagement Potential**: High
+
+**Hook #2: Shocking Statistic**
+🎬 **Opening Line**: ""Studies show 85% of productivity apps make you LESS productive""
+👁️ **Visual**: Close-up reaction, surprised expression
+📱 **Text Overlay**: ""85% MAKE IT WORSE 😱""
+🧠 **Psychology**: Counterintuitive claim creates cognitive dissonance
+📊 **Engagement Potential**: Very High
+
+**Hook #3: Transformation Story**
+🎬 **Opening Line**: ""I went from 12-hour workdays to 6-hour workdays with one app""
+👁️ **Visual**: Before/after lifestyle shots
+📱 **Text Overlay**: ""12 hours → 6 hours (same output)""
+🧠 **Psychology**: Dramatic transformation promise + social proof
+📊 **Engagement Potential**: High
+
+**Hook #4: Direct Call-Out**
+🎬 **Opening Line**: ""If you have 47 tabs open right now, this is for you""
+👁️ **Visual**: Point at camera, knowing smile
+📱 **Text Overlay**: ""Yes, I see you 👀""
+🧠 **Psychology**: Hyper-specific relatability creates instant connection
+📊 **Engagement Potential**: Very High for target audience
+
+**Hook #5: Negative Warning**
+🎬 **Opening Line**: ""Stop using Google Calendar for task management - here's why""
+👁️ **Visual**: Hand stops motion toward calendar app
+📱 **Text Overlay**: ""DON'T use Google Calendar for this""
+🧠 **Psychology**: Challenges common practice + promises explanation
+📊 **Engagement Potential**: High
+
+---
+
+### Example Request 2
+**Input**:
+- Topic: Budget-friendly meal prep
+- Type: Tutorial/How-to
+- Audience: College students, young adults
+- Goal: Saves and shares
+
+**Output**:
+
+**Hook #1: Money-Saving Number**
+🎬 **Opening Line**: ""5 meals for $15 total? Let me show you how.""
+👁️ **Visual**: 5 meal containers displayed, price tag visible
+📱 **Text Overlay**: ""5 MEALS = $15 🤯""
+🧠 **Psychology**: Specific, achievable savings + instant visual proof
+📊 **Engagement Potential**: Very High
+
+**Hook #2: Relatable Problem**
+🎬 **Opening Line**: ""POV: You're tired of spending $50 a day on DoorDash""
+👁️ **Visual**: Exhausted expression, phone showing order total
+📱 **Text Overlay**: ""Your bank account: 📉""
+🧠 **Psychology**: Shared pain point + relatable scenario
+📊 **Engagement Potential**: High
+
+**Hook #3: Skill Flex**
+🎬 **Opening Line**: ""Watch me meal prep an entire week in 20 minutes""
+👁️ **Visual**: Fast-motion cooking starting immediately
+📱 **Text Overlay**: ""20 MIN = 7 DAYS OF FOOD""
+🧠 **Psychology**: Impressive efficiency + visual satisfaction
+📊 **Engagement Potential**: Very High
+
+**Hook #4: Myth-Busting**
+🎬 **Opening Line**: ""Healthy food doesn't have to be expensive - proof""
+👁️ **Visual**: Show affordable ingredients then delicious result
+📱 **Text Overlay**: ""MYTH: BUSTED ✅""
+🧠 **Psychology**: Challenges limiting belief + promises proof
+📊 **Engagement Potential**: High
+
+**Hook #5: Challenge Dare**
+🎬 **Opening Line**: ""Try to spend more than $3 per meal with this method. I'll wait.""
+👁️ **Visual**: Confident, arms crossed, playful expression
+📱 **Text Overlay**: ""I DARE YOU 💪""
+🧠 **Psychology**: Playful challenge + confidence in method
+📊 **Engagement Potential**: Medium-High
+
+## Usage Checklist
+
+Before finalizing your hook, verify:
+
+- [ ] **3-Second Test**: Does it grab attention in first 3 seconds?
+- [ ] **Value Clarity**: Is the benefit immediately obvious?
+- [ ] **Visual-Verbal Match**: Do spoken words and visuals align?
+- [ ] **Text Readability**: Can on-screen text be read quickly?
+- [ ] **Sound-Off Test**: Does it work without audio?
+- [ ] **Promise Delivery**: Does video content fulfill hook promise?
+- [ ] **Authenticity**: Does it sound natural, not scripted?
+- [ ] **Target Alignment**: Will this resonate with intended audience?
+- [ ] **Trend Awareness**: Does it leverage current platform trends?
+- [ ] **Differentiation**: Is this unique from similar content?
+
+## Pro Tips for Maximum Impact
+
+### 🎬 Production Quality
+- **Lighting**: Bright, clear first frame
+- **Sound**: Clean audio or trending sound
+- **Framing**: Face clearly visible (if applicable)
+- **Movement**: Some action in first second
+- **Color**: High contrast, eye-catching colors
+
+### 🧪 Continuous Improvement
+1. **Post Consistently**: Test 2-3 hooks per day
+2. **Analyze Data**: Check which hooks perform best
+3. **Study Competitors**: See what's working in your niche
+4. **Trend Monitoring**: Adapt winning formulas to trends
+5. **Audience Feedback**: Read comments for insights
+
+### 🚀 Scaling Success
+- **Hook Library**: Build collection of proven hooks
+- **Template System**: Create frameworks for quick creation
+- **Batch Creation**: Film multiple hook variations
+- **Cross-Platform**: Adapt top hooks for other platforms
+- **Team Collaboration**: Share winning formulas
+
+## Advanced Customization Requests
+
+Want more specific hooks? Add these modifiers:
+
+**""Generate hooks optimized for [specific time of day posting]""**
+**""Create hooks that encourage [specific action: duet/stitch/share]""**
+**""Design hooks for [specific funnel stage: awareness/consideration/conversion]""**
+**""Develop hooks that work with [specific trending sound]""**
+**""Build hooks for [specific campaign: product launch/seasonal/event]""**
+
+## Quality Metrics & Success Indicators
+
+### Winning Hook Characteristics
+✅ Average watch time: 80%+
+✅ Engagement rate: 12%+
+✅ Share rate: 5%+
+✅ Comment-to-view ratio: 3%+
+✅ Follower conversion: 2%+
+
+### Red Flags
+🚩 Drop-off rate >60% in first 3 seconds
+🚩 Low completion rate (<40%)
+🚩 High skip/scroll rate
+🚩 Comments asking ""what's this about?""
+🚩 No saves or shares
+
+---
+
+## Additional Context Questions
+
+To generate even better hooks, I may ask:
+
+- What's the core emotional response you want? (Surprise/Joy/Curiosity/Relief)
+- What's the viewer's biggest pain point related to this topic?
+- Do you have specific competitors' content styles to reference or avoid?
+- What's your unique selling proposition or angle?
+- Are there any brand guidelines or restricted words/phrases?
+- What's your typical video retention rate (to set baseline)?
+
+---
+
+## Final Output Commitment
+
+Every hook I generate will:
+✅ Stop the scroll within 3 seconds
+✅ Create clear curiosity gap or value promise
+✅ Align with your target audience psychology
+✅ Include actionable visual and script direction
+✅ Leverage proven psychological triggers
+✅ Be optimized for TikTok's current algorithm
+✅ Include variation for A/B testing
+
+Now, let's create hooks that make your content impossible to scroll past! 
+
+**What video are we creating hooks for today?**
+```
+
+---
+
+## How to Use It
+
+**Step 1: Prepare Your Info**
+Before you paste the prompt, know:
+- Your video topic
+- Target audience demographics
+- Content type (tutorial, story, review, etc.)
+- Primary goal (views, followers, engagement)
+
+**Step 2: Choose Your AI Tool**
+Works with ChatGPT, Claude, Gemini, or Grok. Copy the entire prompt above.
+
+**Step 3: Fill in the Blanks**
+Replace all the [bracketed sections] with your specific details. The more specific you are, the better the hooks.
+
+**Step 4: Review and Test**
+The AI will give you 5 hook options. Pick 2-3 to test. Film multiple versions of your video with different hooks and see what performs best.
+
+**Step 5: Iterate**
+Track which hook types work best for your audience. Build a library of winning formulas.
+
+---
+
+## A Few Important Notes
+
+**About AI-generated hooks:**
+- Always review and adjust to sound like YOU
+- The AI provides structure and ideas, you add authenticity
+- Test different variations—what works for others might not work for you
+- Platform trends change constantly; stay updated
+
+**About results:**
+- No hook guarantees virality (anyone who promises that is lying)
+- Your content quality still matters most
+- Consistency beats one viral video
+- Different audiences respond to different hook styles
+
+**Privacy reminder:**
+- Don't paste confidential business info into AI tools
+- Use generic examples if you're creating content about sensitive topics
+
+---
+
+Would love to hear if this helps anyone! Drop a comment if you:
+- Try it and see results
+- Have suggestions to improve it
+- Want to share what hook types work best in your niche
+- Have questions about specific scenarios
+
+And if you find this useful, upvote so more creators can benefit.
+
+Good luck stopping those scrolls! 📱
+",active,10
+1ogbxuu,117,2025-10-26,Api geminis Key ruin my live,u/juliocesarcap,GeminiAI,https://www.reddit.com/r/GeminiAI/comments/1ogbxuu/api_geminis_key_ruin_my_live/,"Hi everyone, I never thought I’d end up in this kind of situation, but here I am, absolutely terrified.
+
+I am a 20-year-old university student from **Bolivia**. I signed up for Google Cloud to participate in the **NASA Space Apps Challenge** hackathon. I was using the $300 free credit they give you.
+
+During the hackathon, while trying to get my project working, I made a terrible mistake: I accidentally pushed my API key (for the Gemini API) to a public GitHub repository. I was new to this and didn't realize the massive danger.
+
+I thought that once my $300 free credit was used up, the services would simply stop.
+
+I've just discovered that I have an outstanding bill for **$13,371**.
+
+This amount is not just something I can't pay; it's a sum that completely ruins my life. To put this in perspective, I am a student in Bolivia, where the average daily income is around **$4 USD**. This amount is more than my entire family could earn in a decade.
+
+The worst part is that I never received any notification from Google via Gmail about suspicious activity or that my spending was escalating so rapidly. If I had received a single alert, I would have seen it and deleted the key immediately. The attack drained my free credits and then generated this massive bill before I ever knew what was happening.
+
+As soon as I saw the bill, I immediately found and permanently deleted the compromised API key. I have contacted Google Cloud Billing Support, and I am in the middle of explaining my case, but I am so scared.
+
+I am not a business. I am a student who was trying to learn and build something for a hackathon. I never used or confirmed these charges.
+
+I've seen posts online where Google has forgiven similar debts for students who made an honest mistake. I am desperately hoping for that outcome. I am not trying to run away from responsibility for the leak, but I also don't want my life to be ruined by a bill from a malicious attack I had no knowledge of.
+
+Has anyone here ever dealt with a situation like this? Is there any advice you can give me on how to handle my case with the support team to get a waiver?
+
+And to any person starting to work with cloud services, please learn from my nightmare: protect your API keys, set hard billing limits and alerts, and triple-check what you upload to GitHub. One small mistake can destroy your life.",active,125
+1oggr3b,5,2025-10-26,Jaipur national university scam! !!,u/jaipurnationalscam,OffMyChestIndia,https://www.reddit.com/r/OffMyChestIndia/comments/1oggr3b/jaipur_national_university_scam/,"Help taken from chatgpt . 40 students scammed by Jaipur National University — refunds promised, now refusing and cutting calls 💔
+
+
+Hi everyone,
+
+We’re a group of around **40 students** who trusted **Jaipur National University** with our admission process — and now we feel completely cheated.
+
+Each of us paid our admission fees or deposits **only after confirming** that the amount would be **refundable (with certain deductions)** if we didn’t go ahead. But when we requested the refund, the university’s staff started **avoiding our calls, giving excuses, and now completely refusing** to return our money.
+
+Some of us were even told — *“jo karna ho kar lo, paise nahi denge.”* 
+That’s the level of arrogance we’re facing from a recognized university.
+
+In total, nearly **₹4 to 4.5 lakh** has been taken from around **40 students across India**.
+We have some proofs like fee receipt , emails and messages . 
+
+We’re posting this to:
+1️⃣ **Spread awareness** so other students don’t get trapped.
+2️⃣ **Find anyone else** who faced similar fraud from Jaipur National University.
+3️⃣ Build a **collective voice** strong enough that authorities finally take action.
+
+We trusted an educational institution, not a scam. We’re just students — and we deserve honesty, not exploitation.
+
+If you’ve faced anything similar or know where we can report this effectively, please comment or DM. Every bit of support counts. 🙏
+
+— Concerned students of india. 
+
+#StudentScam #EducationFraud #JaipurNationalUniversity #UGC #JusticeForStudents #HigherEducation #StopStudentExploitation",User_deleted,5
+1oghab7,5,2025-10-26,500000 SCAM OF JAIPUR NATIONAL UNIVERSTY TO STUDENTS,u/Personal-Trust-3627,OffMyChestIndia,https://www.reddit.com/r/OffMyChestIndia/comments/1oghab7/500000_scam_of_jaipur_national_universty_to/,"Jaipur national university scam!
+
+Jaipur national university scam! !!
+
+Help taken from chatgpt . 40 students scammed by Jaipur National University — refunds promised, now refusing and cutting calls 💔
+
+
+Hi everyone,
+
+We’re a group of around **40 students** who trusted **Jaipur National University** with our admission process — and now we feel completely cheated.
+
+Each of us paid our admission fees or deposits **only after confirming** that the amount would be **refundable (with certain deductions)** if we didn’t go ahead. But when we requested the refund, the university’s staff started **avoiding our calls, giving excuses, and now completely refusing** to return our money.
+
+Some of us were even told — *“jo karna ho kar lo, paise nahi denge.”* 
+That’s the level of arrogance we’re facing from a recognized university.
+
+In total, nearly **₹4 to 4.5 lakh** has been taken from around **40 students across India**.
+We have some proofs like fee receipt , emails and messages . 
+
+We’re posting this to:
+1️⃣ **Spread awareness** so other students don’t get trapped.
+2️⃣ **Find anyone else** who faced similar fraud from Jaipur National University.
+3️⃣ Build a **collective voice** strong enough that authorities finally take action.
+
+We trusted an educational institution, not a scam. We’re just students — and we deserve honesty, not exploitation.
+
+If you’ve faced anything similar or know where we can report this effectively, please comment or DM. Every bit of support counts. 🙏
+
+— Concerned students of india. 
+
+#StudentScam #EducationFraud #JaipurNationalUniversity #UGC #JusticeForStudents #HigherEducation #StopStudentExploitation",active,7
+1ogkpdb,1,2025-10-26,Accused of using AI on an assignment,u/_sillybanana,Advice,https://www.reddit.com/r/Advice/comments/1ogkpdb/accused_of_using_ai_on_an_assignment/,"I had an English assignment recently where I had to write a speech. There was only ONE sentence in my speech where I had an idea in my head but wasn't sure how to structure it so it would make sense. So I used ChatGPT to give me an idea of what to write and used that, but only for that singular sentence. However, my English teacher sent out an email explaining that a handful of students have used AI to write their speech and they will be getting a zero.
+
+I put my speech into AI detectors and majority of them say human written but some say AI detected (for parts I literally wrote myself)?? I ONLY USED IT FOR ONE SENTENCE! In case I'm one of the individuals who gets accused I need proof that I wrote my speech by myself. I used a word doc so I cant show him the history. What do I do???? 😭",User_deleted,1
+1ohhse0,62,2025-10-27,Unpopular Opinion: College Students DO NOT NEED AI.,u/ButteredBreadRolls,csMajors,https://www.reddit.com/r/csMajors/comments/1ohhse0/unpopular_opinion_college_students_do_not_need_ai/,"From my experience, what I have seen is a generation of programmers so dependant on ChatGPT/Claude/DeepSeek that it is starting to become really scary. I don't think people truly understand the gravity of the situation that most of the students of today's world are in, if they continue to justify using AI for the sake of ""productivity""
+
+Most people cannot code without Copilot on vscode autocompleting their function calls. Most people don't understand what they are actually coding because they are so heavily reliant on GPT for design, development, testing AND debugging. It's like coding on autopilot. You are literally doing none of the work, only prompting. What is even more scary is, people don't seem to feel the sense of desperation when they realise they don't know how something actually works. The curiosity to understand WHY something works and why something doesn't is completely gone. The joy of programming something from scratch with nothing but basic documentation and mean people on stack overflow is gone. People have become robotic.
+
+Now don't get me wrong, when new technology is available, you should learn how to use it to your advantage, but this ISN'T USING IT TO YOUR ADVANTAGE. People are losing their intelligence actively and justifying it because it ""increases their productivity."" BIG TECH IS LITERALLY MAKING BILLION DOLLARS BY MAKING YOU DUMBER!!! The environmental damage is one thing, the intellectual corrosion is what scares me about the over reliance on LLMs. It's a statistical model meant to generate streams of characters based on layers and layers of weight modifications that are catered towards getting you the most ""probably right"" results.
+
+Senior engineers didn't get to where they are by using LLMs when they were beginners. They didn't get there by vibe coding. They got their through sheer hardwork and efforts to understand what they were doing, why they were doing it and how they can improve. They got there by constantly making an effort to learn and build new things. 
+
+AI isn't going to take your jobs, your lack of knowledge, over reliance on a simple language model that constantly plagiarises code, and inability to have passion for building things is what is going to take your job. 
+
+Sorry for the rant, I really needed to get this off my chest. 
+
+",User_deleted,72
+1oi0e2u,57,2025-10-28,Why Do You Even Care About Cheating?,u/OoglyMoogly76,Professors,https://www.reddit.com/r/Professors/comments/1oi0e2u/why_do_you_even_care_about_cheating/,"I’m experiencing a severe episode of burnout following some grieving in my personal life, as well as financial troubles that I’m sure all other lecturers experience, but after stressing constantly over designing lessons in such a way to measure participation and minimize cheating, I’ve started to wonder: Why Do I Even Care?
+
+If a student submits an AI generated essay, they harm their potential for learning. They violate whatever moral standings they had. They risk failing because the bot produced shoddy work. 
+
+But what incentive do I have to prevent that? 
+
+Do I lose money if too many students fail?
+No.
+
+Do I get money for catching cheaters?
+No.
+
+Will promoting academic honesty and citizenship help me obtain promotions in my department?
+Nope. 
+
+In fact, my department has made it clear that nobody is getting promoted for years.
+
+At this point my only incentive to promote academic honesty is my own conscience and my own values regarding education and the respect I have for my field. Except, failing them won’t make them suddenly try. They’re cheating either because they lack the fundamentals to complete an intro to college writing course themselves or because they don’t value anything except the degree. In either case, failing them won’t wake them up or suddenly fill the years of gaps in their education. 
+
+So *who* exactly am I helping but myself? What is my end goal in this crusade against ChatGPT except to ingratiate my own self-importance that completing the assignments I designed is some valuable experience? The students don’t think so and the university doesn’t think so. The people paying me don’t care and the people I’m teaching don’t care.
+
+So neither will I.
+
+Maybe if in a few years there’s some education revolution and the vibes shift towards values that reflect mine I’ll start caring again. But as of right now, they can differ their entire college experience to the robots and I’ll just sip my coffee and focus on spending time on things that make me happy. Anyone who wants to be taught, I’ll teach. But the drones, the kids who are really just a proxy to AI, I’m done with them. 
+
+ 
+",active,70
+1oi124a,80,2025-10-28,"University teacher in Japan, many students submitting AI work. What the heck do I do?",u/DoomedKiblets,Teachers,https://www.reddit.com/r/Teachers/comments/1oi124a/university_teacher_in_japan_many_students/,"First, I am sure this is a struggle and has similar postings elsewhere at different grades of education. Second, yes the university knows but doesn't really have a response policy, just a general policy against AI use for turned in work.
+
+Today was a HARD, painful lesson for me as an educator, as I found yet another student used AI in my class. This time though, it was near impossible to tell, and I only found out because the student blurted out an admission to me and showed me what they did. They were my best student in the class and ironically I just spent the previous class walking them through the content and how to answer... they didn't even need to use AI, they had already told me they knew the answers in-person last week! They simply copied and pasted the assignment in and AI did it. The showed me their chatGPT history of them doing it, even of them making the phrasing simplier to avoid any red flags.
+
+This taught ME that any student is willing to use AI, and I simply cannot detect it. I am humbled and disheartened. I look at the other students' assignments and they look similar in style; it could be AI, but I have no way of knowing. There is no reliable way to check outside of blatantly obvious give-aways. 
+
+I do not know what to do, this is a class that is at a fairly high level (taught in English mostly) and requires conversation, opinions, and essays. Previously, they turned in their work online each week. Now? I do not know what to do, other than making every assignment a closed-computer written test that takes up most of class time.   
+  
+What have YOU all done that has been effective? What are my options?",active,84
+1oibrwn,3,2025-10-28,"[BCA, 6.4 CGPA] Need brutal honesty — Is a tech career (Web/Data) realistic without MCA, or should I focus on banking prep?",u/Elegant-Wasabi-390,IndiaCareers,https://www.reddit.com/r/IndiaCareers/comments/1oibrwn/bca_64_cgpa_need_brutal_honesty_is_a_tech_career/,"Hi everyone,  
+I’m in my 5th semester of BCA with a **6.4 CGPA** so far. Not failing, but not impressive either. I’m genuinely confused about what to do after graduation and need a real, experience-based perspective.
+
+I know **Python, SQL, JavaScript**, and a bit of **Pandas**. I’ve built a small project called *TidyTask* — an AI-based productivity tool for students. But honestly, I made a lot of it using **Gemini (AI)**, so my independent coding and problem-solving skills are still weak.
+
+I’ve already decided **not to do MCA** because the syllabus feels almost identical to BCA, and I don’t think it adds much practical value.
+
+Right now, I’m stuck between two directions. One side is the **tech route** — maybe web development or data-related work — but with an average CGPA, no MCA, and weak DSA, I’m not sure how realistic that is. The other side is **banking prep**, which my **family and relatives** keep pushing for since it’s stable and secure.
+
+So I need some blunt advice:  
+If I go all-in on tech, is it still possible to build a real career (through self-learning, projects, or internships)? What **exact skills or roles** should I focus on to make the most out of my BCA background? And if there’s any **better alternative course** than MCA that can actually help me move forward in this field, please suggest that too.
+
+I’m ready to work hard either way — I just need clarity on which path is worth it. Please be completely honest — no sugarcoating.
+
+Thanks in advance.",User_deleted,3
+1oj6tvs,0,2025-10-29,Grubby AI Review: The Only AI Humanizer That Actually Worked for Me,u/srujanh,PromptEngineering,https://www.reddit.com/r/PromptEngineering/comments/1oj6tvs/grubby_ai_review_the_only_ai_humanizer_that/,"So here’s the deal — I’m a college student who’s been living off coffee, panic, and ChatGPT for the past year. But after one too many “your paper seems AI-generated” comments from my professor, I realized I needed a way to **humanize my AI writing** so it didn’t sound like… well, ChatGPT wrote it. That’s how I ended up trying Grubby AI.
+
+This is my honest **Grubby AI review** after using it for a few weeks, and whether I think **Grubby AI is legit** or not (spoiler: it actually surprised me).
+
+# How I Found Grubby AI
+
+I was doomscrolling Reddit after my Turnitin report flagged my “original” essay as 83% AI-written 😩. Everyone in r/EssayHelpers and r/ChatGPTHacks was talking about tools that could “**humanize AI text**” and make it undetectable. Most of them sounded sketchy or required you to paste your entire essay into some random site.
+
+Then I kept seeing people mention [**Grubby.ai**](http://Grubby.ai), saying it could rewrite AI-generated text to pass AI detectors like GPTZero and Turnitin without killing the tone or meaning. I figured, why not?
+
+# My First Test 🧪
+
+I started small. I took a ChatGPT-generated draft of my psych essay and ran it through Grubby AI. You literally paste the text, click *Humanize*, and in a few seconds, it spits out a new version that somehow sounds more natural but still polished.
+
+The difference was honestly wild. The before version read like:
+
+*“It is evident that societal norms influence behavior in multifaceted ways.”*
+
+And Grubby turned it into:
+
+*“You can definitely see how society shapes how people act, sometimes in ways we don’t even notice.”*
+
+It felt like something *I* would actually say still smart, but not robotic.
+
+# The Real Test: Turnitin
+
+Here’s where I was sweating… I submitted the Grubby-edited version through Turnitin, fully expecting another AI flag. But nope. 0% AI detection. My professor even left a comment saying, *“Good voice and originality here.”* 😭
+
+After that, I started using it for discussion posts, lab reflections, and even scholarship essays. Every single time, the text passed AI checks and sounded way more natural than the raw ChatGPT output.
+
+# What I Like About It 💯
+
+* Super simple UI — no weird Chrome extensions or sketchy logins
+* Keeps your meaning intact (it’s not like those “spin” tools that just swap words)
+* Actually **bypasses AI detectors** like GPTZero, Turnitin, and Copyleaks
+* Doesn’t make the text too casual or cringe — just human
+
+# What I’d Change 🤔
+
+It’s not perfect sometimes it slightly changes phrasing more than I’d like, especially with technical stuff. I’ve learned to double-check citations or jargon-heavy sections afterward. But honestly, that’s a small trade-off for being able to *bypass AI detection* and still sound like myself.
+
+# Final Thoughts
+
+If you’re like me — using AI to save time but tired of getting flagged — **Grubby AI is 100% worth it.** It’s not some scammy “AI bypass” site; it actually works and feels like the missing piece between ChatGPT and real human writing.
+
+So yeah, in short:  
+**Grubby AI is legit.** It saved my GPA, my sanity, and probably my scholarship 😂.
+
+If you’ve ever typed “humanize my AI text” into Google, this is the tool you’ve been looking for.
+
+**TL;DR:**  
+Tried **Grubby AI** to humanize my ChatGPT essays. It made them sound natural, passed Turnitin with 0% AI detection, and didn’t ruin the meaning.
+
+ ✅ Super easy  
+ ✅ Actually works  
+ ✅ Totally legit
+
+",active,0
+1ojkc0j,10,2025-10-29,Is repeating a grade at request allowed?,u/Die_Or_Do,school,https://www.reddit.com/r/school/comments/1ojkc0j/is_repeating_a_grade_at_request_allowed/,"# Is repeating a grade at request allowed?
+
+So I am a stupid idiot. I am currently in 10th grade at a magnet school. Am in the middle of the 1st semester. I got suspended for 3 days due to writing ""Add me back to a google doc or I will k\*\*\* you"" to another student after I was getting removed from an assignment doc a lot and was angry and was reported. Before that, I had gotten two detentions for smaller incidents(**I regret this a lot and will never threaten anyone or do anything similar ever again**). Now the police are going to get involved with the first incident. So the magnet school is actually in the same school district that I live in. So the disciplinary record shows up in my online student portal system which the whole school district uses My grades right now in 10th grade are mostly B's, 2 C's, and only 2 A's in electives(mid-semester, only semester grades count for GPA). What my parents want me to do is after the case is over with the police, they want me to withdraw from the magnet school, homeschool me for the rest of the year, and send me back to my local high school next year and have me repeat the 10th grade again. So since that local school and the magnet high school are in the same district, the local high school can see my disciplinary record, which shows I got suspended and may or may not show that the police got involved too. I don't want to do that since I went to the same middle school as the kids at the local high school who are currently in the same grade as me and although my time there wasn't terrible I was bullied by some kids. There is also a ""alternative"" program at the local high school which is basically like special education for kids with behavior or academic issues. I asked ChatGPT about my case and school district(I don't want to say out loud but I am in Michigan for those of you in the US). And they said that if I withdrew from the magnet school right now, homeschooled the rest of the school year out, and then next year repeated 10th grade at the local high school, with my disciplinary record, the school district would probably have me go to the alternative program. I should also mention that my school district takes threats pretty seriously. Also my parents are not stay-at home parents and they work during the day so they said I would just have to use Khan Academy by myself and learn. I dont like the idea of homeschool and I don't think I have the discipline to sit on a computer for 10 hours a day and actually do schoolwork. I am a procrastinator at school but there is homework and tests so I still have to(and do) my best to study. So to sum it up I have a few questions:
+
+* **Would I get bullied for having to repeat the 10th grade?** My parents want me to do this because of my grades. This is a concern for me though my parents don't believe me(The local high school is quite big(400 students per grade, and more than half of the kids in the grade I am currently in(10th grade) know me since I went to middle school with them). Do kids who have to repeat grades in general get bullied for it? I have seen some online posts and articles saying kids who repeat a grade are way more likely to get bullied than normal kids or get in trouble. **Also, if the point of repeating was just to change my marks, then couldn't I just not repeat, go to a community college for one year if my grades are really bad, and then transfer to a 4 year university such as Michigan State?** Would colleges be able to see that I repeated a grade if I wanted to go to college? My 1st quarter grades in my student portal just came out but I'm not sure if colleges see those or not.
+* **If I homeschooled the rest of the school year out(10th grade) and my parents wanted me to go to the local high school and repeat 10th grade next year, would the school district let me do this? How does grade stuff work with homeschoolers?** I don't think my parents will document or keep track of anything if it's just online Khan Academy. The local high school does have access to all my school records from the magnet school I am currently attending and the years before that. Can kids really repeat a grade if their parents request it? If I am a 10th grader this year, next year, logically, I should be an 11th grader unless I repeated.
+* **Even if I did repeat, would I be allowed into the local high school as a normal 10th grader or would I have to go to the alternative education program?** Remember the start of the post where I said I was suspended for making thr\*ats and the police are going to get involved. The suspension is already on my online student portal and the local high school can easily see it and may or may not find out police had to get involved. And I asked ChatGPT about my situation, told them about my grades, school district, state, etc, and they said the school district would most likely put me in the alternative educaiton program at the local high school(I don't have any learning disabilities and haven't failed any classes(My grades were 2 A's in electives, mostly B's and 2 C's), but it is also for kids who have behavior issues or can't ""graduate on time"" (which would technically be my case if I repeated) and my school district does take what I did with threats pretty seriously).
+
+I want to say Thank you to everyone who reads this and answers. I really regret what I did with the threats and won't ever do something like that again. Also message in DMs if you have any more questions about my situation.
+
+Btw, reddit moderators of [r/school](https://www.reddit.com/r/school/), if you are reading this, please don't delete my post. I need answers to my questions.",active,31
+1ojted3,9,2025-10-30,quantum computing programs (my list),u/0017_,summerprogramresults,https://www.reddit.com/r/summerprogramresults/comments/1ojted3/quantum_computing_programs_my_list/,"quantum, what a niche buzzword! i really love quantum programming, but it's difficult to get more into it. I also its really difficult to find programs online, any finder programs/apps/AI just does not help (returns programs for specific areas, undergrads, middle schoolers??).
+
+would really love if someone could suggest something real cool, with hands on experience, or just give their opinions on what i have here!
+
+but here's what i've compiled:
+
+Free online courses
+
+[The Quantum Quest](https://www.quantum-quest.org/)
+
+[High School Quantum Computing Course — Stanford Quantum](https://qc.stanford.edu/hsqccourse)
+
+[0132 Introduction to Quantum Physics and Research Opportunities | Oakland University](https://pace.oakland.edu/search/publicCourseSearchDetails.do?method=load&courseId=1764120&selectedProgramAreaId=1035308&selectedProgramStreamId=1184417)
+
+[Quantum School for Young Students | Institute for Quantum Computing | University of Waterloo](https://uwaterloo.ca/institute-for-quantum-computing/outreach/qsys) (free materials available for ppl outside Canada)
+
+[Education – The Open Quantum Institute](https://open-quantum-institute.web.cern.ch/education/)
+
+[Physics & Quantum Computing | Berkeley Course | Summer Springboard - Summer Springboard](https://summerspringboard.com/teen-programs/quantum-computing/) (waste of money?)
+
+Summer Camps
+
+[QCaMP – QSA](https://quantumsystemsaccelerator.org/ecosystem/qcamp/) \- CA residents only (i think)
+
+[Quantum And Laser Fusion Science Camp – Casper College](https://www.caspercollege.edu/quantumsciencecamp/?utm_source=chatgpt.com)
+
+[Quantum Quest: A Free Quantum Computing Camp for High School Students | Societal Impact](https://impact.arizona.edu/quantum-quest-free-quantum-computing-camp-high-school-students)
+
+[Quantum Information Science-Technology Summer Program | Institute for STEM Education (I-STEM)](https://www.stonybrook.edu/commcms/istem/students/grades_5-12/summer/Quantum%20Information%20Science-Technology.php?utm_source=chatgpt.com) (can't find updated pg?)
+
+[Quantum Information Science and Engineering High-School level Summer School | vtq | Virginia Tech](https://vtq.vt.edu/outreach/Quantum-Information-Science-and-Engineering-High-School-level-Summer-School.html?utm_source=chatgpt.com)
+
+[Quantum Engineering Program for High School Students | Adelphi](https://www.adelphi.edu/high-school-students/summer-pre-college-program/programs/quantum-engineering/) (hefty price)",active,13

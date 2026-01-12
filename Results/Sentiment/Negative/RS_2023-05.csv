@@ -1,0 +1,483 @@
+1354gt6,135,2023-05-01,"In your experience, are undergraduate students worse post pandemic?",u/Other_Competition913,Professors,https://www.reddit.com/r/Professors/comments/1354gt6/in_your_experience_are_undergraduate_students/,"I hate to feel like an older person complaining about ""kids today"" but it seems like a lot of my students don't really want to be in classes. I get emails from students telling me that they were too busy partying to do their homework and asking me to extend my deadlines.
+
+I'm a PhD student, this is only my second semester teaching, but part of me wonders how much of this was due to this cohort's timing in the pandemic (perhaps paired with exposure to more traditional sexist media figures, like Andrew Tate, and access to resources like ChatGPT). I can't help but wonder if my gender as a woman has contributed to this dynamic but I'm absolutely perplexed. Has anyone else seen things like this? My students last semester had at least one semester of normalcy before we went remote. The students I'm teaching this semester would have started at the peak pandemic, so they would have been entirely remote.
+
+I really don't want to be someone who complains about ""kids today"" and my students last semester were amazing. I'm just not feeling the chemistry, or the respect, and I'm wondering if I'm the only one. I'm still in my 20s. I feel like I'm too young to be biased against today's youth.
+
+Are there differences in your student's performance before and after the pandemic? Is this just a bad class on my end?",active,143
+135ivya,12,2023-05-02,Chegg down 42%…,u/Glittering_Chef3524,Professors,https://www.reddit.com/r/Professors/comments/135ivya/chegg_down_42/,"Watching the morning business news and just saw a report that Chegg stock is down over 42% this morning. Apparently their revenue is way off. Students are using ChatGPT instead. 
+
+So, there is at least one upside to ChatGPT…
+
+Edit:  found an article 
+
+https://seekingalpha.com/news/3963280-online-learning-firm-chegg-plummets-to-multi-year-low-on-fears-ai-could-be-an-existential-threat",User_deleted,12
+135nmpb,0,2023-05-02,Ways to extract intent from free text,u/Gasp0de,AskProgramming,https://www.reddit.com/r/AskProgramming/comments/135nmpb/ways_to_extract_intent_from_free_text/,"I am creating a chatbot for my flatmates and me. It is a part of our group chat. My flatmates are not very technically inclined, so I can not get them to learn a special vocabulary to tell the chatbot what to do.
+
+I currently use chatGPT (or the OpenAI API) to take user messages and parse them to intent, but it doesn't scale well. Currently, the bot only functions as a shopping list. It can add/remove/list/clear. For this to work, I had to provide chatGPT with 3 different example prompts, and every request already costs me 0.001$. If I extend it further in the future, I might come closer to 0.005$ and it'll cost me multiple dollars per month which I don't have (I'm a student).
+
+What other ways do you know that could work? I stumbled upon mycroft, an open source AI assistant and that might work but it looks like a lot of work. I want user input like ""Hey bot, take cucumbers off the list and add toilet paper instead"" parsed to json like this:
+
+    {
+        shoppinglist: [
+            {""action"": ""add"", ""items"": [""toilet paper""]},
+            {""action"": ""remove"", ""items"": [""cucumber""]}
+        ]
+    }",active,0
+135r49i,2,2023-05-02,Suspected case of cheating/plagiarism but no proof,u/Imjastv,Professors,https://www.reddit.com/r/Professors/comments/135r49i/suspected_case_of_cheatingplagiarism_but_no_proof/,"Hi all,
+
+I am grading my last pile of essays of the year (yay!) and encountered a very uncomfortable situation. For some background, I was a TA on this undergrad year-long course.
+
+Tldr: I suspect two students of cheating/plagiarising but have no proof and I am unsure of what to do.
+
+I had two students last term who seemed to be friend, both plagiarised one assignment, and obviously worked together on the second one. I caught the first one plagiarising since it was very very obvious (like, kept the Wikipedia hyperlinks kind of obvious), and when I noticed the similarities in their end of year at-home exam, I revised the other student's first assignment to find it plagiarised as well. I went to my supervisor, who advised me to give them a bad grade for the first assignment, and mention to them that they had to work on their own in the feedback for the second one since it wasn't technically plagiarism. Ultimately, these were their first university assignments so we could give them a second chance, and raising the issues to ethical committees etc would have been a pain for everyone involved.
+
+Moving on to this term, one essay only - both students have been AWOL so I figured they might have dropped (attendance has been awful this term in general) until I saw their essays appeared. I was very suspicious of the first one (our Wikipedia student) because there is no way he changed his writing style so much unless he spent the semester working on his academic writing instead of coming to class (who knows?). Turnitin did not pick up anything, I tried the usual copy/paste in Google with keywords to identify potential websites he might have picked this up from, but did not find anything. I figured I might just be overly suspicious and moved on - there were other issues in this essay, so he barely got a passing grade anyway. 
+
+I then saw his friend's essay and again, obviously, they worked together - friend thought that by moving paragraphs around I wouldn't notice that they wrote the exact same sentences, changing just enough words to escape Turnitin (I swear, that thing is useless). Again, can't figure out where they lifted the content from but, no offence to that student, they wouldn't be able to write that well after just a semester based on their previous assignments. They also used sources and content that we didn't cover in class at all - they might have turned things around, but based on their work last semester, I wouldn't take them for the type of students to go the extra mile for an essay. 
+
+Now, I am wondering what to do. I am rushing through the grading because I moved on to a full time research position recently and am overly busy - I don't want to spend too much time on this. I am wondering if I should escalate this, despite not having any proofs apart from a very serious suspicion that they, at best, worked together despite being told not to do it - at worse, plagiarised/used ChatGPT/got someone else to write their essay(s). I am concerned that I might be discriminating against them by being overly suspicious of them because they cheated in the first semester - I didn't check every student's work in this way. Also they are first gen students - raising a case of plagiarism, if they in fact did not plagiarise, could still have a serious impact on their academic careers.
+
+Or should I just grade as it is - meaning they would get a passing grade (there are other issues in their work), and leave the problem to whomever will have the joy of teaching them next year? I am afraid that if they did plagiarise, letting them pass would only make the situation worse next year.
+
+I'd welcome any advice on this!",active,2
+1363qjl,191,2023-05-02,I've submitted nine academic integrity violation reports this semester.,u/darkecologie,Professors,https://www.reddit.com/r/Professors/comments/1363qjl/ive_submitted_nine_academic_integrity_violation/,"I don't even have all the final papers for all my classes (I teach English). 
+
+I feel like I'm fighting a never-ending battle. I never submit a report unless I have rock-solid proof, either. Three of the nine were AI, but the rest were just the usual copy-paste stuff.
+
+On top of that, I have a student from last semester talking shit about me to the department because he ""doesn't understand why I changed his grade from an A."" He didn't have an A, he had an incomplete until the results of his integrity case were determined. 
+
+I'm burned out on this shit. This is just a rant, and rant over.
+
+Edit: All right, I'm sick of answering the same damn question about AI. I caught those people by entering my prompt or keywords from my prompt into ChatGPT. Poof, out pops student paper word-for-word, or at least large chunks of it. Yes, they copy-pasted from ChatGPT. Yes, there may have been an intermediary program like Grammarly. Yes, this stuff was flagged by TurnItIn at high percentages. No, it was not their writing based on scaffolded work and comparisons to ChatGPT.",active,194
+136c8qx,878,2023-05-03,"Why shouldn't universities allow students to ""cheat"" their way through school?",u/nicbovee,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/136c8qx/why_shouldnt_universities_allow_students_to_cheat/,"**TL;DR; if someone can receive a degree for something by only using ChatGPT that institution failed and needs to change. Stop trying to figure out who wrote the paper. Rebuild the curriculum for a world with AI instead. Change my mind.**
+
+Would love to hear others share thoughts on this topic, but here's where I'm coming from.
+
+If someone can get through college using ChatGPT or something like it I think they deserve that degree.
+
+After graduation when they're at their first job interview it might be obvious to the employer that the degree came from a university that didn't accurately evaluate its students. If instead this person makes it through the interviews and lands a job where they continue to prompt AI to generate work that meets the company's expectations then I think they earned that job, the same way they deserve to lose the job when they're replaced by one person using AI to do a hundred people's jobs, or because the company folds due to a copyright infringement lawsuit from all of the work that was used without permission to train the model.
+
+If this individual could pass the class, get the degree, and hold a job only by copying and pasting answers out of ChatGPT it sounds the like class, the degree, and the job aren't worth much or won't be worth much for long. Until we can fully trust the output generated by these systems, a human or group of humans will need to determine the correctness of the work and defend their verdict. There are plenty of valid concerns regarding AI, but the witch hunt for students using AI to write papers and the detection tools that chase the ever-evolving language models seem like a great distraction for those in education who don't want to address the underlying issue: the previous metrics for what made a student worthy of a class credit will probably never be as important as they were as long as this technology continues to improve.
+
+People say: ""Cheating the system is cheating yourself!"" but what are you ""cheating yourself"" out of? If it's cheating yourself out of an opportunity to grow, go deeper, try something new, fail, and get out of your comfort zone, I think you are truly doing yourself a disservice and will regret your decision in the long term. However, if you're ""cheating yourself"" out of an opportunity to write a paper just like the last one you wrote making more or less the same points that everyone else is making on that subject I think you saved yourself from pointless work in a dated curriculum. If you submitted a prompt to ChatGPT, read the response, decided it was good enough to submit and it passes because the professor can't tell the difference, you just saved yourself from doing busy work that probably isn't going to be valuable in a real-world scenario. You might have gotten lucky and written a good prompt, but you probably had to know something in order to decide that the answer was correct. You might have missed out on some of the thought process involved in writing your own answers, but in my experience unless your assignment is a buggy ride through baby town you will need to iterate through multiple prompts before you get a response that could actually pass.
+
+I believe it's necessary and fulfilling to do the work, push ourselves further, stay curious, and always reach past the boundaries of what you know and believe to be true. I hope that educational institutions might consider spending less time determining what was written by AI and more time determining how well a student can demonstrate an ability to prompt valuable output from these tools and determine the output's accuracy.
+
+Disclaimer: I haven't been through any college, so I'm sorry if my outlook on this is way out of sync with reality. My opinions on this topic are limited to discussions I've had with a professor and an administrator and actively deciding what the next steps are for this issue. My gut reaction is that even if someone tried to cheat their way through college using ChatGPT, they wouldn't be able to because there are enough weighted in-person tests that they wouldn't be able to pass. I started writing a response to [this post](https://www.reddit.com/r/ChatGPT/comments/1356um8/i_used_chatgpt_to_rephrase_an_essay_and_may_be/) about potentially being expelled from school over the use of AI and I decided it might be better as a topic for other people to comment on. My motivation for posting here is to gain a wider frame of this issue since it's something I'm interested in but don't have direct personal involvement with. If there's something I'm missing, or there's a better solution, I'd love to know. Thanks for reading.
+
+**UPDATE:** Thanks for joining in on this discussion! It's been great to see the variety of responses on this, especially the ones pushing back and offering missing context from my lack of college experience.
+
+**I'm not arguing that schools should take a passive stance towards cheating.** I want to make it clear that my position isn't that people should be able to cheat their way through college by any means and I regret my decision to go with a more click-baity title because it seems like a bunch of folks come in here ready for that argument and it poorly frames the stance I am taking. If I could distill my position: it's that the idea of fighting this new form of cheating with AI detection seems less productive than identifying what the goal of writing the paper is in the first place is and establishing a new method of evaluation that can't be accomplished by AI. Perhaps this could be done by having students write shorter papers in a closely monitored environment, or maybe it looks like each student getting to defend their position in real time.
+
+I would love to have the opportunity to attend university and I guarantee that if I'm spending my money to do that I'm squeezing everything I can out of the experience. My hope is by the time I finish school there will be no question about the value of my degree because the institution did the work to ensure that everyone coming out of the program fully deserved the endorsement.
+
+**UPDATE 2:** I'm not saying this needs to happen right now. Of course it's going to take time for changes to be realized. I'm questioning whether or not things are headed in a good direction, and based on responses to this post I've been pleasantly surprised to learn that it sounds like many educators are already making changes.",active,886
+13aljlk,2645,2023-05-07,"GPT-4 Week 7. Government oversight, Strikes, Education, Layoffs & Big tech are moving - Nofil's Weekly Breakdown",u/lostlifon,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/13aljlk/gpt4_week_7_government_oversight_strikes/,"The insanity continues.
+
+Not sure how much longer I'll continue making these tbh, I'm essentially running some of these content vulture channels for free which bothers me coz they're so shit and low quality. Also provides more value to followers of me newsletter so idk what to do just yet
+
+## Godfather of AI leaves Google
+
+* Geoffrey Hinton is one of the pioneers of AI, his work in the field has led to the AI systems we have today. He left Google recently and is talking about the dangers of continuing our progress and is worried we’ll build AI that is smarter than us and will have its own motives. he even said he somewhat regrets his entire life’s work \[[Link](https://www.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning)\] What is most intriguing about this situation is another og of the industry (Yann LeCun) completely disagrees with his stance and is openly talking about. A very interesting thing seeing 2 masterminds have such different perspectives on what we can & can’t do and what AI can & will be capable of. Going in depth about this and what they think and what they're worried about in my newsletter
+
+## Writers Strike
+
+* The writers guild is striking and one of their conditions is to ban AI from being used. So far apparently their proposals have been rejected and they’ve been offered an ""annual meeting to discuss advances in technology.” \[[Link](https://time.com/6277158/writers-strike-ai-wga-screenwriting/)\] \[[Link](https://twitter.com/adamconover/status/1653272590310600705)\]
+
+## Government
+
+* Big AI CEO’s met with the pres and other officials at the white house. Google, OpenAI, Microsoft, Anthropic CEO’s all there \[[Link](https://www.reuters.com/technology/google-microsoft-openai-ceos-attend-white-house-ai-meeting-official-2023-05-02/)\] Biden told them “I hope you can educate us as to what you think is most needed to protect society”. yeah im not so sure about that. They’re spending $140 million to help build regulation in AI
+
+## Open Source
+
+* StarCoder - The biggest open source code LLM. It’s a free VS code extension. Looks great for coding, makes you wonder how long things like Github Copilot and Ghostwriter can afford to charge when we have open source building things like this. Link to github \[[Link](https://github.com/bigcode-project/starcoder/tree/main)\] Link to HF \[[Link](https://huggingface.co/bigcode)\]
+* MPT-7B is a commercially usable LLM with a context length of 65k! In an example they fed the entire Great Gatsby text in a prompt - 67873 tokens \[[Link](https://www.mosaicml.com/blog/mpt-7b)\]
+* RedPajama released their 3B & 7B models \[[Link](https://www.together.xyz/blog/redpajama-models-v1)\]
+
+## Microsoft
+
+* Microsoft released Bing Chat to everyone today, no more waitlist. It’s going to have plugins, have multimodal answers so it can create charts and graphs and can retain past convos. If this gets as good as chatgpt why pay for plus? Will be interesting to see how this plays out \[[Link](https://www.theverge.com/2023/5/4/23710071/microsoft-bing-chat-ai-public-preview-plug-in-support)\]
+
+## AMD
+
+* Microsoft & AMD are working together on an AI chip to compete with Nvidia. A week ago a friend asked me what to invest in with AI and I told him AMD lol. I still would if I had money (this is not financial advice, I’ve invested only once before. I am not smart) \[[Link](https://www.theverge.com/2023/5/5/23712242/microsoft-amd-ai-processor-chip-nvidia-gpu-athena-mi300)\]
+
+## OpenAI
+
+* OpenAI’s losses totalled $540 million. They may try to raise as much as $100 Billion in the coming years to get to AGI. This seems kinda insane but if you look at other companies, this is only 4x Uber. The difference in impact OpenAI and Uber have is much more than 4x \[[Link](https://www.theinformation.com/articles/openais-losses-doubled-to-540-million-as-it-developed-chatgpt)\]
+* OpenAI released a research paper + code for text-to-3D. This very well could mean we’ll be able to go from text to 3D printer, I’m fairly certain this will be a thing. Just imagine the potential, incredible \[[Link](https://arxiv.org/abs/2305.02463)\]
+
+## Layoffs
+
+* IBM plans to pause hiring for 7800 workers and eventually replace them with AI \[[Link](https://www.zdnet.com/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/)\]. This is for back-office functions like HR the ceo mentioned. What happens when all big tech go down this route?
+* Chegg said ChatGPT might be hindering their growth in an earnings calls and their stock plunged by 50% \[[Link](https://www.ft.com/content/b11a30be-0822-4dec-920a-f611a800830b)\]. Because of this both Pearson & Duoliungo also got hit lol \[[Link](https://www.theguardian.com/business/2023/may/02/pearson-shares-fall-after-us-rival-says-ai-hurting-its-business?utm_source=nofil.beehiiv.com&utm_medium=newsletter&utm_campaign=the-calm-before-the-storm)\] \[[Link](https://www.fool.com/investing/2023/05/02/why-duolingo-stock-was-sliding-today/?utm_source=nofil.beehiiv.com&utm_medium=newsletter&utm_campaign=the-calm-before-the-storm)\]
+
+## EU Laws
+
+* LAION, the German non-profit working to democratise AI has urged the EU to not castrate AI research or they risk leaving AI advancements to the US alone with the EU falling far, far behind. Even in the US there’s only a handful of companies that control most of the AI tech, I hope the EU’s AI bill isn’t as bad as its looking \[[Link](https://www.theguardian.com/technology/2023/may/04/eu-urged-to-protect-grassroots-ai-research-or-risk-losing-out-to-us)\]
+
+## Google
+
+* A leaked document from google says “We have no moat, and neither does OpenAI”. A researcher from Google talking about the impact of open source models, basically saying open source will outcompete both in the long run. Could be true, I don’t agree and think it’s actually really dumb. Will discuss this further in my newsletters \[[Link](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)\] (Khan Academy has been using OpenAI for their AI tool and lets just say they wont be changing to open source anytime soon - or ever really. There is moat)
+
+## A new ChatGPT Competitor - HeyPi
+
+* Inflection is a company that raised $225 Million and they released their first chatbot. It’s designed to have more “human” convos. You can even use it by texting on different messaging apps. I think something like this will be very big in therapy and just overall being a companion because it seems like they might be going for more of a personal, finetuned model for each individual user. We’ll see ig \[[Link](https://heypi.com/talk?utm_source=inflection.ai)\]
+
+## Education
+
+* Khan Academy’s AI is the future personalised education. This will be the future of education imo, can’t wait to write about this in depth in my newsletter \[[Link](https://www.ted.com/talks/sal_khan_the_amazing_ai_super_tutor_for_students_and_teachers/c)\]
+* This study shows teachers and students are embracing AI with 51% of teachers reporting using it \[[Link](https://www.waltonfamilyfoundation.org/learning/teachers-and-students-embrace-chatgpt-for-education)\]
+
+## Meta
+
+* Zuck is playing a different game to Google & Microsoft. They’re much more willing to open source and they will continue to be moving forward \[[Link](https://s21.q4cdn.com/399680738/files/doc_financials/2023/q1/META-Q1-2023-Earnings-Call-Transcript.pdf)\] pg 10
+
+## Nvidia
+
+* Nvidia are creating some of the craziest graphics ever, in an online environment. Just look at this video \[[Link](https://research.nvidia.com/labs/rtr/neural_appearance_models/assets/nvidia_neural_materials_video-2023-05.mp4)\]. Link to paper \[[Link](https://research.nvidia.com/labs/rtr/neural_appearance_models/)\]
+* Nvidia talk about their latest research on on generating virtual worlds, 3D rendering, and whole bunch of other things. Graphics are going to be insane in the future \[[Link](https://blogs.nvidia.com/blog/2023/05/02/graphics-research-advances-generative-ai-next-frontier/)\]
+
+## Perplexity
+
+* A competitor to ChatGPT, Perplexity just released their first plugin with Wolfram Alpha. If these competitors can get plugins out there before OpenAI, I think it will be big for them \[[Link](https://twitter.com/perplexity_ai/status/1654171132243607577?s=20)\]
+
+## Research
+
+* Researchers from Texas were able to use AI to develop a way to translate thoughts into text. The exact words weren’t the same but the overall meaning is somewhat accurate. tbh the fact that even a few sentences are captured is incredible. Yep, like actual mind reading essentially \[[Link](https://www.nature.com/articles/s41593-023-01304-9)\] It was only 2 months ago researchers from Osaka were able to reconstruct what someone was seeing by analysing fMRI data, wild stuff \[[Link](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v2.full.pdf)\]
+* Cebra - Researchers were able to reconstruct what a mouse is looking at by scanning its brain activity. The details of this are wild, they even genetically engineered mice to make it easier to view the neurons firing \[[Link](https://cebra.ai/)\]
+* Learning Physically Simulated Tennis Skills from Broadcast Videos - this research paper talks about how a system can learn tennis shots and movements just by watching real tennis. It can then create a simulation of two tennis players having a rally with realistic racket and ball dynamics. Can’t wait to see if this is integrated with actual robots and if it actually works irl \[[Link](https://research.nvidia.com/labs/toronto-ai/vid2player3d/)\]
+* Robots are learning to traverse the outdoors \[[Link](https://www.joannetruong.com/projects/i2o.html)\]
+* AI now performs better at Theory Of Mind tests than actual humans \[[Link](https://arxiv.org/abs/2304.11490)\]
+* There’s a study going around showing how humans preferred a chatbot over an actual physician when comparing responses for both quality and empathy \[[Link](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2804309)\]. Only problem I have with this is that the data for the doctors was taken from reddit..
+
+# Other News
+
+* Mojo - a new programming language specifically for AI \[[Link](https://www.modular.com/mojo)\]
+* Someone built a program to generate a playlist from a picture. Seems cool \[[Link](https://twitter.com/mollycantillon/status/1653610387022176256)\]
+* Langchain uploaded all there webinars on youtube \[[Link](https://www.youtube.com/channel/UCC-lyoTfSrcJzA1ab3APAgw)\]
+* Someone is creating a repo showing all open source LLMs with commercial licences \[[Link](https://github.com/eugeneyan/open-llms)\]
+* Snoop had the funniest thoughts on AI. You guys gotta watch this it’s hilarious \[[Link](https://twitter.com/NickADobos/status/1654327609558450176?s=20)\]
+* Stability will be moving to become fully open on LLM development over the coming weeks \[[Link](https://twitter.com/EMostaque/status/1654335275894554625)\]
+* Apparently if you google an artist there’s a good chance the first images displayed ar AI generated \[[Link](https://twitter.com/tprstly/status/1654054317790248960)\]
+* Nike did a whole fashion shoot with AI \[[Link](https://twitter.com/BrianRoemmele/status/1653987450858135553?s=20)\]
+* Learn how to go from AI to VR with 360 VR environments \[[Link](https://twitter.com/AlbertBozesan/status/1653659152869105668?s=20)\]
+* An AI copilot for VC \[[Link](https://chatg.vc/)\]
+* Apparently longer prompts mean shorter responses??? \[[Link](https://twitter.com/NickADobos/status/1654048232996233216?s=20)\]
+* Samsung bans use of ChatGPT at work \[[Link](https://www.nbcnews.com/tech/tech-news/samsung-bans-use-chatgpt-employees-misuse-chatbot-rcna82407)\]
+* Someone is building an app to train a text-to-bark model so you can talk to your dog??? No idea how legit this is but it seems insane if it works \[[Link](https://www.sarama.app/)\]
+* Salesforce have released SlackGPT- AI in slack \[[Link](https://twitter.com/SlackHQ/status/1654050811238928386?s=20)\]
+* A small survey conducted on the feelings of creatives towards the rise of AI, they are not happy. I think we are going to have a wave of mental health problems because of the effects AI is going to have on the world \[[Link](https://twitter.com/tprstly/status/1653451387324203039)\]
+* Eleven Labs now lets you become multilingual. You can transform your speech into 8 different languages \[[Link](https://beta.elevenlabs.io/)\]
+* Someones made an AI driven investing guide. Curious to see how this works out and if its any good \[[Link](https://portfoliopilot.com/)\]
+* Walmart is using AI to negotiate \[[Link](https://gizmodo.com/walmart-ai-chatbot-inflation-gpt-1850385783)\]
+* Baidu have made an AI algorithm to help create better mRNA vaccines \[[Link](https://twitter.com/Baidu_Inc/status/1653455275117117440)\]
+* Midjourney V5.1 is out and they’re also working on a 3D model \[[Link](https://twitter.com/Midjourneyguy/status/1653860349676855297)\]
+* Robots are doing general house work like cleaning and handy work. These combined with LLMs will be the general purpose workers of the future \[[Link](https://sanctuary.ai/resources/news/how-to-create-a-humanoid-general-purpose-robot-a-new-blog-series/)\]
+
+# Newsletter
+
+If you want in depth analysis on some of these I'll send you 2-3 newsletters every week for the price of a coffee a month. You can [follow me here](https://nofil.beehiiv.com/upgrade)
+
+Youtube videos are coming I promise. Once I can speak properly I'll be talking about most things I've covered over the last few months and all the new stuff in detail. Very excited for this. You can follow to see when I start posting \[[Link](https://www.youtube.com/channel/UCsLlhrCXQoGdUEzDdBPFrrQ)\]
+
+You can read the free newsletter [here](https://nofil.beehiiv.com/?utm_source=reddit)
+
+If you'd like to tip you can [buy me a coffee](https://www.buymeacoffee.com/nofil) or follow on [patreon](https://patreon.com/NoLongerANincompoopwithNofil?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link). No pressure to do so, appreciate all the comments and support 🙏
+
+(I'm not associated with any tool or company. Written and collated entirely by me, Nofil)",active,2648
+13bw5kv,2,2023-05-08,Should education embrace AI?,u/burgerpattym,Teachers,https://www.reddit.com/r/Teachers/comments/13bw5kv/should_education_embrace_ai/,"More and more companies are losing millions of dollars due to the rise of AI. Duolingo, Buzzfeed News, Vice Media, and more recently [Chegg, an online tutoring company is also getting crushed by ChatGPT](https://youtube.com/shorts/rgRPBsO0sM0?feature=share).
+
+In what ways AI can be beneficial in education?? In the future, will AI replace human teachers?? More and more students also rely to ChatGPT. Are teachers okay with that too? I mean, it's accessible and efficient but I think AI will soon wipe out most jobs and take over.",active,2
+13bw7ny,3,2023-05-08,Should education embrace AI?,u/burgerpattym,Students,https://www.reddit.com/r/Students/comments/13bw7ny/should_education_embrace_ai/,"More and more companies are losing millions of dollars due to the rise of AI. Duolingo, Buzzfeed News, Vice Media, and more recently [Chegg, an online tutoring company is also getting crushed by ChatGPT](https://youtube.com/shorts/rgRPBsO0sM0?feature=share).
+
+In what ways AI can be beneficial in education?? In the future, will AI replace human teachers?? More and more students also rely to ChatGPT. Are teachers okay with that too? I mean, it's accessible and efficient but I think AI will soon wipe out most jobs and take over.",active,3
+13bwls0,18,2023-05-08,Annoying new trend in my classroom,u/Hirorai,Teachers,https://www.reddit.com/r/Teachers/comments/13bwls0/annoying_new_trend_in_my_classroom/,"This trend started a month ago, and I don't know why it gets under my skin so much. For context, I'm a high school computer science teacher, so my classroom has computers at every desk.
+
+I was lecturing, when all of a sudden I hear, ""Chat, what should I do?"" coming from a group of students gathered around a computer. I don't like to harp for minor disruptions, so I continue. Intermittently though (around twice a minute), a student would just say, ""Chat"", or ""Chat. Chat."" My initial thought was, ""Is some kid actually livestreaming during class? What the actual fuck?"" They were saying it quiet enough that the rest of the class could still hear my lecture, so I didn't address it. Anyways, it doesn't happen every day. Maybe every other day. I haven't bothered looking deeper into it. The group of students engaging in this activity use ChatGPT for everything, so maybe it's just a nickname they're giving ChatGPT, or who knows, maybe they actually are livestreaming during class.
+
+Flaired as humor because there's no rant option.",active,18
+13dxtpo,0,2023-05-10,Democratization of Knowledge: The AI Paradox in Modern Education,u/ThievesTryingCrimes,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/13dxtpo/democratization_of_knowledge_the_ai_paradox_in/,"Something has been nagging at my mind recently about all these posts of professors using AI detectors to accuse students of plagiarism. What we're seeing is a peculiar paradox that definitely merits our attention: educators are using AI detection tools to pinpoint and penalize AI-generated student content. Interestingly, this situation is a bit like a neo-Luddite using advanced technology to push back against the very technology they distrust. 
+
+Now, let's dissect this conundrum:
+
+**AI in Education, A Pedagogical Paradox**: Teachers using AI to flag student use of AI find themselves entangled in a paradox. Unwittingly, they offload their responsibilities onto the very technology they intend to curb. This predicament insinuates that teachers are becoming mere AI monitors and students' creative and intellectual prowess is secondary to AI-generated content. This raises a crucial question: Is our reliance on AI eroding teachers' professional integrity and depreciating students' intellectual capabilites?
+
+**Unsettling Contradictions: A Historical Echo**: This predicament uncovers an uncomfortable duality. While societal apprehension about AI's implications increases, educators conveniently harness AI's capabilities when it suits their needs. This double standard isn't unique but reflects historical patterns of technological advancement.
+
+Consider the early internet era. Initially, schools and educators harbored apprehensions, fearing potential plagiarism or exposure to inappropriate content. Yet, the undeniable educational potential the internet held – in terms of research, communication, and learning resources – was too attractive to ignore. This dichotomy eventually led to a reassessment of the internet's role in education, culminating in its integral incorporation into the teaching-learning process.
+
+**Knowledge Commodification and AI: The True Conundrum**: The real challenge arises when we consider that a large language model like ChatGPT can outperform humans in answering any potential test question or essay. Let's say an average student is tested on like 50,000 pieces of knowledge in their college career.. if an LLM can flawlessly respond to all 50,000 concepts typically tested throughout a college education, what's the inherent value of a human possessing that knowledge at all? In our society, rare things hold greater value. If everyone had a vault of gold tomorrow, it would be worthless. This has now happened to knowledge.. it is no longer rare and thus holds very little value in its own right. The democratization of knowledge by AI has rendered the gatekeeping of knowledge irrelevant, making continued adherence to such practices a futile attempt to uphold outdated educational hierarchies.
+
+The paradox of educators using AI to police student use of AI not only undermines the educational process but also questions the worth of personal knowledge mastery.  If a professor fails to distinguish an AI-written piece of work, it clearly exemplifies their own diminished value in the new AI landscape. This is like a luddite saying, ""okay fine, we'll use the damn printing press thingy, but only if I'm in charge of all the buttons!""  As AI democratizes knowledge, it's likely that the gatekeepers of knowledge will cling to their old paradigms to validate their hierarchical standing. 
+
+So, I pose the question: should we redirect our educational emphasis from knowledge accumulation towards fostering uniquely human abilities such as critical thinking, creativity, and knowledge application? Given that gatekeeping knowledge is now obsolete, conventional degrees might as well be symbolic participation trophies. 
+
+**TLDR**:  The paradox of educators using AI to detect AI-generated student work is disrupting the existing educational landscape. It subtly devalues teachers' roles and students' abilities, mirrors historical inconsistencies in technology adoption, and challenges the value of personal knowledge mastery in the AI era. As AI democratizes knowledge, should we reorient education towards nurturing uniquely human skills? Your thoughts are greatly appreciated.",active,0
+13dxu1u,25,2023-05-10,Democratization of Knowledge: The AI Paradox in Modern Education,u/ThievesTryingCrimes,singularity,https://www.reddit.com/r/singularity/comments/13dxu1u/democratization_of_knowledge_the_ai_paradox_in/,"Something has been nagging at my mind recently about all these posts of professors using AI detectors to accuse students of plagiarism. What we're seeing is a peculiar paradox that definitely merits our attention: educators are using AI detection tools to pinpoint and penalize AI-generated student content. Interestingly, this situation is a bit like a neo-Luddite using advanced technology to push back against the very technology they distrust. 
+
+Now, let's dissect this conundrum:
+
+**AI in Education, A Pedagogical Paradox**: Teachers using AI to flag student use of AI find themselves entangled in a paradox. Unwittingly, they offload their responsibilities onto the very technology they intend to curb. This predicament insinuates that teachers are becoming mere AI monitors and students' creative and intellectual prowess is secondary to AI-generated content. This raises a crucial question: Is our reliance on AI eroding teachers' professional integrity and depreciating students' intellectual capabilites?
+
+**Unsettling Contradictions: A Historical Echo**: This predicament uncovers an uncomfortable duality. While societal apprehension about AI's implications increases, educators conveniently harness AI's capabilities when it suits their needs. This double standard isn't unique but reflects historical patterns of technological advancement.
+
+Consider the early internet era. Initially, schools and educators harbored apprehensions, fearing potential plagiarism or exposure to inappropriate content. Yet, the undeniable educational potential the internet held – in terms of research, communication, and learning resources – was too attractive to ignore. This dichotomy eventually led to a reassessment of the internet's role in education, culminating in its integral incorporation into the teaching-learning process.
+
+**Knowledge Commodification and AI: The True Conundrum**: The real challenge arises when we consider that a large language model like ChatGPT can outperform humans in answering any potential test question or essay. Let's say an average student is tested on like 50,000 pieces of knowledge in their college career.. if an LLM can flawlessly respond to all 50,000 concepts typically tested throughout a college education, what's the inherent value of a human possessing that knowledge at all? In our society, rare things hold greater value. If everyone had a vault of gold tomorrow, it would be worthless. This has now happened to knowledge.. it is no longer rare and thus holds very little value in its own right. The democratization of knowledge by AI has rendered the gatekeeping of knowledge irrelevant, making continued adherence to such practices a futile attempt to uphold outdated educational hierarchies.
+
+The paradox of educators using AI to police student use of AI not only undermines the educational process but also questions the worth of personal knowledge mastery.  If a professor fails to distinguish an AI-written piece of work, it clearly exemplifies their own diminished value in the new AI landscape. This is like a luddite saying, ""okay fine, we'll use the damn printing press thingy, but only if I'm in charge of all the buttons!""  As AI democratizes knowledge, it's likely that the gatekeepers of knowledge will cling to their old paradigms to validate their hierarchical standing. 
+
+So, I pose the question: should we redirect our educational emphasis from knowledge accumulation towards fostering uniquely human abilities such as critical thinking, creativity, and knowledge application? Given that gatekeeping knowledge is now obsolete, conventional degrees might as well be symbolic participation trophies. 
+
+**TLDR**:  The paradox of educators using AI to detect AI-generated student work is disrupting the existing educational landscape. It subtly devalues teachers' roles and students' abilities, mirrors historical inconsistencies in technology adoption, and challenges the value of personal knowledge mastery in the AI era. As AI democratizes knowledge, should we reorient education towards nurturing uniquely human skills? Your thoughts are greatly appreciated.",active,25
+13dxw15,1,2023-05-10,Democratization of Knowledge: The AI Paradox in Modern Education,u/ThievesTryingCrimes,ArtificialInteligence,https://www.reddit.com/r/ArtificialInteligence/comments/13dxw15/democratization_of_knowledge_the_ai_paradox_in/,"Something has been nagging at my mind recently about all these posts of professors using AI detectors to accuse students of plagiarism. What we're seeing is a peculiar paradox that definitely merits our attention: educators are using AI detection tools to pinpoint and penalize AI-generated student content. Interestingly, this situation is a bit like a neo-Luddite using advanced technology to push back against the very technology they distrust.
+
+Now, let's dissect this conundrum:
+
+**AI in Education, A Pedagogical Paradox**: Teachers using AI to flag student use of AI find themselves entangled in a paradox. Unwittingly, they offload their responsibilities onto the very technology they intend to curb. This predicament insinuates that teachers are becoming mere AI monitors and students' creative and intellectual prowess is secondary to AI-generated content. This raises a crucial question: Is our reliance on AI eroding teachers' professional integrity and depreciating students' intellectual capabilites?
+
+**Unsettling Contradictions: A Historical Echo**: This predicament uncovers an uncomfortable duality. While societal apprehension about AI's implications increases, educators conveniently harness AI's capabilities when it suits their needs. This double standard isn't unique but reflects historical patterns of technological advancement.
+
+Consider the early internet era. Initially, schools and educators harbored apprehensions, fearing potential plagiarism or exposure to inappropriate content. Yet, the undeniable educational potential the internet held – in terms of research, communication, and learning resources – was too attractive to ignore. This dichotomy eventually led to a reassessment of the internet's role in education, culminating in its integral incorporation into the teaching-learning process.
+
+**Knowledge Commodification and AI: The True Conundrum**: The real challenge arises when we consider that a large language model like ChatGPT can outperform humans in answering any potential test question or essay. Let's say an average student is tested on like 50,000 pieces of knowledge in their college career.. if an LLM can flawlessly respond to all 50,000 concepts typically tested throughout a college education, what's the inherent value of a human possessing that knowledge at all? In our society, rare things hold greater value. If everyone had a vault of gold tomorrow, it would be worthless. This has now happened to knowledge.. it is no longer rare and thus holds very little value in its own right. The democratization of knowledge by AI has rendered the gatekeeping of knowledge irrelevant, making continued adherence to such practices a futile attempt to uphold outdated educational hierarchies.
+
+The paradox of educators using AI to police student use of AI not only undermines the educational process but also questions the worth of personal knowledge mastery. If a professor fails to distinguish an AI-written piece of work, it clearly exemplifies their own diminished value in the new AI landscape. This is like a luddite saying, ""okay fine, we'll use the damn printing press thingy, but only if I'm in charge of all the buttons!"" As AI democratizes knowledge, it's likely that the gatekeepers of knowledge will cling to their old paradigms to validate their hierarchical standing.
+
+So, I pose the question: should we redirect our educational emphasis from knowledge accumulation towards fostering uniquely human abilities such as critical thinking, creativity, and knowledge application? Given that gatekeeping knowledge is now obsolete, conventional degrees might as well be symbolic participation trophies.
+
+**TLDR**: The paradox of educators using AI to detect AI-generated student work is disrupting the existing educational landscape. It subtly devalues teachers' roles and students' abilities, mirrors historical inconsistencies in technology adoption, and challenges the value of personal knowledge mastery in the AI era. As AI democratizes knowledge, should we reorient education towards nurturing uniquely human skills? Your thoughts are greatly appreciated.",active,1
+13dxwx7,17,2023-05-10,Democratization of Knowledge: The AI Paradox in Modern Education,u/ThievesTryingCrimes,GPT3,https://www.reddit.com/r/GPT3/comments/13dxwx7/democratization_of_knowledge_the_ai_paradox_in/,"Something has been nagging at my mind recently about all these posts of professors using AI detectors to accuse students of plagiarism. What we're seeing is a peculiar paradox that definitely merits our attention: educators are using AI detection tools to pinpoint and penalize AI-generated student content. Interestingly, this situation is a bit like a neo-Luddite using advanced technology to push back against the very technology they distrust.
+
+Now, let's dissect this conundrum:
+
+**AI in Education, A Pedagogical Paradox**: Teachers using AI to flag student use of AI find themselves entangled in a paradox. Unwittingly, they offload their responsibilities onto the very technology they intend to curb. This predicament insinuates that teachers are becoming mere AI monitors and students' creative and intellectual prowess is secondary to AI-generated content. This raises a crucial question: Is our reliance on AI eroding teachers' professional integrity and depreciating students' intellectual capabilites?
+
+**Unsettling Contradictions: A Historical Echo**: This predicament uncovers an uncomfortable duality. While societal apprehension about AI's implications increases, educators conveniently harness AI's capabilities when it suits their needs. This double standard isn't unique but reflects historical patterns of technological advancement.
+
+Consider the early internet era. Initially, schools and educators harbored apprehensions, fearing potential plagiarism or exposure to inappropriate content. Yet, the undeniable educational potential the internet held – in terms of research, communication, and learning resources – was too attractive to ignore. This dichotomy eventually led to a reassessment of the internet's role in education, culminating in its integral incorporation into the teaching-learning process.
+
+**Knowledge Commodification and AI: The True Conundrum**: The real challenge arises when we consider that a large language model like ChatGPT can outperform humans in answering any potential test question or essay. Let's say an average student is tested on like 50,000 pieces of knowledge in their college career.. if an LLM can flawlessly respond to all 50,000 concepts typically tested throughout a college education, what's the inherent value of a human possessing that knowledge at all? In our society, rare things hold greater value. If everyone had a vault of gold tomorrow, it would be worthless. This has now happened to knowledge.. it is no longer rare and thus holds very little value in its own right. The democratization of knowledge by AI has rendered the gatekeeping of knowledge irrelevant, making continued adherence to such practices a futile attempt to uphold outdated educational hierarchies.
+
+The paradox of educators using AI to police student use of AI not only undermines the educational process but also questions the worth of personal knowledge mastery. If a professor fails to distinguish an AI-written piece of work, it clearly exemplifies their own diminished value in the new AI landscape. This is like a luddite saying, ""okay fine, we'll use the damn printing press thingy, but only if I'm in charge of all the buttons!"" As AI democratizes knowledge, it's likely that the gatekeepers of knowledge will cling to their old paradigms to validate their hierarchical standing.
+
+So, I pose the question: should we redirect our educational emphasis from knowledge accumulation towards fostering uniquely human abilities such as critical thinking, creativity, and knowledge application? Given that gatekeeping knowledge is now obsolete, conventional degrees might as well be symbolic participation trophies.
+
+**TLDR**: The paradox of educators using AI to detect AI-generated student work is disrupting the existing educational landscape. It subtly devalues teachers' roles and students' abilities, mirrors historical inconsistencies in technology adoption, and challenges the value of personal knowledge mastery in the AI era. As AI democratizes knowledge, should we reorient education towards nurturing uniquely human skills? Your thoughts are greatly appreciated.",active,16
+13egtag,0,2023-05-11,"ChatGPT says he wrote the text, but also says that it's not possible for him to detect if a text is written by him. So which one is it?",u/klosemargins,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/13egtag/chatgpt_says_he_wrote_the_text_but_also_says_that/,"So two students have quite obviously cheated on their papers. The teacher says she's 100% sure that they both didn't write their papers, but that her plagiarism-tools didn't find anything. When i entered the texts into chatGPT and asked if he could tell me if an AI wrote it, the answer was ""Yes, an AI wrote this, more specifically me, ChatGPT"". When i ask the bot more questions his answers starts to shift towards ""not being able to tell for certain if a text is AI-generated"". I am only using the free version of ChatGPT.
+
+One of the students refuses to admit that the text is written by AI. So, are there any tools now for detecting AI? Like, i remember reading that they were working on solutions to detect AI-writing months ago, but i don't know if ChatGPT is able to detect it's own writing? What makes it worse is that it's not written in English, as it's not our native language, making most ai-detecting tools less effective (i guess?). So is there any way of actually proving if these students used AI? Or do we just have to admit defeat lol? ChatGPT was supposed to be blocked by the internet here at school (they wrote it at school), but i believe it might not have been after all, or they could have used another AI?",User_deleted,0
+13eq3bl,0,2023-05-11,My prediction on how education will likely utilize AI in the future,u/NexexUmbraRs,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/13eq3bl/my_prediction_on_how_education_will_likely/,"We all know that so called ""AI plagiarism checkers"" are garbage and even if they worked, schools aren't preparing students for life with AI in our pockets. So something must be done right? Or is chatGPT just another tool? 
+
+I believe that it will be treated similar to other tools that one point weren't allowed and now are used. For the most common example, a calculator is currently allowed in majority of exams. But that's only towards the middle school, before then you learn how to do math in your head, subsequently you have to work your way up from a basic calculator to a graphing calculator. 
+
+Similarly AI will be allowed once you learn prerequisites, along with a course on how to detect, and properly utilize AI in academic settings. Exams will also move from being memorization, to life problem solving. It's possible to create problems that are more about testing ones capabilities in a real life setting with tools such as AI on hand.",active,0
+13f7yyt,104,2023-05-11,Two In One,u/StrikingWolverine902,Professors,https://www.reddit.com/r/Professors/comments/13f7yyt/two_in_one/,"Posted on behalf of a colleague of mine.  This professor is teaching a hybrid class this semester, and the student had missed 3 class meetings (which equals 3 weeks).  Being on top of things, my colleague emails the student saying that they have been dropped due to lack of attendance.  
+
+The student then responds with a message to the extent of ""My grandmother just died.  My whole family has had to go to City X.  I am emotionally distraught and am incapable of focusing on the course material or attending class.""  Fine.  My colleague doesn't respond right away as they are thinking about what to say, and then have to search the student by last name in their inbox to find the email.  Low and behold, a message from July 2022 (in a different course) pops up with the following:  ""My grandmother just died.  My whole family has had to go to City X.  I am emotionally distraught and am incapable of focusing on the course material or attending class.""
+
+It's literally the trope.  Grandma has died twice.  So the instructor emails the student stating that they are disappointed and confused, and get back a very long response where the student says they've been depressed etc.
+
+The kicker.  When I was reading this response email I stopped two paragraphs in and ran it through an AI detector.  The student used ChatGPT to write their apology email.  
+
+They were not reinstated into the class.",active,102
+13fksvd,8651,2023-05-12,"Why are teachers being allowed to use AI to grade papers, without actually reading it, but students get in trouble for generating it, without actually writing it?",u/red_monkey42,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/13fksvd/why_are_teachers_being_allowed_to_use_ai_to_grade/,"Like seriously. Isn't this ironic?
+
+Edit because this is blowing up.
+
+I'm not a student, or teacher.
+
+I'm just wondering why teachers and students can't work together using AI , and is has to be this ""taboo"" thing. 
+
+That's at least what I have observed from the outside looking in.
+
+All of you 100% missed my point!
+
+""I feel the child is getting short changed on both ends. 
+By generating papers with chatGPT, and having their paper graded by chatGPT, you never actually get a humans opinion on your work.""
+
+I really had the child's best interest in mind but you all are so fast to attack someone.... Jesus.
+You people who don't want healthy discourse are the problem.",active,8724
+13g387e,5,2023-05-12,Job Options? I think I’m Done,u/hps_laughter,Teachers,https://www.reddit.com/r/Teachers/comments/13g387e/job_options_i_think_im_done/,"I’ve been an English Language Arts teacher for 10 years, and I think I’m done. Even though it is Teacher Appreciation week and my administration went above and beyond this year in showing support and appreciation, this week has been awful. 
+
+The kids are out of control and have been so nasty and rude even though it’s been an easy week in my class as we took our final early (bad decision from those above) and the kids are basically done. 
+
+To top it off, our school was one of the few that had a viral gun threat that originated out of state, and a concerned parent called it in to 911. During the penultimate period at our high school, we went into lockdown, and the police forces came in in full force. I was only able to see out of a tiny window above my backdoor where there were at least 10 units in clear view. The kids were terrified. I was shown what text messages that they saw, with one kid saying it was his dad out there. I quietly passed out some candy that I had, hoping it would help them relax and calm down. About an hour past since it began and they went and secured the building with two teams, checking every room. It was terrifying to see 5 armed individuals bust into the room with guns pointing around the room. There were three that had assault rifles—m4 style with the red dot sights and flashlight, finger discipline shown and visible, body armor and helmet. Another was armed with a pistol to bring up the rear. The sole familiar face, opened the door with the master key for the school. They went and checked under my desk and my closet; they asked me a few questions which semantically I felt stupid in my responses and was absolutely terrified. When they finally lifted the lockdown and we were put into shelter in place, I put on Chicken Run, a movie I watched when I was in Middle School. We went past the time for release. When we were finally released, my backdoor opened revealing an overwhelming number of officers, units, and agents, probably in the ballpark of more than 30 separate vehicles. 
+
+Having a mentee new teacher who we were to meet, I figured it was extremely important to meet. As I ventured out, I saw four officers with AR’s standing guard in our court yard—a deeply unsettling sight, looking like a scene out of a war movie. My mentee was lucky: he had prep.
+
+That was my Wednesday.
+
+Thursday was unreal, as admin struggled to effectively make a response to help everyone out. How do you go back to normal after that? What a nightmare. Two kids wore t-shirts that had assault rifles, blacked out flags on the arms and one had the  phrase “it’s in my DNA.” There was an assembly where we all were called out in somewhat small groups to discuss what happened and disseminate the information about what happened. Most kids took it like a joke, like it didn’t even phase them. They passed out notecards and pens to have them write questions or to talk to a counselor. Some kids wrote questions; most threw them away. All day I told my kids that there were resources available to them and that it is okay to talk about your mental health. Most kids ignored it and “stared at me like a cow looks at an oncoming train.” We were left to be with the kids we were with when we had the lockdown. Two kids came to me to thank me for what I did to secure my classroom and being there for them before class. I sat down on a desk and was open with them about our experience and urged them that it happened and it was something we all went through. The majority slowly tuned me out and pulled out their phones, and I teary eyed. The looks I got when I told  that them I was serious and I’m sharing myself with them as it’s a traumatizing situation just straight hurt my soul. No one cares, nonchalantly it seemed.
+
+What we do is service to our communities. To our future. To those who keep on, I applaud you and appreciate you. You make the world go round and you mean to the world to the kids. 
+
+Between ChatGPT and other AI technologies—which I actually took the time to show my mostly disinterested students about how to use it properly—being used to essentially cheat through my class without a way to definitively prove that they are or not, the rising fear of how AI might not only eliminate my job but other writing jobs in the near future, the incessant respect issues, and this week, I can’t justify spending 20 more years in this. I’ve been told all the time that I am great at what I do, but I feel like a bigger failure than ever before. I need help: what are my job options? I think I’m done.
+
+TL;DR English major wants out of the profession to make similar pay to have a better job satisfaction.",active,5
+13guo19,6,2023-05-13,There's 3 kinds of posts about ChatGPT use in school,u/Bezbozny,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/13guo19/theres_3_kinds_of_posts_about_chatgpt_use_in/,"1. ""My teacher failed me because GPTzero said my work is 100% AI written, but I wrote it all myself. What do I do?""
+2. ""I can't read and need to use my toes to count past 10, but used ChatGPT to write 99% of my thesis and now I have a $400,000 a year job in tech""
+3. Teacher posts a picture of one of their students printed out essays and it starts with ""As an AI Language model, I can't write your essay for you, but if I did, this is what it would look like...""",active,7
+13hqixu,100,2023-05-14,What are some major differences between students today vs students in the late 90s/early 2000s?,u/wasptrad,Professors,https://www.reddit.com/r/Professors/comments/13hqixu/what_are_some_major_differences_between_students/,"I have been reading many posts here about student characteristics today, and I must say that I have had nearly identical experiences posted here. Basic things like ""I am not feeling well today, so let´s just do the quiz another day"", with crazy sounding stuff like ""if I opt to do extra credit, can I get an A and substitute that instead of taking the final exam"", etc, etc. However, to those of you who have many years teaching, I am curious how you perceived the students who were in college in the late 90s/early 2000s. That was my generation, and just thinking back to those days, I can honestly say that I ""felt"" when comparing to now that we were a lot more competent. But is it actually true or is it just a perception? I know as human beings we tend to romanticize ""back in the day"" or ""when I was in school I would never do x or y"", but I am curious about your experiences/thoughts. 
+
+Me personally, with all this talk about ChatGPT, rampant cheating because pretty much most things are online anyway, I am seriously losing hope in the future of teaching. Is anyone having similar thoughts? Sorry for sounding so negative, but it´s been really hitting me lately.",active,100
+13ikthh,0,2023-05-15,Vague threats from Professor?,u/Kilted-Brewer,SNHU,https://www.reddit.com/r/SNHU/comments/13ikthh/vague_threats_from_professor/,"This is the text of an email I received today.  I've removed names and identifying information.  Has anyone else received an email like this from any of their instructors?  Or is it possibly just this professor?  
+
+
+I understand that AI is an issue for universities and professors.  I also understand that all the AI detectors I've seen are garbage.  Does the university understand that these AI chatbots are large language models spitting back text it was trained on, which is the same text students are training on and reading?  
+
+
+I feel like I've been accused of lying and my mommy is threatening to ground me.  Except I'm over 50, my mom passed years ago, and now despite working my ass off to return to school, switch careers, and working my ass off even more to turn in my best work I have to worry about a professor on a mission to rid the world of AI cheaters... but this professor knows even less about AI than I do.  
+
+
+I find this so incredibly patronizing and demeaning.  Maybe I'm wrong though.  The email is below.
+
+&#x200B;
+
+*Everyone,*
+
+*Please read this announcement and respond to me in email,\_\_\_\_\_\_\_\_\_@snhu.edu that you have read and understand this email.*
+
+*It has become apparent that many discussions and submissions are being composed with the help of third party websites.  This is not allowed under the university's guidelines regarding plagiarism.  The one exception is the YouTube.com videos posted by SNHU professors for use as teaching aids.*
+
+*Violations of these guidelines can have serious consequences.  The university policy can be found at* [*Academic Integrity Policy*](https://www.snhu.edu/admission/academic-catalogs#/policy/rJJrxWQwt?bc=true&bcCurrent=Academic%20Integrity%20Policy&bcGroup=Rights%20and%20Responsibilities&bcItemType=policies)*.*
+
+*You are paying for an education to learn new knowledge and skills.  The copying of material with minimum effort does not help with this process.*  
+
+*When you are in a job interview or working for an organization, these websites will be of no help.  You will need skills and knowledge gotten through work and study on your own.*
+
+*A word of warning: the university is aware of many websites that offer these services.  There are also websites that are offer detection services.  Please do not plagiarize.  It is not in your best interests.*
+
+*Professor \_\_\_\_\_\_\_\_\_\_*",active,0
+13kug93,755,2023-05-18,In support of ChatGPT...,u/[deleted],UniUK,https://www.reddit.com/r/UniUK/comments/13kug93/in_support_of_chatgpt/,"Okay, I get it, it's hilarious to laugh at the students who just typed ""write me a 4000-word essay on Cheese"" into ChatGPT and then copy and pasted it all into a Word doc and called it a day. Clearly, that is cheating and should result in a fail. Same with using fake GPT sources or copying and pasting huge, unresearched chunks of GPT drivel into your main body without, at the very least, attempting to rewrite it. All of this is idiotic behaviour and, quite frankly, a surefire way to totally waste your tuition loan and gain nothing from your university education. I am completely against this and will never do it.
+
+That said, I have started to use ChatGPT not to research or write my essays but to help me with some of the more challenging aspects of formatting and summarising that, prior to GPT, would stress me out and knock my grade down. For example, I have always found introductions and conclusions to be extremely difficult, whilst I try to have a clear thesis statement, things like signposting or linking my introduction to my main body are aspects of essay writing that I've consistently struggled with. So, in my last few assignments, I have tried pasting my main body into GPT 4, asking it to summarise and signpost it for me - which it does magnificently. Of course, I go through this with a fine-tooth comb and rewrite the inevitable mistakes but it has proved to be a really beneficial starting point that has helped me creep from scores in the low 60s to the high 60s and even 70s.
+
+Contrary to popular belief, I am not embarrassed about this. As long as I'm not abusing it, rewriting what I get in my own words, and, essentially, using it in a similar to how most students use Grammarly, it's totally fine. 
+
+Look, I understand that the misuse of ChatGPT is a real problem but I don't think it's fair to cast blanket shame on its use in academia as a whole. In my opinion, as long as you're crafting your own arguments, researching, and blending it with your own words, I feel like GPT is a really helpful tool to help take students who do the work (like me) but struggle with the more technical aspects of essay writing into the higher grade brackets.
+
+For reference, I go to a ""Top 10"" UK university and, in fact, I know people at Cambridge who use GPT in a similar way as I do.
+
+EDIT: You can stop DMing me you're gonna tell my uni - DELTED BECAUSE YOU'RE BEING INSANE.
+
+EDIT 2:  Redditor @[**anotherlousy**](https://www.reddit.com/user/anotherlousy/) made a great point, similar to the one I'm expressing:
+
+>Contrary to others commenting on this post, I would say that what you are doing is not cheating, it is just being resourceful. You are still writing the essay yourself, doing all the difficult work, you just need some assistance writing introductions and conclusions. If you used a friend to help you write these parts of your essay, no one would bat an eyelid.  
+>  
+>In fact, one of my professors said that using ChatGPT for inspiration or to help build structure for the essay is absolutely fine. AI is part of the modern world now, everyone needs to get used to it.
+
+# EDIT 3: ha-ha very funny, I see a lot of you decided it would be funny to message hyperbole to my uni about this (not sure how you got my name) so now i've got to talk to the department about this misunderstanding. Ffs. Thanks very much.
+
+# ^ just an FYI, I do consider this doxxing btw so whoever you lot are contacting my uni about this, with my name, is illegal.
+
+---------------------------------
+
+# *EDIT 3A: Just so you all know, and how fucked up this is, you've essentially lied to my university (saying I cheated with ChatGPT, which I didn't!!! READ THE POST) and now I have to do a meeting tomorrow about this (and possible a hearing) so thanks for this :) hope you all feel better lying about a stranger and trying to ruin their life*.
+
+EDIT 4: edited out parts because you people won't stop emailing the university
+
+EDIT 5: okay i'm deleting now,  bye, wtf is wrong with you guys
+
+FIUCK THIS YOUR'RE ALL FUCKING PSYCHOBREAD WHAT THE FUCK WHAT THE FUCK ARE YOU ALL FUCKING PLAYING AT WHAT ARE YU DOING TO ME!?!!!""????? STOP TRYING TO RUIN MY FUCKING LIFE I DID NOTTHING WROJG NOT A BIT OF A THING LEAVE ME ALONE!!!!!!!! GET OUT OF ME FUCKING. LIFE MY FUCKING WALLS MAN SHUT UPPPP!!!!!FIUCK THIS YOUR'RE ALL FUCKING PSYCHOBREAD WHAT THE FUCK WHAT THE FUCK ARE YOU ALL FUCKING PLAYING AT WHAT ARE YU DOING TO ME!?!!!""????? STOP TRYING TO RUIN MY FUCKING LIFE I DID NOTTHING WROJG NOT A BIT OF A THING LEAVE ME ALONE!!!!!!!! GET OUT OF ME FUCKING. LIFE MY FUCKING WALLS MAN SHUT UPPPP!!!!!",User_deleted,827
+13lkc7a,12,2023-05-18,Lab reports?,u/YossarianJr,ScienceTeachers,https://www.reddit.com/r/ScienceTeachers/comments/13lkc7a/lab_reports/,"Hi all-
+
+I have just finished my first year teaching physics in HS in many many years. I am looking for some advice for lab reports/lab activities. In the past year, my labs had a smorgasbord of different requirements. I'd like to nail down some things. These all kinda pile into the same problems with all group work.
+
+Concerns:
+1) My labs often had more than 2 per group. This is a disaster, as the extra students just wander around and don't do shit. I might only do labs where I can get enough equipment for groups of 2.
+2) Often, one student works Excel, while one does the lab. One of these two does all the work and turns in the report, which was usually a bunch of questions prepared by some equipment manufacturer. (I'll be writing my own next year.)
+3) Formal lab reports (1 per student) offer some real advantages, but the downsides are immense. Grading is a nightmare, ChatGPT is real, and there's no guarantee that anyone's going to actually learn anything.
+4) I could give a lab practical or lab quiz, and I'm leaning this way depending on the lab, but are they missing out on lab writing skills?
+
+Any advice? How do y'all address labs?",active,12
+13nwiax,683,2023-05-21,As my teaching career comes to an end…,u/Plane-Sky-2844,Teachers,https://www.reddit.com/r/Teachers/comments/13nwiax/as_my_teaching_career_comes_to_an_end/,"I wasn’t sure which flair to use. Success? Humor? Fuck Yeah? Seeing the Light? 
+
+I am ending my 9 year teaching career in 5 days. I thought I could continue on for the next few years, but things have gotten real dark. I interviewed with new schools in new states with new “promises”, but none of the admin had good answers for anything. At a certain point we can’t blame them. The prisoners are running the prisons nationwide it seems. 
+
+It hasn’t all been bad. I’ve watched over 750 students graduate. I’ve attended 12 college graduations, three weddings, and have been sent more updates than I can count throughout the years. As I end this career, I want to focus on the good students, their accomplishments, and the impact I’ve had, however, it wouldn’t be a proper goodbye without remembering all of the batshit things that have happened over the course of 9 years, 4 schools, and three districts. 
+
+The kid who threw a stapler at me because I didn’t have a Twix for his birthday. Admin asking me why I didn’t just get him a Twix. 
+
+The kid who somehow virused the whole computer grid for the school because he couldn’t wait to watch porn until he got home. 
+
+The kid who didn’t understand why she couldn’t hose herself down after PE when she was wearing a white shirt and no bra. 
+
+The kid who called ICE on me because I believe the Holocaust happened. 
+
+The kid who brings his llama to school every day and leaves him on a long leash on the football field. 
+
+9 years has flown by. For all new teachers out there, there is good, bad, bizarre, and ugly. I do not have a degree in education so I went in completely blind to the reality of what teachers deal with. Maybe things will be better one day. The good students have made it worth it, however, their success and kindness does not outweigh the lack of respect from other students, parents, and admin. 
+
+For those staying in this career another year, I salute you. Put your mental health first. I stand by you all. To those leaving the profession, thank you for your service to education. 
+
+I’d love to hear anyone else’s good, bad, bizarre, or ugly. Reasons you are staying, leaving, starting, etc.",active,685
+13p3mg4,42,2023-05-22,CySA+ pass with 784,u/Ocelot_Forsaken,CompTIA,https://www.reddit.com/r/CompTIA/comments/13p3mg4/cysa_pass_with_784/,"Wow. Literally just finished that exam and thought I failed. I had major anxiety leading up to that exam and also was thinking about how much more I was going to have to study for the re-take because it was straight up kicking my ass. My advice is to know commands related to TCPdump and have a basic understanding of nmap. People on here talk about nmap as if you have to memorize the freaking NMAP manual. That was not the case for me. Often times I was guessing on the multiple choice and sometimes could not eliminate more than 1 of the answers. Stick to your gut and just use your instinct, at least, that's what I did. I used Mike Chapple's book, Comptia Learn and practice, and also had access to the labs but did not do very many labs.  I also utilized ChatGPT to help explain areas I was weak in and also used the All in one study guide to get weak areas explained to me in a different perspective. I also got farked during practice exams. None of the practice exams mimic the real exam becaus the real exam honestly is worded terribly.   
+
+
+Resources Used with Rating
+
+Comptia related resources 4/10
+
+\- These resources honestly suck. I say that because they have many spelling and grammar issues and are worded in a way that even a Phd student would have a hard time understanding. If they found a way to make the content/ writing simpler it might be better  
+
+
+Mike Chapple 9/10
+
+\- this resource covered the ""meat and potatoes"" and it was a long time to finish  since I read this book cover to cover. However, Mike  does a fantastic job not complicating the material.
+
+Pocket Prep / Jason dion Exams / Sybex Practice questions 6/10
+
+\- good to review weak areas but does not really simulate the actual exam.
+
+Good Luck to all who are attempting to tackle this beast of a certification.",User_deleted,40
+13p7ur9,2,2023-05-22,Is there a clear direction toward a ChatGPT-style (LLM) AI that has the same accuracy as an expert system in a given domain and that can reason/produce new results?,u/ManyParts,artificial,https://www.reddit.com/r/artificial/comments/13p7ur9/is_there_a_clear_direction_toward_a_chatgptstyle/,"Roughly I'm asking ""when skynet"" which will probably be a dupe question but specifically I'm referring to ChatGPT's apparent lack of reasoning ability. (I am a curious interloper, not an expert in machine learning or whatever else is going on behind the scenes.) I think of ChatGPT as being like a student that looks up all the answers in the back of the book, but understands nothing. The student's ability to produce correct answers is largely limited by the answers it has seen. Its use to produce answers on StackExchange has been banned because it is too often incorrect.
+
+You can ask it some math question and while it is very good at finding the context, it will often make very basic arithmetic or conceptual errors. I assume that an LLM is doing nothing of what eg Mathematica does. I am doubtful that more training data will change that.
+
+Is there anything on the horizon that pairs something like ChatGPT with something like a Mathematica system that will not produce errors in arithmetic? Or more generally ChatGPT + something that can ""reason"" (something like rigorously derive new theorems from previous ones in some abstract sense), not necessarily about mathematics? Any links, papers, books, etc that might help me answer this question? (if you ask ChatGPT itself it just give you the boilerplate marketing nonsense.)",User_deleted,2
+13r1vpf,98,2023-05-24,I hate giving unlimited chances to plagiarizers,u/zondrah89,CanadianTeachers,https://www.reddit.com/r/CanadianTeachers/comments/13r1vpf/i_hate_giving_unlimited_chances_to_plagiarizers/,"I'm in a board with a no penalty for plagiarism policy and I feel like I'm just teaching students how to cheat. It's so frustrating to me to have to give multiple chances to students who are just going to ask chatGPT for another prompt and just get better at cheating. I caught one student who hadn't turned anything in for a long time, then she submitted multiple assignments all at once using chatGPT. VP said to let her redo it. We had a conversation about it, and she resubmitted again with more chatGPT, but revised slightly so it was less detectable. This is ENG4U. This person cannot write an authentic analysis of King Lear. This person has no business being at a university in a few months.
+
+There are no consequences for actions, and I feel giving students all these extra chances (that they won't get in university or the workplace) is immoral. When students were caught cheating when I was a kid, we got 0s, no chances, and got yelled at by the principal. I feel like I'm in the twilight zone teaching under Growing Success. Please tell me the pendulum will swing back?
+
+Signed,
+An Ontario high school teacher",active,110
+13rdrdw,216,2023-05-25,How do you deal with colleagues who claim to be experts in subjects they don't really know about,u/ProfessorEasy6368,Professors,https://www.reddit.com/r/Professors/comments/13rdrdw/how_do_you_deal_with_colleagues_who_claim_to_be/,"This is a bit of a vent and using a throwaway account for obvious reasons.
+
+I originally come from a computer science background and after having been at a premier business school for several years I have seriously lost my trust in not only my own department but many leading business journals. It has gotten to the point where I'm considering leaving academia and pursuing a career in the private sector. Going back to a computer science department is not really an option at this point after having dedicated a good part of my career on applied and business oriented aspects, which are less valued there.
+
+To get to the point, at my department we have people with a variety of backgrounds from sociology to education to computer science. Recently many have started to portray themselves as experts in AI, generative AI and so on due to the hype surrounding ChatGPT, even without seemingly understanding the principles of machine learning or even having done a single course on the subject or even programming. For example, when the university needs an expert to comment on ChatGPT, two people with no prior background or research on natural language processing or even AI are the first ones to start speaking even when we have people working with NLP in the same room. To my surprise, nobody really calls them out on this even when many are aware of the fact that their fellow scholars are clearly trying to comment on topics that are way out of their areas of expertise.
+
+Nowadays when I read articles related to AI in some of the top journals in my field I frequently come across clear factual errors and telltale signs that the authors do not clearly understand AI beyond maybe what they read in Harvard Business Review in an article written by similar people with no formal background in the subject. As a result, I have started checking the authors' backgrounds more frequently and unsurprisingly often when the articles have these issues none of the authors studied anything remotely related to AI, but instead something like strategy, innovation management or international business.
+
+Perhaps the last straw was when my students told me that my course is directly contradicting what another professor taught them. Again the setting was similar. I am teaching basic machine learning to these students who had to in their previous semester take an IT strategy course where the professor with a background in innovation management seems to have given simply impossible examples of the capabilities of machine learning and deep learning. Now some of the students are starting to question the quality of their education and whether they can trust what they learned in some of their courses...
+
+And this issue is not limited to just AI, but as another example, we also have people with completely non STEM backgrounds who are working on research on quantum computing and theorizing about business models related to the subject even when at engineering schools or computer science departments everyone working on this topic knows these might be a decade or two away from being commercially viable technologies. The problem is these people still manage to get publications and the business journals seem to be excited to receive such submissions although they would most certainly be rejected if someone with a background in quantum computing from a technical university was the reviewer.
+
+So my question is how would you cope with this? Should I just focus on my own research and ignore the problems? Should I more actively point out when people make clear factual errors in their papers and presentations? I'm afraid that if I start too openly calling bs when I see it nothing will change but will just end up burning bridges.",active,218
+13rjv1v,6,2023-05-25,Scholarly Paper about Futility of Chatbot Output Detection,u/fahq1977,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/13rjv1v/scholarly_paper_about_futility_of_chatbot_output/,"University admin and faculty here.  I've seen a LOT of posts here from students whose professors are accusing them of academic dishonesty and using ChatGPT.  Many of these include professors claiming GPTZero or Turnitin flagged student work.  I'm sorry that you are experiencing this consequence of Large Language Models emerging in such a disruptive manner.
+
+I wanted to provide you all with my common ammunition when faculty come to me with these concerns.  Theoretically and practically, Large Language Models detection is pointless with far too many false positives.  The Sadasivan article below outlines the limitations of GPTZero and Turnitin.
+
+[https://arxiv.org/abs/2303.11156](https://arxiv.org/abs/2303.11156)
+
+However, I would encourage all students who would like to share this document with professors to approach this with an eye toward education.  Most instructors are very unaware of how LLMs work. At the same time, please be upfront with your instructors and your desire to learn and show your learning in assignments. You will win more with positivity.
+
+That said, if you get pushback, and you have a Texas A&M experience, academic scholarship is the persuasive currency of the realm, and this paper is the best research we have about the limits of LLM detection software.",active,5
+13ruxxw,0,2023-05-25,Am I missing something about GPTZero?,u/Skuacide,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/13ruxxw/am_i_missing_something_about_gptzero/,"Multiple posts popped up on my front page about GPTZero and false positives, teachers bad, blah blah blah. I just put half of the essays I wrote in undergrad through GPTZero, and they were all flagged as written by a human. Am I crazy, or are these people just butthurt that there's a system holding them accountable for cheating?  
+
+
+I get it ya'll, writing is hard...but you seem to be under some sort of delusion that educators are getting paid enough to deal with this bs. ChatGPT skyrocketed to popularity out of nowhere and completely rocked the education system, especially at the K-12 level where, realistically, it's borderline impossible to tell the difference between a student and an AI. Lesson plans that have been iterated on for years were made obsolete or problematic overnight, and our teachers don't have the resources (financial or otherwise) to completely restructure their career's work in a matter of months.  
+
+
+If you were genuinely punished because of a false positive, that really sucks, and you have every right to be upset. But, honestly, this outrage seems more like cheaters being upset that there's something to hold them accountable than an actual issue...",User_deleted,0
+13ry42r,2,2023-05-25,What do you want from teachers?,u/pootywitdatbooty,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/13ry42r/what_do_you_want_from_teachers/,"I've seen a lot of posts talking about getting tagged for AI by your teacher.  A lot of posts about how none of the tools actually work.    A lot of complaints about teachers who can't keep up with the times.  
+
+What do you want teachers to actually do?  
+
+Let students use chatgpt? I've seen a lot of that bs, and I don't get how you don't see that as a problem.  (using it doesn't prove you know shit and it doesn't teach kids how to write or communicate.)     
+
+I have small classes, I know my kids writing styles and I can tell, but what do you expect teachers to do when they get 60 essays?
+Edit - I understand not doing essays as much. However state requirements need multiple longer essays and if we want to stay accredited we need to meet the State standards",active,2

@@ -1,0 +1,420 @@
+1681xsu,1,2023-09-02,"There's no way for teachers to figure out if students are using ChatGPT to cheat, OpenAI says in new back-to-school guide",u/Falix01,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/1681xsu/theres_no_way_for_teachers_to_figure_out_if/,"OpenAI has released a guide for teachers on using ChatGPT in the classroom and warned that it is impossible to reliably distinguish between AI-generated and human-generated content, making it difficult to detect cheating.
+
+**Guide for Classroom Use**
+
+* **Guide Released:** OpenAI has released a guide for teachers on how to use ChatGPT in the classroom after concerns were raised about students using AI for cheating.
+* **Unreliable Detection:** OpenAI found that AI content detectors are unreliable in distinguishing between AI-generated and human-generated content, which confirms earlier reports by [The Markup](https://themarkup.org/machine-learning/2023/08/14/ai-detection-tools-falsely-accuse-international-students-of-cheating).
+
+**Cheating Concerns**
+
+* **Popularity Among Students:** ChatGPT has become popular among students for its ability to generate text and human-like responses, aiding in assignments like essay writing and research.
+* **Over-dependence and Cheating:** Teachers are concerned that students are becoming over-dependent on ChatGPT, which is prone to errors, and are presenting the chatbot's ideas and phrases as their own.
+
+**Suggestions and Acknowledgments**
+
+* **Retention of Conversations:** OpenAI suggests that students should keep a record of their conversations with ChatGPT and present them in their homework to reflect on their progress and skills development.
+* **Biases and Stereotypes:** OpenAI acknowledges that ChatGPT is not free from biases and stereotypes and recommends users and educators to carefully review its content.
+
+[Source (Business Insider)](https://www.businessinsider.com/ai-detectors-cant-detect-students-using-chatgpt-2023-9?utm_source=reddit.com)
+
+**PS:** I run a [free ML-powered newsletter](https://dupple.com/techpresso) that summarizes the **best AI/tech news** from 50+ media (TheVerge, TechCrunch…). If you liked this analysis, you’ll love the content you’ll receive from it! It’s already being read by professionals from **OpenAI, Google, Meta**…
+
+&#x200B;",active,556
+16am4p0,1,2023-09-05,"Y'all are 1,000% right, I was lying to myself, the systems completely broken",u/TheRed_Knight,Teachers,https://www.reddit.com/r/Teachers/comments/16am4p0/yall_are_1000_right_i_was_lying_to_myself_the/,"IDK this is allowed as I'm not a teacher, but I didn't know where else to post this
+
+I started working as a private tutor part time about a year ago, tutoring some of my nieces/nephews and their friends.  I knew kinda shit was bad, I have couple teachers in my social circle, but I thought they were exaggerating or hyperbolizing, theres no way it could be that bad right?  After experiencing it first hand for a year, holy fuck, it's an indescribable, existential horror show, I was completely, utterly, and unequivocally wrong.  Some of the concerning trends I've noticed, and just for reference the kids I tutor are mostly from high COL areas who attend either private schools or ""good"" public institutions, these are on paper good students, with robust at home support systems and education tools, many of them are straight A students.  
+
+-Severely underdeveloped critical thinking skills , they're pretty damn good at absorbing and regurgitating information but beyond that, oof, this leads to all sorts of issue, such as inability to make long form or complex arguments, not understanding how pieces of information are linked together because they aren't explicitly stated to be connected, extreme difficulty problem solving when they don't have all the variable, parsing information etc.  The worst parts that when I can work with them and get them to buy in, you can see the long atrophied gears turning in their heads, and they start to get a little excited as they can do shit on their own, but 1-3 hours a week isnt enough time to undo over a decade of mental neglect. 
+
+-Degraded mental stamina, they struggle to get through 30 straight minutes of instruction without needing frequent breaks, especially for the goddamned phones, if they aren't super into the material, and for whatever reason they seem to expect to be constantly entertained by tutoring
+
+-No resilience, they give up at the slightest challenge or adversity and look to me for answers, when I don't give it to them they get all weird and look at me like I'm some kind of asshole
+
+-Grammar is dead, lmao
+
+-They treat google like the word of god and will copy/paste the first answer that pops up, even if its obviously wrong
+
+-Extreme tech reliance without more than a paltry understanding of it, they're fucking wizards at navigating touch screen UI's but have no idea how they work, or how to function without them. They also just don't know how to use computers, at all, they're as bad as boomers in that regard, ask them to find the documents or downloads folders and you might as well be speaking an alien language to them
+
+-Dexterity issues for non-athletes, they have a hard time doing anything tactile and tend to fumble or drop shit, also have issues with physical books
+
+-They don't give a shit about deadlines, the amount of times I've had one of them stop giving a fuck and give me the ""I'll just turn it in whenever"" is too damn high.  Also too many safety nets, being able to turn assignments in whenever for full credit, open note exams, unmonitored take home exams, being able to make up any assignment as many times as they want until they get the grade they want isn't healthy for childhood development, how will you grow if you aren't allowed to fail?
+
+-Curriculum has been dumbed down, compared to when I was in high schools its about two grades (EX: the kind of work I did as a freshmen is roughly on par with the workload juniors have today, AP's not withstanding) and they still struggle with it
+
+-A lot of them are way less literate than they should, they can skim information pretty well but they retain very little of it
+
+-ChatGPT use is rampant, especially for writing assignements
+
+-Fuck tiktok, that shits a digital weapon designed to rot kids brains out
+
+And probably more, I really fucking hope that this is just some weird local phenomena because otherwise, we as a society are even more fucked.  We aren't passing down critical cognitive skills to future generations, for perhaps the first time in modern history, which has led to a generation of kids being, on average, that has a weaker foundation than their predecessors.  And that isn't to say this affects every student equally, I have several who are an absolute treat to work with, and in no way, shape, or form is this the fault of teachers, but in general shits bad, and it looks like it's only going to get worse.  
+
+TLDR: We're turning kids into the pod people from WALL-E and it ain't the teachers fault",active,3074
+16b6zh2,1,2023-09-05,Cheating,u/itzmoepi,aiwars,https://www.reddit.com/r/aiwars/comments/16b6zh2/cheating/,"Today we will cover AI cheating, because it's likely 90% of students won't do their own homework ever again.
+
+[https://www.msn.com/en-us/news/technology/theres-no-way-for-teachers-to-figure-out-if-students-are-using-chatgpt-to-cheat-openai-says-in-new-back-to-school-guide/ar-AA1g5JYg](https://www.msn.com/en-us/news/technology/theres-no-way-for-teachers-to-figure-out-if-students-are-using-chatgpt-to-cheat-openai-says-in-new-back-to-school-guide/ar-AA1g5JYg) 
+
+OpenAI released the ultimate cheating tool that is also very hard to detect (without a ton of false positives). I'm sure that ChatGPT can solve basically every homework problem up to high school and at least a portion of college-level assignments. 
+
+Now first, I should establish why making ChatGPT do all your homework *is* cheating, because pro-ai people will argue that it's just a ""tool"" and that ""prompts"" still require effort to make. 
+
+The problem with AI isn't even that it's plagiarism (even though it certainly is), but just the simple fact that it's not *you* doing the work and learning the material.
+
+I want you to imagine that you are back in middle school but you have an older sibling who's in college, and when you don't understand a homework assignment you ask them for help. Using ChatGPT to do your homework would be like asking that older sibling to do all your work for you while you go and play on the PS5 or something. Why is that bad? **Because you're not actually learning any of the material, defeating the entire point of homework.** 
+
+There is going to be a negative correlation between how capable AI becomes with the intelligence of the general population; as AI becomes smarter humans will get dumber. If students cheat their way throughout school it will literally make future generations of humans dumber since they won't be learning much at all of what they are being taught.
+
+The only application of AI that may not be awful is an educational setting is making it automatically grade tests, but this is only for teachers to aid in a mundane task of their job and not for students. I don't see any benefits to having students use AI to make it do all their work for them.
+
+I have yet to see one benefit of generative AI text that isn't to help cheaters and spammers. What even is a legitimate use case people have for this? I certainly don't want to read any AI-generated articles, books, or comments. If you care so little about your message that you didn't even bother writing it yourself, then similarly why should I care enough to bother reading? The same applies to AI art also, why should I care to look at images you didn't even bother making yourself? I'd much rather read or look at content made by a five year old that was made by them instead of AI crap.
+
+I think AI should get banned in schools, enabling cheating benefits no one and will yield a negative on society.",User_deleted,0
+16bohc0,1,2023-09-06,"I asked ChatGPT if it could remember everything it ever told to everyone, and its answer was interesting.",u/Schad_Enfreude,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/16bohc0/i_asked_chatgpt_if_it_could_remember_everything/,"Many teachers are worried about students using ChatGPT to cheat on their tests. So I asked ChatGPT can it remember everything it has ever told anyone? That way a teacher could paste a students answer into ChatGPT, and then ChatGPT could say ""Yes, I gave that answer to little Timmy last week"".  
+
+ChatGPT said that although it COULD possibly do that, it doesn't because it violates the AI code of conduct.  (not its exact words, but in a nutshell).
+
+Hmmm...yeah, right...",active,0
+16btjtm,1,2023-09-06,"Student uses ChatGPT to create a completely wrong assignment, then tried to “Life Hack” my syllabus",u/BabypintoJuniorLube,Professors,https://www.reddit.com/r/Professors/comments/16btjtm/student_uses_chatgpt_to_create_a_completely_wrong/,"Our industry uses a very specific type of technical writing and we present in class. Today a student clearly used AI, but didn’t even attempt to have it write in the format, length or any basics of our super niche industry standards. I call then out, saying A) this is so poorly formatted and completely opposite the style we are learning that we can’t continue presenting it to the class and B) I’m pretty sure you used ChatGPT but I won’t dock you for that since the other issues are so much bigger. 
+They completely denied using AI and then ignored the most substantial part of my comments and focused only on the fact that I don’t have a specific AI policy in my syllabus. They start emailing my chair and others while I’m still in lecture thinking they have a trump card.
+Firstly, it’s not against any rules. My industry is going to be heavily effected by AI so we are embracing it- many of our projects involve AI. But you used AI to make something so completely wrong! 
+Our documents are so technical that I would not consider it academic dishonestly to use AI for an outline or even the whole document in some cases, but they turned in essentially a poorly written novella.
+It’s like I asked you to go to the store and get me some apples, and you stole oranges and are hung up on the fact I never told you not to steal. Like I don’t give a shit where it came from, I just need some apples. Luckily my admin have my backs but needed to rant.",active,135
+16f9vl6,1,2023-09-10,Taking a women's class as a man and it is killing me,u/Galba__,Advice,https://www.reddit.com/r/Advice/comments/16f9vl6/taking_a_womens_class_as_a_man_and_it_is_killing/,"I'm a college student in my final semester (ideally). My university made a scheduling mistake and didn't offer more than one capstone (sort of a final synthesis class related to your field of study)  related to my major (we are required to take 2). 
+
+So, my choice was either stay another semester  to take only one class or take the only other class I had the prereqs for and would count. 
+
+I chose to graduate. I would like to enter the workforce and move out of my college town as soon as possible. I'm tired of being a broke college student. So, I took a Women's leadership class. It was the only option. I am a man. And this class is tailored to women. So, the work is not engaging, it feels silly to do (writing about my negative experiences as a woman for our first assignment), and the workload is insane. 
+
+It's just busy work. Massive writing assignments each week about subjects that literally don't even apply to me because I am a man and don't have the experiences we're supposed to write about. Vision boards about our personal goals (I'm a stem major), reading books about embracing our bodies and dealing with sexual harassment, and weekly round tables where we talk about how hard it is to be a woman. 
+
+I'm all for embracing my feminine side but I literally just do not have the bandwidth to care, do not engage with the material at any level, and don't have the time. 
+
+This is the easiest of my 6 classes and 2 labs and it takes up the largest portion of my time due to the sheer volume of work. On top of that, I am getting bad grades. I assume because I am a man. The class materials have been somewhat hostile towards men and have -at times- made me uncomfortable and the professor (not a PhD but contracted through a regional campus to teach this class) has been less than professional in our interactions. 
+
+I got a C on an introductory video post where we were literally required to state our name, major, and 2 facts about ourselves. She gave me a C and left no comments as to why. I have so far received bad grades (C or worse) on every single assignment without feedback despite following instructions to the letter. I am a straight A student and was genuinely (albeit narcissisticly) hoping to graduate with a 4.0. 
+
+The class is not available to take as pass/fail. It's stressing me out significantly. I have one month left to drop without penalty (I don't know if it will affect my scholarship and need to ask). Basically, what do I do?
+
+Should I email her and ask for leniency? I feel like that will only make it worse. I don't even know how to do better on my assignments as I am doing everything asked of me and I'm getting no feedback on my grades and nothing but vague responses about formatting when I email and ask. 
+
+I do not have the time to put in more effort and I'm already putting about 7ish hours a week towards this class. My other classes take up in total about 50 hours a week and I work part-time which takes up most of my free time but I can't cut back my hours because I have bills to pay and I need to eat.
+
+I'm considering using ChatGPT to do most of the heavy lifting which scares me because I've never cheated before. But I've seen some of my friends in the class's assignments and grades and it looks like she only cares about quantity rather than quality. Although, some of them look identical to mine in length and substance and have received better grades. 
+
+I just don't know what to do. I'm not getting a C in this class and ruining my GPA or worse failing it and not graduating. Please, give me advice I'm at a loss. 
+
+TL;DR: taking a class meant only for women, struggling to engage and getting bad grades despite following instructions to the letter. Need the class to graduate and don't know what to do.",User_deleted,1
+16g6an9,1,2023-09-11,"""Instead of Policing Students, We Need to Abolish Cheating""",u/Murph7400,Professors,https://www.reddit.com/r/Professors/comments/16g6an9/instead_of_policing_students_we_need_to_abolish/,"I wonder if anyone else read the article ""Instead of Policing Students, We Need to Abolish Cheating"" in the Chronicle of Higher Ed?  [https://www.chronicle.com/article/instead-of-policing-students-we-need-to-abolish-cheating](https://www.chronicle.com/article/instead-of-policing-students-we-need-to-abolish-cheating)
+
+(If so, I'm sorry.)
+
+In the article, Jordan Stein starts by raising the issue of using ChatGPT to cheat in composition classes.  Definitely something we're all thinking about.  But he then goes on to make the claim that students don't cheat just to get out of doing work or in an attempt to inflate their grades.  Nope.  They cheat because, well, life is hard and it's just what people do when life is hard. 🙄   What we as professors need to do is to make sure their lives are less hard.  Then they won't cheat. This is how we ""abolish cheating.""
+
+How can we make their lives less hard? One suggestion he makes: ""Pink Time- An exercise that requires students to skip class in order to reflect on personal motivation in the context of greater autonomy.""  Other suggestions are collaborative learning and accessible design. Groundbreaking stuff.
+
+I hope I'm not being too hyperbolic in saying that this kind of nonsense is killing higher education.  It trades on the idea that nothing a student does is the just result of their own decision making.  They are helpless cogs in an uncaring, evil system and our job is to protect them, to understand them, to insulate them from the consequences of their decisions. 
+
+If you think I'm being too harsh, read it and let me know.  ",User_deleted,389
+16gcfxj,1,2023-09-11,"Since I started taking online classes again a month ago, it seems like the majority of my peers are using ChatGPT for every discussion. What value is a degree going to hold in the next few years when people are able to completely coast through classes thanks to ai?",u/hikingfortheviews,CollegeRant,https://www.reddit.com/r/CollegeRant/comments/16gcfxj/since_i_started_taking_online_classes_again_a/,"Call me a wet blanket for my opinion, but it blows my mind how many of my fellow classmates are seemingly getting away with using ChatGPT for their posts. I've even seen different students post things that are overwhelmingly similar to each other (use the same verbiage, format, etc.), making it even more obvious they're simply using ChatGPT for their work. Hell, it even can even create APA-formatted references for your posts. I'm now week four into an eight week class, and there doesn't seem to be any consequences for this. I can see using AI for inspiration, but when it is literally doing all of the creative work for you what is even the point of getting a college degree? All of my education efforts are beginning to feel futile thanks to this. 
+
+TL;DR: Artificial Intelligence is essentially undermining the importance of a college degree.",active,20
+16gtl3i,1,2023-09-12,"Figured out how to make Infographics w/ Midjourney + ChatGPT, WITHOUT fake-AI-text (+18,500 Infographics Templates for All industries)",u/papsamir,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/16gtl3i/figured_out_how_to_make_infographics_w_midjourney/,"**Disclaimer: No ads, you don't have to sign up, 100% free, I don't like selling things that cost me $0 to make, so it's free, even if you want to pay, you're not allowed! 🤡**
+
+**(over 18,000 free infographics templates you can use at the bottom)**
+
+Hi all, I'm back with doing too much for no reason. I've been trying to find a way to make infographics using Midjourney, and it's near-impossible to *not* get that non-sensical fake-AI text if you say ""Infographic""
+
+For example, for the prompt: ***make an infographic with 5 empty boxes, green theme, environmentalist society, vectors in background --ar 2:1***
+
+https://preview.redd.it/j4efhfywztnb1.png?width=1908&format=png&auto=webp&s=6b55716e7be95b4b1462cfa12b14801920a3e95f
+
+Those boxes are 1. not empty, 2. filled with fake text. I've tried a few things to make this work.  
+
+
+1. Use AI Text Remover apps, they hardly work yet, maybe in the future, but right now, they leave blotches of this fake text
+2. Use an upscaler and try AI Text Remover apps on all the cropped segments, this is too unnecessarily expensive, and still isn't a good solution.
+
+I even tried using so many different prompts, trying, BEGGING Chatgpt to write a prompt that Midjourney can understand, where I want **no** fake AI-text, but no luck.
+
+&#x200B;
+
+Then I had an idea, what if I just give it an plain image with boxes ? So I did, and then I stopped using terms like ""Infographic"", and ""No text"". Simply mentioned what you *do* want, as opposed to what you *don't* want.
+
+This is an example of an image with plain boxes:[https://cdn.hero.page/grid-images/1-2-grid-shapes.png](https://cdn.hero.page/grid-images/1-2-grid-shapes.png)  
+
+
+[2 x 1 Grid](https://preview.redd.it/wc5jnugy0unb1.png?width=640&format=png&auto=webp&s=9f32165ffb556088b0fbaea71e870f673553c96f)
+
+I used the prompt:
+
+    https://cdn.hero.page/grid-images/1-2-grid-shapes.png 2 empty shapes. surrounded by (Manga Characters, Long Hair Bubbles, Action Scenes) and Manga and Anime related vectors in the background which is a gradient of the colors Pink, Purple, Green, Blue. Image is full height and full width with no cropping. Leave the shapes empty with nothing inside, flat material vector design, 2D, illustration, background has illustration --ar 2:1
+
+and I upscaled this fricken masterpiece!
+
+https://preview.redd.it/g1ltfu573unb1.png?width=1904&format=png&auto=webp&s=03283dc57f5ec8011b4646ebcdfd0971aaaf3018
+
+This is the first time I've successfully generated a nice infographic ***template*** with no fake text, and I've been doing it like crazy.  
+
+
+Here's is the template of the prompt for Midjourney:
+
+    https://cdn.hero.page/grid-images/1-2-grid-shapes.png 2 empty shapes. Surrounded by ({{vectors}}) and {{keywords}} related vectors in the background which is a gradient of the colors {{colors}}. Image is full height and full width with no cropping. Leave the shapes empty with nothing inside, flat material vector design, 2D, illustration, background has illustration --ar 2:1
+
+You can change this part ""flat material vector design, 2D, illustration""  to match the theme you want.  
+
+
+You can also get a list of all the [empty grid images I made here](https://hero.page/samir/plain-grid-images-variety-of-shapes).
+
+I uploaded a bunch of standard grids, asked ChatGPT to give me a list of industries and relevant factors. This is the prompt I use in ChatGPT for it to generate a Midjourney prompt for an infographic:
+
+    The template variables in the given string are {{vectors}}, {{keywords}}, and {{colors}}.  I want to create an infographic for Gaming. Come up with a list of 4 vectors, 2 word related keywords for Gaming like ""Headphones, Gaming keyboard"", and 3 colors that will make a nice gradient. These colors should be in simple english, like ""Dark red, blue"" etc. Not Hex colors.  
+    
+    Then, input those values into this template string, and return the full string in plain text: 
+    ``` https://cdn.hero.page/grid-images/1-2-grid-shapes.png 2 empty shapes. Surrounded by ({{vectors}}) and {{keywords}} related vectors in the background which is a gradient of the colors {{colors}}. Image is full height and full width with no cropping. Leave the shapes empty with nothing inside, flat material vector design, 2D, illustration, background has illustration --ar 2:1 
+    ```
+
+Feel free to update these to match your case. You can make your own simple grid images too for different sized infographics, but I have use the following Aspect Ratio sizes (standard in design industry):  
+
+
+* 1:1: Square
+* 4:3: Standard Screen
+* 3:4: Vertical, Standard
+* 2:3: Vertical, Alternative
+* 5:4: Golden Ratio, Close Approximation
+* 6:1: Long Horizontal Banner
+* 1:2: Vertical, Half Length
+* 2:1: Horizontal, Half Height
+* 5:3: Custom Widescreen
+
+The reason I made so many is so I have an unlimited collection of BASIC infographics templates, because now, instead of using empty boxes, I can use SAMPLE infographics to generate even better ones. This one below is generated with the image i generated above!  
+
+
+https://preview.redd.it/pfbodpwy6unb1.png?width=1888&format=png&auto=webp&s=d6022b662738e69cde3dd3a047bc95cdcb75b43d
+
+Of course, you'll get better results with simple, plain grid images.  
+
+
+Here are all the infographic templates I made. All free & personal use. I guess they're commercial use too, as in you can hopefully promote your products using them, but please, people always try to package these free resources and sell them on Gumroad, etc., **please don't**. I know this won't stop you, but just think about it 😭❣️
+
+&#x200B;
+
+Here they all are, categorized (somewhat) **they all have the Hex color codes found in the images, too:** 
+
+## Technology
+
+|Infographic Category|Subcategories & Vectors|Total Infographics|
+|:-|:-|:-|
+|[Gaming Infographics](https://hero.page/samir/gaming-infographics-midjourney-prompt-library)|Controllers, Consoles, Game Characters, Code Snippets, Tools, Devices, Trophies, Leaderboards, Avatars|356|
+|[Technology and Innovation Infographics](https://hero.page/samir/technology-and-innovation-infographics-midjourney-prompt-library)|Computers, Smartphones, Tablets, Code, Algorithms, Programming Languages, Robots, Automation, AI|348|
+|[Automation and Robotics Infographics](https://hero.page/samir/automation-and-robotics-infographics-midjourney-prompt-library)|Artificial Intelligence, Machine Learning, Data Sets, Assembly Lines, Production, Quality Control, Home Automation Devices, Smart Home Software, IoT|360|
+
+## Health
+
+|Infographic Category|Subcategories & Vectors|Total Infographics|
+|:-|:-|:-|
+|[Health and Fitness Infographics](https://hero.page/samir/health-and-fitness-infographics-midjourney-prompt-library)|Dumbbells, Treadmills, Yoga Mats, Vegetables, Fruits, Whole Grains, Heart Rate, Steps, Sleep|360|
+|[Medicine and Healthcare Infographics](https://hero.page/samir/medicine-and-healthcare-infographics-midjourney-prompt-library)|Hospitals, Doctors, Treatments, DNA, Cells, Genes, Medications, Vaccines, Drug Interactions|360|
+|[Mental Health and Well-being Infographics](https://hero.page/samir/mental-health-and-well-being-infographics-midjourney-prompt-library)|Therapists, Therapy Types, Online Therapy, Guided Meditations, Breathing Exercises, Physical Postures, Sleep Hygiene, Insomnia Causes, Sleep Disorder|360|
+|[Diet and Nutrition Infographics](https://hero.page/samir/diet-and-nutrition-infographics-midjourney-prompt-library)|Fruits, Vegetables, Grains, Plant-Based Proteins, Meat, Poultry, Fish, Eggs, Beverages, Smoothies, Juices|360|
+
+## Nature and Environment
+
+|Infographic Category|Subcategories & Vectors|Total Infographics|
+|:-|:-|:-|
+|[Environment and Nature Infographics](https://hero.page/samir/environment-and-nature-infographics-midjourney-prompt-library)|Trees, Flowers, Grass, Birds, Mammals, Fish, Rivers, Lakes, Oceans|360|
+|[Renewable Energy and Sustainability Infographics](https://hero.page/samir/renewable-energy-and-sustainability-infographics-midjourney-prompt-library)|Solar Panels, Sun, Batteries, Wind Turbines, Air Flow, High Altitudes, Dams, Flowing Water, Turbines|356|
+
+## Science
+
+|Infographic Category|Subcategories & Vectors|Total Infographics|
+|:-|:-|:-|
+|[Science and Research Infographics](https://hero.page/samir/science-and-research-infographics-midjourney-prompt-library)|Cells, Genes, DNA, Atoms, Molecules, Reactions, Stars, Planets, Galaxies|360|
+|[Space and Astronomy Infographics](https://hero.page/samir/space-and-astronomy-infographics-midjourney-prompt-library)|Planets, Solar System, Telescopes, Nebulas, Galaxies, Cosmic Dust, Quasars, Satellites, ISS, SpaceX, NASA, Roscosmos|360|
+|[Biotechnology and Genetics Infographics](https://hero.page/samir/biotechnology-and-genetics-infographics-midjourney-prompt-library)|Gene editing techniques, Tools, Applications, Processes, Plants, Animals, Microorganisms, Bio-production, Laboratory Equipments, Techniques|356|
+
+## Arts and Design
+
+|Infographic Category|Subcategories & Vectors|Total Infographics|
+|:-|:-|:-|
+|[Art and Design Infographics](https://hero.page/samir/art-and-design-infographics-midjourney-prompt-library)|Painting, Sculpture, Installation, Logos, Branding, UI/UX, Sketches, Drawings, Charcoal|360|
+|[Home and Interior Design Infographics](https://hero.page/samir/home-and-interior-design-infographics-midjourney-prompt-library)|Furniture, Layout, Color Scheme, Cabinets, Appliances, Countertops, Fixtures, Tiles, Lighting|360|
+|[Photography and Videography Infographics](https://hero.page/samir/photography-and-videography-infographics-midjourney-prompt-library)|DSLR Cameras, Mirrorless Cameras, Camera Lenses, Photography Techniques, Videography Techniques, Lighting, Photo Editing Software, Video Editing Software, Special Effects|360|
+
+## Lifestyle
+
+|Infographic Category|Subcategories & Vectors|Total Infographics|
+|:-|:-|:-|
+|[Fashion and Beauty Infographics](https://hero.page/samir/fashion-and-beauty-infographics-midjourney-prompt-library)|Dresses, Suits, Shoes, Lipstick, Mascara, Foundation, Necklaces, Rings, Watches|360|
+|[Food and Beverage Infographics](https://hero.page/samir/food-and-beverage-infographics-midjourney-prompt-library)|Recipes, Ingredients, Cooking Utensils, Menus, Waiters, Dining Tables, Wine Glasses, Bottles, Corks|360|
+|[Pets and Animals Infographics](https://hero.page/samir/pets-and-animals-infographics-midjourney-prompt-library)|Cats, Dogs, Birds, Reptiles, Exotic Animals, Tanks & Cages, Veterinary Medicine, Emergency Care, Pet Insurance|360|
+|[Hobbies and Crafts Infographics](https://hero.page/samir/hobbies-and-crafts-infographics-midjourney-prompt-library)|Crayons,Markers,Paintbrushes, Yarns,Needles,Patterns, Cutters,Adhesive,Paper|360|
+
+## Business and Finance
+
+|Infographic Category|Subcategories & Vectors|Total Infographics|
+|:-|:-|:-|
+|[Business and Finance Infographics](https://hero.page/samir/business-and-finance-infographics-midjourney-prompt-library)|Stocks, Bonds, Markets, Balance Sheets, Revenue, Expenses, Brands, Marketing Channels, Advertising|360|
+|[Marketing and Advertising Infographics](https://hero.page/samir/marketing-and-advertising-infographics-midjourney-prompt-library)|Trends, Products, Competitors, Graphics, Fonts, Colors, Articles, Press releases, Blog posts|360|
+|[Law and Justice Infographics](https://hero.page/samir/law-and-justice-infographics-midjourney-prompt-library)|Courts, Judges, Verdict, Human Rights, Equality, Discrimination, Crime, Arrest, Prison|360|
+|[Real Estate and Property Infographics](https://hero.page/samir/real-estate-and-property-infographics-midjourney-prompt-library)|Mortgage Rates, Loan Options, Credit Score, House Plans, Building Materials, Construction Techniques, Local Market Trends, Property Values, Growth Statistics|360|
+|[Startups and Entrepreneurship Infographics](https://hero.page/samir/startups-and-entrepreneurship-infographics-midjourney-prompt-library)|Venture Capital, Seed Funding, Series A, Angel Investors, Minimally Viable Products, Pivot, Scale, Market Validation, Market Segmentation, Total Available Market|360|
+|[Personal Finance and Investing Infographics](https://hero.page/samir/personal-finance-and-investing-infographics-midjourney-prompt-library)|Checking Accounts, Savings Accounts, Credit Cards, Stocks, Bonds, Mutual Funds, Tax Laws, Filing Returns, Tax Deductions|360|
+
+## Media and Entertainment
+
+|Infographic Category|Subcategories & Vectors|Total Infographics|
+|:-|:-|:-|
+|[Music and Entertainment Infographics](https://hero.page/samir/music-and-entertainment-infographics-midjourney-prompt-library)|Artists, Albums, Genres, Instruments, Techniques, Compositions, Movies, Directors, Actors|360|
+|[Film and Television Infographics](https://hero.page/samir/film-and-television-infographics-midjourney-prompt-library)|Movie Stars, Film Directors, Genres, TV Shows, Sitcoms, News Broadcast, Scripts, Screenplays, Storyboards|360|
+
+## Social and Relationships
+
+|Infographic Category|Subcategories & Vectors|Total Infographics|
+|:-|:-|:-|
+|[Social Media and Networking Infographics](https://hero.page/samir/social-media-and-networking-infographics-midjourney-prompt-library)|Profiles, Posts, Likes, Followers, Connections, Communities, Tweets, Stories, Videos|360|
+|[Family and Relationships Infographics](https://hero.page/samir/family-and-relationships-infographics-midjourney-prompt-library)|Parents, Siblings, Children, Grandparents, Uncles, Aunts, Friends, Neighbors, Coworkers|360|
+|[Parenting and Child Care Infographics](https://hero.page/samir/parenting-and-child-care-infographics-midjourney-prompt-library)|Bottles, Strollers, Pacifiers, Diapers, Wipes, Baby Food, Picture Books, Puzzles, Educational Games|360|
+
+## Education and Learning
+
+|Infographic Category|Subcategories & Vectors|Total Infographics|
+|:-|:-|:-|
+|[Education and Learning Infographics](https://hero.page/samir/education-and-learning-infographics-midjourney-prompt-library)|Books, Pencils, Notebooks, Classrooms, Teachers, Students, Laptops, Online Platforms, Videos|360|
+|[Literature and Writing Infographics](https://hero.page/samir/literature-and-writing-infographics-midjourney-prompt-library)|Novels, Poetry, Short Stories, Quill, Typewriter, Keyboard, Shakespeare, Dickens, Rowling|360|
+|[Mathematics and Geometry Infographics](https://hero.page/samir/mathematics-and-geometry-infographics-midjourney-prompt-library)|Operations, Number System, Sequence, Equation, Theorem, Theory, Triangles, Circles, Parallelograms|352|
+|[Language and Linguistics Infographics](https://hero.page/samir/language-and-linguistics-infographics-midjourney-prompt-library)|Syntax, Semantics, Morphology, Phonetics, Phonology, Prosody, First language acquisition, Second language learning, Language teaching methods|100|
+
+## Travel and Exploration
+
+|Infographic Category|Subcategories & Vectors|Total Infographics|
+|:-|:-|:-|
+|[Travel Infographics](https://hero.page/samir/travel-infographics-midjourney-prompt-library)|Airplanes, Suitcases, Passports, Mountains, Trails, Backpacks, Beaches, Palm Trees, Sunglasses|360|
+|[Adventure and Exploration Infographics](https://hero.page/samir/adventure-and-exploration-infographics-midjourney-prompt-library)|Mountains, Forests, Wildlife, Caves, Underground rivers, Spelunking gear, Deserts, Dunes, Camels|356|
+
+## Politics and Society
+
+|Infographic Category|Subcategories & Vectors|Total Infographics|
+|:-|:-|:-|
+|[Politics and Government Infographics](https://hero.page/samir/politics-and-government-infographics-midjourney-prompt-library)|Elections, Candidates, Voting System, Lawmaking, Bills, Legislation, Constitution, Amendments, Judiciary|360|
+|[Psychology and Behavior Infographics](https://hero.page/samir/psychology-and-behavior-infographics-midjourney-prompt-library)|Cognitive Biases, Heuristics, Judgment, Culture, Language, Interpersonal Skills, Trauma, PTSD, Recovery|360|
+|[Global Issues and Solutions Infographics](https://hero.page/samir/global-issues-and-solutions-infographics-midjourney-prompt-library)|Greenhouse Gases, Carbon Footprint, Renewable Energy, Plastic Waste, Recycling, Sustainable Packaging, Cybersecurity Threats, Data Privacy, Encryption Tools|352|
+
+## Sports and Recreation
+
+|Infographic Category|Subcategories & Vectors|Total Infographics|
+|:-|:-|:-|
+|[Sports and Recreation Infographics](https://hero.page/samir/sports-and-recreation-infographics-midjourney-prompt-library)|Balls, Goals, Players, Bicycles, Helmets, Trails, Treadmills, Weights, Gym Equipment|360|
+
+## And more
+
+|Infographic Category|Subcategories & Vectors|Total Infographics|
+|:-|:-|:-|
+|[History and Culture Infographics](https://hero.page/samir/history-and-culture-infographics-midjourney-prompt-library)|Civilizations, Empires, Leaders, Revolution, War, Treaties, Artists, Movements, Galleries|356|
+|[Construction and Architecture Infographics](https://hero.page/samir/construction-and-architecture-infographics-midjourney-prompt-library)|Building Designs, Blueprints, Renderings, Bricks, Concrete, Wood, Metal, Construction Machinery, Tools, Equipment|360|
+|[Farming and Agriculture Infographics](https://hero.page/samir/farming-and-agriculture-infographics-midjourney-prompt-library)|Seeds, Plantation, Growth Analysis, Livestock, Breeding, Animal Health, Tractors, Ploughs, Harvesters|360|
+|[Transportation and Logistics Infographics](https://hero.page/samir/transportation-and-logistics-infographics-midjourney-prompt-library)|Airplanes, Ships, Trucks, Public Buses, Trains, Subway, Supply Chain, Inventory, Warehouse|360|
+|[Shopping and Retail Infographics](https://hero.page/samir/shopping-and-retail-infographics-midjourney-prompt-library)|Online Stores, Catalogs, Product Reviews, Store Layout, Customer Service, In-store Promotions, Tickets, Online Booking, Discounts|360|
+|[Security and Privacy Infographics](https://hero.page/samir/security-and-privacy-infographics-midjourney-prompt-library)|Firewall, Antivirus, Threat Hunting, DDoS Attacks, Phishing, Malware, Incident Response, Crisis Management, Disaster Recovery|356|
+|[Military and Defense Infographics](https://hero.page/samir/military-and-defense-infographics-midjourney-prompt-library)|Combat Vehicles, Ordinance, Uniforms, Military Tactics, Battle Strategies, Terrain Analysis, Cybersecurity, Data Encryption, Malware|288|
+|[Charity and Volunteering Infographics](https://hero.page/samir/charity-and-volunteering-infographics-midjourney-prompt-library)|Beneficiaries, Impact, Success Stories, Donation Methods, Tax Exemptions, Recurring Donations, Non-Profit Organizations, Mission, Vision|360|
+|[Weather and Meteorology Infographics](https://hero.page/samir/weather-and-meteorology-infographics-midjourney-prompt-library)|Clouds, Rain, Fog, Sun, Heat, Brightness, Snowflakes, Cold, Ice|360|
+|[Weddings and Celebrations Infographics](https://hero.page/samir/weddings-and-celebrations-infographics-midjourney-prompt-library)|Bouquets, Wedding Dresses, Beauty and Grooming, Suits, Shoes, Groomsmen, Invitations, RSVP, Decorations|360|
+
+&#x200B;",active,1054
+16h9x7m,1,2023-09-12,"Now that the deadwood is out of the way, my classes are actually fun",u/BenSteinsCat,Professors,https://www.reddit.com/r/Professors/comments/16h9x7m/now_that_the_deadwood_is_out_of_the_way_my/,"I’ve been teaching for many years, and it still burns like fire to have students who start the course and then drop out so soon after we start. Yes, even the students who never give the course a chance because they choose not to go to the learning management system. (Well, almost every student. There is one who has taken this course three times and is still not prepared and seems to be even worse this semester, so I am glad they are stopping out before they flunk out again.) 
+
+However, now that I’m left with the rest of the class, I am so pleased at how much the discussions sparkle among students who really want to be there. I can see them making the connections and responding to each other, and I know I am seeing genuine learning, not ChatGPT crap.  I will be retiring at the end of the semester, so I have hope that I will go out on a high note.",active,30
+16i4fvj,1,2023-09-13,plagiarism,u/According-Ad-8662,UoPeople,https://www.reddit.com/r/UoPeople/comments/16i4fvj/plagiarism/,"i don't understand how my classmates are bold enough to just completely plagiarize assignments. every other discussion post for my programming course is so obviously straight out of Chatgpt. i do use the website every now and then to help me out when i get stuck on assignments, but i would never just copy and paste solutions. do students really just not care about getting caught and failing the course or being dismissed from the university entirely? do they just think the instructor won't notice or won't care? it really doesn't affect my learning process as a student and i guess it's not my business but it's just totally bizarre to me. i've done online classes at other colleges and universities and have never encountered plagiarism to this degree. ",User_deleted,8
+16jt4gb,1,2023-09-15,I feel so frustrated about my life.,u/Noirjk,Vent,https://www.reddit.com/r/Vent/comments/16jt4gb/i_feel_so_frustrated_about_my_life/,"I'm a university student.
+
+When I was in highschool I wanted to be an astrophysicist but people kept telling me not to do it because they kill scientists in my country. I didn't care, I still wanted it and checked how to become one. There wasn't any college or university that taught it so I had to apply for foreign countries after majoring physics and then I saw the price. I simply couldn't imagine affording that in any way. I didn't grow up rich. Me and my parent were in debt. My country's economy is collapsing. So even after getting enough score for physics major in the city I wanted, I decided not to go for it. 
+
+I applied talent exams/auditions of art schools with no practice and got in the one that was again, in the city I wanted. The art majors in my country are insanely outdated, I can find ten times the information they teach every semester in one week. I said, it's alright, I'm here for a degree(college/university degree is still important for ""respect"") and I can focus on making money digitally. Then I focused on digital art a lot. 
+
+Since I wasn't serious about art back then, I never thought of getting good fast. I didn't study art, I never took a course. My fundamentals were non-existent compared to my classmates. Naturally I decided to work hard on my art these last two years. I wanted to tell stories, I wasn't interested in finding a company job. But then one thing struck me and I lost my will.
+
+First of all, Paypal and all of its alternatives are banned in my country. Second of all, my country's money is losing value each day. If I work here as a career, it will barely pay my bills, maybe even not. I don't want to live my entire life like that. I want to try while I can.
+
+So I have better fundamentals but it's still not good enough for a project, I assumed, before deciding on something else.
+
+AI happened. With AI easily stealing artwork, replicating art styles, being much better than me.. I got discouraged. Can I become good enough before someone can use AI to rip off all my hard work? I'm still not at a professional level. It will take me at least a year, maybe two, maybe ten. 
+
+At the same time, because of my family situation I needed to earn money. I have expectations on me. I'm an only child with a single parent. According to my relatives and family member, ""I'm too intelligent to fail in life. I have too many skills, If I am determined I can earn a lot in any field I want."" I don't know why they think that. I might be intelligent enough to learn fast, but I have no experience in life, no communication skills, I'm so depressed, I have the lowest self esteem possible, I always act like someone else. I do try to be more outgoing but no matter what I do I'm either extremely irritated by people's really religious old fashion ideas or they are irritated because I failed to understand their social cues.
+
+Anyways, at the end with AI and my skill developing rate, I decided to learn game development instead. I could keep improving my art alongside. I already had fiction ideas and scripts that I've been noting for years, I'm decent enough at art, If I learn coding and the engine I can do it. 
+
+My family member/parent realized that I decided to change my path and they truly believe that I can ""make a good game to publish on Steam"" within six months with zero experience. Since they're helping me with college, and renting has became too expensive even for a part time job. I tried to explain them that almost nobody can learn a new game engine and programming well enough to produce a polished game with good art and good fiction in six months on their own. There might be people that have done that, I don't know, I certainly don't think that I can do that. But they insist on me doing this, that I'm not everyone or there will be consequences. Their reason in my head is valid, they want me to stop waiting for the right time, I know that if the deadline came they wouldn't punish me even if they say so, still I wanted to take this as an opportunity for myself to stop being so depressed and passive in my life. (I honestly act so passive, opposite to my actual personality.) I didn't have the best childhood but I understand their reasons and we have mutual love for each other. I'm a young adult now, I'm not a teenager anymore.
+
+So I've been learning Unity and C# the past month. My plan was to follow tutorials first to get familiar, then learn the logic of C# scripts, make five to ten browser game level really basic games and then start on a real, still small project while learning. Well, today I read about the Unity news. I listened to people's opinions on YouTube while painting a girl to ease myself and got really frustrated because the girl never looked Asian enough. She always looked like a white girl in hanfu clothing. Every time I paint at first I see my improvement and feel happy, but then I find another shortcoming. I closed the program, paused the Unity doom news and started typing this post. I feel so defeated in every way. I will probably switch to Godot or Unreal while I'm still a beginner, but I'm scared that I wasted this month. 
+
+Also, I talked to a classmate today. He said that he's using ChatGPT and AI art to make videos. He doesn't know English, he's trusting the generated text. He's planning to make hundreds of videos since it's so easy. This reminded me of something. My whole life I kept thinking ""If I just stop having my principles and do what everyone else does, I could have earned a lot of money, I could have made lots of friends."" I could use my language skills to translate for companies, people here claim to know English but most of them can't really speak it, I could have made AI art for quick money when I first heard of it a long time ago, I could find graphic designing gigs like my classmates do, I could teach children with rich families back in my town, I could create an OnlyFans account, I could try to be just a fraud like how many high income people I see are. Just take people's money, just use them, deceive them. Just ignore the clear bullying and ridiculing people do to each other and become friends with them. Just act like you're having fun. Stop being a killjoy, let them talk behind others' backs. Stop being so serious and honest all the time. But I'm just too proud to do it. I'm too selfish to my principles that I simply reject learning how to be in good terms with different kinds of people. What they do shouldn't bother me, I shouldn't be so sensitive to rude behavior. But I am. I'm to arrogant and mostly, I still have the luxury to choose while in university.
+
+I don't even want to be rich, I just want to live a life without money as a worry. Also I really want to earn enough money for Cryonics before I die.. (This truly became my only hope for living. Even if it fails or is a deception, it's a better chance than hopelessly decaying for me.)
+
+Yet with how nihilistic I am, seeing how the economy is going in my country, the world, I struggle a lot to keep going. Sometimes I truly want to disappear. Then I feel scared because I want to have a girlfriend before I die. (I'm born female.) I feel lonely too, scared, I feel like I'm born defective because I simply can't seem to be decent. I also feel so much remorse for my mistakes in my teenage years that it makes me feel like I don't deserve to be happy.
+
+My third year of college is about to start in three weeks and I just wanted to vent somewhere. I will probably delete this.",User_deleted,1
+16o4hrj,1,2023-09-20,What are your thoughts about AI in the academy?,u/ExcellentHamster2020,AskAcademia,https://www.reddit.com/r/AskAcademia/comments/16o4hrj/what_are_your_thoughts_about_ai_in_the_academy/,"I've wound up on the AI committee at my university. I don't really know why; I have zero expertise or even knowledge in that area. The only thing I have to offer to the conversation is my skepticism.
+
+For one, my colleagues have described how they use AI for tasks like completing really mundane things like nursing reports. I have yet to hear a convincing use for AI (among faculty) aside from using it to automate tasks or maybe speed up research. One or two are also teaching their students to use AI responsibly for similar tasks.
+
+None of that seems like a good idea to me. I'm not interested in trusting a computer to do what I know I can do properly. ""Productivity,"" like summarizing a bunch of articles without engaging with the more nuanced elements of those articles, seems like the opposite of productivity - by which I mean, you're not really learning anything if you're not using an actual brain to do it. 
+
+Second, if faculty are afraid their students are going to use AI to write papers and thus cheat, we've discussed teaching faculty ways to spot such cheating. We've discussed showing students how to use AI responsibly and properly. To me, it just seems like the next stage of the old [123essays.com](https://123essays.com) and the tricks that were around when I was in college. 
+
+I'd rather see us have conversations with faculty about how to teach writing correctly so that students aren't able to use these methods: emphasize the thinking process over just creating a product; work on assignments in class together instead of just listening to lectures for the entire class period (ie, ""flipped classrooms,"" which aren't popular because heaven forbid anyone learn how to teach more effectively or do things a little bit differently). 
+
+Ultimately, none of this AI stuff seems like something I need to get involved with, and I suspect a lot of faculty feel the same way. My one and only concern is that if students are essentially having someone else (ChatGPT or whatever) do the work, then they're not learning anything and they're just wasting their college education. 
+
+So I'm asking this group, an anonymous bunch of professor-types, for your thoughts and ideas on this topic. I'd like to learn why anyone really cares about this matter, what you or your institution are doing about it, and so forth. Thanks. ",active,32
+16pa91j,1,2023-09-22,2nd year CS course and I feel like I still don't know anything,u/First-Training9362,UniUK,https://www.reddit.com/r/UniUK/comments/16pa91j/2nd_year_cs_course_and_i_feel_like_i_still_dont/,"So I'm going into 2nd year into computer science and I legit scraped a pass to progress onto 2nd year, I feel like I still don't know how to code its just hard for me to wrap my head around code (fellow CS students might feel the same). I'm starting to think if I struggle now I'll struggle in a CS based job. I've used chatgpt and just copied code by typing manually into my coursework and exams, glad they didn't know it was plagiarism this whole year, I struggled with python so much.
+
+Questions for CS students and people doing similar courses👇
+ 
+1. Fellow CS students, how do you actually memorise code so that you type it as you go along in class?
+
+2. How long does it take you to grasp the programming language and aspects of it?
+
+3.do you struggle with coding aswell like me?
+
+4. How much time do you put in outside of uni to learn coding?
+
+Any advice appreciated, thanks",User_deleted,7
+16pcbvi,1,2023-09-22,A university disabled Turnitin's AI Detector. How does this bode for the future?,u/XochitlLatham,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/16pcbvi/a_university_disabled_turnitins_ai_detector_how/,"I just came across this [news](https://www.vanderbilt.edu/brightspace/2023/08/16/guidance-on-ai-detection-and-why-were-disabling-turnitins-ai-detector/) about Turnitin's AI detector, and I thought I'd break it down here for everyone. So, this AI tool was supposed to tell how much of a paper was written by AI but it turned out it had many issues of its own. A brief summary:
+
+* **False Alarms:** At first, they said it had only a 1% chance of messing up, but now they're admitting it's more like 4%. So if this tool was around last year, so many student papers would've been wrongly flagged as having AI-written parts. 
+* **AI Bias:** It's not very good at telling if a piece of writing is AI-generated or not. Sometimes, it mistakes non-native English speakers' work for AI-written stuff. 
+* **Mystery Detection:** Turnitin hasn't been very transparent about how it figures out if something's AI or not. They say it looks for patterns in AI writing, but they won't say what those patterns are. Kind of sketchy.
+
+So, Vanderbilt University decided to turn off this AI detector for now. I’d rather not go into the exams issue, but for a more valid application, I think using AI for research papers is cool as long as one makes sure that they cite the work properly, as that ensures transparency as long as the sources are not made up. ChatGPT does not offer the option to cite sources yet, but I know people using tools like [Silatus](https://research.silatus.com/) and [Trinka](https://www.trinka.ai/) for research and citing. Also, I’m of the opinion AI is here to stay and should be included as a core part of education, with teachers talking to students about AI usage guidelines and fair usage. 
+
+What do you guys think about the future of education with AI around? What should instructors do if they're worried about students using AI to cheat?",active,243
+16rad4y,1,2023-09-24,Stuck in a rut — what should I do?,u/IAmA_god_AMA,ITCareerQuestions,https://www.reddit.com/r/ITCareerQuestions/comments/16rad4y/stuck_in_a_rut_what_should_i_do/,"I originally went to college for CS, didn’t do super well because I was always a bad student and couldn’t handle heavy workloads, which I’m now finding out might be due to ADHD and other learning disabilities I didn’t know I had until this year. I switched to Information Systems, but I had to retake some business core classes (accounting mainly) because, again, I wasn’t a good student and couldn’t force myself to work on courses I had zero interest in. 
+
+Eventually I got screwed because I ended up with 150+ attempted credits (which includes retakes, F’s, and withdrawn courses) and couldn’t go back to school another year without racking up massive debt to complete my degree, so the only way I could leave with a degree before that happened was to declare Spanish as my major (it was previously my minor)  and Business as my minor, and finish those requirements within a semester. I graduated right when the pandemic hit so it took over a year to find work. 
+
+I worked as a functional business analyst for a year, learned a good amount of SQL and relational databases but otherwise hated that job. I only liked the database portions. 
+
+I managed to get a really, really, *really* entry level software developer job but it was basically a body shop and I quit 8 months in because the workplace was **HORRIBLE** with 50-80 hour weeks + weekends and my mental health was on a steep decline. I learned a bit of database development and really surface-level .Net programming. 
+
+Now I’m just doing some easy low-paying data annotation job that I’ve partially automated with python and selenium (which I could only do with the help of Stack Overflow and ChatGPT) and going back to school at a local community college to finish math prerequisites — namely Cal 1, Cal 2, and Linear Algebra — in hopes of getting into one of those online MSCS or MCIT masters programs that don’t require having a STEM Bachelor’s degree. 
+
+I’m just at a point where I don’t even know what I should be doing… 
+* Is it even worth it to get a Master’s
+* I can’t qualify for a single entry-level tech job in today’s market
+* I really shot myself in the foot educationally.
+* Are there even any internships/apprenticeships that require little-to-no experience? 
+* Any companies that train new hires from the ground up? 
+* My resume is abysmal and I have very little IT/Software Dev experience despite my work history.  
+
+I’m trying to do school work and learn from free resources online but it’s so hard for me to focus with those resources that I feel like I’m stuck in tutorial hell and not getting any better",User_deleted,1
+16so2yx,1,2023-09-26,My thoughts on ChatGpt & Tech as A Parent and Education Intrested Individual.,u/Tairlana,Teachers,https://www.reddit.com/r/Teachers/comments/16so2yx/my_thoughts_on_chatgpt_tech_as_a_parent_and/,"You know I might be a bit Spicy here, I actually don't think Chatgpt is that bad of a thing, Neither are phones, or any Tech Really. They are tools, and tools should be learned and used. The problem I'm seeing most of the time with these rants, are that its always the tech, its always the children, I acutally think think its just problem on everyone's part Teachers, Parents, Children, and so on. How are they going to know where stuff is for a computer program if no one bothered to ask them why they think we requested that for them in the first place.  Of course I'm not going to remember how to sew a button if rarely have the need to practice it, this is an example of course. However, its assumed that I should know it as a ""Life Skill"".
+Sure they might not want to pay attention to the 30 minutes of Instructions, but have we ever stopped to wonder why its such a Struggles bus? Can it truly fully be the fault of the Children or the Tech, and if it is why is it so Common? In truth I have to ask, why do most of us even know and even regale tales of times Teachers are boring, that we don't want to do the lesson, that we'll never use a subject, and thus writing it off from the front of our mind. Cause I'll be damned if any(many) of you (Excluding Social Studies/Governmental Teachers) could tell me why the industrial revolution occurred and its effects (Or who even started it for that matter.). 
+
+I think Instead, when a student uses Wikipedia, or Chatgpt we should  Question *Them* if *They* think the answer is correct and *Why* trust the answer that they gave. If they say something along the lines of I don't know, then wouldn't it be prudent to take the time to show the supposed student the method of discerning the correct answer? Teach them one of the most important lessons there is to life, that being the ""lesson of learning how to learn"". The phrase I hear from so many other individuals say they don't know how to do, maybe even some of you don't know it. However, that's okay I'm thank you for reading my Ted talk and have a wonderful day.
+
+P.S: I will like to preface this and say if there is any weird wording and or spelling please forgive me, as my ADHD makes typing my thoughts down quite difficult at times. As well I will mention with ADHD, telling a student to search for something doesn't always help. 
+
+""Finding answers is easy, finding the right questions is harder.""",User_deleted,0
+16uffid,1,2023-09-28,My teacher hates me and its affecting my future,u/SampleVisible5471,Advice,https://www.reddit.com/r/Advice/comments/16uffid/my_teacher_hates_me_and_its_affecting_my_future/,"I have this english teacher whom I have started to despise ever since shes started giving me petty little remarks on my work. I won't deny that we've had a few quarrels over the years, especially after our school trip in which an argument between us almost led me to return back home by myself but I think its unfair that shes started to become continuously strict and unfair with my grading. My latest 10 assignments,, in which I would've usually scored quite high on, started lowering gradually, with remarks such as, ""did you really write this?"" written multiple times on each paper, even in physical assignments in supervised areas. I thought for a while that maybe it was my fault, i did use chatgpt for inspiration and sometimes even a format but doesn't everyone? ive stopped or tried to start using google as an alternative lately as my lowering scores started bothering me and for this work, which is a large part of my grade, i didnt even use chatgpt at all, not even for inspiration. With that being said, she marked the work really low, as in the lowest score I had ever gotten, with almost the whole thing highlighted as, ""written by chatgpt, you did not write this"", so I got pissed off and sent her multiple screenshots of the text going into GPTZero, asking chatgpt itself if it wrote my work, and even comapring gptzero scores with other of my classmates she trusted. I even started to compile testimonies from multiple teachers whom were familiar with my writing style, yet despite all my attempts to reach out to her, she's ignored me and continuously graded my work really low. I think this is ridiculous as in my latest work, of which i worked my ass off (i spent the whole car ride to school writing), a failing grade. I was aware that my work was rushed but I knew my capabilities and this wasnt fair so with everything I had, I asked other english teachers and even talented students what they thought about my work and they all personally marked it quite high so I dont think i was in the wrong or I dont think it was my fault that my work was marked so low. At this moment, I think its obvious what I should do, which is, of course, go talk to her personally. But before that, i'd like some advice on what I should do in this situation, was i in the wrong? What is the best thing I can do? Should i just bite my tongue and switch schools?",User_deleted,1

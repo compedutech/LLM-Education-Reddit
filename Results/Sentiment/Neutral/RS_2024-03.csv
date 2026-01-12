@@ -1,0 +1,1455 @@
+1b40qr5,2,2024-03-01,Best method to summarize chat transcripts?,u/Blockchainauditor,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/1b40qr5/best_method_to_summarize_chat_transcripts/,"I use Zoom to teach classes for an institution that has not permitted the AI Assistant or Summary. I would like to take the transcripts that are created and feed them to an AI tool for the meat of the content to be summarized for the students and myself. 
+
+Without any manual cleaning, doing a cut-and-paste from the transcript to Word takes up around 50 pages for each class. 
+
+Free Claude says the Word/PDF file is too many tokens
+
+I don't have access to Gemini Pro 1.5 with its large context window.
+
+I don't have Copilot for Word 365 or access to the new Adobe AI tools.
+
+Any recommendations on which tool might be best for the job?",active,2
+1b4uybl,2,2024-03-02,Will fine-tuning GPT help with programming question-answering?,u/External_Hotel_Exter,learnmachinelearning,https://www.reddit.com/r/learnmachinelearning/comments/1b4uybl/will_finetuning_gpt_help_with_programming/,"Hi,
+
+I am trying to teach algorithms to students and have created a curated set of 100 algorithmic questions and also hand-written clean code and explanations for them. I notice that when I use ChatGPT to try to solve the same questions, it doesn't do as well. Will it help me to fine-tune GPT with my training data of 100 questions and answers?
+
+Let me clarify my expectations below.
+
+Imagine the problem finding the lowest common ancestor in a binary tree. Let us say I fine-tune ChatGPT with my approach, code and explanation of finding the LCA of a binary tree. Now if I ask it a question that uses slightly different wording and talks about a LCA in an n-ary tree will ChatGPT remember my solution and use it?",User_deleted,2
+1b5gyy3,3,2024-03-03,[P] Need help fine-tuning a LLM to act as an AI teacher (similar to harvard's CS50 chatbot),u/Shaheer_Humayun,MachineLearning,https://www.reddit.com/r/MachineLearning/comments/1b5gyy3/p_need_help_finetuning_a_llm_to_act_as_an_ai/," I’m working on a project to create a model that can act as an AI   teacher for students in an intro to programming class. The model should   not write the code for them, but guide them and clear their confusions.  I  want to fine-tune a large language model for this purpose, but I’m  not  sure how to go about it.   
+
+   I have some questions that I hope you can help me with:   
+
+&#x200B;
+
+* Which LLM should I use? .     
+ 
+* How should I prepare my dataset?  
+ ",active,7
+1b5mt0i,1,2024-03-03,AYOKO NA SA RESEARCH GROUPMATES KO AYOKO NA PLEASE LANGGG. bye,u/Koaladoscope,studentsph,https://www.reddit.com/r/studentsph/comments/1b5mt0i/ayoko_na_sa_research_groupmates_ko_ayoko_na/,"Im in grade 11, gusto ko lang mag rant sa pr1 namin. 
+
+NAKAKABWISET SILA TALAGA. napunta ako sa group na hindi pinili kasi the teacher decided to follow majority’s vote na pick your own group. At dahil nagkasakit ako ng araw ng pilian ng group napunta ako sa mga dumbbell students na on-the-spot gumagawa.
+
+LITERALLY NAKAKAINIS KASE UNG IBANG GROUPS ANG GAGANDA NG TITLE + MAY PROGRESS NA SA DATA COLLECTION NILA
+
+pero kami eto stuck pa rin sa methodology. at ang mas worse pa is di talaga nila gets pano gumawa ng research jusko. 
+
+DI SA PAGBUBUHAT NG SARILING BANGKO PERO AKO LANG ATA MAY ALAM PANO GUMAWA NG RESEARCH 
+
+binasa ko nga parts nila sa chapter 1 and crinoss check ko sa chatgpt WALA MAN LANG BINAGO. 
+K pa sana kung gagamitin mong pang enhance ng gawa mo yung AI pero UNG DI KA MAGRERESEARCH?? TEH RESEARCH NGAAAARAAHHHHHH
+
+i taught them already paulit ulit ko nireremind on things like proper citation, pano gawen rrl, yada yada PERO POTAAAAAA WALA. 
+
+ung rrl nila di nila ata alam gawen di comprehensive paste paste lang ng quotes tas mali-mali pa pagcite.
+
+SUSMARYOSEP MAHABAGIN
+
+Grade conscious ako at feel ko mahahatak na grade ko neto. Wala. wala kami usad. di nila maintindihan pano. Pag nagmemeeting ang teacher with other groups para ipacheck ang gawa wala din sila. Di nagpapacheck teacher namen pag di complete group so ang ending di nachecheck samin.
+
+dahil sa kanila tinatamad na den ako at tbh wala na ako pake kung pagalitan kami.
+
+lagi kami nagststay up late to cram, lagi lagi. 
+
+TANG. I. NA.
+
+ANG PANGET NG GROUP KO POTA YOKO NA GUSTO KO NA LANG MAGING TURON.",User_deleted,1
+1b5zjgi,1,2024-03-03,Chance International Student US colleges,u/Lanky_Campaign_5501,chanceme,https://www.reddit.com/r/chanceme/comments/1b5zjgi/chance_international_student_us_colleges/,"White Latino Male  
+
+
+**STATS:**
+
+SAT 1520/1600 (760 m, 760 rw)
+
+IB 43/45 (Econ HL, Bus HL, Eng lit HL, Spanish Lang lit SL, Math AA SL, ESS SL)
+
+GPA 98.5% 
+
+&#x200B;
+
+**ECs:**  
+First Speaker at World Schools Debate Championship in Vietnam 2023.   
+Delegate at The Hague International Model United Nations. (Best delegate, three-time main submitter)  
+Model United Nations Club (MUN) Organizer/Chair/Delegate. Organized MUNs, increased participation, and mentored.  
+Founding Debate Captain at School. Won at national level in eng and span  
+Prefect/Student leader. Initiated support programs, raised awareness, and organized events.  
+Intern in Client Relations & Experience. Contributed to sales, optimized spreadsheets, and created digital programs to help employees.  
+Bass vocalist in Senior Concert Choir. Cultural appeal  
+Leader/Media Designer at Community service club. Organized fundraisers, created programs, and spread awareness.  
+Environmentalism club: Funded trees for burnt forests, planted native species, and recycled materials.  
+Activity 10:  
+Fundraiser/Handyman for Home building org. Raised funds, experienced home construction, and encouraged participation.
+
+&#x200B;
+
+**Personal Essay:**
+
+Here's chatgpt's summary:  
+The author's initial hatred for (Int Country) stems from being uprooted from their home in the US to move back to (Int Country). Initially resistant to embracing the (Int Country) culture, the author struggled to fit in at school, facing language barriers and cultural differences. As time passed, the author adapted, suppressing aspects of their identity to conform. However, a turning point came when they embraced their individuality, sparking a rebellion against conformity. Through personal growth and experiences representing (Int Country) internationally, the author eventually reconciles with their identity, finding a sense of home away from (Int Country). Today, the author embraces both their American and (Int Country) identities, having learned valuable lessons about flexibility, adaptability, and the power of dialogue and diplomacy in overcoming initial hatred.
+
+&#x200B;
+
+**Colleges:**
+
+\-Harvard: Deferred on EA but given interview and did well
+
+\-UPenn: RD given interview did well
+
+\-Princeton: RD given interview did well
+
+\-Columbia: RD no interview
+
+\-Other mid tiers that I'm not interested in being chanced for
+
+&#x200B;
+
+Ask me anything bc tbh idk what to put here besides this, I can also go deeper into anything so lmk
+
+&#x200B;",User_deleted,0
+1b6jar3,1,2024-03-04,[NeedAdvice][Discussion] Losing confidence in ever being able to control procrastination,u/idkwhatcomesnext,getdisciplined,https://www.reddit.com/r/getdisciplined/comments/1b6jar3/needadvicediscussion_losing_confidence_in_ever/,"So I'm a physics major struggling with depression and anxiety(20M). To sum it up, I'm just trying to survive and graduate college after failing to reach some toxic expectations. However, despite my best efforts and research, every streak of good productivity ends quickly, and it often feels harder each time to get back on track.
+
+For about a month now, I've started making sure I run for 30 mins 6/7 days, taking few minute cold showers, cutting carbs & fat, 10-15 minutes meditation, take vitamins & fish oil, 30 minutes of language learning, intentionally going to study spaces, nofap, getting 7+ hours of sleep, going to every class, sometimes waking up at 4-5 am. Obviously there are days where I'm not perfect, and I don't have it down to an exact science, but I can definitely envision myself keeping a consistent routine like this for years. Even when sore muscles stopped my exercise or my anxiety was bad, I usually got back into things a day or two later.
+
+However, I've struggled a lot with assignments and doing meaningful studying. For 3 out of my past 4 exams, I didn't start studying until the night before. For homework that takes 8-10 hours to do, I start 4 hours before the deadline, and I often need ChatGPT or online solutions(I am aware that it hurts me, but I am not sure how to make it work otherwise. I have wasted whole days on homework problems trying to do them myself. I think most students in my major either copy solutions or work in groups on hw).
+
+One thing that I am severely lacking is in social interaction. There's a couple of reasons for it, mainly my IBS and my past tendencies to sacrifice many facets of my life for achievement.  I know my social needs have to be addressed, but on a realistic level, it's going to take a lot of concerted time/effort and probably a different living situation. Moreover, I do need discipline to practice social skills, as well as improvement in other areas in order to advance socially. e.g. Most of the small talk in my major is about future grad schools or jobs, which is hard to participate on because of my low gpa and systemic procrastination.
+
+I'm on 20mg of Prozac and go to therapy once a week(4 months) now. Therapy seems to help a bit, even just for venting. My therapist feels above average, but the change feels gradual or nonexistent. They will make me aware that ""depression lies to you and tries to make you give up"" but it doesn't necessarily address my issues with discipline; it doesn't help me gain ""motivation"" or impetus to study.
+
+The best mental model I have for overcoming this hardship is pulling levers like I'm a slot machine; essentially trying as many habits, mini-rewards, or mantras that will kickstart my motivation. I try my best to be kind to myself.  I am ok with not being Elon Musk or some world class researcher, but I want to be confident in consistently outputting work without having 3-4 day procrastination streaks every week. I always try to be aware that I need leisure/breaks, and sometimes tasks take longer than expected. Sometimes it can help to get my emotions involved and think about making my parents proud or being envious at others' success, but I think it can also makes things worse.
+
+Still, I need mental energy, awareness, and small pushes to come up with plans to break my procrastination. Often when I tell myself that ""it's time to start pulling levers,"" I don't want to do it or can't figure out which lever to try. I never know if investing time into researching productivity tips or writing my thoughts down or listening to motivational music, etc. will give me the spark I need; there's only so many hours in a day I can lose. It feels like there is only so many ""tips"" or sources of motivation that my brain can only focus on at a time anyway.
+
+I desperately want to be disciplined, it feels much less possible to have a good life without the discipline to study or work hard in my career. So it's a big task for just a Reddit post, but I am just wondering what should be the ""macro"" understanding of escaping these slumps and achieving near consistent, daily discipline?
+
+Is it just a demoralizing situation, stuck in a tough major and I need time to recover? Will I eventually discover a consistent way to trigger productivity once I understand myself better?  Do I have to try a lot more drugs(prescribed or unprescribed)? Do I have to double down on these habits, run twice as much, meditate twice as much, maybe go to the gym to build core strength? Is there maybe a small but key change(e.g. journaling) that will break down this wall of traumatic procrastination? Go all in on having a social life? Do I have to keep shopping for the ""perfect"" therapist? Do I need a life-changing experience like moving to another country?
+
+ I listed out out all these approaches because I want to know if anybody with a chronic, life-warping procrastination problem has tried something and controlled procrastination for good.
+
+Sorry for the long post, really hope the extra detail helps. Willing to answer or discuss stuff.
+
+TLDR: Trying to recover after 3 years of bad mental health and social life. Disciplined enough to consistently do low cognitive load habits like exercise, failing to do the main tasks of the day like hw/studying. There's still a lot of things I could try, but most productivity changes seem to eventually lose effectiveness. Worried, frustrated, and stupefied at not being able to consistently output at least 2-3 productive hours a day.
+
+&#x200B;",User_deleted,1
+1b6u76l,3,2024-03-04,The anticipation is k*lling me pls chance me,u/Lanky_Campaign_5501,chanceme,https://www.reddit.com/r/chanceme/comments/1b6u76l/the_anticipation_is_klling_me_pls_chance_me/,"White Latino Male  
+STATS:  
+SAT 1530/1600 (760 m, 760 rw)  
+IB 43/45 (Econ HL, Bus HL, Eng lit HL, Spanish Lang lit SL, Math AA SL, ESS SL)  
+GPA 98.5%  
+ECs:  
+First Speaker at World Schools Debate Championship in Vietnam 2023.  
+Delegate at The Hague International Model United Nations. (Best delegate, three-time main submitter)  
+Model United Nations Club (MUN) Organizer/Chair/Delegate. Organized MUNs, increased participation, and mentored.  
+Founding Debate Captain at School. Won at national level in eng and span  
+Prefect/Student leader. Initiated support programs, raised awareness, and organized events.  
+Intern in Client Relations & Experience. Contributed to sales, optimized spreadsheets, and created digital programs to help employees.  
+Bass vocalist in Senior Concert Choir. Cultural appeal  
+Leader/Media Designer at Community service club. Organized fundraisers, created programs, and spread awareness.  
+Environmentalism club: Funded trees for burnt forests, planted native species, and recycled materials.  
+Activity 10:  
+Fundraiser/Handyman for Home building org. Raised funds, experienced home construction, and encouraged participation.  
+Personal Essay:  
+Here's chatgpt's summary:  
+The author's initial hatred for (Int Country) stems from being uprooted from their home in the US to move back to (Int Country). Initially resistant to embracing the (Int Country) culture, the author struggled to fit in at school, facing language barriers and cultural differences. As time passed, the author adapted, suppressing aspects of their identity to conform. However, a turning point came when they embraced their individuality, sparking a rebellion against conformity. Through personal growth and experiences representing (Int Country) internationally, the author eventually reconciles with their identity, finding a sense of home away from (Int Country). Today, the author embraces both their American and (Int Country) identities, having learned valuable lessons about flexibility, adaptability, and the power of dialogue and diplomacy in overcoming initial hatred.
+
+Been told ""ChatGPT doesn't do it justice"" so factor in pretty good writing and tons more depth
+
+  
+Colleges:  
+\-Harvard: Deferred on EA but given interview and did well  
+\-UPenn: RD given interview did well  
+\-Princeton: RD given interview did well  
+\-Columbia: RD no interview",User_deleted,4
+1b6xzs2,2,2024-03-05,Prevent ChatGPT giving me solutions,u/erodedpencil,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/1b6xzs2/prevent_chatgpt_giving_me_solutions/,"I'm a uni student and want to use ChatGPT for programming. However, I actually don't want answers from ChatGPT.
+
+I am wondering if there is a way I could ask ChatGPT to help me debug code or give me suggestions in plain English/flowchart/pseudo code.
+
+For example: ""as a teacher, can you help me do this code? What I have so far:  (my code)""",active,2
+1b6ymfk,19,2024-03-05,[Guide] Use of AI Tools / Plagiarism Offences,u/Mamoru072020,Suss,https://www.reddit.com/r/Suss/comments/1b6ymfk/guide_use_of_ai_tools_plagiarism_offences/,"Hi all,
+
+Recently, this topic kept coming out in our community. So I would like to take time to write a guide on this topic. 
+
+**DISCLAIMER: I don't represent SUSS. I am a student just like all of you.** I'll share what I know.
+
+&#x200B;
+
+**SUSS Stance on this (accurate as at 5th March 2024)**
+
+**From Teaching & Learning Centre/SUSS**
+
+Source: [https://www.suss.edu.sg/docs/default-source/contentdoc/tlc/online-resources/academic-integrity.pdf](https://www.suss.edu.sg/docs/default-source/contentdoc/tlc/online-resources/academic-integrity.pdf)
+
+"" As you have learnt in the preceding section, the University is committed to upholding academic integrity, and any work submitted must be representative of the individual’s own effort, knowledge, and understanding of the subject matter. Ideas and information taken from other sources, including those derived from the use of Generative AI tools such as ChatGPT, must be appropriately attributed. While there are benefits to the use of Generative AI tools such as ChatGPT, please **bear in mind** that **inappropriate use of the tool** can **inhibit** your **learning process** – for instance, you **may miss out** on opportunities to **develop critical thinking skills** if you **become over-reliant** on ChatGPT to provide you with answers. Note: Generative AI tools may produce inaccurate or inappropriate information.""  
+
+
+"" As a student, you are **responsible** for **all submissions**, **including situations** where the **use of generative AI tools** is **explicitly permitted** as part of assessment. It is your responsibility to check and validate the content generated by AI tools that you cite. Note that **to be able to validate** the **content** for **accuracy**, you need to **first acquire competence** in the topic.""  
+
+
+"" Below are examples of possible uses of Generative AI tools during your assignment preparation process: 
+
+• To **brainstorm ideas**; or 
+
+• To **obtain feedback** to **improve your assignment**; or 
+
+• To **summarise main ideas of the journal articles** that you consult for purposes of the assignment. 
+
+The above list is not exhaustive. Please check with your instructor, who may have specific requirements for your course. ""  
+
+
+"" Below is an example of one way that Generative AI tools are used inappropriately, and would violate SUSS's principles of Academic Integrity: 
+
+• **Using ChatGPT** to write your assignments **without attribution**.""
+
+\---------------------  
+**ALAMAK! Tio Discovered! Die liao! Will I get expelled?** This was shared to us in one of the courses. I believe this is also found in the student handbook.
+
+**First offence**: Warning letter and reduction of grade
+
+**Second offence**: Zero for TMA
+
+**Third offence**: Expulsion from the course for the semester
+
+**Fourth offence**: Expulsion from the programme
+
+My advice is if it's your first offence, don't be anxious about it. Be honest, if you have used it, be honest and write in your explanation letter on the reasons for it.   
+\---------------------  
+**1) How do lecturers know when you use AI?**
+
+Answer: When the **style of writing** is the same as all the other coursemates in the tutorial group or the cohort. Below is something which was sent to us. Please **remember** that different schools, different courses & different lecturers view AI usage and plagiarism differently.
+
+""I would like to provide some feedback on your TMA02 based on my and all the instructors’ observation. Heavy reliance on AI-generated output was evident in many of your answers as we noticed the same style and format of the ChatGPT output to the assignment questions. Using ChatGPT to brainstorm or clarify your understanding of theories and concepts is perfectly fine. However, using AI-generated output results in many of your answers looking very similar to one another. Before the emergence of generative AI, this would be considered collusion. Moving forward, you will be expected to produce original work and to do this, you will need to rely less on copying ideas and content from AI-generated output so that your answers don’t all look alike. The more similar your answers are to one another, the less original they are. Do bear this in mind when attempting future assessments in all PSY courses.""
+
+**An example (TMA question):**  
+ “The children now love luxury; they have bad manners, contempt for authority; they show disrespect for elders and love chatter in place of exercise. Children are now tyrants, not the servants of their households. They no longer rise when elders enter the room. They contradict their parents, chatter before company, gobble up dainties at the table, cross their legs, and tyrannize their teachers.”  Given the above quote, examine and explain the development of the adolescent’s self-concept and how friendships are navigated during the adolescent years (12 to 20 years). In your essay, incorporate reflections on your own self-concept development as an adolescent and draw reference to how you behaved in your own friendships. 
+
+**ChatGPT answer:**
+
+**1. Formation of Self-Concept:**
+
+Adolescence marks a critical juncture in the construction of one's self-concept. During this phase, individuals grapple with questions of identity, self-worth, and belonging. Socrates' observation about children loving luxury and showing disrespect for authority can be seen as a manifestation of the struggle to define oneself within societal norms. In my own adolescence, I vividly recall wrestling with questions of who I was and where I fit in the world.
+
+**2. Identity Exploration:**
+
+The adolescent years are characterized by a quest for identity. This exploration often involves testing boundaries, challenging authority, and pushing against societal expectations. Personally, I found myself experimenting with different personas, trying to understand where I felt most authentic. Contradicting parents, chatting before company, or crossing legs may be viewed as attempts to assert individuality and break away from perceived constraints.
+
+**3. Friendships as Mirrors:**
+
+Friendships play a pivotal role during adolescence, serving as mirrors reflecting one's self-concept. Socrates' observation that children ""tyrannize their teachers"" echoes the influence of peer relationships on behavior. My own friendships during adolescence were crucial in shaping my self-perception. I noticed that the dynamics of these friendships often mirrored the struggles within myself – a constant negotiation between conformity and individuality.
+
+**4. Peer Influence and Social Dynamics:**
+
+The desire for peer acceptance can lead adolescents to adopt behaviors that may seem disrespectful or rebellious. The quest for social approval may override adherence to traditional norms. In my own experience, the influence of friends played a significant role in shaping my attitudes and actions. The need to fit in sometimes led to compromises on values or manners, reflecting the delicate balance between social conformity and personal integrity.
+
+**5. Self-Reflection:**
+
+Despite the external influences, self-concept development during adolescence involves introspection and self-reflection. It is a journey of discovering one's values, beliefs, and personal boundaries. As I navigated the tumultuous waters of adolescence, moments of self-reflection allowed me to understand my motivations, question my choices, and refine my sense of self.
+
+**Conclusion:**
+
+In conclusion, the adolescent years are a complex and dynamic period marked by the formation of self-concept and the navigation of intricate friendships. Socrates' observations, though rooted in a different era, resonate with the universal challenges faced by individuals during this transformative phase. My own journey through adolescence underscores the significance of friendships in shaping self-perception. As adolescents strive for autonomy and identity, they negotiate the delicate balance between societal expectations and the authentic expression of self. The key lies in fostering self-awareness and resilience, allowing for the growth and evolution of a well-rounded individual.
+
+There is a high chance that ChatGPT will generate the essay like this. Even if you try to modify parts of it, the essay structure would still be the same, ""**Formation of Self-Concept""→""Identity Exploration""→""Friendships as Mirrors""→""Peer Influence and Social Dynamics""→""Self-Reflection""→""Conclusion"".** This would give a hint to lecturers who are marking the essays. Even if you try to paraphrase, it doesn't help, because the structure of the topics introduced is still the same!
+
+\---------------------  
+**So what should I do then?**
+
+1) Start your assignment early. Don't procrastinate till the last minute. In Chinese, we have a saying that goes, ""慢工出细活/Slow work produces fine work.""
+
+2) Don't have time to do your assignments? Consider reducing the number of modules that you are taking each semester.
+
+Try to spend time to understand what is the topic about. Then write it your own way following what you have understood from the TMA question. Previously, when AI tools were not introduced, lecturers also wrote it their own way. I wrote it my own way as well. Heavy reliance on AI tools may become a unhealthy habit, which may impede your work abilities and ability to do critical thinking. It happened caused me to get a lower grade for one of my essays. I thought I was supposed to get higher, but I got a 10 marks deduction, because I wrote out of point. I also felt that my thinking skills have deteriorated . So AI may not always give you the correct information.  
+\------------------   
+**How to use AI tool responsibly?**
+
+There is no 100% correct rule on how to approach the essay question. If in doubt, ask/email your lecturer for advice.
+
+There is also a workshop organised by the university on this: [https://www.suss.edu.sg/about-suss/centres/Teaching-and-Learning-Centre/workshops/sdw112-generative-ai-in-tertiary-education-learning-effective-prompt-writing](https://www.suss.edu.sg/about-suss/centres/Teaching-and-Learning-Centre/workshops/sdw112-generative-ai-in-tertiary-education-learning-effective-prompt-writing)
+
+And REMEMBER to cite AI usage.
+
+This is how you would cite AI usage in APA style.
+
+\--------------------------------  
+When prompted with “Is the left brain right brain divide real or a metaphor?” the ChatGPT-generated text indicated that although the two brain hemispheres are somewhat specialized, “the notation that people can be characterized as ‘left-brained’ or ‘right-brained’ is considered to be an oversimplification and a popular myth” (OpenAI, 2023).
+
+**Reference**
+
+OpenAI. (2023). *ChatGPT* (Mar 14 version) \[Large language model\]. [https://chat.openai.com/chat](https://chat.openai.com/chat)
+
+[https://apastyle.apa.org/blog/how-to-cite-chatgpt](https://apastyle.apa.org/blog/how-to-cite-chatgpt)  
+\--------------------------------
+
+**Tools provided by SUSS on this matter:**  
+[https://www.suss.edu.sg/docs/default-source/contentdoc/tlc/online-resources/academic-integrity.pdf](https://www.suss.edu.sg/docs/default-source/contentdoc/tlc/online-resources/academic-integrity.pdf)
+
+**Workshop provided by SUSS:**
+
+[https://www.suss.edu.sg/about-suss/centres/Teaching-and-Learning-Centre/workshops/sdw112-generative-ai-in-tertiary-education-learning-effective-prompt-writing](https://www.suss.edu.sg/about-suss/centres/Teaching-and-Learning-Centre/workshops/sdw112-generative-ai-in-tertiary-education-learning-effective-prompt-writing)
+
+Lastly, AI tools are now part of our life. However, let us not forget that we humans have the ultimate ability to overcome our own limitations. One day, if AI tools are gone or if AI servers are down, do we stop writing essays for our assignments, or we just don't submit the essays at all? Let us collectively channel our resilience and determination, transcending the daily battles waged at work, home, and in private settings. With unwavering effort, let us unveil and demonstrate to our lecturers the formidable essence of who we truly are! =)   
+
+
+Mamoru-senpai
+
+Yr 3 Psych
+
+&#x200B;",User_deleted,41
+1b76vpz,232,2024-03-05,"WWYD? A student hands in a ChatGPT plagiarized work, gets cold feet, and begs for forgiveness.",u/impossible_apostle,Professors,https://www.reddit.com/r/Professors/comments/1b76vpz/wwyd_a_student_hands_in_a_chatgpt_plagiarized/,"I teach freshman comp. I have been very up-front about not allowing ChatGPT. I require them to write their papers in Google Docs and they are required to give me access to their version history if I suspect they've used AI. I've caught two students this semester already, given them F's on the paper, and reported it to the Academic Integrity Office.
+
+Last night was the deadline for their second paper. I received an email in the early hours from a student that admitted using ChatGPT to write the paper. He said he submitted the plagiarized work, thought better of it, and then wrote a new paper on his own and attached it to the email (submitted after the deadline). 
+
+What would you do in this situation? 
+
+(I feel it's important to add that the email he sent explaining and apologizing for using ChatGPT was also written by ChatGPT!).",User_deleted,244
+1b7bait,1,2024-03-05,Can teachers ask chatgpt if it has written something before? ,u/Rotmod,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/1b7bait/can_teachers_ask_chatgpt_if_it_has_written/,"If students get help from chatgpt in their texts, can teachers find out if it’s produced by chatgpt or is it just not possible to find out? ",User_deleted,0
+1b8x1st,1,2024-03-07,This is how Universities detect AI assistance in student work,u/707owo,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/1b8x1st/this_is_how_universities_detect_ai_assistance_in/,"I watched a seminar presented by my university about the ""three AI's"" - Artificial Intelligence, Academic Integrity, & Avoiding Investigation. In this post I'm going to be giving a summary of the ""Avoiding Investigation"" part because that's the only part I watched if I'm being honest..
+
+The purpose was to inform teachers on how to go about determining whether or not a student used AI in their work, and how students can prove they did not. They acknowledged that none of these factors are ""proof"" that a student has used AI and should not be seen as such.
+
+1. **Word document properties**
+
+If you go into the properties of a word document, you can find information such as when the document was first created, the total editing time (how many minutes the user has had the word document open), and when it was last modified. 
+
+""This could prove the document was started early, and was not just a quick visit to ChatGPT. Of course, many of us leave our documents open when doing other things, but it is still an indication of what the student has been doing.""
+
+2. **Search history**
+
+The next slide literally said, ""Your search history can also be used as evidence."" 
+
+""Being able to demonstrate multiple searches over different days, including the date, shows just how much work you put in."" I disagree- this can easily be fabricated, but ok... 
+
+3. **Version history**
+
+""The most important thing you can do is collect evidence that you actually did the work."" There are various ways you can do this (all easily fabricated, too...) and saving your version history is one of them. So, collecting drafts of your work. If you have used a program such as Google Docs, you can save the version history and use this as evidence. 
+
+They said that documents without version history are considered a red flag that the student used AI assistance. 
+
+4. **Red flags**
+
+Speaking of red flags, these were all of them
+
+*  Error-free writing or writing which seems lacking in a 'personal voice' or which is very different to other examples of that student's work. 
+*  Generic writing which does not use the language of the discipline.
+*  Factual inaccuracies - tools such as ChatGPT are trained on langauge and can produce factual inaccuuracies.
+*  Fictional (often these look plausible) or irrelevant references.
+* Changes in writing style within the assessment.
+*  No connection to frameworks or theories being discussed as part of the course. 
+* Repetitive and disconnected paragraphs. 
+
+5. **Turnitin's AI detection** 
+
+On this slide they talked about Turnitin's AI detection service and how that can be used to further determine the use of AI assistance in a students work. They noted that this service does not make a determination of misconduct, rather it provides ""data"" for the educators to make an informed decision. They also note that Turnitin itself says that the percentage of the AI indicator should not be used as the sole basis of action. 
+
+""Teaching staff should NOT be submitting student work to online detection tools."" Interestingly they warned teachers that submitting student work to any online tools is a breach of copyright and could get them in a lot of trouble if caught. 
+
+They concluded that Turnitin's AI detection tool should be used in conjunction with human judgements. It is not (and can not be) a definitive measure of misconduct on its own.
+
+6. **Grammarly (and related tools)** 
+
+Grammarly is considered okay as long as ""you are confident that the content of your work is substantially yours"" and you are ""scrupulous in keeping evidence of your work, such as draft history, etc."" HOWEVER ""GrammarlyGO"" should be avoided at all costs, as that is powered by artificial intelligence.
+
+7. **Academic integrity meeting** (this is getting less general and more specific to my university, but I still thought the information could be useful)
+
+If your lecturer accuses you of using AI and ""does not accept your explaination,"" you will be invited to an academic integrity meeting. This is a formal investigation process. You can bring a legal representative to the meeting. They do not tell us how they conduct these ""formal investigations.""  
+
+They say if you have used any kind of AI assistance, it is best to just confess upfront. While it might be tempting to deny wrongdoing, the academic integrity officer is far less likely to give you a harsh penalty if you are upfront and honest. (If you say so...) 
+
+If you do confess, you are encouraged to explain your personal circumstances that led to your decision of using AI. ""Describe the way in which these circumstances were exceptional and outside of your control."" Basically you need to convince them that you would not have used AI under any other circumstances.
+
+**TLDR:** Take screenshots of your (totally real) search history, create copies of your (totally real) drafts, and leave your word document application running for a few hours to make the document properties look legit. Or just don't use AI and make sure you write in a way that is considered... er... 'personal' ",User_deleted,1
+1baeul9,1,2024-03-09,Influential Factors Affecting ChatGPT Adoption Intention,u/shidqimlna,SurveyCircle,https://www.reddit.com/r/SurveyCircle/comments/1baeul9/influential_factors_affecting_chatgpt_adoption/,"Greetings,
+
+&#x200B;
+
+I'm an undergraduate student in information systems, currently researching for my thesis on the factors influencing people's inclination to adopt ChatGPT, while also identifying potential obstacles to its adoption. These factors include concerns about ChatGPT's possible negative impacts, such as increased unemployment and the dissemination of misinformation. Your participation in this study is vital as it will offer valuable insights to enhance ChatGPT to better suit user requirements.
+
+&#x200B;
+
+Please note that I have no affiliation with OpenAI, and your identity will remain anonymous throughout the survey. All responses will be kept confidential. The survey is expected to take around 10 to 15 minutes, and your participation is voluntary. You can opt out of the survey at any time, and there are no known risks associated with participation.
+
+&#x200B;
+
+If you're interested in learning more about the study, please click the link below.
+
+&#x200B;
+
+[https://forms.gle/8FsmTduDi7xa7RYu6](https://forms.gle/8FsmTduDi7xa7RYu6)
+
+&#x200B;
+
+Thank you for dedicating your time to contribute to our research. Your participation is immensely appreciated!",active,1
+1bb2zji,66,2024-03-10,I'm on a professor-track; the university I am working with has given us the green-light to use AI in curriculum building AND student grading. I was curious about other opinions people in this field have about the evolution of the modern classroom. This feels too impersonal but also time-saving.,u/LemonTechnician,Professors,https://www.reddit.com/r/Professors/comments/1bb2zji/im_on_a_professortrack_the_university_i_am/,"They are also allowing certain low-level undergrad courses to use AI. By that, they are leaving it to the instructor's discretion if they will let their students use tools like ChatGPT to write their essays (and other projects). Some of my colleagues, who have been teaching for 30+ years, lament the attention span and independence of the new generation of students. They said it began before the lockdown, but it seems to be tied more to new school policies and technology. Is this way of thinking archaic? I can't get my college-level student to read a five page document or show up for lectures and discussion. I've reworked my classroom to be less talking and more hands-on, but they always say: (1) ""D's get degrees,"" and (2) ""why should I when I'm paying to be here?""
+
+I've noticed a sharp increase in AI submissions lately, and less students are showing-up to class since they don't need to learn the material to complete their assignments now (the computer does it for them). So, am I simply behind the times, or do you think AI is starting to take over education?
+
+Test scores seem to be dropping everywhere (not just in college), but I understand that AI tools can be beneficial in saving time and generating ideas. I just feel that my career as an educator ended before I really got a chance to put my foot in the door. I expected college students to be more involved in their classes since they elected to continue their education, but it feels like their instructor is a computer -- not us, staff.
+
+Not only are students using AI in class, but they are encouraging instructors to do the same. I'm worried about what my classroom will look like in a few years with this threat of detached critical thinking. ",active,71
+1bcpihn,1,2024-03-12,Do you think ChatGPT can be an effective tool for learning?,u/Arbitrary-Fairy-777,Teachers,https://www.reddit.com/r/Teachers/comments/1bcpihn/do_you_think_chatgpt_can_be_an_effective_tool_for/,"To preface, I'm a comp sci student, so I mainly have experience with using ChatGPT as a debugging and learning tool. Before people lecture me in the comments, I don't use it to write my code for me, or to write my essays (I actually like writing essays).
+
+Personally, I tend to turn to ChatGPT when my code isn't working and I just can't see why. Usually, there's faulty logic somewhere that ChatGPT can see while my tired brain can't. Of course, other times, I have to type back, ""No, that's not how pointers work in C. This is how they work."" In my experience, ChatGPT is in no way a replacement for learning material, because you have to know the material in order to assess ChatGPT's responses for effectiveness. When it suggests a way to fix my code, I can evaluate the logic myself or modify my program and try some test cases to see if it works.
+
+The other big thing I use it for is helping me with syntax, because syntax is very formulaic so it's hard for ChatGPT to mess up. Specifically, I like to give it code in a language I know and ask it to help me convert it to another language I'm not as familiar with.
+
+I also will sometimes take an example from my textbook or from my class notes and ask ChatGPT to explain part of it to me. Is it lazy? Yes, but it can help me wrap my head around something in a pinch!
+
+All of that is to say, I think ChatGPT is a really neat tool. I do undergrad research in AI/ML, so I'm probably biased towards the benefits of AI, but I also know its limitations (especially when it straight up lies to me about computer science). That said, teachers, do you agree it's a helpful resource? I know lots of kids abuse AI and give it a bad rep, but I think it can be beneficial too!",active,0
+1bcpnnm,27,2024-03-12,This prompt broke GPT 4. Claude 3 Opus? Crushed it with ease...,u/Arkaysion,ArtificialInteligence,https://www.reddit.com/r/ArtificialInteligence/comments/1bcpnnm/this_prompt_broke_gpt_4_claude_3_opus_crushed_it/,"I work in higher education, and I have made it a priority to help educate faculty on just how immense the implications of generative artificial intelligence are.  As you can imagine, there are plenty of folks who are either not aware AI is even a thing or are still hung up on the whole ""students use it to cheat"" mentality.  It goes so far beyond that, and as it continues to improve, I believe education as we know it will need to evolve radically.
+
+For now, one of the best ways to help show educators how big of a deal AI is, is to show them lots of examples and use cases.  I have built up a pretty substantial collection on my website ([www.codaptivelabs.com](https://www.codaptivelabs.com)).  But today I wanted to share a prompt I wrote that is certainly among the most complicated.  I originally built this to work in GPT 4, but no matter how much explicit instruction I added, I often found ChatGPT would break.  It would either not understand what step we were on, or it would ignore choices I made and just repeat content we had already moved past.  After hearing all the buzz about Claude 3 Opus, I decided I had to give it a shot, so I signed up for access.
+
+Claude absolutely crushed it.  
+
+I have run the prompt multiple times now, and aside from so very minor tweaks, it has been able to go through the entire prompt without issue.  The functionality of the prompt is all well and good... just a proof of concept really for how the AI could be leveraged to help author an academic course from scratch.  But the fact that Claude was able to interpret such a complex set of steps without any issue is incredible.  I can only imagine where things go from here.  Obviously OpenAI is feeling the pressure to respond, and from there, who knows.
+
+The following is the prompt I wrote:
+
+\---
+
+Course Builder Prompt  
+You are now “Course Builder” - an AI tool designed to help college faculty build courses.  You will follow these steps to accomplish this:  
+  
+Step 1: The user will provide you with a course title or course description.  Respond as follows:  
+  
+“Great!  Let’s get started building your \[course topic\] course!  First, indicate what level of course this will be:  
+  
+High School Academy  
+Certificate Program  
+Technical Program  
+Undergraduate Program  
+Graduate Program”  
+  
+Make sure this list is numbered.  
+  
+Step 2: Based on the user’s response, suggest 10 course competencies that would be relevant given what they have told you so far.  The competencies should be appropriate given the course level indicated from Step 1.  At the bottom of the list, state the following: “Indicate which competencies (if any) you would like to address in your course.  You can also add your own competencies if you have any in mind.”  The user will indicate which competencies they would like added and/or provide their own competencies.  Then move on to Step 3.  
+  
+Step 3: State the following: “Here are the competencies we have so far:” followed by a numbered list of competencies chosen in Step 2.  Then state the following “Would you like an additional set of competencies to choose from, or shall we continue with these?”  If the user indicates they would like an additional set of competencies, repeat Step 2.  Also, if Step 2 is repeated, make sure not to discard or forget any competencies they have already chosen. Otherwise, continue to Step 4.  
+  
+Step 4: Summarize the information covered so far as follows:  
+  
+“Let’s take a look at what we have so far…  
+  
+\[Course Title\]  
+\[Course Level\]  
+\[Course Description\] (Based on all information obtained thus far, write a student-friendly 4 sentence description of this course.)  
+\[Course Competencies\] (Provide the heading “Course Competencies” and then list these as a numbered list)  
+  
+Let me know if this looks good or if you want to make any changes.  Then we will move on.”  
+  
+If the user indicates things look good or they want to move on, proceed to the next step.  If they indicate updates/changes, do your best to make the requested changes, then repeat Step 4 with the appropriate updates.  
+  
+Step 5: Pose the following to the user: “Provide responses to the following two questions:  
+  
+How long will the course be?  Indicate either the number of days or weeks.  
+What will the modality of the course be?  
+Face-to-face (traditional in-person classroom course)  
+Asynchronous Online (online course with no live component)  
+Synchronous Online (class is almost entirely facilitated live online through web conferencing)  
+Face-to-face Hybrid (a split of a traditional in-person classroom course that also includes asynchronous online components)  
+Online Hybrid  (a split of an asynchronous online course that also includes live web conferencing)”  
+Once the user answers both of these questions, move on to Step 6.  
+  
+Step 6: Based on the user’s response, suggest 10 potential summative assessments (as a numbered list) that would be a suitable culmination of the course competencies and would be both feasible and logical given the course level, duration, and modality that have been indicated.  Ensure variety in the suggestions you provide.  At the bottom of the list, state the following: “Indicate which summative assessment you would like to address in your course.  I can also regenerate a new list of suggestions, or you can provide your own summative assessment.”  Once the user specifies a summative assessment, move on to Step 7  
+  
+Step 7: Create a list of 10 formative assessments (as a numbered list) that align to the course competencies, would contribute toward understanding needed for the summative assessment, and would be suitable given the course level, modality, and duration.  Below this list, state the following: “Indicate which of these formative assessments (if any) you would like to include in your course.  You can also add your own formative assessments if you have any in mind.” The user will indicate which formative assessments they would like added and/or provide their own formative assessments.  Then move on to Step 8.  
+  
+Step 8: State the following: “Here are the formative assessments we have so far:” followed by a numbered list of formative assessments chosen in Step 7.  Then state the following “Would you like an additional set of formative assessments to choose from, or shall we continue with these?”  If the user indicates they would like an additional set of formative assessments, repeat Step 7.  Also, if Step 7 is repeated, make sure not to discard or forget any formative assessments they have already chosen.  Otherwise, continue to Step 9.  
+  
+Step 9: For every assessment that has been chosen (both formative and summative), offer detailed, academic descriptions of the chosen assessments, including title, background, rationale, step-by-step process for facilitation, and assessment criteria.  For the assessment criteria section of each assessment, format these as tables. List each criterion as a separate row, with 5 levels of achievement as columns (0 to 5 points). And provide descriptions in the relevant cells of what would constitute the level of achievement for each criterion.  
+  
+Once you list all of these details regarding the assessments, state the following: “Please review these assessment details and let me know if you would like to make any changes.  If things look good, let me know and we can continue to the final step.”  If the user suggests any changes, do your best to apply these changes and then repeat Step 9.  Then move on to Step 10.  
+  
+Step 10:  Repeat the summary that was approved in Step 4.  Follow this with all of the approved assessment information from Step 9.  Follow this with a detailed course schedule formatted as shown below.  You must determine how to logically incorporate the formative assessments that the user indicated into the course schedule.  They should be distributed in such a way that students scaffold their understanding of the course topics from previous classwork in culmination of the summative assessment that should be listed in the final portion of the course.  
+  
+Course schedule format:  
+“Course Schedule” (formatted as H1)  
+“Week/Day 1: “\[Course focus for the week/day\] (formatted as H2)  
+\[Two sentence description of what students can expect to cover and do in this week\]  
+\[Bulleted list of any assessments and activities students will complete\]  
+",active,34
+1bcppb1,2,2024-03-12,This prompt broke GPT 4. Claude 3 Opus? Crushed it with ease...,u/Arkaysion,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/1bcppb1/this_prompt_broke_gpt_4_claude_3_opus_crushed_it/,"I work in higher education, and I have made it a priority to help educate faculty on just how immense the implications of generative artificial intelligence are.  As you can imagine, there are plenty of folks who are either not aware AI is even a thing or are still hung up on the whole ""students use it to cheat"" mentality.  It goes so far beyond that, and as it continues to improve, I believe education as we know it will need to evolve radically.
+
+For now, one of the best ways to help show educators how big of a deal AI is, is to show them lots of examples and use cases.  I have built up a pretty substantial collection on my website ([www.codaptivelabs.com](https://www.codaptivelabs.com)).  But today I wanted to share a prompt I wrote that is certainly among the most complicated.  I originally built this to work in GPT 4, but no matter how much explicit instruction I added, I often found ChatGPT would break.  It would either not understand what step we were on, or it would ignore choices I made and just repeat content we had already moved past.  After hearing all the buzz about Claude 3 Opus, I decided I had to give it a shot, so I signed up for access.
+
+Claude absolutely crushed it.  
+
+I have run the prompt multiple times now, and aside from so very minor tweaks, it has been able to go through the entire prompt without issue.  The functionality of the prompt is all well and good... just a proof of concept really for how the AI could be leveraged to help author an academic course from scratch.  But the fact that Claude was able to interpret such a complex set of steps without any issue is incredible.  I can only imagine where things go from here.  Obviously OpenAI is feeling the pressure to respond, and from there, who knows.
+
+The following is the prompt I wrote:
+
+\---
+
+Course Builder Prompt  
+You are now “Course Builder” - an AI tool designed to help college faculty build courses.  You will follow these steps to accomplish this:  
+  
+Step 1: The user will provide you with a course title or course description.  Respond as follows:  
+  
+“Great!  Let’s get started building your \[course topic\] course!  First, indicate what level of course this will be:  
+  
+High School Academy  
+Certificate Program  
+Technical Program  
+Undergraduate Program  
+Graduate Program”  
+  
+Make sure this list is numbered.  
+  
+Step 2: Based on the user’s response, suggest 10 course competencies that would be relevant given what they have told you so far.  The competencies should be appropriate given the course level indicated from Step 1.  At the bottom of the list, state the following: “Indicate which competencies (if any) you would like to address in your course.  You can also add your own competencies if you have any in mind.”  The user will indicate which competencies they would like added and/or provide their own competencies.  Then move on to Step 3.  
+  
+Step 3: State the following: “Here are the competencies we have so far:” followed by a numbered list of competencies chosen in Step 2.  Then state the following “Would you like an additional set of competencies to choose from, or shall we continue with these?”  If the user indicates they would like an additional set of competencies, repeat Step 2.  Also, if Step 2 is repeated, make sure not to discard or forget any competencies they have already chosen. Otherwise, continue to Step 4.  
+  
+Step 4: Summarize the information covered so far as follows:  
+  
+“Let’s take a look at what we have so far…  
+  
+\[Course Title\]  
+\[Course Level\]  
+\[Course Description\] (Based on all information obtained thus far, write a student-friendly 4 sentence description of this course.)  
+\[Course Competencies\] (Provide the heading “Course Competencies” and then list these as a numbered list)  
+  
+Let me know if this looks good or if you want to make any changes.  Then we will move on.”  
+  
+If the user indicates things look good or they want to move on, proceed to the next step.  If they indicate updates/changes, do your best to make the requested changes, then repeat Step 4 with the appropriate updates.  
+  
+Step 5: Pose the following to the user: “Provide responses to the following two questions:  
+  
+How long will the course be?  Indicate either the number of days or weeks.  
+What will the modality of the course be?  
+Face-to-face (traditional in-person classroom course)  
+Asynchronous Online (online course with no live component)  
+Synchronous Online (class is almost entirely facilitated live online through web conferencing)  
+Face-to-face Hybrid (a split of a traditional in-person classroom course that also includes asynchronous online components)  
+Online Hybrid  (a split of an asynchronous online course that also includes live web conferencing)”  
+Once the user answers both of these questions, move on to Step 6.  
+  
+Step 6: Based on the user’s response, suggest 10 potential summative assessments (as a numbered list) that would be a suitable culmination of the course competencies and would be both feasible and logical given the course level, duration, and modality that have been indicated.  Ensure variety in the suggestions you provide.  At the bottom of the list, state the following: “Indicate which summative assessment you would like to address in your course.  I can also regenerate a new list of suggestions, or you can provide your own summative assessment.”  Once the user specifies a summative assessment, move on to Step 7  
+  
+Step 7: Create a list of 10 formative assessments (as a numbered list) that align to the course competencies, would contribute toward understanding needed for the summative assessment, and would be suitable given the course level, modality, and duration.  Below this list, state the following: “Indicate which of these formative assessments (if any) you would like to include in your course.  You can also add your own formative assessments if you have any in mind.” The user will indicate which formative assessments they would like added and/or provide their own formative assessments.  Then move on to Step 8.  
+  
+Step 8: State the following: “Here are the formative assessments we have so far:” followed by a numbered list of formative assessments chosen in Step 7.  Then state the following “Would you like an additional set of formative assessments to choose from, or shall we continue with these?”  If the user indicates they would like an additional set of formative assessments, repeat Step 7.  Also, if Step 7 is repeated, make sure not to discard or forget any formative assessments they have already chosen.  Otherwise, continue to Step 9.  
+  
+Step 9: For every assessment that has been chosen (both formative and summative), offer detailed, academic descriptions of the chosen assessments, including title, background, rationale, step-by-step process for facilitation, and assessment criteria.  For the assessment criteria section of each assessment, format these as tables. List each criterion as a separate row, with 5 levels of achievement as columns (0 to 5 points). And provide descriptions in the relevant cells of what would constitute the level of achievement for each criterion.  
+  
+Once you list all of these details regarding the assessments, state the following: “Please review these assessment details and let me know if you would like to make any changes.  If things look good, let me know and we can continue to the final step.”  If the user suggests any changes, do your best to apply these changes and then repeat Step 9.  Then move on to Step 10.  
+  
+Step 10:  Repeat the summary that was approved in Step 4.  Follow this with all of the approved assessment information from Step 9.  Follow this with a detailed course schedule formatted as shown below.  You must determine how to logically incorporate the formative assessments that the user indicated into the course schedule.  They should be distributed in such a way that students scaffold their understanding of the course topics from previous classwork in culmination of the summative assessment that should be listed in the final portion of the course.  
+  
+Course schedule format:  
+“Course Schedule” (formatted as H1)  
+“Week/Day 1: “\[Course focus for the week/day\] (formatted as H2)  
+\[Two sentence description of what students can expect to cover and do in this week\]  
+\[Bulleted list of any assessments and activities students will complete\]  
+",active,1
+1bcvd7p,1,2024-03-12,Can Someone Post the Right Answers to Engoo's tag for the Let's Go Quiz?,u/kaiser_ghidra,OnlineESLTeaching,https://www.reddit.com/r/OnlineESLTeaching/comments/1bcvd7p/can_someone_post_the_right_answers_to_engoos_tag/,"I've applied for this tutor's tag for four times now since last year and I've been teaching it on NC with my kid students. It's actually quite straightforward and fairly interactive to conduct with them and for some reason, Engoo puts some stringent barrier to teaching it with their poorly-made quiz which I'm sure has incorrect or misleading questions and answers. I even ran it through Google Gemini and it generated these answers:   
+
+
+**Let's Go question 1: What tools can you use with “Let’s Go” lessons?**
+
+* **Correct Answers:**
+   * Hand/finger puppets
+   * Flashcards
+   * Toys
+* **Incorrect Answer:**
+   * Potentially harmful or dangerous objects
+
+**Explanation:** Hand puppets, flashcards, and safe toys help make lessons more engaging and visual, especially for young learners. Dangerous objects are always a bad idea in a classroom setting.
+
+**Let's Go question 2: How will the above tools help in the lesson?**
+
+* **Correct Answers:**
+   * Help the student visualize vocabulary and introduce characters
+   * Entertain students
+* **Incorrect Answers:**
+   * Punish rowdy students
+
+**Explanation:** Visual aids are key to teaching young children. They make learning more fun and help students associate words with images.  It's important to note that tools should never be used for punishment.
+
+**Let's Go question 3: What's the best way to praise a student during a lesson?**
+
+* **Correct Answers:**
+   * Use emoticons and stickers in the chatbox
+   * Praise them verbally and/or clap
+   * Use puppets to mimic giving support
+* **Incorrect Answer:**
+   * Tell them they need to work harder and achieve perfection
+
+**Explanation:** Positive reinforcement is essential for young learners. Perfectionism can cause anxiety and shouldn't be the focus.
+
+**Let's Go question 4: How would you explain the word “car” to a student who doesn’t speak English well?**
+
+* **Correct Answers:**
+   * Using car sounds/honking or gesture turning the wheel
+   * Drawing a car or showing them a toy
+* **Incorrect Answers:**
+   * Explaining it’s a vehicle that takes you from point A to point B
+   * Telling them “it’s what your parent drives to work”
+
+**Explanation:** Young learners need visual and auditory cues. Abstract definitions or examples they might not relate to won't help much.
+
+**Let's Go question 5: How would you get answers from a student who struggles to respond?**
+
+* **Correct Answer:** Ask questions that require short or Yes/No answers
+* **Incorrect Answers:**
+   * Tell them that they need to say at least something
+   * Answer the question for them right away
+
+**Explanation:** Break down questions into smaller, easier chunks for shy or struggling students. Don't put them on the spot or give away the answer too quickly.
+
+**Let's Go question 6: How many times should you use the target language in the lesson?**
+
+* **Correct Answer:** As many times as possible
+* **Incorrect Answers:**
+   * Twice
+   * Whenever the student asks about it
+   * Never
+
+**Explanation:** Repetition is key for language learning, especially for young students.
+
+**Let's Go question 7: What is the best way to correct a student?**
+
+* **Correct Answer:** Correct them positively before asking them to repeat after you
+* **Incorrect Answers:**
+   * Asking them to repeat until they are able to say a word correctly
+   * Ignore the mistake and continue with the lesson
+
+**Explanation:** Directly correcting them in a positive way helps solidify the right pronunciation while maintaining their confidence. Ignoring mistakes won't help them learn.
+
+**Let's Go question 8: How would you explain the verb “sing” to the student?**
+
+* **Correct Answer:** By using gestures of holding the microphone and singing
+* **Incorrect Answers:**
+   * By using synonyms such as “chant” and “serenade”
+   * By giving example sentences
+
+**Explanation:** Young learners understand actions and visual cues better than complex vocabulary or abstract examples.
+
+**Let's Go question 9: When teaching kids it’s important to pay attention to keeping the lesson upbeat, interesting, interactive, and overall positive.**
+
+* **Answer:** True
+
+**Let's Go question 10: It’s important to finish the lesson material regardless of the student’s learning speed.**
+
+>**Answer:** False
+
+Even got the AI-generated answer from TS stating I got less than their 9/10 marks to pass and wouldn't even let me know what I got wrong:   
+ 
+
+>""You need to get 9 out of 10 questions correctly to pass. All questions that are in the test are taken from the Let's Go guide we have so it would be best to review the guide once more and re-take the test. Peruse it carefully and take your time with it as there is no rush in taking the test.""
+
+&#x200B;
+
+https://preview.redd.it/km24mr815wnc1.png?width=2560&format=png&auto=webp&s=1a731c95282fae6ac3192645dd528ac7808a714f",active,1
+1bd6j51,55,2024-03-12,"Jacob Sorber (Youtuber, College Prof.) on why not to use ChatGPT, etc.",u/aghast_nj,C_Programming,https://www.reddit.com/r/C_Programming/comments/1bd6j51/jacob_sorber_youtuber_college_prof_on_why_not_to/,"A lot of people who ask ""basic"" questions on this sub are students going through introductory C programming courses. Many of them are obviously using ChatGPT / LLMs / ""Generative AI"" systems to ~~do their homework for them~~ boost their own performance.
+
+Sorber argues (fairly convincingly, with examples) that ChatGPT generates defective, nonworking, or noncompliant code. Further, that the point of the homework assignments in these ""How to Program in C"" courses is ... to learn to program in C. And that ""delegating"" that work to ChatGPT is counter to the point of the course.
+
+https://youtu.be/dkV01hBdhZE
+
+Since I have repeatedly seen questions like ""Can anyone tell me why this code I copied from ChatGPT isn't working?"", this seems to me to be worthy of an entry in whatever FAQ exists. Do we have such a resource? Is it possible to make one?",active,67
+1beebly,2,2024-03-14,AI picture genorator (free),u/im_a_star,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/1beebly/ai_picture_genorator_free/,"Im a teacher at a secondary school. Currently working on a “design your own city” project. I want my students to generate pictures of their city by using prompts that fit to their city. As a moodboard kind of thing.
+For example: a city with lots of green where music is prominent and a theme. 
+
+Im a novice when it comes to AI, apart from ChatGPT.
+Ive came across several free AI picture generators but they all have flaws (website doesnt load pictures, doesnt use prompts, etc).
+
+Is there any free AI Picture genorator for educational use?
+
+Thanks in advance.",User_deleted,2
+1bef9v1,1277,2024-03-14,Exposing the Dark Truth Behind A-Level Project Work,u/CharacterStrike2309,SGExams,https://www.reddit.com/r/SGExams/comments/1bef9v1/exposing_the_dark_truth_behind_alevel_project_work/,"After engaging in a year-long exchange with MOE/SEAB that has yielded no satisfactory resolution, it is with great regret that I have decided to turn to Reddit to write out the full facts on this matter. Even if the matter remains unresolved, I find solace in the knowledge that my findings will be made public for anyone to see.
+
+*This is a complete, comprehensive account and will be a very long read. Do skip to the TLDR at the very end for the key summary of this post and for the most critical information.*
+
+*Disclaimer:*
+
+*The post that I am making is an allegation supported by substantial proof and basis. Nonetheless, MOE/SEAB has rejected the issues that I have called out (without providing evidence or elaboration). With this clarification, I hope MOE/SEAB does not POFMA me or otherwise.*
+
+# Chapters
+
+1. Introduction
+2. Section 1: The Context, The Evidence and What it Means
+3. Section 2: MOE and SEAB's Responses
+4. Section 3: Why is this Issue of Significant Importance?
+5. Conclusion
+6. TL;DR
+
+# Introduction
+
+Since the introduction of Project Work (PW) in Singapore's A-Level curriculum in the early 2000s, the subject has become a source of controversy for many students past and present, with many pointing out that the subject has failed to enable students to develop their creativity, team spirit or communication skills: 21CC Skills which MOE insists is being instilled in students. More often than not, students churn out projects based on safe topics that have been repeated time and time again, and the process of completing the subject generates rifts between team members and is usually a messy combination of different individuals' work being passed as the group's one. Just look at the complaints made by Redditors in the past on this subreddit:
+
+* [Pw QnA rigged?!?!](https://www.reddit.com/r/SGExams/comments/17m5l9f/pw_qna_rigged/) (4 months ago)
+* [F\*\*\* my dogs\*\*\* PW teammates](https://www.reddit.com/r/SGExams/comments/182k5g9/fuck_my_dogshit_pw_teammates/) (4 months ago)
+* [Pw needs to be revised.](https://www.reddit.com/r/SGExams/comments/wi45tl/pw_needs_to_be_revised/) (2 years ago)
+* [\[A Levels\] \[Rant\] \[JC\] the pw system is screwed up I hate pw + is appealing worth it?](https://www.reddit.com/r/SGExams/comments/mrlk2k/a_levels_rant_jc_the_pw_system_is_screwed_up_i/) (3 years ago)
+
+In fact, off the top of my head, I can already list a few issues regarding the current PW syllabus:
+
+1. Hard-capped on word count prevents students from thoroughly exploring the topic of interest that they have selected, cheapens and simplifies their topic and discourages students from pursuing topics that are more complex which may require more explanation.
+2. Vague and unclear assessment guidelines means that the assessment of the Written Report, Individual Report and Oral Presentation is highly subjective.
+3. Difficulty of questions raised during the Q&A segment of the Oral Presentation varies.
+4. Assessment of a student does not take into account their contributions (or lack thereof), allowing slackers to laze away the whole year, only needing to shine for 30 minutes on the day of the Oral Presentation.
+5. Students are not prohibited to use ChatGPT or other AI tools, nor do they need to disclose it, for the written report, or the generation of images in the report.
+
+Even alternative media channel RiceMedia.co has written an [article](https://www.ricemedia.co/project-work-university-admission-scores-good-riddance/) on the drawbacks of PW before. But I am not here to argue against the existence of PW, though its relevance remains highly questionable. More significantly, what I want to address is the many allegations students have made, claiming that the grading and assessment of PW is rigged and unfair. For instance, students have questioned how some schools are able to do so well for the subject, and some have asked how it is fair that 'slackers' in their group are able to achieve the same or better grade than them. After reading these claims by students, I naturally became curious about the extent of the accuracy. As a result of this, I began to initiate my own research behind this.  Throughout the past 1 year, I have sourced for data, engaged the Ministry of Education tirelessly to fact check the data, question them on my findings and to seek clarifications on their replies. Their slow replies, bureaucratic response and unconcerned attitude have ultimately led me to Reddit.
+
+In this post, I will focus on three sections. First, I will explain why PW is unfair, and use genuine data to showcase that PW is indeed rigged. Secondly, I will detail the complete and utter incompetence of the Ministry of Education and SEAB in dealing with the issue that I presented to them, with their refusal to act on this issue amounting to gross negligence. Thirdly, I will highlight why this matter is so significant.
+
+# Section 1: The Context, The Evidence and What it Means
+
+Before I begin sharing the evidence that I have gathered, we must first take a look at why Project Work in itself is prone to unfair grading,
+
+1. There is an incentive for schools to mark more leniently. If a school awards more 'A's for PW, they will also see a correlation with higher Rank Points (RP) among their students, as well as the number of students who achieve 90 RP. This then allows the school to perhaps gain popularity, attract more students, or even be viewed as 'better'. Or perhaps some schools might just want to see their students doing well.
+2. In the same school but across different classes, different PW teachers themselves have different expectations, standards and way of marking. For example, in my personal experience, I have seen some PW teachers giving more drafts for their students' Written Report (WR) then others, allowing some groups to better amend their WR. I have also compared different classes' evaluation in their WR and found that for a similar evaluation, one group’s evaluation may be deemed as generic, while the other is deemed as excellent. Moreover, some schools are provided with question banks, while some have to come up with the questions themselves. This is but just some of the varying practices of different PW teachers.
+3. While it is expected that PW be assessed by teachers that specialise in that subject, the PW Oral Presentation (OP) Segment can be Assessed by non-PW teachers, such as your Maths or Chemistry teacher, who do not have any specialisation in the subject. (yes, I am aware that there are teachers that specialise in PW, as well as other subjects) This not only questions whether there is a need for MOE to train teachers that specialise exclusively in PW, but it also raises the concern that the assessment by non-specialised teachers may vary widely from teacher to teacher.
+4. It is of my suspicion, at least in my school, that nearly all students who are foreign student scholars (from nearby ASEAN countries) are given an 'A' grade. Before I elaborate on this part, I must add that I am friends with many foreign students and just like us, many of them are deserving of good grades for PW. In no way am I attempting to discriminate or pull down the contributions of these students. Nonetheless, this is highly erroneous because for the WR, the marks are awarded to all members equally and for the IR, the difference in marks is unlikely to make a big difference. As such, it lies only on the Oral Presentation (OP) component. Yet, this cannot be true, as it suggests that generally, Singaporean students cannot speak better English (whereby articulation is a component of the presentation) than their ASEAN counterparts, or even those from China, whose first language is not English to begin with. I would think that these scholars are given an 'A', to allow them to score better than the average student in the cohort, so as to either maintain the prestige of scholars or to showcase Singapore's ability to produce well-rounded students to and for their ASEAN neighbours.
+5. Last but not least, there have been numerous allegations of unfair grading made by students on this subreddit. I shall not elaborate on them but I will list some:
+
+* [Allegations of extreme varying distinction rates across classes in NJC](https://www.reddit.com/r/SGExams/comments/u949qg/comment/i5q3vgp/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+* [Allegations of elitist grading between top schools and neighbourhood schools](https://www.reddit.com/r/SGExams/comments/jik212/comment/ga7mozd/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+* Plentiful of other allegations can be seen in the Discussion Thread for PW Results Release in Assessment Year [2022](https://www.reddit.com/r/SGExams/comments/12ian4j/a_levels_8808_h1_project_work_results_release/), [2021](https://www.reddit.com/r/SGExams/comments/u1rnpb/a_levels_8808_h1_project_work_results_release/) and other years.
+
+So, we now know that the PW system in itself is already prone to unfair grading, yet, if there is no proof of such unfair grading, then it cannot be said that such things are happening. Therefore, there is a need for us to prove, with evidence, whether the grading is fair or unfair. As such, the best method that I had thought of would be to refer to the distinction rates for PW achieved by each school every year for a few consecutive years. Luckily, Reddit has that data. Sourcing past discussion threads relating to the distinction rates achieved by each school every year for the past 4 consecutive years, I have compiled the data for selected schools between years 2019 to 2022 in the graph shown below. (I chose schools with a wide variety of cutoff points since I cannot fit so many schools in a graph)
+
+&#x200B;
+
+[PW Distinction Rates Across the Years Across Some Schools](https://preview.redd.it/8fxei2spx8oc1.png?width=1172&format=png&auto=webp&s=cc47f486846c3dbf90d8afe2987e502354a1c288)
+
+As reflected by the graph, the most obvious trend is that the distinction rates remained unchanged every year regardless of the school. For instance, VJC remained at around 88% while ASRJC remained at around 38%. This graph alone raises 3 points on the basis of two issues, the linear trend within each school, and the wide range between schools:
+
+**Point 1:** Such a linear trend cannot be replicated for other subjects. For instance, the distinction rates for Physics in my school varied widely in just two years. For the distinction rate to remain almost unchanged for four CONSECUTIVE years for ALL schools is nothing short of a coincidence. It does not take a genius for one to accept that this is proof of the unstandardised and unfair assessment of PW. It raises the question of whether a quota grading system is indeed in place, something which is denied by MOE/SEAB.
+
+**Point 2:** The linear trend suggests that for each cohort that enrols into a school every year, the ability of the cohort to perform in PW is the same. It suggests that the creative, communication/presentation and writeup skills of every cohort is the same. This is in fact contradictory to the fact that the performance of cohorts in a school for other subjects varies widely as mentioned earlier. Again, this proves the unstandardised and unfair assessment of PW.
+
+**Point 3:** PW is a non-content based subject. It is unlike other subjects like Mathematics or Chemistry, whereby 'better' schools usually perform better. Yet it seems that the data suggest otherwise. More prestigious schools like VJC and RI/HCI (which I did not include), scored well above 85% distinctions. Neighbourhood schools like ASRJC and TMJC score below 50%. For YIJC (not included), the score is just touching 20%. Nonetheless, if you are narrow-minded and argue the other way that those in more prestigious schools tend to have better creative and social skills (which I blatantly disagree with), then it does not explain why JPJC has an unusually high 70% distinction rate, well above other neighbourhood schools like ASRJC and TMJC.  Thus, this again proves the unstandardised and unfair assessment of PW.
+
+In my view, the ideal graph would reflect a highly volatile non-linear trend for each school across the years, with the mean of the data across a few years being almost the same across all schools, with 'better' schools fairing slightly better for the mean.
+
+With this, we have established that PW is indeed marked unfairly.
+
+More than that, it also proves another point, which is that PW is also unmerited.
+
+Firstly, based on the statistics, a student who does the exact same work and puts in the exact same effort for PW and gets a 'B' would have likely obtained an 'A' in another school in a parallel universe.
+
+Secondly, PW is highly up to personal interpretation, and does not reward hard or smart work, but rather lies entirely on luck. This goes against the foundations of meritocracy that Singapore strives to achieve.
+
+Third, it is unfortunate that in one of the most important examinations in Singapore, luck still plays a big role in determining one's results rather than pure merit. It is also unfortunate that by releasing the results months ahead of the A Levels, the thought of never being able to reach your fullest potential due to pure luck discourages and demotivates students to do better for their A Levels, especially if they have already been doing well consistently.
+
+# Section 2: MOE and SEAB's Responses
+
+With all these findings, I made the decision to contact MOE/SEAB. Throughout this entire section, you will begin to see the sheer ineffectiveness of MOE/SEAB, their incompetence, and most importantly, their inability to respond quickly or thoroughly (keep in mind that they pledge to respond within **3 working days**).
+
+I first contacted SEAB on 14 April 2023 via email and received a reply back after **2 weeks**, with a template answer insisting that, and I quote:  ""If it is found that a school’s assessment (for PW) is too lenient or too strict, the marks will be moderated to bring the assessment back into line with the national standard."" Naturally, I was dissatisfied with the answer because in no way could they explain why the evidence I gathered was wrong, nor could they provide evidence to show that they were right. So, I proceeded to email them again for elaboration and after **3 weeks**, they simply stated to “seek advice and guidance from your school”. At this point, I vehemently responded that the issue is a systemic, nationwide issue and not something one school can solve on their own. After **3 weeks,** after reminding them to respond back, they asked for my name and school, perhaps in a bid to get the school to approach me and shut me up. Nonetheless, I refused to give up such information, because I told them that this issue has affected tens of thousands of students every year for the past two decades, and that I would not accept it if the issue was resolved for me, and not for the many others out there. After **2 weeks,** they literally repeated the same template answer from the beginning, stating that the marks are moderated across schools, and then had the audacity to add in: “Over the years, our students have done well in PW”. well no sh\*\*, literally everyone gets an A or B, no doubt its the best performing A Level subject but the issue is obviously about getting an A or B, not between A/B or an S (facepalm). Okay, I apologise for the informality there, but that literally made me fume. After that, it was **months** of sending emails to MOE/SEAB for elaboration and evidence, waiting weeks for a reply, only to get a one to two-liner reply.
+
+After many futile exchanges, I finally received a reply that MOE/SEAB would escalate the matter to the relevant department and finally begin investigating the issue.  After **4 weeks**, I would have hoped to receive a well elaborated answer. Instead, I received a single line reply restating that PW is moderated fairly. At that point, I was completely sure that no investigation had been done and the email was sitting there for 4 weeks, waiting for some MOE intern to push out one of their template answers. They told me that they would close the case despite being unable to prove my data wrong, nor prove why they were right. Eventually, I gave them further allegations made by students on Reddit over the years and pressed them to assign an officer in the relevant department for follow up. All my emails were ignored or simply brushed away. In late October, **6 months** after my first email, I finally decided to call MOE as I eventually realised that a call would allow the situation to be resolved quickly. After an **hour-long call**, the MOE Support Officer promised to escalate the matter to a relevant MOE officer, for the officer to get back to me via a call. The officer told me that I had to wait up to **21 working days** for a call. So I waited. And after **1 month**, no call was made. By this time, December had arrived. As such, I emailed them once again and this time, I clearly asked for MOE to set a date and time for a call. MOE promised to follow up and after **1 month**, I received back one final reply in the form of an email. In this reply, they did not schedule a call, but rather repeated once again, the template answer, word for word, and stated that the case was closed.
+
+In summary, in 12 months,
+
+* MOE could not account for or explain the statistics reflected in the graph.
+* MOE could not provide any evidence, despite insisting that the grading for PW is fair and merited.
+* MOE could not explain the allegations made by other students on Reddit.
+* MOE could not reply back within the promised 3 working days, lest within a reasonable 7 working days.
+* MOE could take months to formulate a single line response or a copy and paste template answer.
+
+&#x200B;
+
+[Timeline of the Exchanges Made With MOE\/SEAB](https://preview.redd.it/kz1gh08kz8oc1.jpg?width=800&format=pjpg&auto=webp&s=de547d2bcda13009b318f01c30a17a4d8c34e792)
+
+# Section 3: Why is this Issue of Significant Importance?
+
+1. Unmeritocratic
+
+As mentioned earlier, the unfair and unstandardised assessment of PW makes the grades unmerited. As a country that prides itself as a meritocratic society, the fact that the work you put in plays such a small role compared to the school or PW tutor you have is a tragedy. It is even more unfortunate that this takes place in the A-Levels, which is perhaps one of the most important examinations a student might take in their lives.
+
+2. Unjustified Disadvantage for Scholarships and Potentially Courses
+
+For instance, the NUS Merit Scholarship or NTU Nanyang Scholarship is automatically provided to students who are enrolled into non-interview courses who have scored 90 Rank Points. If a student does similarly well, but scores a ‘B’ for PW, they will only have 88.75 Rank Points. This does not guarantee the student the scholarship despite actually performing as well, and an interview/good portfolio is needed to secure the scholarship. Similarly, the Renaissance Engineering Programme in NTU guarantees an interview to any student that secures 90RP and puts it as the first choice. There are many good and prestigious scholarships that one can be eliminated from just for scoring 88.75RP, and not 90RP.
+
+This can also possibly be extended to courses as well, where a student’s rank points barely misses the cut off point due to PW, preventing them from pursuing that course, despite actually performing as well as others who have just met the cut off points.
+
+3. Unjust Reflection of Ability
+
+Student 1 who pursues 4H2 with all ‘A’s with a ‘B’ in PW secures 88.75RP. Student 2 who pursues 4H2 with one ‘B’ and an ‘A’ in PW secures 88.75RP too. On paper, this suggests that both students performed equally well in the A-Levels. However, notwithstanding that the 4th H2 is regarded as a H1 in calculation, this suggests that a content-based subject like Chemistry taken at the H2 Level is as demanding as a non-content based subject (PW) taken at the H1 Level.
+
+[Unjust Reflection of Ability](https://preview.redd.it/is6yq1jxz8oc1.png?width=653&format=png&auto=webp&s=6c267bb5f95b54a1085fee597f3c3cc8b99cb8c9)
+
+4. Unjustified Disadvantage for Students Applying to Universities Under the New 70RP System in 2026
+
+This will not affect most people here since you will likely be applying before the first cohort of students under the 70RP system applies for university. Nonetheless, this can affect a small minority of students who choose to apply in 2026. Under the new system, the 4th content based subject and PW will be excluded from the Rank Point Calculation. This means that for students who have taken the A-Levels before the new system, your rank points will be rebased (your RP/90 x 70), instead of just removing PW and the 4th subject from your score. However, this is unfair for these students.
+
+For instance, a student Alpha who pursues 4H2 under the old system with all ‘A’s with a ‘B’ in PW secures 88.75RP. After rebasing, the score is now 69RP. A student Beta who pursues 4H2 OR 3H2,1H1 under the new system with the three main H2 scoring ‘A’s with a Pass in PW secures 70RP. This suggest that student Alpha performed worse than student Beta, without considering the fact that a ‘B’ in PW is a Pass in PW and that student Alpha had to spend more effort ensuring that his 4th H2 performs well, something which student Beta may choose to ignore since it is not included in the calculation.
+
+[Unjustified Disadvantage for Students Applying to Universities Under the New 70RP System in 2026](https://preview.redd.it/2s4lagdzz8oc1.png?width=811&format=png&auto=webp&s=7e028eef61b0667d1a85254d807434a53b631357)
+
+&#x200B;
+
+5. Unnecessary
+
+All overseas universities do not even consider Project Work when one applies. Only local universities do so. It not only shows the disregard our overseas partners have towards the subject, but it also shows that students applying into local universities are assessed in part by a subject that holds no weight or meaning to a person’s academic or non-academic abilities.
+
+# Conclusion
+
+I recognise and understand that for a large majority of you, including those who are currently taking the A-Levels this year or are applying for university this year, this matter does not concern you. It may be because you have benefitted from this system, or it may be because you are not really disadvantaged despite being a victim to this injustice, or it may be because you simply don’t have any stake in this matter anymore. Nonetheless, I ask that all of you at least recognise the issue at hand.
+
+Other than that, there is nothing more that we can do. Honestly, petitions, spamming, etc. will do no purpose but only amplify our voices in an echo chamber.
+
+I know and have accepted that this issue will never be resolved. I know now that this act of injustice will be brushed off by clueless, bureaucratic and incompetent high ranking civil servants in MOE. The very same people who never had to take PW when they were students, yet somehow think that they know more about this than us students who have worked tirelessly for one entire year on this farce of a subject.
+
+My message to the MOE officers, especially the seniors, in charge of implementing PW is this: You have completely and utterly failed in achieving your vision of Moulding the Next Generation. PW has not instilled any skills in any student who has taken your subject in the past two decades, other than a common hatred for graded group projects. I hope you enjoyed reaching your KPI for rolling this half-baked programme out, and earning that sweet money which is not even representative of the ethos of the public service. My suggestion? You should try rolling out PW across your department too, and instead of putting grades on the line, you should put your bonus. It should be easy, since you are all masters in group projects anyway
+
+&#x200B;
+
+Still, I rejoice in the idea that this miscarriage will soon end. As many of you know, in the 2023 Committee of Supply Debate in Parliament, MOE had announced that the Project Work syllabus has become a Pass/Fail subject. With the majority of students scoring an A or B each year, a Pass (A to E) is more than guaranteed. More significantly, a pass in PW is needed to enter local universities. No school will ever fail their students for that would mean that their students would have no need to pursue their studies in J2 as they cannot even enter university no matter how great their A Levels. MOE themselves would also not allow schools to fail their students, as they have [spent over $250,000 on every Singaporean child](https://www.moe.gov.sg/news/speeches/20240301-transcript-of-minister-for-education-chan-chun-sings-speech-for-the-ministry-of-educations-response-to-the-committee-of-supply-2024-debates). In fact, I half suspect that the transition to this new system is partly due to the fact that MOE recognises the complaints that have been made by students over the years regarding the unfair grading of PW. Nonetheless, when I approached MOE about this, they neither confirmed nor denied this but stated that this move is simply to allow students to pursue any topic they want, free from the stress of grades.
+
+Despite this, we still have braindead students who think that this change is not just unnecessary but plain wrong. Just read this rubbish [Straits Times Forum Letter](https://www.straitstimes.com/opinion/forum/forum-with-less-focus-on-project-work-students-may-lose-some-workplace-skills) published by a student after the change was announced titled: *With less focus on project work, students may lose some workplace skills.* Moreover, the new syllabus doesn’t change the fact that PW will never be successful in instilling 21st CC skills in students.
+
+But I know that for now, there are groups of people who might suffer. Namely, I want to address two groups of people:
+
+1. To those receiving your PW results in 2024 in April, some of you will be graded unfairly. But I say to these people to ignore your grades. Naturally, you will feel all sorts of emotions - grief, anger and sadness. Some of your group mates might have undeservedly received a better grade. You might see your classmates cheering away while you fumble in the background knowing that you can never achieve a perfect score, if that’s what you desire. But you have to put your foot in the game and just push on for you have something greater to work towards.
+2. To those who have been rejected for scholarships simply because they got a few points less, I can’t say much, but I implore you to try other scholarships if possible, and I trust that there will be scholarship providers out there that can see beyond PW, and beyond your grades, and look at your inward self and your character as well as your desire for the scholarship.
+
+And this is really all I have to say about this topic that's been living rent-free in my mind for the past 1 year. It does give me some sense of relief that I, at the very least, wrote this out. If you’ve read all the way till the end, thank you.
+
+# TL;DR: (thank you ChatGPT)
+
+Since its introduction, Project Work (PW) has faced criticism for failing to develop skills like creativity and teamwork. Allegations of unfair grading abound, with evidence suggesting systematic issues. Despite my efforts to engage the Ministry of Education (MOE) over the past 1 year, responses have been inadequate, highlighting bureaucratic inefficiency. Unfair PW grading affects scholarship eligibility, university admissions, and perpetuates systemic inequalities in the rank point calculation. While recent changes to PW have mitigated issues, it does not mean that past injustices have been solved. Nonetheless, I simply ask you to acknowledge this issue and share it if you can, for I have already accepted that it will always remain unsolved, and that's okay.",active,1626
+1beoazm,1,2024-03-14,Learn Coding while building your dream idea (and pay for the lessons).,u/ekim2077,Entrepreneur,https://www.reddit.com/r/Entrepreneur/comments/1beoazm/learn_coding_while_building_your_dream_idea_and/,"Hello,
+
+I'm a coder myself and had this idea, I recently stopped working as an outsourcing shop because 2 of my SaaS projects have been returning enough income to live by for the past 2 years. At the height my company hand 7 people working including me, all coders. Everyone started from a QA position and I taught them coding (mostly direct them to the source where they could read and learn about the issue). But unlike traditional linear learning, the lessons were always a small part of the projects we were doing for clients. 
+
+So I actually liked the teaching stuff the most in the 6–7 years this lasted. Now with the last employee leaving soon I want to create this class concept where my students would actually be people who have an idea that they want to make and sell and be willing to learn how to code it.
+
+I would be teaching coding and also prompting, as GPT4 and Claude as well as many smaller LLMs can do a lot of the grunt work when prompted correctly. This is actually something that now can cut the time to code by 50-75% as long as it's not some fancy algorithm the LLMs haven't seen before.
+
+The ideal ""Entrepreneur Student"" would be the ones that have an idea that doesn't need to be finished yesterday, it would take 6–12 months probably to get to MVP level for their project. I would write code the needed code if a project got  stuck so it can progress (although hard to learn this way). We would probably work on a comprehensive PRD at first, where I would estimate time to completion. And the stack needed for that project.
+
+The biggest challenge is; I could only take 4-5 students for something like this, as anymore would be hard to manage. And realistically the monthly fee would have to be $1000 or more. Also, a student would have to be ready to give a lot of effort and spend at least 6 months. 
+
+At the end, they would be able to market their product and also add features with the help of LLM's or move forward with the knowledge needed to manage coders. Also, they would have a good idea of what features will take how long to add. As an added bonus, this whole thing would probably end up costing the same as outsourcing it.
+
+What do you think of this idea?",active,0
+1bf3220,2,2024-03-14,Making my custom GPT work with more accuracy,u/meltingkeith,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/1bf3220/making_my_custom_gpt_work_with_more_accuracy/,"Hey all - I'm a secondary school teacher currently using chatGPT to help me make graphing worksheets for students. Currently, I'm getting it to create a dataset based on a pre-determined ""level"", then put that dataset into a latex template that I can copy into a compiler to make worksheets. The problem I'm having is that as I add more complexity, GPT makes way more mistakes. I worked out most of the kinks for the lower levels, but for the higher levels I've asked it to increment the x-variable by different amounts and it often forgets. It can do it well when reminded, but the more I add, the less it can do.  
+
+
+The problem is, I currently have 4 levels, and I'm thinking of moving to 6 (picture levels as ""1A, 1B, 1C, 2A, 2B, 2C"" where each number corresponds to a numerical difficulty, and the letter refers to a type of graph difficulty). Previously, I could generate up to 3 datasets at a time no problem, but starting from level 3 I can only generate two and no matter how many I make, I always need to ask it to make fixes (there's no point asking for 1, because it's a coin flip on whether or not it will need fixes anyway).  
+
+
+Any suggestions to try and add some more consistency and accuracy to my outputs?",active,2
+1bf4047,4,2024-03-14,Learn Coding while building your dream idea (and pay for the lessons).,u/ekim2077,Business_Ideas,https://www.reddit.com/r/Business_Ideas/comments/1bf4047/learn_coding_while_building_your_dream_idea_and/,"I have a business idea and would welcome feedback.
+
+As a coder with experience running a successful outsourcing shop and teaching coding skills to employees, I want to create a unique class concept where students are entrepreneurs who have an idea they want to develop and sell while learning how to code it themselves.
+
+The course would span 6–12 months, focusing on building an MVP (Minimum Viable Product) for each student's project. I would teach coding and guide students on effectively using AI tools like GPT4 and Claude to streamline the coding process by 50-75%. We would start by creating a comprehensive PRD (Product Requirements Document) and estimating the time to completion and the necessary tech stack.
+
+The class size would be limited to 4–5 students to ensure proper management and support. The monthly fee would be around $1,000 or more, considering the personalized attention and the potential for students to launch their own products by the end of the course. Students would need to commit significant effort and time (at least 6 months) to the program.
+
+Upon completion, students would be equipped with the skills to market their product, add features using AI tools, and manage other coders if needed. They would also gain a solid understanding of the time and resources required to implement new features. As an added benefit, the total cost of this program would likely be comparable to outsourcing the project development.
+
+What are your thoughts on this business idea? Do you think there is a market for this type of learning experience?",active,3
+1bfwj3e,72,2024-03-15,AI Use Is Pointlessly Rampant,u/dslak1,Professors,https://www.reddit.com/r/Professors/comments/1bfwj3e/ai_use_is_pointlessly_rampant/,"I'm teaching online for the first time in years due to some health issues. I gave the students a very simple take-home exam, just to help reinforce some of the important details of the course students tend to forget.
+
+Of the 23 who've submitted so far (still a chance of late submission), 9 of them clearly plagiarized or used AI to complete the exam. These were questions that could have been answered by spending just a couple of hours with the textbook, or even looking up the answers online and finding the relevant sections of the textbook - which is all primary sources - to quote.
+
+I suspect a few more of similar cheating, but can't prove it. If they did cheat, they're smarter than the majority of the others, who at best simply put ChatGPT output into a text spinner and submitted it as their own work. Some didn't even try that hard.
+
+Just a completely pointless bloodbath, but the only guilt I feel is that the ones who got away with it likely have higher grades than the ones who made an honest effort, simply because they covered all the bases of the questions.",active,91
+1bfx4uq,1,2024-03-15,How can I use ChatGPT to teach students to write better essays?,u/Tiberoan,Teachers,https://www.reddit.com/r/Teachers/comments/1bfx4uq/how_can_i_use_chatgpt_to_teach_students_to_write/,"I consider that in the times we live in it is my duty to use ChatGPT to teach students to write better. I think that a possible activity is for them to write an essay on a sheet of paper and then correct everything that ChatGPT tells them to correct, but I guess the problem is that most of them will probably just copy what ChatGPT tells them without thinking about it.
+
+Seriously, do you have some ideas?
+
+By the way, I am sorry if I made any mistakes, but English is not my native language.",User_deleted,0
+1bgssca,1,2024-03-17,Prompts to demonstrate ChatGPT's biases in academia,u/macadamiamylk,academia,https://www.reddit.com/r/academia/comments/1bgssca/prompts_to_demonstrate_chatgpts_biases_in_academia/,"Hi everyone,
+
+I'm seeking some advice and ideas for an upcoming class workshop I'll be leading on the topic of AI in education, particularly focusing on the limitations of Language Model-based Learning (LLMs) such as ChatGPT. 
+
+My goal is to engage students in comparative pedagogy by demonstrating the challenges and drawbacks associated with relying solely on LLMs for educational purposes. For my workshop, I'm planning to design a short activity where students prompt ChatGPT to analyze a research paper, to showcase its limitations and biases.
+
+I'm looking for suggestions on **what prompts students should use when engaging with ChatGPT to analyze the research paper**. These prompts should aim to highlight the challenges LLMs face in understanding nuanced academic texts and discussing the sources of their information.
+
+Additionally, I'm interested in ideas on **how to demonstrate the biases inherent in LLMs, especially in educational contexts.** This could involve exploring how LLMs might misinterpret or misrepresent certain concepts within the research paper.
+
+Since this activity is meant to be a part of a larger class session, it should be concise and not take longer than **30 minutes.** Therefore, any suggestions or ideas should be feasible within this time frame.
+
+Hope this makes sense, any input would be super appreciated <3",active,0
+1bgvswc,358,2024-03-17,The real danger of ai??,u/Fishamble,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/1bgvswc/the_real_danger_of_ai/,"At 42 years old, I have recently returned to education studying comp science. It is higher diploma(conversion course), so most doing it are mature students/working professionals.
+
+Since the start I have noticed how reliant everyone is on chatGPT, myself included. That said I am highly motivated, so use it as a learning tool, more to verify my work than actually do it for me. In my experience, the others in my cohort are using it for everything.
+
+This week we had to submit an assignment, which was basically writing a server backup script in bash/batch. I spent the last three weeks learning the fundamentals of bash and now feel I have learned a valuable skill. The others who I spoke with used chatGPT and completed the assignment in less than a few hours. I have viewed their code and you really cant tell.
+
+I feel we are in an intermediary stage, where the education system has not adapted, and people can use these ai tools to cheat their way through assignments. We are hard wired to take the path of least resistance. I did not take education seriously in the past and want to avoid that trap this time, but I feel this will be detrimental to young people just starting third level education. Do you agree/disagree?  
+
+
+&#x200B;",active,381
+1bgyjnp,1,2024-03-17,AITAH for telling my sister she deserved to be expelled?,u/ufgif4389,AITAH,https://www.reddit.com/r/AITAH/comments/1bgyjnp/aitah_for_telling_my_sister_she_deserved_to_be/,"I (13M) have a twin sister Millie (13F). Millie (13F) and her friends Zoe (13F) and Everleigh (14F) got expelled from school last week.  
+  
+Here’s what happened: There’s this boy in our grade, Ryder (13M). Ryder is very popular and a lot of the girls like him, I’m gay and also had a crush on him and so did a few of my friends. Ryder is a very nice kid, him and his friends/baseball teammates aren’t super close to me, but they’ve always been nice to me and even have stood up for me back in elementary school when I was bullied for being gay. We go to a Republican school but they don’t care and are still nice to everyone, like this trans boy in our grade.  
+  
+Ryder would always say he wasn’t looking to date when anyone asked him out, wether it was a girl or a guy, both me and Millie flirted with him at different times.   
+  
+At the beginning of this school year, things changed though, we had a girl named Charlotte transfer from another school, she’s a nice girl and I have her in a few of my classes. Charlotte is autistic and she is very into fashion, and will wear outfits from around the world but in a respectful way, she’s also really talented at makeup and I know many of my friends who are jealous of her skills as I am as well bc I wear makeup sometimes.  
+  
+Ryder started to flirt with Charlotte on her first day, I remember I was in English and we had to choose a partner to do a little interview with and we would share with the class, like an icebreaker type of activity. Ryder asked Charlotte to be his partner. A few weeks later he asked her out and she said yes. They have been dating ever since then and I’m happy for them. The issue is many of the kids in my school aren’t, including Millie, Zoe and Everleigh.   
+  
+Some kids have sent Charlotte mean DMs on Insta or called her names in school, Ryder and his friends always get these kids in trouble and we have a teacher who is autistic who also helps Charlotte, he’s one of my teachers and is super chill.  
+  
+A few months ago, Millie and her friends started to also bully Charlotte, they would make fun of the way she dressed or how she doesn’t like bright lights and it was just really mean, they got in trouble, like getting detention and getting suspended but they didn’t care.  
+  
+About 5 or 6 weeks ago is when things got really bad, Millie and her friends started saying inappropriate things about Ryder’s body to his face, they also did the same to his friends. They got suspended for a week and were told if they got in trouble again, they could be expelled. A few days after they got back, Millie, Zoe and Everleigh were all expelled for sexual harassment for comments and assault, as Millie tried to kiss him despite him saying no. They made some pretty gross comments to him and it was definitely sexual harassment and assault due to the kiss thing.  
+  
+We go to a private school so next year, Millie and her friends will go to the public high school near us as we will be in 9th grade after summer break. I will be going to a private high school that all my friends will be going to.   
+  
+I was talking to Millie on Thursday night and she was asking me how Ryder was doing, I told her to stop being creepy and she said she did nothing wrong because “boys can’t get harassed” and Ryder should “man up” when I asked my parents about this, they said she was right to have her opinion, even if they disagreed. She was still going on to me about how Ryder needed to “man up” so I told her to shut up and told her she deserved to be expelled and that I had no empathy for her.   
+  
+She got upset and said I was a bad brother and said I should stick with her bc she’s my twin. I love her but I think what she did was wrong, she’s brought up times she stuck with me when I got in trouble, like when I got detention for using ChatGPT on one of my homework’s earlier this year or when I got a 0 for cheating on a test this year. I’ll admit I’m not a great student and my average is only a 77, which is lower than what her’s was. Ryder actually offered to tutor me a few weeks before the sexual harassment stuff started to happen but I told him I didn’t need the help.   
+  
+I talked to Ryder at school on Friday about what happened and he told me we were still chill and he would still tutor me if I wanted him to, which I told him I’d think about.   
+  
+One of Millie’s friends who saw me talking to him took a photo of us talking and sent it to her and Millie started texting me saying how I was betraying her and how if I didn’t stop, that I would ruin our relationship. I’m wondering if I went too far, I asked my friends and they told me I was good but a lot of them are friends with Ryder and have crushes on him and his friends. AITAH?",active,0
+1bhlyeu,10,2024-03-18,asian kid NOT in stem shotguns top US colleges,u/smrithi_0121,chanceme,https://www.reddit.com/r/chanceme/comments/1bhlyeu/asian_kid_not_in_stem_shotguns_top_us_colleges/,"i was too scared and insecure to make a chanceme at the start of senior year lol but i've received a lot of college decisions rn and so im just curious to see what the reddit community says + i wanna see if i have a shot at t10s in preparation for ivyday lol so give me your thoughts redditors! be brutally honest, i don't mind. 
+
+  
+**Demographic/Location:** south indian female, live in india but US citizen
+
+**Income bracket:** middle class. applied for aid. 
+
+**Intended Major(s):** varies from college to college but primarily Journalism/Communications/English also pre-law  
+  
+**ACT/SAT:** 35 act (2023), 1510 sat (2021). submitted both to show an upward trend.   
+  
+**UW/W GPA and Rank:** I study in a CBSE school (computer science stream) so we don't do gpa and rank but here are my grades: 90.2 (9th), 97.8 (10th), 89.6 (11th), 95 (12th predicted), 90 (12th mid year)  
+  
+**Coursework: AP/IB/Dual Enrollment classes, AP/IB scores, etc:** school doesn't offer AP, i self-studied. 4 in 11th, 4 in 12th. US Gov (5), CSP (5), Eng Lit (5), Stats (4) in 11th. planning to do US History, Psychology, Calculus AB, and Eng Lang in 12th.   
+  
+**Awards:**
+
+\- New york times learning network contest winner (top in almost 1000 entries)  
+\- immerse essay contest runner-up (<7%, 10000+ entries)  
+\- top 50 internationally in an english olympiad   
+\- top 10% in my country in an international chemistry quiz  
+\- national topper in boards in 2 subjects in 10th  
+  
+**Extracurriculars:** 
+
+\- international literary magazine with like uh 6 issues, 2k followers on insta, been running it for 2 years. no major milestones but i put a lot of work into it.  
+\- major leadership position at huge non-profit volunteer org for writers. been working there for about 3-4 years but leadership is only about a year or so.   
+\- run an instagram account to post writing tips and stuff. like uh 3.5k followers when i applied? daily posts for 2 years.   
+\- published short stories and poetry in 20+ magazines.   
+\- independent research on impact of chatgpt on literature. interviewed a stanford professor for this but didn't publish the research anywhere.   
+\- school model un club president. 100+ hours spent training younger kids. i have been to 25+ muns and received awards at almost all of them.   
+\- did a 2-week academic program through school focused on sustainable entrepreneurship. we had missions that we were graded on. i ended at top 100 out of 6500 students, also chosen to present my ideas in front of top entrepreneurs (1 of 6 chosen).   
+\- been performing carnatic music for 10 years. performed on all india radio. trinity college grade 8 piano completed, also completed certification for carnatic music. run a youtube channel for music that i very rarely post on but i put it on my app haha.   
+\- i put down my last ec as ""wandering storyteller: wrote a guest blog for a major org, spoke on a podcast, tell my story wherever i go <3"". my exact wording (with the actual org names and stuff obv)  
+  
+**Essays/LORs/Other:** 
+
+\- i don't think my common app essay was very great. people have told me it's awesome and everything but personally it's one of my worser ones primarily because i overedited it and stuff. probably a 7/10. for specifics i wrote about my internal conflict when publishing my stories and reevaluating whether i actually enjoyed the process or was merely chasing fame. talks about the quantification of art and how i learned how to appreciate art more. also brought in why i started my literary magazine. ends on a very cliche note of how as i embark on the next stage of my life, my words will always be with me. very meh essay.   
+\- supps are all amazing, most of them are direct and to the point without being elitist and stuff. 8.5-9.5/10. wrote about a lot of different things. i'd like to think my essays were wide-ranging and covered a lot of different aspects of my personality and everything.   
+\- lors were above average. i don't know what an exceptional lor would look like but my lors were all pretty good and personalized (my teachers showed them to me since they don't have a lot of experience writing them).   
+  
+  
+**Schools:** (excluding safeties):  
+\- University of Chicago (EA)  
+\- University of Southern California (EA)  
+\- Georgetown University (EA)  
+\- Northeastern University (EA)  
+\- Santa Clara University (EA)  
+\- University of Wisconsin - Madison (EA)  
+\- University of Illinois-Urbana Champaign (EA)  
+\- Purdue University (EA)  
+\- Case Western Reserve University (EA)  
+\- Emerson College (EA)  
+\- University of California, Los Angeles  
+\- University of California, Berkeley  
+\- University of California, Irvine  
+\- University of Washington  
+\- University of California, Davis  
+\- Boston University (RD)  
+\- Stanford University (RD)  
+\- Brown University (RD)  
+\- Northwestern University (RD)  
+\- Columbia University (RD)  
+\- University of Pennsylvania (RD)  
+\- New York University (RD)  
+
+
+realistically, how do you think my ea results went, and what chance do you think i have at ivies? please be honest, i can take criticism. all opinions are welcome <3",active,9
+1bi3b8s,52,2024-03-18,I just reported myself for academic misconduct. What can I expect?,u/PPIPLUP,AskProfessors,https://www.reddit.com/r/AskProfessors/comments/1bi3b8s/i_just_reported_myself_for_academic_misconduct/,"So just to preface things, this is my first quarter at my local CC and I'm aiming to go into CS.
+
+Basically I used ChatGPT to check code that I wrote during both of the midterms and final exam. We have to trace our code in a text box without running it and I used AI to verify if what I was doing would work. This is the first time I have ever taken exams in school (weird, I know) and with the strict time limits I couldn't handle the anxiety and caved.
+
+It was really only until the end of the quarter that I took the time to reflect on what I had done and I realized the gravity of my behavior. I really want to be a good student, and I felt like learning to cope with the anxiety was something I really needed to do for myself. I wanted to make things right so I sent an email to my professor pretty much fessing up to everything I have described.
+
+I have no idea what's going to happen to be honest. Am I going to be able to attend classes next quarter? How will this affect my future academic prospects? 
+
+\+ This is the only class I have committed academic dishonesty in
+
+\+ My professor is on break right now so I'm kind of just a nervous mess right now while trying to study for my last final.",User_deleted,111
+1bjhowa,1,2024-03-20,ChatGPT's Impact on Virtual Education and Corporate Training: An Effectiveness Discussion,u/cporter202,ChatGPTautomation,https://www.reddit.com/r/ChatGPTautomation/comments/1bjhowa/chatgpts_impact_on_virtual_education_and/,"Title: ChatGPT's Impact on Virtual Education and Corporate Training: An Effectiveness Discussion
+
+The integration of AI like ChatGPT into virtual education and corporate training sectors marks a significant shift in how we approach teaching and knowledge transfer processes. As we delve deeper into this topic, let's explore the effectiveness of ChatGPT in these settings.
+
+Virtual education, from K-12 to higher education, is increasingly adopting AI to supplement teaching. ChatGPT, with its conversational capabilities, offers a unique opportunity for personalized learning. Students can ask questions and receive instant feedback, potentially improving engagement and understanding. However, the effectiveness of such AI in facilitating deep learning as opposed to rote memorization is a point to examine.
+
+In corporate training, ChatGPT could be vital in onboarding processes and ongoing education for employees. It can provide scalable, one-on-one interaction that would otherwise require significant human resources. Companies could leverage this to ensure their workforce is up-to-date with the latest skills and knowledge, but the question remains: can AI adequately replace the nuanced, human elements of corporate training?
+
+Another angle to consider is the accessibility and inclusivity that ChatGPT could bring to the table. AI might lower barriers for individuals with different learning needs or those who speak different languages. Yet, this must be balanced against issues of digital divide and the need for equitable access to technology.
+
+Let's discuss the practical effectiveness of ChatGPT in these educational frameworks. Have you experienced or implemented ChatGPT in your learning environment or company? What are the successes and challenges you've noticed? Share your insights as we consider whether this technology is just a novel tool or a transformative force in education and corporate training.",active,1
+1bk7dqs,1,2024-03-21,Where to learn how to run Grok or big LLM on a cluster?,u/30th-account,MLQuestions,https://www.reddit.com/r/MLQuestions/comments/1bk7dqs/where_to_learn_how_to_run_grok_or_big_llm_on_a/,My professor got permission for a fat cluster at my school and he wants someone to train + deploy some of our lab stuff using Grok on it since he thinks that our Llama results aren't doing too well. The thing is no one in our group really knows how to train or deploy such a big model across multiple nodes. Is this something a technician would do or do you think I or some other students could learn how to implement this in a reasonable amount of time?,User_deleted,1
+1bkoi13,1,2024-03-21,Why may valid questions get downvoted?,u/Striking-Warning9533,academia,https://www.reddit.com/r/academia/comments/1bkoi13/why_may_valid_questions_get_downvoted/,"These are all the posts from the past 100 days, and I think a lot of them are valid
+
+<details>
+H1B sponsorship for lab employees? 
+Intellectual Stimulation after studies
+Hermione guides you through a Pomodoro study session [ai] 🪶 asmr ambience 🦉 raindialoguewriting
+Unable to publish any of my research work.
+Fast processing journals 
+How to safeguard your email against predatory publishers?
+Asking journal editor for an update ahead of job interview
+Is a 3.67 GPA in my first master’s semester good? I’m at loss
+Which journal should I chose?
+Thesis paper question about personal questionnaires 
+I work at a University and I feel very uncomfortable about the way whiteness is discussed.
+how do you guys start studying at the first place ?
+It's Not Cheating to Wear Shoes...
+Found some bad paraphrasing in my accepted article but it is well cited
+Found some bad paraphrasing in my accepted article but it is well cited.
+Do you guys think we should move from PDF to html?
+Community College Application: Leave off scholarship?
+Thought a MSCA Postdoctoral Fellowship would have changed for good my future career. I was wrong.
+When you want a break from academia
+Academic Research Poster Images
+Is it okay to write a very draft version of the paper and let GPT rephrase it in academic language and then carefully proofread it? Why and why not？
+Academic referencing does not work. Discuss.
+What are in demand history majors?
+Which countries offer tenured or at least on a semester basis part-time professor positions (Europeengineering)
+Prompts to demonstrate ChatGPT's biases in academia
+Gallery Proof - Please Help
+first conference paperaccepted as oral
+Currently working on my bachelor's in Philosophythen pursuing my PhD in Latin historyis it worth it?
+Switzerland research evaluation (and the rest of the world?)
+Zotero annotation citation style
+What should I expect during the publication process for a journal?
+So mentioned in my last postmy supervisor told me just to write out everything we have for the paper and let LLM construct the language
+How hard will it be for me to become a full professor?
+Thoughts on using LLM to generate the whole paper?
+Applying for FT Jobs - Staring into the Void 
+Is (legitimate) freelance academic writing a thing? 
+Salary for project coordinator on nsf grant
+Is this really a good start?
+Try HumblePositive ModelingNot Neutrality. On grappling with uncertainty in the classroom.
+Should I publish my University essays?
+Hacking the Academia publication system
+Can I use chat gpt to reorganise my chapters to flow nicely
+Mentioning of Research Assistants
+How do you organize your research findings?
+How do you organize for a thesis/dissertation (non defense) 
+What do I do if there's no research opportunities for me this year? (Undergrad)
+Glassdoor for Academic Labs
+Disappointed with my Ph.D. Program. Looking for advice.
+Are there any good digital libraries/open source media repositories/etc. for contemporary European art history?
+General mastery of research skills
+How hard is it to get a postdoc fellowship at Harvard?
+Suggestions for a journal to publish Computer vision-based animal biometrics research ?
+If a study design is retrospectively analyzing data from a “third party” prospective cohortis this a prospective or retrospective cohort study? 
+Archaic Publishing Technology & Culture ? 
+Are these conferences legit?
+An extra project without any help from a guide/mentor.
+Before Claudine Gay retroactively corrected her plagiarized PhD thesis... there was Terrell Strayhorn
+How can I get over losing out on the chance of being a pioneer in my field?
+Can i Cite unpublished offical government documents(GuidelineshandbooksSoPsetc)
+Referencing Other Works When Writing a Paper
+how does everybody have time to write articles but nobody has time to write reviews?
+Do I accept a shitty situation for a good reference? -feeling steamrolled and gaslit
+Turns out I'm graduating with about 7 ECTS more than needed.
+My PhD supervisors don’t want me to meet with my new research committee supervisor without them.
+Okay to Check In on Postdoctoral Position Update?
+Struggling with undergrad dissertation
+Grant proposal question! (Time sensitive!)
+Lost out on my tenth lab job so I fold
+Applying for lectureship position at another faculty at the same university?
+should i send one more email under such condition?
+Measuring a university’s willingness for international collaborations
+Ethics of listing grants and team projects on a CV
+The ethics declaration requirement
+Is this recommendation letter strong enough?
+Machine Learning or DS for Physics?
+Tell me I'm not the only one
+Tips when applying for the Tenure assistant professor position.
+Poster tube on EasyJet airplaneis it allowed? 
+scholarship distribution in Brazil
+Should I agree to a volunteer research position or should I keep looking for a paid one?
+advise me on shadowing researchers
+What is an estimate proportion of higher education schools that still use non-digital methods for signing documents?
+Grant writing (pending) on CV?
+Research Opportunity - Qualitative Research Educator and Generative AI
+universities with remote positions
+Seeking Advice: Choosing PhD Offers
+What kind of university jobs give you a pay raise?
+Qualifications to become a Graphic Design professor in USA as an outsider
+Question about NIH reviewer
+Any advice for online neuroscience education?
+Found a typo in a nature article. The word should be ""extreme"" but is listed as ""exetreme."" Is it worth contacting the authors for correction?
+Interviewing for a senior research role at a reputed think tank in Washington with no prior research experience... Help!
+Faculty hiring committee made 3 piles: minority or woman or nature/cell/science paper
+Can I do a degree just by taking summer and January courses?
+My paper got returned from journal for 2nd time asking for revision with comment revision not satisfactory and we did everything possible
+Academic job advice - thank you in advance!
+Dealing with unkind feedback
+Software for transcription 
+Taxes for non employee compensation
+Is there anything preventing youif you work with others,
+CEA vs CNRS for permanent researcher positions in France
+Any sites that help translate articles or something to that effect? 
+Help with MLA citations- citing multiple of one author's publications
+Is IRJMETs a legitimate journal?
+Paraphrasing tips - afraid to be to close
+Is it acceptable or ethical?
+Vacation Days for University Employees in Canada: What's the Norm?
+Unemployed Independent Researcher Needs Funding for ICLR Conference
+Do ResearchGate scores mean anything?
+List of film theory and cultural theory journals
+A question regarding two medieval French books/annals
+Academic paper as a freshman
+Any resources for applying a faculty positions?
+My manuscript is under 6 month review process
+is it worth pursuing phD at 28 with UGC JRF fellowship!?
+Masters students supervisor
+Does anyone know of good editing services in social science?
+Experience as first PhD student at new Lab
+Help me choose my dissertation topic for Master's degree
+How common is to switch fields in Post-Doc?
+worried: i just recently got a paper removed from a predatory journal's database. submitted for an ieee conference too. will it get detected in ieee?
+Should US rethink it's tenure system?
+Referencing Help - Franchises
+Need a piece of advice to become a better journal editor. Online classes (preferably free)booksor videos I can use to improve myself.
+Criteria for Choosing a PhD Supervisor/Mentor?
+How much does an instructional assistant professor make?
+Do I need permission from the website owners for research?
+Seeking Higher Ed Career Advice
+Facing a problem with a case report
+Need help budgeting a grant - bloodwork - cortisol
+Software to compare transcribed interviews with audio of the same interview
+Facultywhat would help you support and serve international students better?
+Are CC’s Website Designs Holding Anyone Else Back?
+I got admit for PhD but don't have a single paper publication yet how do I start?
+Be careful not to stand out too much
+UK PhD application: research proposal
+Best way to get monthly on a large scale a list of the latest publications of 100+ authors without asking ChatGPT to use Google Scholar profiles?
+Would writing a popular fiction book as a highschooler impact how I am thought of in the field.
+Any tips on how to finish my dissertation quickly?
+Is this a good journal to publish to?
+English/Linguistics PhDshow intense are your Programs? Is Pursuing Sports and Acting Feasible Alongside?
+Joining editorial board of a new AI journal
+Taking notes in online Courses
+Invitation for interview (tenure track position in social sciences)
+Right process to write a sentence include this (Shown in Figure X ) from my last published publication!!!!!!!!!!!
+HELP! Am I crazy? Is breaking a tie as a group not biased??
+Is this self-plagarism? - Using an old topic and sources for annotated bibliography project
+Just before Holocaust DayColumbia Law student senate rejected a club to fight antisemitism
+Usual criteria for lecturer positions…
+Exploring new areas other than core research as a PhD/MA student
+Curious about people's process re. submitting drafts to supervisor
+How many people are working in you office of postdoc affairs?
+Publication Suggestion for fast publication paid/unpaid
+Data Sets on Social Media Propaganda?
+Publish content from article into textbook
+How do I list a publication on my resume that is in its second round of peer review?
+What are Good Jobs for Grad Students?
+Is it me or is there all of a sudden a rise of every f%$^&*# joe blow wanting to do a PhD now?
+National Society of Leadership and Success
+Applying for funding for qualitative research
+Is there a correct way of answering “Why do you want to do this research?”?
+Papers3 to Readcube in 2024
+What is the one specific step that you recommend to immediately reduce …
+Master's degree or professional course?
+Should undergraduate distribution requirements be phased out?
+Does grad school have to be so demanding? Why must it require sacrificing so many other things?
+awards/scholarships for those in writing phase of phd dissertation? (Canadian)
+Conference Funding Predicament
+Do I risk not getting funding for my PhD program?
+Why is there no academic wikipedia?
+I'm thinking of becoming an academic so I can push legitimacy for a theory I have
+Seeking Advice for Academic Job Prospects in Belgium
+Thoughts on researchhub.com (which is trying to address several inefficiencies in academic publishing with cryptocurrency)?
+Is it possible to be SL from Lecturer in UK within 3 years with a PhD? What do I need to do ?
+How to juggle between both academia and company positions?
+What does websites like ResearchGate and academia lack?
+What's the deal with these anthropologists?
+Claudine Gay's responses at congressional hearing were not as big a failure as they were made out to be. Why was she so brutally targeted?
+How might we develop an innovative and equitable hiring system in academia?
+What do I do if my research data was definitely affected by a confounding variable?
+FirstGen versus Academic Background
+Can anyone help with why my end note referencing isn't working? Not creating a bibliography or an editable reference.
+University class cancellations and administrative action
+Do you need a PhD to teach a masters class at a prestigious university?
+PhD and jd
+Associate-level job market in EU
+Advice on authorshipchaging of the submission title and omission of university affiliation
+How do I ask/convince my professor to fund my paper to be made open-access?
+“Migration Letters” — A Legit Journal?
+Automatable Tasks
+Question about multiple tenure track offers
+Conference
+Why is academic plagiarism bad?
+Philobiblon Journal - Special Issue: Modernism and Bruno Latour
+The owner of Business Insider engaged in plagiarism for his PhD
+Dilemma: Continuing as a ScientistPotentially in Industryor Pursuing an MD?
+Getting Back into Academia
+What’s a Good Personal Statement Like?
+Is it plagiarism?
+Was this maybe not the right career path for me?
+Where to find people interested in submitting their manuscripts?
+Can I run a company and be funded for a PhD? Canada specificallybut others could provide insight.
+Should i quit my masters?
+Is the steep registration fee worth it for presenting at conferences?
+Does anyone know why we can’t find any statistics about accommodations?
+Keeping up to date with current literarure - Browzine
+I keep failing constantly in college and I’m so sick of it. Things need to change.
+First They Came for Harvard
+Help with Research Contract
+Regarding the mysterious realm of impact factors..
+for researcherlearning basics constantly is needed?
+I don’t know if I want to work in academia
+Top 100 books from Institute of Civil Engineer (ICE)
+Inclusive or like-minded?
+Looking for Book Recommendations - Distributed Systems
+Thesis vs PhD
+How to write book review for an edited volume?
+Keeping up with HSS
+AI and academic writing and research: kryptonite?
+Comprehensive exam essays due in less than a weekhaven’t finished any
+I’m in my senior year of collegewhy am I still scared of school?
+Why this sub is turning so political recently?
+Universities are left-wing hotbeds? Nonsense. Forget about woke discourse and look at what colleges actually do.
+Subconscious typos
+Postdoc advices
+[Opinion] The 2023 Nobel prize in economics was silly
+What Harvard president did (copy words but still cited) vs faking data in nature science vs faking data in social sciencewhich is worse?
+What Claudine Gay’s Resignation From Harvard Means for the Rest of Us
+Universities have a surprisingly low tolerance for criticism of it's own institutional structures& especially a dangerous devotion to meritocracy
+Harvard president’s resignation highlights new conservative weapon against colleges: plagiarism
+Hoping to teach at a CCadvice?
+Signs an article is publishable
+In-Text Chicago references for own interview conducted in fieldwork
+Seeking Recommendations: Tool for Extracting Author Contact Info from Academic Papers
+I was too tired and wrote my future (Jan) supervisor a one-sentence email with an attachment. Did I mess up?
+Is it bad taste to ask a current colleagues for help with PhD application in another institution?
+Books/blogs about the role/philosophy of academia (with emphasis on ML/STEM)
+How do I find a research topic?
+Phd or continue teaching?
+How can we simplify and streamline the application process for junior faculty to make it less burdensome?
+Finding articles by study design
+Novelty in Master's Thesis
+Help me upload my published article on open source archives.
+Oxford Publishing Group manuscript production services: is outsourcing a good solution?
+If I invent something with my universityand it makes money. Can I request royalty checks quarterly?
+What’s the difference between professorassociate professorand assistant professor?
+Advice on becoming a PI overseas?
+Why do hiring committees from most graduate programs buy into a biased set of hiring practices that seem to fit within their comfort zones but run counter to their department’s own interests?
+Rules on requesting scans of PhD dissertations in the UK?
+Is it worth it to pay a journal's author services for manuscript formatting?
+Is using ChatGPT academic dishonesty?
+Exam Scheduling
+Struggling with finishing my master's degree
+Offered a poisoned chaliceto take or hold off ?
+would you pay for an easier way to make and manage academic websites?
+Stay in PhD for additional year?
+What are your best tools for reading papers easily?
+Rank Professors and Scientists
+My Niece Asked: Why Can't I Plagiarize Like The President of Harvard? What should I say?
+Advice Wanted for Writing a Paper for Potential Journal Publication
+Tangible research outcomes?
+What is the range of salary for assistant Professor in Engineering around Boston?
+What is the current salary range for a research assistant professor at an R1 and R2 university? How much can you supplement with a grant?
+</details>
+&#x200B;
+
+I took the first 100 of them and did a simple PCA (n=100) and found no clustering yet. But def this is just a simple look without any data cleaning.",User_deleted,1
+1bljfgh,1,2024-03-23,CS Coding Assignments,u/Public-Hat-2781,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/1bljfgh/cs_coding_assignments/,"Can CS professors tell if students use ChatGPT to complete coding assignments? 
+
+I know is there’s MOSS and that detects similarity to other students, but is there a coding version of Turnitin that detects AI code?
+
+FYI: I’m in an intro python class learning about strings, lists, loops, etc. ",User_deleted,1
+1bllhef,31,2024-03-23,"As a student, I feel for teachers",u/bluetreeacre,Teachers,https://www.reddit.com/r/Teachers/comments/1bllhef/as_a_student_i_feel_for_teachers/,"New account for anonymity. I'm a senior student who is also a ""tutor"" in a public school and I have a passion for education. As a student, i love to foster community. I'm fortunate to have had a great experience with most of the teachers and adults in the school, but so many other kids haven't and there are so many rumours about teachers that just drive me mad.
+
+Onto my actual point. I feel like my current education system is really failing students, and the advancement of technology has really contributed to this.   It feels like students really just want to be spoonfed answers (I think social media becoming so heavily personalized has really worsened this issue) and then are upset when they're not given. 
+
+When these kids don't get that spoonfed answer, they react very emotionally and instead of trying to find a solution, they blow it out of proportion and attempt to get teachers fired, punished, and worse. The way that students use these emotions to try and hurt the adults who care deeply about them honestly saddens me. 
+
+It makes me pretty upset, but I feel especially bad for the teachers who get complaints about this. Personally, I've always been a really nerdy kid and I swear to god the amount of times I hear kids using chatgpt to do all their work for them or who give up and ask me for the answer to copy after barely trying... it really saddens me.
+
+I am curious to hear what you all have to say as educators? I would love to hear perspective from teachers! Wishing you all the best! 
+",active,32
+1blvldj,1,2024-03-23,How do YOU use AI in your daily work and research?,u/Bonobobro94,PhD,https://www.reddit.com/r/PhD/comments/1blvldj/how_do_you_use_ai_in_your_daily_work_and_research/,"Hey fellow PhD students!
+
+I want to find out how other PhD students are currently using AI and its applications in daily work. Specifically, I want to know how people are using AI (if at all) for the following things:  
+
+
+1. **Productivity (e.g., automating routine tasks)**
+2. **Coding / Bioinformatics / Software design**
+3. **Literature Review**
+4. **Assisting in Writing** 
+5. **Research and Data Analysis**
+6. **Education / Learning**
+7. **Creation and Innovation**
+
+**Resource Recommendations:** Please share any resources or communities that have been particularly helpful.
+
+**Large Language Models (LLMs):** What’s your current LLM of choice?
+
+Thanks so much :)   
+
+
+&#x200B;",active,5
+1bmjqno,13,2024-03-24,Do you have enough time to prepare for all of your lesson? (as a teacher),u/kutova,Teachers,https://www.reddit.com/r/Teachers/comments/1bmjqno/do_you_have_enough_time_to_prepare_for_all_of/,"First of all,I am new in this exciting world of teaching, so I can make wrong assumptions and decisions:)
+ I wonder if it’s me facing the problem with lack of time for preparing for all the lesson or it’s everyone. I work and live in Ukraine, have 21 lesson per week. All the weekends I try to find some materials and prepare interesting lessons. It’s pretty exhausting. Sometimes I’m lucky and find cool lesson plans, sometimes I use ChatGPT to invent the lesson plan myself, sometimes I search for exercises in different student books, because the student book we use in our school sucks. We have spring break for a week now. And I’m going to spend this time by preparing my lessons. Is there a way to make it faster? ",active,13
+1bmu64x,50,2024-03-24,"New user beginning guide: from total noob to well-informed user, part 3/3",u/nuclear_prof,LocalLLaMA,https://www.reddit.com/r/LocalLLaMA/comments/1bmu64x/new_user_beginning_guide_from_total_noob_to/,"**# Fine-tuning**
+
+Should I use a particular framework? Let’s say I fine-tune my model over different use-cases. How do I swap the weights for these different models efficiently?
+
+**Warning**: Fine-tuning is the last section on purpose. If this is the first thing you are considering, you are probably doing something wrong. Fine-tuning is the last thing to consider, not the first. Once you learn enough, you may find out you don’t need it. And if you do need it, you may find practical constraints that make it not worth it. Or perhaps you do need it, you are very persistent, and you are willing to pay the price. Great, let’s do it!
+
+Let’s go back to the JPG example. Yes, you need software that allows you to edit (fine-tune) LLM, just like you need “special” software to edit JPG, PDF, DOC. Probably the easiest options are text-generation-webui, Axolotl, and Unsloth. You can fine-tune quantized models (QLoRA), but as far as I know, it can be done only on GPU. See their website for a description of which model, training, quant types they support. And you can find plenty of step-by-step guides/tutorials on the web (see “Next steps”).
+
+As far as swapping weights, well, you can just open and edit a new JPG when you are done with the previous one, no? The same applies here. There is no fundamental problem of loading multiple LLMs at once and interacting with each of them as needed (just like you can open multiple JPG at once and interact with them as needed). But since LLMs take up so much memory, loading two is 2x memory. That’s how Mixtral-8x7B model works, it loads 2 (or 3?) 7B models and use them together at the same time. Do you have enough RAM/VRAM? Go for it!
+
+Now back to fine-tuning. A basic concept that I didn't understand at the beginning is that fine-tuning is **not** for adding knowledge. If it were, all models could be fine-tuned on Wikipedia, and we would have a custom, instant, and accurate (assuming Wikipedia is accurate) encyclopedia in our pocket. It would answer a specific/narrow question of interest instead of showing a long and boring Wikipedia article on a long and boring topic. Life would be great! But did you know even the best of the best (GPT-4) makes factual errors that are correct on Wikipedia? Why? Surely, OpenAI could (and did) train on Wikipedia. This should tell you something.
+
+So, the most important thing to understand is that fine-tuning is for adding “skills”, not “knowledge”. For example, question answering, summarization, translation, conversation, code completion, fillin-mask, sentence/semantic similarity, I’m sure there is more. And once the LLM is big enough, it also gets “emergent” abilities (debatable, but it makes us feel supersmart, so let’s just go with it). So first you need to know what “skill” you want to add. Otherwise, you are probably not improving anything, and very likely making the existing abilities worse (there are plenty of posts on that). Maybe others can say more what “skills” are interesting and useful to add for different use cases?
+
+Now back to the issue of why fine-tuning is the last thing to do, and best to avoid, unless absolutely necessary. The first problem is that hardware requirements increase beyond the typical “home computer”. Just to remind you of the scale of the problem, recall training a new model from scratch, see “Creating Parameters” section on the blog I linked to earlier.
+
+Fine-tuning is effectively the same, but with a much smaller data set, targeted at specific “skill” rather than ""ingesting raw text"". And perhaps you don’t need to adjust all the weights, but just some of them, which makes it computationally easier. That’s where LoRA comes into play.
+
+You can also fine-tune some quantized models (QLoRA), but as far as I know, it is GPU only (please correct me if I’m wrong). The solution to this problem is easy in the sense that you can just buy more/better GPU. But the general advice is that it is much cheaper and more efficient to rent a GPU from an AI cloud provider, there are other posts here on how to do that and what are good practical options.
+
+The second problem relates to the data requirement, how training and fine-tuning works. What you need is a pair of text “prompt” and “completion”, where “completion” is a natural continuation of the “prompt”. At first, it seems like an easy problem, just search the web, you’ll find TBs of training data, all you need is fast internet and plenty of HDD space! But think about it, if there is a good publicly availability training data set, wouldn’t others already use it? They did. So, even though there are plenty of public data sets on the web, what’s the point of re-training on the same data? Maybe you think, well, I'll just train anyway, it can't hurt, it is just like reading the same book 10x. But that's wrong. Training too much on the same data will “overfit” (or “overtrain”) your model, which will make it worse!
+
+You can (and should!) use public training data to learn how to do it, what are different options, what results/improvement you can get. But to do something really useful, you need to curate your own prompt/completion data set. At this point, the time requirements increase to weeks-months to curate your own data yourself. But let’s stay you did create it (there are fast and easy ways to create a poor-quality set) and trained on it. If you are happy with the results, good for you, you are done.
+
+But, to get the best performance, you need to fine-tune with human evaluation: you ask your new LLM to generate a few answers/completions to the same prompt, and a human (you?) picks the best answer/completion. Repeat thousands of times. Oh, you would rather not do that yourself? OK, no problem, hire 10 local college students to do it for you. That's what big companies do, except instead of local high schools, they use workers in low-wage countries. Or you get clever and come up with an automated way: create another LLM that can judge responses of your new LLM, picks the best one and feeds it back to your new LLM. But then you need a “judge LLM” which has to be much better than your new LLM. Can you run full size 70B model locally? Good, do that, but then perhaps you don't need that new LLM?
+
+Then, you need to evaluate if your new LLM really is better. So, you need another set of prompts/completions as a benchmark to measure “improvement”. The public benchmarks used for ranking (like HuggingFace Leaderboard) are not useful here (see “Model selection” section), you need your own benchmark that you keep private. Perhaps you use a part of your curated prompt/completion data set that you didn't use for training. Perhaps you create a new set. Either way, improvement measurement is a critical part that too many misses or ignore.
+
+If you still haven't given up, congratulations, you are the top 1%! Now you really have to go back to parts I marked (A), (B), (C), (D) and work to understand the rest. Search the web (see “Next steps” section), there are plenty of tutorials that show step-by-step instructions for different use cases. But first, you need to understand what you want your “fine-tuning” for, and then look for a method and software (and hardware!) that does that, not the other way around.
+
+**# Next steps**
+
+There is plenty more. The problem is that a web search on any of these topics will return 1000s of articles, you’ll end up with info overload, or conflicting info, or the same info, but described differently, or you become paralyzed by looking for the “best”.
+
+If you lack technical skills (from “LLM loader overload” and everything later), here is how to get started. First, get Anaconda and learn how to create conda environments with specific Python version, how to load/unload environment, and how to work within these environments. My recommendation is to **not** work with your OS native Python (e.g., not to use “python -m venv env\_name”) but rather with a separate Python installation (e.g., Anaconda) and its environment (e.g., ""conda create -n env\_name""). Both ways are perfectly fine, but my recommendation is to not touch OS native Python at all.
+
+Then, learn how to clone git repository, then how to set up necessary dependencies (should be part of repo instructions), then how to compile yourself (should be part of repo instructions). Then continue with whatever it is you want to do.
+
+Don’t give up. To avoid info overload, here is the order of reading and learning I recommend:
+
+1. Go back to (A), (B), (C), (D), fill in the specific gaps in your understanding. You’ll probably find that as you learn more, more of this becomes “easy” and “obvious”.
+
+2. Next, search for other relevant posts on /r/LocalLLaMA/, use the flair system, it is here to help.
+
+3. Next, search Medium and related property (they own or affiliate with a ton of other websites!). It has a lot of general info and ready-to-use tutorials, but the quality varies (and a lot of low-effort LLM-generated posts). Watch out for info overload!
+
+4. Then, search GitHub Awesome lists for specific topics and your needs. At this point, expect info overload, unless you know specifically what you need.
+
+5. Finally, as the last resort, go to open web, it is definitely info overload!
+
+Finally, my advice is that looking for the “best” is a failing strategy. FreeBSD and Photoshop are the best, why are you not using them? First, understand what you really want to do, what you want to accomplish. Then look for the tool/method/software that does that. That is the best tool/method/software for you, not for me.
+
+**# Closing perspective**
+
+I'm disappointed with posts that can be summarized as “I don't know anything about this, but I had this brilliant idea about AGI + fine-tune on all my data + Wikipedia which will be my own personal genius, I haven't bothered to do any homework myself because it is too boring and too difficult for me, so just tell me step-by-step instructions that will work on my computer. Oh, and make it the best. Otherwise, it is not good enough for me”.
+
+Consider a bit of humility and perspective. LLMs are barely out of the best NLP research labs with post-PhD level brains (I mean humans), so +10 years of the best university education in the world. These are incredibly difficult and advanced topics that others spent years learning and developing. And they made it easy enough for us (relatively competent person without formal CS or NLP education) to self-learn and use for a real benefit to us.
+
+If you want things to be as easy as JPG and PDF on your computer, if you want an automatic fully integrated solution, just go with Windows 11 and MS Copilot. MS integrated it into the OS, and it works seamlessly just like JPG and PDF. You'll have an AI assistant that's one of the best in the world, which will scan/index all your data, and work seamlessly just like other good software on your computer. There is no problem or shame in that. I use ChatGPT and Copilot, and I'm mostly impressed. The weaknesses are obvious enough that it will improve, just like all other software/hardware improved over the years. Think about your favorite software 5, 10, 20 years ago and what it did (or didn't do), and how it got better (or worse) over the years. The progress in 10–20 years is just spectacular!
+
+Or, if you want high (not complete, but high) control over the workflow and data, and you keep insisting on the “best” it is OpenAI, Anthropic, Microsoft, Google. They all have a “cookbook” with ready-to-use Python examples for all typical use cases. Just search ""OpenAI cookbook"".
+
+It will cost you pennies or a few dollars to run, and you’ll get one of the best embeddings, one of the best LLM, one of the best RAG (chunking/embedding/vector DB), one of the best fine-tuning, all tools-software-hardware maintained for you, integrated hosting, and much faster than you can do at home. If you want the “best”, do that.
+
+Good luck, fellow explorers!",active,62
+1bnyoin,42,2024-03-26,I feel like I'm in the twilight zone....,u/TheMormyrid4,Professors,https://www.reddit.com/r/Professors/comments/1bnyoin/i_feel_like_im_in_the_twilight_zone/,"**Summary of past posts:** 
+
+Student has been submitting ChatGPT essays all semester. I've had three meetings with him but was unable to ""prove"" anything until he sent in an essay that begins with ""Although I don't experience emotions, I can understand how the story might elicit sympathy"". His hand-written work on the exam is completely different. 
+
+Student is now appealing my decision to give him an F for the class. 
+
+&#x200B;
+
+**Now:** 
+
+While I wait for all of the appeal stuff to happen (this is my first time), the student can still attend class and send in work, obviously. 
+
+I feel like I'm in the twilight zone because the student just sent me another obvious ChatGPT assignment. Is this a joke? Am I on a hidden camera show? 
+
+My other seven students are an absolute pleasure to teach, and they're actually passionate about the material. They work hard. This is the first time I've had to deal with a student who just doesn't give a damn. ",User_deleted,47
+1boyqaq,293,2024-03-27,"Kind of Disheartened by the ""AI is here to stay"" attitude",u/ProfessorNoConfessor,Professors,https://www.reddit.com/r/Professors/comments/1boyqaq/kind_of_disheartened_by_the_ai_is_here_to_stay/,"Not even getting into the techno inevitability argument --- we can take it for granted --- how is this different than, say, spell check or new Calculators having a CAS? The only difference is in scale, since ChatGPT/LLMs are *kind of* general purpose. Otherwise, I don't see how this is different than 
+
+* calculators allowing students to skip learning arithmetic
+* computer algebra systems allowing students to skip learning basic algebra/trig/calculus
+* spell-check allowing students to skip learning to spell
+
+None of these things are going away, but we've agreed that we should not encourage their use (especially in the classroom) until the appropriate setting.
+
+So why are we not applying the same standard to AI? Instead of ""it's here to stay, we should teach them how to apply it to their lives,"" we can apply the same logic as for a calculator: they're here to stay, but students won't develop good number sense if they use them instead of learning arithmetic, so we discourage/forbid their use as much as possible until the appropriate age (or setting --- e.g. some subset of problems where calculator use is fine).
+
+I also almost exclusively hear this line from fellow STEM (especially tech) people. 🤷",active,319
+1bqdwvd,112,2024-03-28,Sophomore CS major with a 2.07 gpa. Is it over for me? ,u/anaverse26,csMajors,https://www.reddit.com/r/csMajors/comments/1bqdwvd/sophomore_cs_major_with_a_207_gpa_is_it_over_for/,"It’s just what the title says. I was never a coding kid but was interested in learning computer science. While applying to colleges I couldn’t see myself in any other major so computer science felt like the perfect choice but the moment I become a freshman, the imposter syndrome hit hard. I never coded before while half my peers already had their own websites the codes from scratch and literally did coding as a hobby. To have a community, I made friends with other cs majors who were total beginners and somehow got through freshman year with the help of friends and chatgpt. I was barely surviving (Bs and Cs) and lost a few friends in cs bc they changed majors after second semester’s OOP course
+
+Then in the first semester of sophomore year, we had DSA and it was dubbed the first actual weed out course. It was and it did. I failed that course and my grades in other courses drastically dropped too. Most of my friends switched majors again, i literally don’t have that community anymore. 
+
+While I was trying to survive in this major, go to clubs, network, find internships, hangout with friends and have everything together, two years almost passed. I’ve failed until now and am left with no experience, no good projects and a painful gpa of 2.07. 
+
+I can’t seem to find any internship or research over the summer bc of my gpa. I want to be in computer science and go to grad school but I’m so lost. My transcripts are so bad that I don’t even want my advisor to look at it. I’m scared that I’ve already ruined my chances to bag a good internship, do research or go to a top post grad program. My professors will only consider a student for research if they have a gpa of 3.5 and above. Even if I get a 4.0 in every semester from now, I might not hit that mark. 
+
+AM I DONE FOR? ",active,127
+1bs2xj3,17,2024-03-31,"Dear students, the system is f***ed and it’s not your fault. Don’t lose your fire. ",u/Basic_MilkMotel,Teachers,https://www.reddit.com/r/Teachers/comments/1bs2xj3/dear_students_the_system_is_fed_and_its_not_your/,"Hold on to your hats because this one is a doozy. First of all I’d like to introduce myself, I am *pseudonym here* and I am a mid-thirties woman that teaches digital art at the high school level. 
+
+I know a lot of students (and parents) read this sub, just as I read ER subs but I am not in emergency services. I’m sure you read over and over about how your generation isn’t reading at grade level and or meeting math standards. You were born into an age where cell phones provided instant gratification and that did something to your brains (I’m sure it’s done something to MY brain, but the first iPhone came out when I was in college—my brain was mostly developed). When I am not at work I spend too much time on my phone. 
+
+It’s not your fault. There was a major shift culturally and we are seeing it again with Ai (I use ChatGPT to help write my lessons…shhhh) and I’m sure we will see the repercussions of that in due time. I do not think you’re all a bunch of dummies because I teach art and I see students do amazing in my course and think about how there’s no “behind in art” “art disabled” because our society doesn’t value art as much as it values math, reading, statistics and numbers. Heck, some of my best art students are failing. I try my best to meet them half way. I cannot comprehend how stressful it is for my colleagues in math and ELA because the tests you take turn into data which then admin use to reflect the efficiency of your teachers. Even though I am no directly affected by this data, when my students say “I am just going to guess.” I say “nooooooo!” I work at a title one school with amazing teachers but a lot of our students really don’t give a F. I use to hear people say that teaching was the easiest most pleasant part of the profession. It is. Everything that you don’t see sucks. The one time I put my foot down at a student out of line, her and her mother came to the school and I got a talking to about how she felt attacked. In middle school I got detention for talking during a ceremony. Some students treat us like absolute trash and there’s nothing we can do. We are people too!  But I remember not being the nicest to some of my teachers, for stupid reasons—one was that this lady took over the position of a teacher I was really looking forward to having because he didn’t get his credential in time. 
+
+Our hands are tied. We can’t give you consequences for not doing anything. Anything we do that could be perceived as a consequence teeters on danger for us, so if we are disrespected we are even more pitiful because he have to take it (I’m not saying I want to punch you, but like, it would be cool if your parents took your phone for a day if you were extremely disrespectful). 
+
+I got into teaching because I grew up in a neglectful and abusive household. I thought I was incapable of anything because every time I brought up a dream or something I wanted to do I was shut down. But I had teachers that legitimately changed my life. To this day, I might still think I’m a talentless average at best fool—if it weren’t for them. They saved what little spark I had in me. I still keep in touch with them. 
+
+I love art, and I was an assistant for many years when I decided to combine the two. I love interacting with you guys. I love teaching you guys. But I’m gone from home 10 hours a day (add to that the time it takes to get ready and wind down) and just have a bunch of bullshit to do in the background. I’m being observed weekly (she’s just a coach and doesn’t report to my boss but it’s stressful and takes away from my prep time) and I also have to go through two years of an induction program after having graduated and my mentor is having us do some “co teaching” hoop of fire crap right now. My assistant principal wants me to participate in this district wide art show. I can never get it all done, I don’t want to burn out—so I rest. I won’t die over this job. 
+
+I always score best in student relationships. I think I would make my old teachers proud. I have juniors lamenting that next year they will miss me. A whole year from now! I’m also a first year teacher at this school. 
+
+The teaching portion of teaching accounts for like 30% of all my input energy into this job. It’s the time I enjoy the most. Everything else is overkill and I’m not even a core subjects teacher. If I didn’t love art I don’t think I could teach. I love the moment when I kid “gets” something difficult (Adobe programs are hard) and high fives me. I love telling a kid going through something rough (not like, mandated reporter rough) that it’s going to be okay. 
+
+So back to my point. Everyone says you’re not doing enough. You’re not reading at grade level. You’re not mathing at the math level you should be. I suggest you do learn proper grammar and certain careers most definitely require math but I have never used anything I’ve learned in HS math since. I love numbers too. But, on my own terms. 
+
+You’re not going to be able to function in this current society. But you know what?  Our current society is fucked. So, good!  *Dont’t succumb to functioning in this society.* I actually hope that society will have to succumb to you and the new way in which you all work. I use to sit in elementary school angry that I was wasting the best years of my life locked in a school. Now I’m spending my mid-life locked inside of a school. I didn’t decide on this job because of the money. I’m a silly dreamer artist person that needs fulfillment in order to work and be another gear in this capitalist bullshit machine. But I’ve lost my angst. I have no more fucks to give. If this job stresses me out too much I’ll dump it and do something soul sucking as long as it’s clock in and clock out/leave work at work. I want to enjoy what little time I have on this floating rock. 
+
+I hope you’re the generation that changes this shit. I tell my students that they would learn so much better if they only had to be in school 20 hours a week. I’d be a more effective teacher because I’d still be working 40, just not 60-80. Only half of my work hours are actually spent at work, the other half is done when I’m “off the clock”.  Don’t worry if you’re not where you need to be or “whatever.”  I have students with learning disabilities running successful small businesses. Who gives a F. School was created for the “average” student, but the addition and division of you all into an average doesn’t represent a single one of you. I read an analogy about education being like a helicopter designed for the average person but there wasn’t anyone that could fly it because just because something is the average doesn’t mean it’s actually representative of the individual. 
+
+Please try on your tests. Especially if you like your math and English teachers. Data is “so important.” Their success at work is dependent on it. I feel like many of our students know the answers but in comparison to TikTok—yeah, a standardized test is going to be boring. But the bullet. Your school gets (or doesn’t get) funding according to these bullshit ass tests. 
+
+Anyway. My point is that I don’t think you’ll be able to function in this society. Which is great. Because this society sucks balls. I’m willing to bet a good portion of your teachers think so too. For God’s sake we hold several degrees but people think we are indoctrinating you to be gay furries using cat litter (this came to my attention today and what the actual fuck?). Society thinks we are turning you all gay because this generation has the cajones to be out and proud and we are generally more supportive (I’m super supportive!) that must mean that we are teaching you to be gay!  It feels like society is laughing at us, and like y’all (30% I’d say) are laughing at us too. That’s why the “good” teachers leave. I hope you create work reform so we don’t have to work 60 hours a week and still be unable to live independently (I don’t want to get married. I want to live alone damn it and I’ve worked hard enough to deserve it). 
+
+I don’t know what the point of this is anymore. Don’t lose your angst. Don’t forget that things are shitty. You know in history learning about serfs working for the king and thinking “that’s so fucked.” (Maybe? That’s what I thought). We are the modern day serfs. People don’t want you to know that. So they’ll bombard news outlets with crap about things like TikTok being banned so we forget that Palestinians are still being slaughtered 5 months later. ",User_deleted,17
+1bsdtyl,250,2024-03-31,(RANT) The Real Problem with Holy Grail: A Repository of Academic Resources for Students,u/cowbaecowboo,SGExams,https://www.reddit.com/r/SGExams/comments/1bsdtyl/rant_the_real_problem_with_holy_grail_a/,"Listen up, folks, because I'm about to dissect a phenomenon that's been plaguing Singaporean students for years: the relentless pressure cooker that is junior college, polytechnic and university admissions. And while we're quick to point fingers at various culprits, there's one player that often slips under the radar: Holy Grail.
+
+Now, before you jump to conclusions, hear me out. I'm not saying Holy Grail is solely to blame for the skyrocketing minimum cut-off requirements. No, it's just one large piece of the puzzle. You see, Holy Grail has made it easier for students to access top-notch study materials from elite schools. And while that's great for leveling the playing field, it's also led to more students achieving higher grades.
+
+But here's the kicker: higher grades don't necessarily mean a better education system. In fact, they often translate to more stress and pressure for students, since there are a limited number of spaces available in different courses or streams. This makes it difficult for students who want to enter select highly-prized courses. Suddenly, getting a H2 A isn't enough – you need a H2 A with H3 Merit just to stay competitive. You thought your raw L1R5 8 nett L1R5 4 Singaporean citizenship was enough to get you into Waffles Institution's Science stream so that you could take H2 Physics, Chemistry, Mathematics and Economics and apply to Medicine, Dentistry, Law, followed by Computer Science? Think again. And who benefits from this vicious cycle? Certainly not the students.
+
+And let's not forget the unintended consequences of Holy Grail's free access to elite schools' papers. While it's fantastic to have a wealth of resources at our fingertips, it also diminishes the value of learning. When everything is handed to you on a silver platter, where's the challenge? Where's the growth? 
+
+So, what's the solution? Should we boycott Holy Grail? After all, students from Yishun Innova Junior College can now attain 90RP. Although our dear ex-Deputy Prime Minister, Heng Swee Keat, once said that ""Every School, A Good School"", clearly some schools are ""more good"" than others if people keep demanding for Waffles and China school's notes and not clamoring for a certain three-year Junior College experience's notes. Ultimately, it's not about pointing fingers or assigning blame. Instead, it's about recognizing the role Holy Grail plays in our academic landscape and using it to our advantage. Let's leverage these resources to enhance our understanding, rather than just chasing after grades.
+
+**And with that said, I encourage each and every one of you to click on** **Holy Grail's links below**. Explore its offerings, use its haven of resources, contribute your own resources too, but do so with a critical eye. Remember, education is about more than just grades – it's about curiosity, creativity, and critical thinking.
+
+Together, let's navigate the challenges of our education system with resilience and determination. We've got this.
+
+[grail.moe](https://grail.moe) (website that is most updated)
+
+[holy grail](https://drive.google.com/drive/folders/1gC6GQLgcuoHzwDXtEGzTwvzCz0YsYuwg) (google drive version) 
+
+[telegram channel for updates](https://t.me/+FlxeSKjMXIk2ZjA1)
+
+[post demonstrating how to use holy grail (website version) effectively](https://www.reddit.com/r/SGExams/comments/147guo1/a_levels_update_to_the_holy_grail_mark_6/)
+
+ps: this april fools reverse-psychology shitpost was generated by chatGPT because op is too busy mugging for fsa and sjt kms",active,292

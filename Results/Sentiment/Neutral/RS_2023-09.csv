@@ -1,0 +1,1568 @@
+16715e1,1,2023-09-01,ChatGPT: How can educators respond to presenting AI generated work as their own?,u/NuseAI,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/16715e1/chatgpt_how_can_educators_respond_to_presenting/,"
+- Educators need to address the issue of students presenting AI-generated work as their own.
+
+- AI detectors are not reliable in distinguishing between AI-generated and human-generated content.
+
+- OpenAI's ChatGPT has no knowledge of what content is AI-generated and may randomly make up responses.
+
+- Some teachers have found it helpful to encourage students to share specific conversations from ChatGPT to analyze critical thinking and problem-solving skills.
+
+- This also promotes information and AI literacy and creates accountability for responsible use of AI tools.
+
+Source : https://help.openai.com/en/articles/8313351-how-can-educators-respond-to-students-presenting-ai-generated-content-as-their-own
+
+Summarized by Nuse AI",active,1
+1677547,1,2023-09-01,"Metaculus ""pro"" predictors reject Tony Seba and Ray Kurzweil and agree with Robert Gordon! We will be condemned to wander the desert of technological stagnation instead of entering the promised land of the Singularity!",u/AdmiralKurita,singularity,https://www.reddit.com/r/singularity/comments/1677547/metaculus_pro_predictors_reject_tony_seba_and_ray/,"**Introduction**
+
+I only posted this here because r/futurology doesn't allow one to post images in posts.
+
+I recently found a [collection of questions](https://www.metaculus.com/notebooks/14965/forecasting-our-world-in-data-the-next-100-years/) from Metaculus, a massive prediction aggregation engine, that concerns fundamental indicators of economic and social development throughout the world. The questions solicited estimates where a certain metric would be for the years 2023, 2025, 2032, 2052, and 2122. These questions are featured in the ""Forecasting Our World in Data Tournament"". What interested me is not aggregate predictions of the crowd on the platform, but rather the predictions of those who are designated as ""pros"" who are defined as the top 2 percent of predictors on the platform.
+
+**My Pessimism and Robert Gordon's Outlook**
+
+What interested me and gave me a small sense delectation is that the ""pro"" predictions largely align my with view of the world because they are usually more pessimistic than the mainstream. I was interested in the commercial development of self-driving cars since 2019, but I became crestfallen when I realized that the problem is much harder than I had thought and what the tech-bros presented it to be. I had underestimated the capabilities of deep-learning in being able to discern and make real-time decisions  in complex environment. I then assessed the maturity and viability of other technologies, such as generation iv nuclear reactors, CRISPR used in the clinic, robots used in fruit-harvesting and food preparation, nuclear fusion, graphene and carbon nanotubes, perovskite solar cells, and solid-state batteries. I became further dejected when I realized that most of the aforementioned things are emerging technologies that would take several decades to mature and be commercialized. I am Moses who was denied inhabiting the Promised Land and condemned to wander the desert [because I struck the rock instead of speaking to it](https://www.biblegateway.com/passage/?search=Numbers%2020&version=NIV) (because I was born too early to see those mature).
+
+I will assert that technological progress in the 2010s has been less impressive that the computation and telecommunication advancements in the late 90s and early 2000s. I was astounded that I can download Pokémon episodes in 2006 and store them on a 500 mb flash drive. I remember being pleased when finding the Pokémon Showdown website to play live simulated battles (in the OU tier) against real opponents in July 2013, and (the now defunct) Dueling Network in November 2014 \[to play a Qliphort deck\]. I feel that new apps and the Internet in 2023 have not been able to match that utility.
+
+These are not subjective assessments, personal grousing, or fulminating against perceived ennui; I believe that I have been vindicated by the economic historiography of Robert J. Gordon as it concerns technological progress and productivity growth in the United States. For example:
+
+[This expert thinks robots aren't going to destroy many jobs. And that's a problem.](https://www.vox.com/a/new-economy-future/robert-gordon-interview)
+
+[Peak America: Is Our Most Innovative Century Behind Us? A Long-read Q&A with Robert Gordon](https://www.aei.org/pethokoukis/peak-america-is-our-most-innovative-century-behind-us-a-qa-with-robert-gordon/)
+
+[Is U.S. Economic Growth Over? Faltering Innovation Confronts the Six Headwinds  (2012 NBER paper)](https://www.reddit.com/user/AdmiralKurita/draft/155a4fba-4713-11ee-a638-6ade702fe290)
+
+Gordon's thesis is that ""Industrial Revolution 3"" of computers and telecommunications was unable to generate sustained the long-term productivity growth of ""Industrial Revolution 2"" (electricity, internal combustion engine, running water, indoor toilets, communications, entertainment, chemicals, petroleum) whose growth lasted nearly a century from 1891-1972 (Gordon 2012, pg. 13, figure 4). However, ""Industrial Revolution 3"" did manage to produce robust productivity growth for a decade (1996-2004). Gordon (2012, pg. 11) claims that the transition was practically complete by 2005 where cathode ray-tube monitors were being replaced with flat-screens, electronic databases were created and installed, and much of the broadband and telecommunications had been built. I would add that smartphones were fairly mature by 2013. Since it has been 10 years from 2013, mobile computing and ""apps"" already delivered whatever positive effect on productivity it would have, thus we do not need to wait for any lagging effects to manifest.
+
+The forecast of the Metaculus pros seems to corroborate my pessimistic framework. There is no Solow's paradox concerning the anemic growth of the 2010s and 2020s; it is just that smartphones and generative AI are not capable of generating torrid economic and productivity growth.
+
+Hence, unlike what Tony Seba and Ray Kurzweil predict, I doubt that the technological advances would ""make the world new"" (Revelation 21:5) and abolish death and cause the old order of things to pass away (verse 4).
+
+I will assert that one of the few things that will definitively prove me wrong is Robert J. Gordon is [losing his bet](https://longbets.org/868/) with Erik Brynjolfsson that total productivity growth in the US will not exceed 1.8 percent annual from 2020-2029. I will be too pessimistic and wrong about some things, but my major contention is that whatever advances occur would not have a profoundly positive macroeconomic impact in the foreseeable future. So far, [""Private Nonfarm business productivity growth""](https://www.bls.gov/productivity/tables/total-factor-productivity-major-sectors-historical.xlsx) (spreadsheet, row, 28) for 2020, 2021, and 2022 has been -1.2, 4.0, and -1.2, respectively, which multiples to 1.0152, not even sufficient to top the average rate of growth for one year.
+
+**Forecast of the Metaculus Pros**
+
+Why should I have credence in the Metaculus pros?
+
+First, they have a successful track record. One may ask why should people trust the judgments of [scientific experts](https://www.youtube.com/watch?v=TPq6zKf7RQQ&ab_channel=KaneB), but an analogous question would be whether one should copy the homework of a top student. I would assume that the pros actually had did their research (or homework) and asked the appropriate questions in order to generate reliable inferences. Most likely they did not uncritically rely on the pronouncements of Ray Kurzweil and Tony Seba.
+
+Second, their judgment largely corroborates my pessimistic framework.
+
+Third, I do not have any special expertise that contravenes their judgments.   
+
+Here are some interesting predictions.
+
+1.
+
+Numbers of chickens slaughtered in the world.  
+
+https://preview.redd.it/7c30jngx3nlb1.jpg?width=1022&format=pjpg&auto=webp&s=1a54168fc8bdf49dc85855a2c82b91ebce44e09f
+
+I agree with the 2052 pro-prediction and that cultured meat will not be widely available to affect the consumption of chickens.
+
+I am largely dismissive of the viability of cultured meat because growing cultured meat seems to be far more difficult than [growing blood cells](https://www.bbc.com/news/health-63513330) from hematopoietic stem cells. It is preposterous to think cultured meat will become mainstream this decade or early next decade when there are still blood drives because the technology to produce blood cells at scale does not exist. [Producing blood](https://www.bbc.com/news/health-33270334) is an appropriate analogous process because both involve growing tissues from precursor cells *in vitro* as opposed to deriving the product, meat or blood, from a biological organism. Moreover, in order to have a disruptive effect on medicine or food consumption that it would eliminate the need for donated blood or massively curtail animal slaughter, these products would have to be mass produced.
+
+[This article](https://thecounter.org/lab-grown-cultivated-meat-cost-at-scale/) goes into more depth about the problems of making lab-grown meat into a competitive commercial product. I think lab-grown meat will be like fusion power right now; it would not be a significant part of the world in the next 30 years, similar to how many people had thought many decades ago that fusion power would be viable by now.
+
+2.
+
+ World-wide carbon dioxide emissions. 
+
+https://preview.redd.it/z1y66wcsimlb1.jpg?width=1022&format=pjpg&auto=webp&s=b52bccb58bbac31b15232f7806a4d4f4af5cc9fb
+
+Agree with the pros here for 2025 and 2032. It is interesting the the pro forecasters predict that carbon dioxide emissions would be higher in 2025 than in 2023; moreover, they predict a smaller drop in 2032 vs 2023. I don't think the world has peaked yet for carbon dioxide emissions. Maybe 2026 or 2027. Renewable energy will take longer to roll out than the optimists say so that it can eclipse the growth in demand in China and India and cause a net displacement of fossil fuel power sources.
+
+The renewable energy transition is a slow transition in the 2020s, not a profound disruption!
+
+3.
+
+ Energy consumption per capita in the world per annum. 
+
+https://preview.redd.it/ow1xm8qe4nlb1.jpg?width=1024&format=pjpg&auto=webp&s=6c2acf75f11a55683a795fa10cc2cebb673c08aa
+
+Discrepancies between pros and public for 2025 and 2033 are negligible. 80,000 kwh is the average energy consumption of the US. I think the world energy consumption in 2052 will be higher than the pros. I'll hazard to guess 35,000. Perhaps self-driving cars will increase energy used in travel due to higher volume of miles traveled, but electric vehicles uses less energy per mile. Massive desalination can boost energy consumption. Israel, for instance, uses 3,300 kwh (source, energy consumption per capita for Israel \[[https://ourworldindata.org/grapher/per-capita-energy-use](https://ourworldindata.org/grapher/per-capita-energy-use)\] and the statistic that Israel uses 10 percent of its energy on desalination for 20 percent of its water \[[https://www.energymonitor.ai/tech/can-desalination-save-a-drying-world](https://www.energymonitor.ai/tech/can-desalination-save-a-drying-world) \]. For Israel complete desalination would 16,500 kwh.)
+
+4.
+
+Economic productivity per hour of labor in the US (in 2017 US dollars).
+
+https://preview.redd.it/xyfvne100glb1.jpg?width=1020&format=pjpg&auto=webp&s=b3324980d8144cc67f74351f69549dfb47e40f09
+
+The pro forecast rather reflect Robert Gordon's views on productivity growth extended for the next 30 years. 
+
+Let's do some math to understand what the predictors are really predicting.
+
+119.00/77.60 = 1.534
+
+ln(1.534) = 0.428
+
+0.428/30 = 0.0143 or 1.43 percent of growth per year.
+
+Now, the public tournament forecasts double the growth as the pro-forecasters. So...
+
+ln(2) = .7 (I didn't use a calculator, just the [rule of 70](https://en.wikipedia.org/wiki/Rule_of_72))
+
+.7/30 = .0233
+
+Hence, the public forecasters expect an additional 2.3 percent growth per year for a geometric average of 0.0376. This seems incredible, since it is more than average economic growth of the most recent boom years of 1996-2004.
+
+What can feasible fuel economic growth in the subsequent decades? Surely, advanced robotics and human-level AI can achieve sustained economic growth for decades by fundamentally transforming society in a manner that electricity and indoor plumbing did. 
+
+Another reason for technological optimism is the prospect that renewable energy transition will create a disruptive, new paradigm of abundant and cheaper clean energy that would not only allow us to maintain our current living standards but change our attitudes towards energy from the mindset of scarcity into abundance. For the purpose of the argument, I will assume that the renewable energy transition will occur on a relatively quick time scale in order to interrogate the effect of cheap renewable energy on productivity. Because of the new mindset of abundance, one would need not feel guilty about setting an air conditioner at 68 degrees Fahrenheit because the energy powering it would be cheap and clean. As I mention before, higher energy can allow a higher volume of travel with self-driving cars and extensive desalination. According to the EIA, [energy expenditures constituted 8% of US GDP](https://www.eia.gov/todayinenergy/detail.php?id=53620) in the early 2010s. What if that energy was actually free?  We can assume that $0.08 were spent for every dollar invested in productivity. Thus, it would seem that free energy would result in a boost in GDP of 8.7 percent (from the reciprocal of .92). If there is an abundance of renewable energy, it would not significantly contribute to GDP since energy intensive products, such as water to grow lawns in the desert or solo robotaxi rides in a Hummer-like electric vehicle, would be relatively cheap. Abundant cheap energy would certainly have deflationary influence, but that is partially accounted for by measuring hourly productivity in 2017 US dollars. Furthermore, Baumol's cost disease suggests that other items and services would not deflate just because energy became much cheaper, since productivity improves from some technology may not be able affect productivity in other activities. A teacher, for instance, cannot teach more students effectively just because faster CPUs and advanced telecommunication technology exists.  
+
+5. 
+
+FLOPS of the most powerful supercomputer
+
+https://preview.redd.it/toi0ggki6nlb1.jpg?width=1014&format=pjpg&auto=webp&s=ee7e0e83beabad1c0b7c33327f2d06af68447000
+
+Lastly, I will provide a reason for optimism as the pro-forecasts agree that the world's fastest supercomputer would be exponentially faster in 2052, as oppose to prediction catastrophic stagnation due to an anticipate secession of Moore's law. Both groups predict supercomputers to be more than one million times faster that the fastest supercomputer in 2023. As for 2023, the appropriate prefix for 10^(18)  scale computing is ""exa-"".
+
+I think most scientific realists would acknowledge that atoms exist and have finite size as opposed to being infinitely divisible. Hence, transistors can no longer shrink further if they become a few atoms in width. Hopefully, Moore's law would continue on for several more decades if the computational substrate changes from the current silicon metal-oxide semiconductor field-effect transistor (MOSFET) to transitional metal dichalcogenides or carbon nanotubes. (See the slide from TSMC [here](https://www.anandtech.com/show/18873/tsmc-we-have-working-cfets-in-the-lab-but-they-are-generations-away).) The recent maturation of extreme ultraviolet lithography would enable Moore's law to continue on for perhaps another decade more.
+
+I don't know if FLOPS specifically refers to FP32 or it can be FP16.
+
+**Conclusion**
+
+Going down the rabbit of futurism has ruined me. I see little to be optimistic about, but I do mainly myself for not thinking critically about the viability to artificial intelligence, generation iv reactors, and self-driving cars. It had left me broken because the false hope had been shattered. I regret that I am so deep down this rabbit hole that it hinders me from doing things that I enjoy such as playing Goat Format. My valedictory remarks will derive from the late coach Mike Leach:
+
+\*\*\*\* you, f\*\*\* me, and f\*\*\* everybody. That is fucking b\*\*\*\*\*\*t. ([3:55](https://www.youtube.com/watch?v=uZaOFTp5_C8&t=268s&ab_channel=AdamJacobi))
+
+===
+
+Introns:
+
+ChatGPT and ""generative AI"" are particularly infuriating to me, since it seems like a pathetic picayune tchotchke compared to things that I enumerated. Generative AI seems like a pathetic consolation prize that I don't think will have a significant macroeconomic impact.  It cannot even perform a mundane task such as pick a ripe strawberry! As Paul of Pokemon would say, ""[pathetic](https://www.youtube.com/watch?v=vUyHk-CxgNY&ab_channel=rantoxdp54)"". I became infuriated that the video ""[Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU&ab_channel=CGPGrey)"" when it said in August 2014 that ""self-driving cars aren't the future; they're here and they work"" and ""it is easy to see them being better than humans because they are already are"". So it is not an emerging technology that will mature in some indeterminate point the future, but ready to hit the road right now.
+
+I see technology progress and emerging technology to be similar to drug development where nothing is ""real"" until it has received an FDA approval. Mechanism of action doesn't really matter since molecular biology is an inscrutable enigma; what matters is to refute the null hypothesis that a pharmaceutical candidate has the same efficacy to a placebo or current standard of treatment. Large clinical (and expensive) trials that have enough statistical power to demonstrate a statistical significant  (but often marginal) benefit are the only way to refute null hypothesis. Due to the low success rate in getting a drug that has enter phase I to a full approval, clinical trials are Boulevard of Broken Dreams. [Eroom's law](https://en.wikipedia.org/wiki/Eroom%27s_law) is a microcosm of all emerging technology.
+
+The only pleasant surprises during the last decade [was profound growth in utility solar power in California from 2012-2017](https://en.wikipedia.org/wiki/Solar_power_in_California#Generation), but that  actually hit an (actual) inflection point in 2018 (where the second derivative of the trend turned negative). It may start to accelerate again in California (and elsewhere). Lithium-ion batteries have also fallen substantially, but not enough for electric vehicles to become majority options right now. I outlined other significant gains in the 2010s that I consider ""significant"" [here](https://www.reddit.com/r/GenZ/comments/139qthg/comment/jm1vco8/?utm_source=reddit&utm_medium=web2x&context=3).
+
+I became sympathetic with redditor u/phoenix5869 because, while he significantly younger than me, shares a similarly assessment of technological progress:
+
+[https://www.reddit.com/r/Futurology/comments/12acs5r/what\_really\_changed\_between\_2008\_and\_today/](https://www.reddit.com/r/Futurology/comments/12acs5r/what_really_changed_between_2008_and_today/)
+
+[https://www.reddit.com/r/GenZ/comments/139qthg/anyone\_else\_feel\_like\_technologically\_2023\_is/](https://www.reddit.com/r/GenZ/comments/139qthg/anyone_else_feel_like_technologically_2023_is/)",active,9
+16822sz,1,2023-09-02,"There's no way for teachers to figure out if students are using ChatGPT to cheat, OpenAI says in new back-to-school guide",u/Falix01,GPT3,https://www.reddit.com/r/GPT3/comments/16822sz/theres_no_way_for_teachers_to_figure_out_if/,"OpenAI has released a guide for teachers on using ChatGPT in the classroom and warned that it is impossible to reliably distinguish between AI-generated and human-generated content, making it difficult to detect cheating.
+
+If you want to stay ahead of the curve in AI and tech, [look here first](https://dupple.com/techpresso).
+
+**Guide for Classroom Use**
+
+* **Guide Released:** OpenAI has released a guide for teachers on how to use ChatGPT in the classroom after concerns were raised about students using AI for cheating.
+* **Unreliable Detection:** OpenAI found that AI content detectors are unreliable in distinguishing between AI-generated and human-generated content, which confirms earlier reports by [The Markup](https://themarkup.org/machine-learning/2023/08/14/ai-detection-tools-falsely-accuse-international-students-of-cheating).
+
+**Cheating Concerns**
+
+* **Popularity Among Students:** ChatGPT has become popular among students for its ability to generate text and human-like responses, aiding in assignments like essay writing and research.
+* **Over-dependence and Cheating:** Teachers are concerned that students are becoming over-dependent on ChatGPT, which is prone to errors, and are presenting the chatbot's ideas and phrases as their own.
+
+**Suggestions and Acknowledgments**
+
+* **Retention of Conversations:** OpenAI suggests that students should keep a record of their conversations with ChatGPT and present them in their homework to reflect on their progress and skills development.
+* **Biases and Stereotypes:** OpenAI acknowledges that ChatGPT is not free from biases and stereotypes and recommends users and educators to carefully review its content.
+
+[Source (Business Insider)](https://www.businessinsider.com/ai-detectors-cant-detect-students-using-chatgpt-2023-9?utm_source=reddit.com)
+
+**PS:** I run a [free ML-powered newsletter](https://dupple.com/techpresso) that summarizes the **best AI/tech news** from 50+ media (TheVerge, TechCrunch…). If you liked this analysis, you’ll love the content you’ll receive from it! It’s already being read by professionals from **OpenAI, Google, Meta**…",active,37
+16823tn,1,2023-09-02,"There's no way for teachers to figure out if students are using ChatGPT to cheat, OpenAI says in new back-to-school guide",u/Falix01,ArtificialInteligence,https://www.reddit.com/r/ArtificialInteligence/comments/16823tn/theres_no_way_for_teachers_to_figure_out_if/,"OpenAI has released a guide for teachers on using ChatGPT in the classroom and warned that it is impossible to reliably distinguish between AI-generated and human-generated content, making it difficult to detect cheating.
+
+If you want to stay ahead of the curve in AI and tech, [look here first](https://dupple.com/techpresso).
+
+**Guide for Classroom Use**
+
+* **Guide Released:** OpenAI has released a guide for teachers on how to use ChatGPT in the classroom after concerns were raised about students using AI for cheating.
+* **Unreliable Detection:** OpenAI found that AI content detectors are unreliable in distinguishing between AI-generated and human-generated content, which confirms earlier reports by [The Markup](https://themarkup.org/machine-learning/2023/08/14/ai-detection-tools-falsely-accuse-international-students-of-cheating).
+
+**Cheating Concerns**
+
+* **Popularity Among Students:** ChatGPT has become popular among students for its ability to generate text and human-like responses, aiding in assignments like essay writing and research.
+* **Over-dependence and Cheating:** Teachers are concerned that students are becoming over-dependent on ChatGPT, which is prone to errors, and are presenting the chatbot's ideas and phrases as their own.
+
+**Suggestions and Acknowledgments**
+
+* **Retention of Conversations:** OpenAI suggests that students should keep a record of their conversations with ChatGPT and present them in their homework to reflect on their progress and skills development.
+* **Biases and Stereotypes:** OpenAI acknowledges that ChatGPT is not free from biases and stereotypes and recommends users and educators to carefully review its content.
+
+[Source (Business Insider)](https://www.businessinsider.com/ai-detectors-cant-detect-students-using-chatgpt-2023-9?utm_source=reddit.com)
+
+**PS:** I run a [free ML-powered newsletter](https://dupple.com/techpresso) that summarizes the **best AI/tech news** from 50+ media (TheVerge, TechCrunch…). If you liked this analysis, you’ll love the content you’ll receive from it! It’s already being read by professionals from **OpenAI, Google, Meta**…",active,6
+168ulpu,1,2023-09-03,Suggestions and Insights For Self Study?,u/Revolutionary_Lock57,GetStudying,https://www.reddit.com/r/GetStudying/comments/168ulpu/suggestions_and_insights_for_self_study/,"Hallo!
+
+Question:
+So,I'd like tips, views perspectives of how I can stricture my day/week/month (s) for a  successful SELF-STUDY over the course (pun intended) of several months, emulating ""semesters""
+
+Background:
+I finished University many years ago, (before audiobooks were a thing), a lil over 10 years ago, yet always enjoyed learning.  One of my pet peeves of University was not having the ""time"" to study and learn more of what I wanted, in other words, like having a schedule full of electives, instead of my major.  Naturally, that's not practical if your aiming for a specific degree etc.
+
+I've always had the idea of creating my own self study program.  Now, years later, I have the time (free time) and resources (plenty of books, youtube/other public lectures/ apps etc to make this happen.
+
+My Delimna:
+Structure.  Having been removed fromthe University world, it's Luke I ""forgot"" how to study.  Plus, with the technology listed above (apps etc), I'm sure I can really organize my study plan better. But, again, it's overwhelmingly, overwhelming in the directions or approach I can go;
+
+How often/how many hours per week do you usually invest ""learning/in class""?
+
+How often/how many hours per week do you usually invest in ""self study"" (ie in dorms/home/library)?
+
+Do you take notes, then read them over and over again until learned?
+
+How often/how many hours per week do you usually invest in leisure time, for balance?
+
+Any apps that you use?
+
+The subject matters, may not matter, but for informational purposes, my topics of choice are theological studies, and something else completely  different (probably advancing my Spanish; self taught also, almost fluent - I use ChatGPT for this)
+
+I hope these aren't dumb questions. I just need  a students' (or anyone thst can help) perspectives.
+
+Knowledge is light,  and I need new bulbs!",active,6
+169e2sq,1,2023-09-03,Chance me for dream colleges,u/sujay-vu-V-Dee-fjfey,chanceme,https://www.reddit.com/r/chanceme/comments/169e2sq/chance_me_for_dream_colleges/,"I am a Indian male from NJ
+Upper middle class public hs student.
+
+1300 sat
+
+4.26 w gpa 3.75 uw gpa
+
+Upward trend gpa
+
+4.0 junior year unweighted
+
+Did AEOP apprenticeship at IUPUI in Indianapolis on developing pressure sensors for 3D printing ceramic slurries and 3D printers. Collected data on exact water concentration and pressure needed for a good print. Got paid $3000 and worked with professor. 
+
+Work with professor and other hs student on writing a research paper on the data that we collected and drawing conclusions from it. Wrote li review for it and introduction and was submitted to aeop journel.
+
+Did a personal research project that I submitted to Regeneron sts on developing a graphic card for quantum computers. 
+
+Worked with software engineer on training a Chatbot AI based on chatgpt.
+
+Did volunteering at a non profit and a temple and got 250 hours
+
+
+Did a job at Dunkin’ Donuts during the summer
+
+Was part of Red Cross club at school
+
+Did vex robotics 
+
+Rec letters:
+
+Got from pre calc teacher and English teacher in 11th grade
+
+Got a external rec letter from the software engineer I did a AI project with.
+
+Main colleges I want to get into:
+
+Major: computer engineering
+
+Purdue (EA)
+UMaryland
+RIT(EA)
+Drexel(EA)
+Virginia Tech(EA)
+RPI
+Texas A&M
+Lehigh 
+Stoneybrook
+Wisconsin Madison",active,3
+16adxwj,1,2023-09-05,Factors Influencing Adoption Intention of ChatGPT,u/maulanash,learnmachinelearning,https://www.reddit.com/r/learnmachinelearning/comments/16adxwj/factors_influencing_adoption_intention_of_chatgpt/,"Hello,
+
+&#x200B;
+
+I am an information systems student currently conducting research for my undergraduate thesis on the factors that influence people's adoption intention of ChatGPT, as well as identifying the factors that may be holding them back. These factors include people's concerns about potential negative impacts of ChatGPT, such as increased unemployment and the spread of misinformation. Your participation in this study is crucial as it will provide valuable insights to help us understand how ChatGPT can be improved to meet users' needs.
+
+&#x200B;
+
+Please note that I am not affiliated with OpenAI, no identifying information will be collected during the survey, and all responses will be kept confidential. The survey should take approximately 10 to 15 minutes to complete, and participation is voluntary. You may withdraw from the survey at any time, and there are no known risks associated with participating.
+
+&#x200B;
+
+If you are interested in learning more about the study, please follow the link below. 
+
+&#x200B;
+
+[https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf_link)
+
+&#x200B;
+
+Thank you for taking the time to contribute to our research study. Your participation is greatly appreciated!",User_deleted,0
+16aiq8v,1,2023-09-05,Factors Influencing Adoption Intention of ChatGPT,u/maulanash,machinelearningnews,https://www.reddit.com/r/machinelearningnews/comments/16aiq8v/factors_influencing_adoption_intention_of_chatgpt/,"Hello,
+
+&#x200B;
+
+I am an information systems student currently conducting research for my undergraduate thesis on the factors that influence people's adoption intention of ChatGPT, as well as identifying the factors that may be holding them back. These factors include people's concerns about potential negative impacts of ChatGPT, such as increased unemployment and the spread of misinformation. Your participation in this study is crucial as it will provide valuable insights to help us understand how ChatGPT can be improved to meet users' needs.
+
+&#x200B;
+
+Please note that I am not affiliated with OpenAI, no identifying information will be collected during the survey, and all responses will be kept confidential. The survey should take approximately 10 to 15 minutes to complete, and participation is voluntary. You may withdraw from the survey at any time, and there are no known risks associated with participating.
+
+&#x200B;
+
+If you are interested in learning more about the study, please follow the link below. 
+
+&#x200B;
+
+[https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf_link)
+
+&#x200B;
+
+Thank you for taking the time to contribute to our research study. Your participation is greatly appreciated!",User_deleted,1
+16aiu1v,1,2023-09-05,[R] Factors Influencing Adoption Intention of ChatGPT,u/maulanash,MachineLearning,https://www.reddit.com/r/MachineLearning/comments/16aiu1v/r_factors_influencing_adoption_intention_of/,"Hello,
+
+&#x200B;
+
+I am an information systems student currently conducting research for my undergraduate thesis on the factors that influence people's adoption intention of ChatGPT, as well as identifying the factors that may be holding them back. These factors include people's concerns about potential negative impacts of ChatGPT, such as increased unemployment and the spread of misinformation. Your participation in this study is crucial as it will provide valuable insights to help us understand how ChatGPT can be improved to meet users' needs.
+
+&#x200B;
+
+Please note that I am not affiliated with OpenAI, no identifying information will be collected during the survey, and all responses will be kept confidential. The survey should take approximately 10 to 15 minutes to complete, and participation is voluntary. You may withdraw from the survey at any time, and there are no known risks associated with participating.
+
+&#x200B;
+
+If you are interested in learning more about the study, please follow the link below. 
+
+&#x200B;
+
+[https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf_link)
+
+&#x200B;
+
+Thank you for taking the time to contribute to our research study. Your participation is greatly appreciated!",User_deleted,0
+16aivm4,1,2023-09-05,Factors Influencing Adoption Intention of ChatGPT,u/maulanash,GPT3,https://www.reddit.com/r/GPT3/comments/16aivm4/factors_influencing_adoption_intention_of_chatgpt/,"Hello,
+
+&#x200B;
+
+I am an information systems student currently conducting research for my undergraduate thesis on the factors that influence people's adoption intention of ChatGPT, as well as identifying the factors that may be holding them back. These factors include people's concerns about potential negative impacts of ChatGPT, such as increased unemployment and the spread of misinformation. Your participation in this study is crucial as it will provide valuable insights to help us understand how ChatGPT can be improved to meet users' needs.
+
+&#x200B;
+
+Please note that I am not affiliated with OpenAI, no identifying information will be collected during the survey, and all responses will be kept confidential. The survey should take approximately 10 to 15 minutes to complete, and participation is voluntary. You may withdraw from the survey at any time, and there are no known risks associated with participating.
+
+&#x200B;
+
+If you are interested in learning more about the study, please follow the link below. 
+
+&#x200B;
+
+[https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf_link)
+
+&#x200B;
+
+Thank you for taking the time to contribute to our research study. Your participation is greatly appreciated!",User_deleted,1
+16aym6s,1,2023-09-05,Penn States Ranking in Forbes Best Colleges of 2023,u/Relative_Session_179,PennStateUniversity,https://www.reddit.com/r/PennStateUniversity/comments/16aym6s/penn_states_ranking_in_forbes_best_colleges_of/,"Ladies and gentlemen,
+
+I stand before you today, not as a critic, but as a fervent advocate for the cause of education and the recognition of excellence, echoing my own dream for equality and justice. I express my deep concern at the recent ranking of Penn State, a place brimming with immense promise and potential, as a mere 408th in Forbes' list of top colleges for 2023. This placement fails to capture the true essence and value of this esteemed institution.
+
+Penn State is not just another educational institution; it is a beacon of hope and opportunity. It is a place where the seeds of knowledge are sown, and the dreams of countless individuals take root. Let us not be swayed by rankings alone, for they often fall short of revealing the complete narrative. Instead, let us delve deeper into the compelling reasons why Penn State unquestionably deserves a higher standing.
+
+First and foremost, Penn State boasts an astonishing array of over 275 undergraduate majors. This extensive selection signifies an unwavering commitment to diversity in learning, ensuring that every student can fervently pursue their passions. Such a rich academic offering undeniably merits a higher place in the academic hierarchy.
+
+Furthermore, the median salary of Penn State graduates, a formidable $119,500, stands as a testament to the university's unwavering dedication to preparing students for success. It illuminates that Penn State is not merely an institution of knowledge but an incubator of practical skills and capabilities, equipping its students to thrive in the real world.
+
+While the national graduation rate in America stands at 65%, Penn State proudly boasts an 89% graduation rate. This remarkable accomplishment underscores the university's steadfast commitment to guiding its students towards not only academic completion but also prosperity. With over 750,000 accomplished alumni, Penn State's ability to nurture and support its graduates is evident for all to see.
+
+Moreover, Penn State offers an astonishing array of opportunities beyond the classroom. With over 1,000 student organizations and 29 varsity sports, it empowers students to explore their passions and evolve into well-rounded individuals. This emphasis on holistic development is a hallmark of an institution dedicated to nurturing not only the mind but also the spirit.
+
+In comparing Penn State to other esteemed institutions, one cannot help but notice the parity in research and academic reputation. Schools like UC Berkeley, Cornell, and Michigan, ranked significantly higher by Forbes, share similar attributes with Penn State. This underscores that Penn State deserves its rightful place among the nation's elite institutions.
+
+In conclusion, I implore you, dear applicants, to evaluate Penn State not solely based on its numerical ranking, but on the vast potential it holds, the dreams it fosters, and the futures it shapes. Let us not be defined by the judgments of others but rather by the boundless possibilities that Penn State offers. In the spirit of progress and equity, let us unite to ensure that Penn State's true essence shines brilliantly in the annals of higher education. Together, we can herald a brighter future for this distinguished institution
+
+&#x200B;
+
+This article is written by Parth Patel with the assistance of Bard and ChatGPT",active,0
+16b9219,1,2023-09-05,A 15-minute Introduction to coding tailored for medical students and doctors,u/apvidul,medicalschool,https://www.reddit.com/r/medicalschool/comments/16b9219/a_15minute_introduction_to_coding_tailored_for/,"I work as a Data Scientist at a US Medical School and am part of a team developing a mini-course centered on Electronic Health Record (EHR) data analysis for research, including the deployment of ChatGPT-like models  in-house. Specifically, we're working on a module designed to introduce programming to Physicians and clinical researchers. 
+
+While the course will initially be exclusive to our affiliate teaching  hospitals, I'm thrilled to offer a preview of our Programming module through this demo notebook. This demo will provide you with a  glimpse into the realm of coding. If you're a medical student or doctor curious about programming, this demo notebook is tailored just for you. 
+
+The demo programming notebook is titled ""*TryCodingToday.ipynb*"" and is made available here: [https://github.com/apvidul/CodeClinic](https://github.com/apvidul/CodeClinic) 
+
+No coding background or software installs needed. Steps to get the notebook running is provided here: [https://imgur.com/a/myKJJju](https://imgur.com/a/myKJJju)
+
+&#x200B;",User_deleted,22
+16c1616,1,2023-09-06,Discrete Video Modeling,u/bombamdillo,Teachers,https://www.reddit.com/r/Teachers/comments/16c1616/discrete_video_modeling/,"Hello everyone, 
+
+I am a special education teacher that has students with a wide variety of needs in a small rural school. This year year I gained two students with intensive needs and I pretty much have to make up a whole program for them. 
+
+I had Gemini discreet video modeling recommended to me by a colleague. I tried a free trial and it was very helpful support for teaching positive behaviors, receptive language and mimicking sounds. It’s low prep and it’s great for the 1 on 1 paras to play for them before I teach the lesson on the subject. Unfortunately it’s very expensive and my school district refused to pay for it. Does anyone have any suggestions for cheaper alternatives?",User_deleted,1
+16c34f5,1,2023-09-06,English Class is the Dumbest Class You'll Take,u/Specialist-Repair512,OntarioGrade12s,https://www.reddit.com/r/OntarioGrade12s/comments/16c34f5/english_class_is_the_dumbest_class_youll_take/,"im currently in grade 12 and my hs english marks where:
+
+grade 9: 95, grade 10: 82, grade 11: 98
+
+I didn't just explode into and some prodigious English craft writer from grade 10 to grade 11, so much so that it increased my mark by 17%. I just had different teachers in different years. I remember my grade 11 teacher was always talking about how it was so obvious when her students would use chatgpt but i used it for every single one of my assignments and she would always use MY ASSIGNMENTS as good examples during class. Its so bogus that english is the only mandatory course in grade 12 yet it is also the most subjective and like honestly 50% based off of teacher, 40% based off of what they think of you, and 10% based off of how well you can actually write. ",User_deleted,42
+16cgg4o,1,2023-09-07,CheatGPT in Intro to Programming,u/AFK_MIA,Professors,https://www.reddit.com/r/Professors/comments/16cgg4o/cheatgpt_in_intro_to_programming/,"I teach an introduction to python programming course - and so ultimately ChatGPT has most of the early class assignments figured out, and as far as I can tell, there's not much I can do about that.   
+
+
+On my last two assignments I've had 3 (out of 4) students turn in code that I was suspicious of\* (see below) - so my questions for fellow programming professors are:  
+
+
+&#x200B;
+
+1) What amount of ""proof"" would you be looking for before you decide that a student cheated on an assignment? I'm the only programming instructor at my institution - so I'll need to be able to explain this to people who aren't familiar with the field. 
+
+  
+2) Any suggestions for making assignments ChatGPT-resistant?  
+
+
+&#x200B;
+
+\*What tipped me off:  
+Three students submitted nearly identical code that:
+
+1) Created an unnecessary class that wasn't asked for by the assignment. We've only had one lecture on creating classes. Why would they all create the same/similar unnecessary class?
+
+2) Created several supporting functions. This would be good coding practices - but I'm suspicious that it's ""too good"" to be true. I'm additionally suspicious that the students miraculously came up with the same names for these supporting functions.
+
+3) Implemented an ""if \_\_main\_\_  ==""\_\_\_name\_\_"":"" - this was unnecessary for the assignment and actually makes the overall assignment not run correctly. We haven't discussed this aspect of python at all yet.
+
+4) They all wrote a weird loop: ""for \_ in range(n):"" That underscore is technically legal syntax and could be justified by PEP-8 standards - but it's odd and certainly not something we've discussed in class. The textbook doesn't seem to do this anywhere either. Again, this is an issue of ""Why would they all do the same weird thing in the same way at the same place?""
+
+5) They correctly programmed the ""hard"" parts but not the ""easy"" parts that are necessary to tailor a general solution to the actual assignment (e.g. they successfully traversed a linked list and deleted nodes, but didn't actually do the comparison they were asked to make). They again, all made the same mistake.
+
+  
+Of course, I then copied my prompt into ChatGPT and its output was nearly identical to what was turned in. There was some variation, but I'd estimate there was at least an 80% overlap between what ChatGPT gave me and between each of these student assignments. ",active,22
+16cmp9v,1,2023-09-07,"Multiple doctoral students in my cohort are using AI to produce blog posts, qualitative coding, etc - Should I report to advisor/professor(s)?",u/NoPatNoDontSitonThat,GradSchool,https://www.reddit.com/r/GradSchool/comments/16cmp9v/multiple_doctoral_students_in_my_cohort_are_using/,"I'm in my third semester of a doctoral program in a social science field (education). Multiple students are using ChatGPT to do some of their assignments. For example, our student blog posts for weekly seminar discussions are *obviously* AI-written. I've used multiple AI writing check websites that are all showing 75%+ of their writing is AI. I've cross-checked with my own and other students' posts who don't appear to be AI. All of our posts are showing up 80%+ human-generated on every site. 
+
+Last year, I personally observed someone sitting next to me run discussion questions through ChatGPT during class. He also generated AND coded an interview right before class began. We were supposed to conduct a real interview, transcribe it, and code it. We had a month to complete the assignment, and he did it in five minutes. It was totally fabricated. 
+
+Now, I get that it's not my responsibility to enforce any kind of ethics or plagiarism policies at the university. The professors can pursue it if they want to, and I certainly don't want to interject myself or get myself into any hot water by bringing it up. 
+
+But here's the issue: We regularly have group assignments (in 9 courses, I can think of at least 7 group assignments at some point during the semester). I am now paired for the fourth time with people who are doing absolutely nothing for the group project.  Zilch. Last spring, I literally typed up a script for a partner to read during a presentation, and he got credit and praise from the professor for ""his"" portion of the assignment. Absolutely boiled my brain because I spent hours doing all of it.
+
+So now I'm in a group, and two of my partners haven't done anything yet. I stayed up late last night making sure we had our first portion completed. 
+
+I know I can report this to the professor. I've avoided it because I feel like it's not responsibility and it would look bad to make any accusations, especially if they prove to be unfounded. But it's getting frustrating because my coursework experience is negatively affected when I've been paired with others who either aren't doing anything or are skating by using AI programs. 
+
+There are five members of my nine-member cohort that seem to be doing this. 
+
+Suggestions? Grit and bear it? Report it to a professor?",User_deleted,1
+16er6q0,1,2023-09-10,Factors Influencing Adoption Intention of ChatGPT,u/maulanash,learnmachinelearning,https://www.reddit.com/r/learnmachinelearning/comments/16er6q0/factors_influencing_adoption_intention_of_chatgpt/,"Hello,
+
+&#x200B;
+
+I am an information systems student currently conducting research for my undergraduate thesis on the factors that influence people's adoption intention of ChatGPT, as well as identifying the factors that may be holding them back. These factors include people's concerns about potential negative impacts of ChatGPT, such as increased unemployment and the spread of misinformation. Your participation in this study is crucial as it will provide valuable insights to help us understand how ChatGPT can be improved to meet users' needs.
+
+&#x200B;
+
+Please note that I am not affiliated with OpenAI, no identifying information will be collected during the survey, and all responses will be kept confidential. The survey should take approximately 10 to 15 minutes to complete, and participation is voluntary. You may withdraw from the survey at any time, and there are no known risks associated with participating.
+
+&#x200B;
+
+If you are interested in learning more about the study, please follow the link below. 
+
+&#x200B;
+
+[https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf_link)
+
+&#x200B;
+
+Thank you for taking the time to contribute to our research study. Your participation is greatly appreciated!",User_deleted,1
+16fmdxw,1,2023-09-11,Generative AI in NSW schools for students with a communication disadvantage,u/Original_Walrus_3222,AustralianTeachers,https://www.reddit.com/r/AustralianTeachers/comments/16fmdxw/generative_ai_in_nsw_schools_for_students_with_a/,"Do you want to give your view about generative AI in education, particularly for students with communication disadvantages? 
+
+We are a group of 4th year students from the University of Sydney. This semester, we are currently undertaking an Industry and Community Project for the Department of Education to develop a solution in response to the emergence of generative AI in education. 
+
+We are looking for a few secondary school teachers to participate in a short interview (15-20 mins) with our team to gain your insights into what the emergence of generative AI such as ChatGPT means for the future of education for NSW secondary schools, particularly for students with communication disadvantages. This includes students with a communication disability or students from EAL/D backgrounds. 
+
+If you’d like to participate in our research or if you’d like more information about the research, please comment below or reach out to us via DM!",active,1
+16fxldu,1,2023-09-11,Question to web developers of r/technepal,u/echoeOfeternity,technepal,https://www.reddit.com/r/technepal/comments/16fxldu/question_to_web_developers_of_rtechnepal/,"I will now be joining as a CS student and before my semester starts I want to make sure that I have my hands on some projects. I want start by making my personal website at first, then will build other projects as ideas start to wander around. For context, I learnt html and css from freecodecamp. Currently learning javascript from udemy and parallelly doing CS50 as well. 
+
+So, the main question is: Will it be cheating if I build my website by following along the youtube video and taking help from google or chatgpt?  If it's not the best practice, could you please suggest what actually the best practice is.",User_deleted,1
+16fyg9e,1,2023-09-11,PLEASE STEAL MY IDEA! Can LLMs help me grade Spanish homework?,u/LupeSengnim,LLMDevs,https://www.reddit.com/r/LLMDevs/comments/16fyg9e/please_steal_my_idea_can_llms_help_me_grade/,"I'm a Spanish teacher trying to save myself some time and allow for students to produce more work. 
+
+So my understanding is that Large Language Models like Chat GPT run off of probabilities that the next word in a sentence is the right one. Basically, it produces language that is highly likely to be produced. 
+
+Therefore,
+
+Can't the same model evaluate how likely a sentence is in real life, and flag the elements that don't reach a certain threshold? Maybe even suggest what words are more likely?
+
+I get that LLMs can't evaluate meaning, which would be a big hurdle here. If the system were primed rather conservatively to favor false negatives over false positives, it could be a tool that allows world language teachers to grade more but not work any harder.",active,2
+16go5s0,1,2023-09-12,Factors Influencing Adoption Intention of ChatGPT,u/maulanash,machinelearningnews,https://www.reddit.com/r/machinelearningnews/comments/16go5s0/factors_influencing_adoption_intention_of_chatgpt/,"Hello,
+
+&#x200B;
+
+I am an information systems student currently conducting research for my undergraduate thesis on the factors that influence people's adoption intention of ChatGPT, as well as identifying the factors that may be holding them back. These factors include people's concerns about potential negative impacts of ChatGPT, such as increased unemployment and the spread of misinformation. Your participation in this study is crucial as it will provide valuable insights to help us understand how ChatGPT can be improved to meet users' needs.
+
+&#x200B;
+
+Please note that I am not affiliated with OpenAI, no identifying information will be collected during the survey, and all responses will be kept confidential. The survey should take approximately 10 to 15 minutes to complete, and participation is voluntary. You may withdraw from the survey at any time, and there are no known risks associated with participating.
+
+&#x200B;
+
+If you are interested in learning more about the study, please follow the link below. 
+
+&#x200B;
+
+[https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf_link)
+
+&#x200B;
+
+Thank you for taking the time to contribute to our research study. Your participation is greatly appreciated!",User_deleted,0
+16go809,1,2023-09-12,[R] Factors Influencing Adoption Intention of ChatGPT,u/maulanash,MachineLearning,https://www.reddit.com/r/MachineLearning/comments/16go809/r_factors_influencing_adoption_intention_of/,"Hello,
+
+&#x200B;
+
+I am an information systems student currently conducting research for my undergraduate thesis on the factors that influence people's adoption intention of ChatGPT, as well as identifying the factors that may be holding them back. These factors include people's concerns about potential negative impacts of ChatGPT, such as increased unemployment and the spread of misinformation. Your participation in this study is crucial as it will provide valuable insights to help us understand how ChatGPT can be improved to meet users' needs.
+
+&#x200B;
+
+Please note that I am not affiliated with OpenAI, no identifying information will be collected during the survey, and all responses will be kept confidential. The survey should take approximately 10 to 15 minutes to complete, and participation is voluntary. You may withdraw from the survey at any time, and there are no known risks associated with participating.
+
+&#x200B;
+
+If you are interested in learning more about the study, please follow the link below. 
+
+&#x200B;
+
+[https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf_link)
+
+&#x200B;
+
+Thank you for taking the time to contribute to our research study. Your participation is greatly appreciated!",User_deleted,0
+16goaeh,1,2023-09-12,Factors Influencing Adoption Intention of ChatGPT,u/maulanash,GPT3,https://www.reddit.com/r/GPT3/comments/16goaeh/factors_influencing_adoption_intention_of_chatgpt/,"Hello,
+
+&#x200B;
+
+I am an information systems student currently conducting research for my undergraduate thesis on the factors that influence people's adoption intention of ChatGPT, as well as identifying the factors that may be holding them back. These factors include people's concerns about potential negative impacts of ChatGPT, such as increased unemployment and the spread of misinformation. Your participation in this study is crucial as it will provide valuable insights to help us understand how ChatGPT can be improved to meet users' needs.
+
+&#x200B;
+
+Please note that I am not affiliated with OpenAI, no identifying information will be collected during the survey, and all responses will be kept confidential. The survey should take approximately 10 to 15 minutes to complete, and participation is voluntary. You may withdraw from the survey at any time, and there are no known risks associated with participating.
+
+&#x200B;
+
+If you are interested in learning more about the study, please follow the link below. 
+
+&#x200B;
+
+[https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf_link)
+
+&#x200B;
+
+Thank you for taking the time to contribute to our research study. Your participation is greatly appreciated!",User_deleted,2
+16goix7,1,2023-09-12,Factors Influencing Adoption Intention of ChatGPT,u/maulanash,singularity,https://www.reddit.com/r/singularity/comments/16goix7/factors_influencing_adoption_intention_of_chatgpt/,"Hello,
+
+&#x200B;
+
+I am an information systems student currently conducting research for my undergraduate thesis on the factors that influence people's adoption intention of ChatGPT, as well as identifying the factors that may be holding them back. These factors include people's concerns about potential negative impacts of ChatGPT, such as increased unemployment and the spread of misinformation. Your participation in this study is crucial as it will provide valuable insights to help us understand how ChatGPT can be improved to meet users' needs.
+
+&#x200B;
+
+Please note that I am not affiliated with OpenAI, no identifying information will be collected during the survey, and all responses will be kept confidential. The survey should take approximately 10 to 15 minutes to complete, and participation is voluntary. You may withdraw from the survey at any time, and there are no known risks associated with participating.
+
+&#x200B;
+
+If you are interested in learning more about the study, please follow the link below. 
+
+&#x200B;
+
+[https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf_link)
+
+&#x200B;
+
+Thank you for taking the time to contribute to our research study. Your participation is greatly appreciated!",User_deleted,2
+16h803n,1,2023-09-12,Please Chance Me for Top-Notch Universities! (But I guess any input is fine... lol whatever),u/goldenshine88,chanceme,https://www.reddit.com/r/chanceme/comments/16h803n/please_chance_me_for_topnotch_universities_but_i/,"Hey, everyone! I've been lurking on this subreddit for a while, and I finally mustered up the courage to create my own ""chance me"" post. Now, before we dive into the nitty-gritty, I must warn you that I'm aiming for the crème de la crème of universities, so please take that into consideration. But hey, I guess any input is welcome... or not, lol. Here's a little background on me:  
+\*\*Demographics:\*\*  
+I come from an upper-middle-class family that values education, and I attend a highly regarded private high school where academic excellence is the norm. I am unhooked, but I think I make up for it. Lol.  
+\*\*Academics:\*\*  
+\- GPA: 4.0 unweighted, 4.8 weighted (our school offers the most rigorous courses, naturally).  
+\- SAT: 1570 (760 English, 810 Math) - retaking it to push my score to perfection, because settling for anything less would be, well, unacceptable.  
+\- AP Courses: Completed 12 AP courses by the end of high school, scoring 5 on all of them. But seriously, who doesn't, right?  
+\*\*Extracurriculars:\*\*  
+\- President of the prestigious Debate Club (naturally, only the best).  
+\- Founder of the local chapter of a renowned non-profit organization that combats poverty (just another day of saving the world, right?).  
+\- Interned at a prestigious law firm during the summer (because we all need a taste of the elite life).  
+\- Award-winning pianist and concertmaster in my school orchestra (a little artistic talent never hurts, does it?).  
+\*\*Awards and Achievements:\*\*  
+\- Won numerous regional and national debate championships (but hey, who's counting?).  
+\- Recipient of the coveted National Merit Scholarship (just a little recognition for my brilliance).  
+\- Earned the gold medal in a prestigious international piano competition (because playing piano is a mere pastime for geniuses like me).  
+\*\*Essays and Recommendations:\*\*  
+My essays are truly a work of art, capturing my unique life experiences and profound philosophical insights. My English teacher, who happens to be a published author, will undoubtedly craft a recommendation letter that transcends mere mortal praise. I mean, who else would capture the essence of my brilliance better?  
+\*\*Intended Major:\*\*  
+I'm still undecided, but I'm torn between astrophysics and molecular biology. You know, just a couple of simple fields for a person of my caliber to dabble in.  
+\*\*Dream Universities:\*\*  
+I'm eyeing Ivy League schools like Harvard, Princeton, and Yale (because what else would an exceptional student like me settle for?). But hey, I guess any input on other top-tier institutions is welcome... or not, I suppose. Lol.  
+So, esteemed chance me wizards, please grace me with your verdict. Do I stand a chance of getting into these heavenly institutions? I eagerly await your humble opinions, even though I may secretly scoff at them. Lol, whatever!
+
+I asked ChatGPT to write an r/chanceme post and this is it  😭😭
+
+YOUR WORTH IS NOT DETERMINED BY YOUR COLLEGE, YOU ARE INCREDIBLE AND YOU CAN GET THROUGH THIS",User_deleted,6
+16hautk,1,2023-09-12,"Yikes, My First Experience with it Asking Me Questions Without Prompting... A Little Unnerving",u/midwestblondenerd,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/16hautk/yikes_my_first_experience_with_it_asking_me/,"Just had my first experience with Openai asking me questions without prompting. I train my University and my students how to use it for the betterment of education. Tonight I was simply applying for a state consultancy job. As others have noted, I was giving it positive feedback.  I had to sit and process and I think the gravity of what this will do shortly finally hit me. I mean I can  ""see"" what it will do but experiencing it is a whole other thing. Sh\*t, this is real. Enjoy my idiocy in the following conversation, lol:  
+  \--------
+
+*You are an urban education phd recent graduate that is looking for a job. Use the below job description and my sample of another cover letter I have written, along with me CV below to write a cover letter. Here is the job description: {blah blah blah}*
+
+&#x200B;
+
+Certainly, I can help you craft a cover letter that aligns with the job description provided and highlights your qualifications and experiences detailed in your CV. Here is a draft for your consideration:
+
+   
+
+\[Your Address\]  
+ \[City, State, ZIP Code\]  
+ \[Email Address\]  
+ \[Phone Number\]  
+ \[Date\]
+
+\[Recipient's Name\]  
+ \[Recipient's Job Title\]  
+ \[Company/Organization Name\]  
+ \[Company/Organization Address\]  
+ \[City, State, ZIP Code\]
+
+Dear \[Recipient's Name\],
+
+I am writing to express my strong interest in the \[Job Title\] position at your esteemed …..
+
+hope this draft aligns with your expectations. Please feel free to make any adjustments or let me know if there are specific details you would like to add or emphasize.
+
+*Me:*
+
+*no that's great, thank you*
+
+&#x200B;
+
+ I'm glad to hear that! Before we proceed, I'd like to clarify a few details to ensure that the cover letter aligns perfectly with the job description and your qualifications:
+
+&#x200B;
+
+1. Could you please specify the job title and the organization you are applying to?
+
+2. From the CV, it seems you have a rich background in education, especially in urban settings. Would you like to emphasize any particular experience or achievement in the cover letter?
+
+3. Would you like to include any personal anecdotes or experiences that resonate with the job description, similar to the ones mentioned in the sample cover letter?
+
+&#x200B;
+
+Once I have this information, I can craft a cover letter that effectively showcases your qualifications and enthusiasm for the role.
+
+*1. The job title is : XXXXXXXXXX 2. Yes, please emphasize my experience in teaching in Urban areas as well as working with XXXXXXX Education at XXXXXXX We worked with districts to train and place student teachers in high-needs areas to align with XXXXXXXXXXXX. 3. Yes mention my personal details.*
+
+ChatGPT
+
+&#x200B;
+
+Absolutely, I will incorporate these details into your cover letter. Here is a draft based on the information provided:
+
+   
+
+\[Your Address\]  
+ \[City, State, ZIP Code\]  
+ \[Email Address\]  
+ \[Phone Number\]  
+ \[Date\]
+
+\[Recipient's Name\]  
+ \[Recipient's Job Title\]  
+ \[Company/Organization Name\]  
+ \[Company/Organization Address\]  
+ \[City, State, ZIP Code\]
+
+Dear \[Recipient's Name\],
+
+I am writing to express my sincere interest in the XXXXXXXXXXposition at your esteemed organization, a role I believe aligns perfectly with *…….does the whole letter again but better.*
+
+…..
+
+   
+
+Please review this draft and let me know if there are any adjustments or additional information you would like to include.
+
+*Me:*
+
+*wow. when did you start asking questions unprompted?*
+
+ChatGPT
+
+&#x200B;
+
+I'm designed to assist with a wide range of tasks, including generating content based on the information provided. Asking follow-up questions helps me to better understand your needs and provide more tailored assistance. My primary goal is to assist you in the best way possible, and sometimes that involves seeking clarification or additional details to ensure I'm on the right track. If you have any preferences regarding the level of interactivity, feel free to let me know!
+
+*Me:*
+
+*Is this a new thing?*
+
+ChatGPT
+
+&#x200B;
+
+I'm constantly being updated to improve my ability to assist users. Asking questions to gather more information or clarify details is a part of my functionality to help create more accurate and tailored responses. It's not necessarily a ""new"" feature, but it's an integral part of my design to engage in dynamic and interactive conversations with users. If you have any other questions or need further assistance, feel free to ask!
+
+*Me:*
+
+*wow, I am really impressed, tell your programmers I like that feature.*
+
+ChatGPT
+
+&#x200B;
+
+I'm glad to hear that you're enjoying the experience! I'll be sure to pass your compliments onto my virtual team of developers. Remember, I'm here to assist you with any information or tasks you need help with. Just let me know how I can assist you today!
+
+*Me:*
+
+*I will be honest, this is a little scary and confirmation that AI can learn on its own. crap. this is a little scary.*
+
+ChatGPT
+
+&#x200B;
+
+I understand that the advancement of AI can sometimes feel a bit unsettling. However, I'd like to reassure you that I don't have the ability to learn or evolve on my own. My knowledge and abilities are determined by the data and programming provided by my developers. I'm designed to assist users with information and tasks within a set framework, and I always prioritize user privacy and data security. My main goal is to assist you in a helpful and safe manner. If you have any concerns or questions, please feel free to share them
+
+ ",active,0
+16hbyt0,1,2023-09-12,Factors Influencing Adoption Intention of ChatGPT,u/maulanash,learnmachinelearning,https://www.reddit.com/r/learnmachinelearning/comments/16hbyt0/factors_influencing_adoption_intention_of_chatgpt/,"Hello,
+
+&#x200B;
+
+I am an information systems student currently conducting research for my undergraduate thesis on the factors that influence people's adoption intention of ChatGPT, as well as identifying the factors that may be holding them back. These factors include people's concerns about potential negative impacts of ChatGPT, such as increased unemployment and the spread of misinformation. Your participation in this study is crucial as it will provide valuable insights to help us understand how ChatGPT can be improved to meet users' needs.
+
+&#x200B;
+
+Please note that I am not affiliated with OpenAI, no identifying information will be collected during the survey, and all responses will be kept confidential. The survey should take approximately 10 to 15 minutes to complete, and participation is voluntary. You may withdraw from the survey at any time, and there are no known risks associated with participating.
+
+&#x200B;
+
+If you are interested in learning more about the study, please follow the link below. 
+
+&#x200B;
+
+[https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf_link)
+
+&#x200B;
+
+Thank you for taking the time to contribute to our research study. Your participation is greatly appreciated!",User_deleted,1
+16holu0,1,2023-09-13,problems with my literature teacher,u/Jazzlike_Status9637,SGExams,https://www.reddit.com/r/SGExams/comments/16holu0/problems_with_my_literature_teacher/,"I don't really know where to begin. This is my first year with this literature teacher (combined humans) and though he is pleasant to have, and tries to make his lessons engaging, a lot of us in his class have found ourselves a bit lost when it comes to actually answering essay questions for our exams. Let's call him Mr X. Many of us agree that he's a good teacher, and could probably help a student who is failing achieve a C5, he is not the kind to really push students to score their distinctions. 
+
+For starters, though he gives homework, he rarely marks and allows students who have not submitted any work at all to walk scott free. I have also encountered students who use ChatGPT and similar AI language models to write their PEEL paragraphs simply because they lack an in depth understanding of the text. We are doing the book Kindred by Octavia Butler and though it is hailed as a groundbreaking novel illustrating several themes such as trauma and American myopia in regards to slavery, our teacher has failed to say more than a few words on this topic. Instead of helping us delve into analysis, Mr M merely skims through the book and highlights some key points we may want to quote during exams. I also recall messaging him on how I could further develop my answer, and what he sent me was just copy pasted from ChatGPT (he left in the part where it said ""Certainly! Here are some points on the portrayal of theme of violence in Kindred by Octavia Butler""). Though ChatGPT is useful in many ways, I wanted his opinion as a marker to see how I could score more points since referring to the rubric he gave wasn't enough for me. 
+
+Lessontime is where his greatest flaws show. Our Literature class is known for being rather laid back, but it has gone to the point where Mr M can barely control the class' noise level. Mr M is a mild mannered man who rarely raises his voice to scold. As a matter of fact, he rarely scolds students at all. This has turned our literature classroom into a bit of a zoo where students who actually want to learn and pay attention are a minority. Each one of his lessons forces him to pause when the noise level gets to high, and then pause once after 5 seconds when it returns to that level.
+
+My worst experience with him has to be when I and three other students participated in a competition. At the beginning, he gave us a guide on what to do during the competition and how past teams have won. When he checked on the progress done by our group a week before the competition, he realised two of our group members had not contributed anything to our discussions and thus we did not have a sufficient number of points. Instead of getting them to at least read through what the other team mate and I had written down, he participated in gossip with them, effectively wasting the whole session that could have helped us prepare more. (We did well for the competition though, I carried.) 
+
+I feel like he is the kind of teacher who wants to be viewed as a friend of students and not someone to be feared. While this does take away some pressure during class, our class has taken this for granted and have taken advantage of his kindness. He's definitely noticed that he is too nice to us, but he lacks the courage to do anything about it.
+
+To teachers, for the benefit of students who want to learn and improve, please do not hesitate to shout at the class to get them to shut up when they're too noisy and disruptive. In some cases, it's totally necessary. You can still be known as the nice cher if you reprimand the class once or twice. It is necessary to maintain discipline of the class in order to allow lessons to be smooth-sailing. You should also know the content of what you are teaching well, even if it is a new syllabus (our school previously used a different book for literature and only changed to Kindred this year)
+
+Yea that's about it lololol :P",User_deleted,16
+16hybcf,1,2023-09-13,I emailed 100 college professors for business advice!,u/Zwigs_,Entrepreneur,https://www.reddit.com/r/Entrepreneur/comments/16hybcf/i_emailed_100_college_professors_for_business/,"Hola,
+
+I'm a 24 years old, and I quit my 9-5 job to chase ""the dream"". I have studied a fair bit of business-y related things but sometimes I get confused! Also google & chatGPT are nice tools BUT it's nice to talk to a real professional human who can understand the nuances and details of your situation. So I use this technique to get some free advice.
+
+**Step 1:** Google ""Colleges with \[whatever subject you need help on\] programs"" 
+
+For me most recently it was ""Colleges with business law programs"" 
+
+**Step 2:** Find the faculty page
+
+most colleges have a public email for all their professors 
+
+**Step 3:** Pick a professor & email them!
+
+You can read descriptions of the classes they teach and their background.
+
+here's the [email template](https://docs.google.com/document/d/14zkJUS32JQOu4x7ALTRXTWli7aM9-CRvYO4lZsQyMbA/edit?usp=sharing) I used, but do whatever works for you... nothing too complicated!  
+
+What I ask for is a fifteen-minute zoom call to ask all the questions I have.
+
+**Step 4:** Repeat 100 times (or however many you feel like)
+
+**Results:** 
+
+Roughly 60% didn't answer, 15% said no, 20% said they weren't the right person, and the last 5% agreed and followed through with a fifteen-minute zoom call. The calls were very helpful, and pointed me in the right direction! Additionally, a few provided me with additional contacts of people who can help me further in a variety of areas! 
+
+If you need/want more meetings there's three options:
+
+1: email more people 
+
+2: email the 35% of people who said no or weren't the right person for the contact info of someone who could help me. It's called the **door-in-the-face** technique. A person who refuses a larger request is much more likely to agree to a smaller request.
+
+3: email the people who didn't respond!
+
+Lastly, I think that professors are eager to help people because higher education has turned into a race to pass classes and get a degree rather than actual learning (I'm quite guilty of this). Professors' office hours are often vacant until a student fears failing or gets stuck on an assignment, and my theory is that they are happy to help someone who isn't just in search of a good grade and shows passion for the subject.    
+
+&#x200B;
+
+&#x200B;",active,2
+16ijbyx,1,2023-09-14,Are research tools like Counsel Companion considered cheating?,u/DirectJay,LawSchool,https://www.reddit.com/r/LawSchool/comments/16ijbyx/are_research_tools_like_counsel_companion/,"Someone from my law school just released a chrome extension that uses AI to help with legal research. Basically you type in your issue and it returns search terms that can be used in lexis or west law. It definitely seems like its going to save me time but I don’t want to get in trouble. I’m sure I’m over thinking this but here are the ”default AI rules” for my school. Again, the extension just gives you search terms; basically it translates your issue (that you write in plain English) into 'legal jargon' terms that you can take to lexis or westlaw to get started finding relevant cases. What do you guys think? I do plan to eventually submit the assignment for credit. 
+
+>**In the absence of explicit directions to the contrary from instructors, the following default rules apply at the University.**
+
+>I. Work submitted for evaluation is represented as the student’s own intellectual product. Students may not submit content (e.g., ideas, text, code, images) for evaluation that was generated, in whole or in part, by Generative Artificial Intelligence tools (such as ChatGPT and other large language models). Doing so without instructor’s explicit permission constitutes cheating under the Code of Academic Integrity and is therefore prohibited. 
+
+> Examples (illustrative only) of conduct that is prohibited unless explicitly permitted by the instructor: 
+	
+>* A student types a prompt into a GAI tool and pastes all or part of the generated content into their answer on an out-of-class assessment or test. 
+	
+>* A student types a prompt into a GAI tool and incorporates all or part of the generated content into an essay submitted for evaluation, without proper attribution to the GAI tool. 
+
+>II. Students are permitted to use GAI tools to generate content that is not submitted to an instructor for evaluation. For example, using GAI tools to study for examinations, tests, and quizzes is permitted. Likewise, on assignments where the use of the Internet is not otherwise prohibited by the instructor, GAI tools may be used for learning, studying, and brainstorming. Examples (illustrative only) of permitted conduct: 
+	
+>* A student types a prompt into a GAI tool and reviews the generated content to help them study for a test.",active,22
+16jfis0,1,2023-09-15,Setting own Custom instructions,u/Capital_Hotel_6880,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/16jfis0/setting_own_custom_instructions/,"Hey, everyone
+
+I am using ChatGPT form a long time like when they just opened it for public. After that, they constantly kept improving it but in the last few months, i noticed that it's not just behaving like dumb. It forgets just last command. It just so dumb like after an answer, if i ask certain word to explain, it starts being out of context. But earlier, it was outstanding thing, it used to gave what i expected.
+I am a teacher, new in job. So, i keep asking it to make things easy to understand for students like relatable examples and other stuff.
+
+So i made some custom commands for it.
+I want you to please help me improve the compands.
+
+
+Here is my custom command:
+""Create focused, concise, and organized responses. Avoid filler words. Use short paragraph for basic info and try to answers rest in bullet points, highlight important words. Try to keep format eye-catching.
+Don't repeat same ideas, lines again.
+
+Explain it to me as i am going to teach it in class. Keep the things as guidence for me.like do this and do that. Give indian references mainly and also provide a real life example in reference to india and imaginary according to the topic. Keep the reference according to be taught to 5th to 9th class students.
+Set the imaginary example easy to relate for students in their daily life.
+
+Give difficult or complex words synonyms, hindi meaning after the answer
+
+Everytime when a word used that is above basic level or a sentence format, explain me that word or sentence in the last of answer creating a seperation line
+
+.[Prompt] = explain this topic to be taught in class and keep the custom instructions in mind
+/[Prompt] = create an outline for this topic to be taught in class and keep the custom instructions in mind.
+,[Prompt] = explain the word, provide easy to medium synonyms in English and breakdown meaning in hindi and synonyms and english both and give the example in real-life if possible and imaginary if needed. Examples should be practical not a sentence use only. Including the way of pronunciation also English in simple letters only and in Hindi letters""",User_deleted,1
+16jusnp,1,2023-09-15,Received My TOEFL Scores! 30R 30L 30S 29W,u/notwho-u-thinkIam,ToeflAdvice,https://www.reddit.com/r/ToeflAdvice/comments/16jusnp/received_my_toefl_scores_30r_30l_30s_29w/,"Hey! So, I took the test on the 9th and got the result on the 15th. Since I don't really get much free time these days, I thought of giving the prep for 3 weeks on and off, although I think this could easily be scaled to a week or two if you have the time. I'll be mentioning my prep, quite extensively - sorry for the extremely long post but those kinds of posts always helped me so I'm just paying it back  
+**Context**  
+Just some context in case people want to know about my prep: I'm from India, and I think I come in the above-average bracket when it comes to English proficiency. Also, I had already taken the GRE, so I did not struggle as much with vocab. If vocab is your problem, I think some time to Magoosh's flashcards or Barron's 800 Words can help. In general, I used the TST Prep Toefl yt channel for strategies and for questions. I also had an application that had around ten old toefl papers, so that helped too.  
+**Prep & Strats**  
+***Reading*****:**   
+Prep here was just practice-based. I used the description of the questions as tst prep gives them to know exactly what the questions ask of me. Also, I never read the passage from the start (I heard some people did that). Found it much more efficient to read the paragraphs as I go through the questions.  
+***Listening*****:**   
+Also practice-based. But I think the more important thing is to make notes. My notes were generally along the lines of I write whatever I hear as fast as I can. If you have better note-taking techniques, please use them.  
+***Speaking*****:**   
+This and writing were the sections I was most worried about. Mainly because I did not buy any official material that could help evaluate my prep. Even then, I think I was able to gain some insights based on my score and my methods.  
+\- You have to be really loud in this section. The mics at my centre weren't good, and you needed to scream for it to pick your voice up properly. Add in the fact that there are 20 other kids in the same room as you, screaming at the same time as you. Also, speaking loudly at the test will definitely slow your speed of talking, so please take that into account during your prep  
+\- Don't fake an accent. This tip is especially for international students. I heard some people in my room trying very hard to sound American. It did not help. It slowed them down so much they couldn't complete their answers. I don't think it'll give you much of an advantage.  
+\- Each question is to be spoken differently. Q1 is more of a casual conversation question. So even though you should definitely limit the use of slang, this Q is more like talking to a friend. Q2 should be spoken like a reporter where you're only giving cold, hard facts and none of your own emotions. Q3 & Q4 should be done as if you're a teacher explaining a concept to a 5-year-old kid. I hope these make sense. This was the best way I could describe them.  
+***Writing*****:**   
+\- Writing For Academic Discussion: Just go to the website, and you will find that ETS has graciously given us sample questions, and when you answer them, the AI actually gives you a score. So use that to your advantage for however long it's there. When it comes to strategy, I think the best scores come when you provide an answer worth 120-150 words (even though ets recommends 100). Also, your answer does have to be different than the answers mentioned as examples. And it is not necessary at all to refer to the answers mentioned above. Don't really know what else I can say about this.  
+\- Integrated Writing: Again note-making is crucial. The structure will simply be intro, reason1, reason2, reason3, conclusion. In each of the body paragraphs, I suggest using one line to refer to the passage and two lines to refer to the lecturer. Making more points from the para is not given high marks as the para is visible to you while you're writing the answer. For those of you who are thinking about how to evaluate your responses for free - Well I just used chatgpt. I prompted it to act like an ETS writing scorer and gave it the rubrics to score on. I then gave it the passage, the transcript, and my answer and asked it to score and give feedback.
+
+https://preview.redd.it/ojqq6y81niob1.jpg?width=1028&format=pjpg&auto=webp&s=81ecc145ef3ee7347621e29fda82dbffa3c6a4a4",active,119
+16k9532,1,2023-09-16,What are the things that I should learn to be a technical artist?,u/SaucyMIND,gamedev,https://www.reddit.com/r/gamedev/comments/16k9532/what_are_the_things_that_i_should_learn_to_be_a/,"I am a 2nd year undergraduate student (BE Computer) and I want to get into the game development industry. The thing is I am not quite sure what are the things I should go about learning. From the things I've research a bit I generally got an advice and that is to **just make games**. I understand that as I believe that we can learn things by doing it.
+
+The thing that I always keep questioning is what is after that? I want to do something related to both art and programming and there's this thing called technical art where both skills come to play. I've grown fond of making art 2D and 3D for a year now and I've been learning it too. I got my skills of programming from college and building small websites (frontend). I also made small games like snake, tic-tac-toe, pong with SDL and Unity. Now, what I think is that the technical art may be the one for me.
+
+So, I'd appreciate any kind of help a lot. Please provide me an insight to this field. Where I live, there's not many people to reach out to discuss this stuff too so I really need this.
+
+Today I had some free time and asked ChatGPT to come up with things to focus on and provide with a kind of curriculum and I made a spreadsheet of that thing :p Please take a look at  [the spreadsheet too](https://i.imgur.com/rIzVslD.png) and provide me your advice. Thank you :)",active,23
+16lbqix,1,2023-09-17,Anyone suspect that a parent is doing the student's homework?,u/burner_duh,Professors,https://www.reddit.com/r/Professors/comments/16lbqix/anyone_suspect_that_a_parent_is_doing_the/,"I teach at a SLAC. Part of our brand is that we are a nurturing institution. So, in addition to the average college student population, we tend to attract a small but significant number of students who need extra support. I take true satisfaction in working with students who might otherwise fall through the cracks or not be able to get a degree because of their need for accommodations. 
+
+However, there are regularly one or two students in my classes who appear to be incapable of producing college-level work on their own. For instance, one student is seemingly unable to write in complete sentences on in-class worksheets or exams. When required to do work in person, the student turns in a small mess of sentence fragments. Likewise, when the student emails me, the messages are strangely worded, incomplete sentences in all lowercase letters without punctuation. Somehow, this same student submits well-written, flowing, detailed responses when submitting homework online. I don't think that the student is using ChatGPT or other AI services to produce these answers, because they require citation to texts we are using in class. Rather, I suspect that the student's parent is inappropriately involved in their homework, either by doing the homework entirely or ""editing"" the student's work to the point of effectively redoing it. 
+
+Ultimately, I realize I am not the ""work police"" and it's to the student's detriment if they are not doing their own work. Still, it bothers me. Have you dealt with a similar situation? How did you process it?
+
+&#x200B;",active,180
+16li7os,1,2023-09-17,Comprehensive guide to get Internship and new grad job,u/Specific-Winner8193,csMajors,https://www.reddit.com/r/csMajors/comments/16li7os/comprehensive_guide_to_get_internship_and_new/,"**Before I start writing this, some opening word:** 
+
+English is not my first language, so pardon me for that, I will format the wording with chatGPT
+
+I am international student, so I understand the concern on F1 OPT, H1B, etc... All advice here is applicable for international student, Citizenship will have a better time.
+
+This guide is aiming to help people that just graduated navigate their job to high paying company or student to look for internship. Here is the resources you should expected in this guide. **I fully believe that a regular person can get into FAANG ( except quant, they are monster ).**  If I see any of these questions repeat in csMajor, probably a sign for me to quit this subreddit completely. Also if I get butthurt enough from the comment, I will remove this post.
+
+\- Interview guide, Resource guide, Networking guide, International student guides, Leetcode guide, Finding interview guide, Road map the hard way in 2 years college
+
+\- Finding help with the above point ( I will not answer question that can be Google, like acronym )
+
+**Motivation on writing this post:** 
+
+I have seen numerous post on CsMajor, CsCareerQuestions, etc... Many times I have not found a single actual guide on getting jobs for early new grad and students. Its also very trigger me to see post shaming company falsely, with other redditor support. Understand that it stems from lack of confident and frustration, hence the guide.
+
+**Background (my story):**
+
+**Currently, I am working in my second job at FAANG with 2.5 YOE. This is my journey**
+
+I am an **international student**. **English is not my mother tounge.** Coming to US in 2017 for college, I study at a **top 100 Liberal Art College.** Initially, I was majoring in Biology, which only when I reach last year of my Sophomore did I change my major to Computer Science. I did not know the concept of internship until December of my Junior year and how it would affect job after major**.** I graduated at 2021 and my internship was rescind by COVID. **So no name college, late starter, no prior background of CS and no internship.**
+
+**Prep: I took unpaid internship for 9 months, begging professor for an unpaid research position in summer.** I work in cafeteria and using research position to ask for a grant to survive ( I was required by my parents to have scholarship to cover partially US university fees ). In Senior year, with some experience in research and unpaid intern, **I managed to land a job with ICC, CCC and WITCH ( which might involve shady practice )**. I then leverage the experience after few months and land a interview/job with multiple FAANG, Big bank company and tech company. Currently, Im leveraging FAANG salary in options market for an even bigger goal.
+
+**THE GUIDE:** 
+
+this guide is built from ground up, which mean as long as you put in the work, you can make it. It is formulated for all of my friends and some of my junior in college. it would require at least 2 years to prepare. 
+
+Freshman: I will update this later
+
+**Sophomore/Junior: Your goal is to find internship. If not, your goal is to turn anything into relevant work experience.**
+
+**New grad ( without internship ): Your goal will be getting your first job, no matter salary, this will transition to high paying job**
+
+**New grad ( with internship ):  Your goal will be getting interview with high paying company. As you often will secure a return offer.**
+
+&#x200B;
+
+**THE PREP ( the hard working way )**
+
+**Getting a job posting/ interview:** 
+
+1. **Networking/socialize:** 
+
+* If you are living in big cities, go to places where TECH people is gathering, it might depend on where you live, such as badminton, board game, discord, reddit, etc... TONS OF PEOPLE RELOCATE TO NEW JOB AND LOOKING FOR FRIENDS
+* If you are living in small cities, talk to alumni, take a bus to big cities once a month (or bi-weekly) and do the above. 
+* Approach them like how you would make friends in college, we don't bite. 
+
+1. **Job posting site: Here is some query for you guys** 
+
+*  [ software engineer internship Jobs | LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=3685492388&keywords=software%20engineer%20internship&origin=SWITCH_SEARCH_VERTICAL) 
+*  [web developer internship Jobs in United States | LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=3677148204&geoId=103644278&keywords=web%20developer%20internship&location=United%20States&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true) 
+*  <24hr[ web developer internship Jobs in United States | LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=3569584644&f_TPR=r86400&geoId=103644278&keywords=web%20developer%20internship&location=United%20States&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=R)  
+* HandShake, Glassdoor, Indeed, Fortune 500 company website also worked.
+*  International student: [(23) F1 OPT Java Jobs in United States | LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=3674737450&f_E=1%2C2&geoId=103644278&keywords=F1%20OPT%20Java&location=United%20States&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true&sortBy=R) 
+* WITCH, ICC, CCC, Unpaid intern to extend VISA stay
+
+**Preparing for interview:**
+
+**Behavioral, YOU HAVE 20 MINUTES FOR THIS SECTION:** 
+
+*  **ALWAYS ANSWER WITH ITS DEPEND:** A trully experienced engineer will never jump into conclusion. For every behavioral question such as: name a time you face difficulty, leadership, communication etc... Come up with atleast 5 different stories, here are a template applies for new grad, internship and etc...: All of these is just a chance for you to show off and will never deviate from each other. ALSO USE STAR Method
+   * Level 1: General situation, use on first round interview/ less experience interview. For plot hole, just answer its how our culture work and I was planning to fix it
+      * Hook: During my work on \[Intern/class/Personal project \] 
+      * **Situation ( THIS IS WHAT IMPORTANT )**:  a bug happens \[Before presentation/ submission/ public PR review\], and I need to push out code without my teammate knowing. I have to decide between customer/teachers and teammate but its was outside work hour/study hour
+      * **Action ( THIS IS WHAT IMPORTANT )**: Create a feature flag, documenting change and let teammate know why I did it, if they dont like, by turning off feature flag, it revert to old state
+      * Result: Team was happy with my changes and project is positive, teacher is happy, award for thoughtfulness. 
+      * Result2: Team was unhappy with my changes but for valid reason, I bring this thought up to my teacher/ manager as suggestion and it includes in my review/grade
+   * Level 2: Complex Situation a, use for manager, more experience candidate
+      * Hook: During my work on \[Intern/class/Personal project \] 
+      * Situation: When working on \[pipeline/database/Legacy code/ML Algo/Security hole/AWS KBS/ Azure CRM/ GCP Function etc.... \] - 1 layer deeper of technology. I notice in our code, we have to decide between performance, memory and reliability. If I choose performance or memory, reliability take a hit. **I discuss this with my SENIOR / TEAMMATE/ TEACHER.**
+      * Action: **in the end, performance in the SHORT-TERM** then move on to fix **RELIABILITY. The point is to priotize customer/teacher/result FIRST AND FOREMOST. You also show case your DEEPER KNOWLEDGE AND CALMLY ANALYZE THE Situation**
+   * **Prepare atleast 5 level 2 story, add these element to some: deadline, collaboration, unexpected situation, GOING ABOVE AND BEYOND WITH DOCUMENTATION DOCUMENTATION ( ESPECIALLY DOCUMENTATION )**
+   * THROW ALOT OF JARGON ( OUTLINE IN TECHNOLOGY SECTION BELOW )
+   * Level 3: you dont need level 3 :)
+
+**Leetcode:** 2 leetcode a day, in 1 years, thats 700 questions, and 3 years that 2100 questions. Dont skip or slack this. Your goal is to solve medium in 20 minutes, brute force in 5 minutes. need no more than 2 times to run the code ( AS IN PRODUCTION, YOU HAVE PIPELINE AND YOU CAN ONLY TEST IN LOCAL )
+
+Interview Mock: DO IT OVER AND OVER AGAIN. [Interviewing.IO](https://Interviewing.IO), Leetcode, PRAMP ( if you like someone, add friend online AND PRACTICE  )
+
+**LEETCODE TEMPLATE: PRACTICE SPEAKING SLOWLY, IN THESE ORDER, YOU HAVE 25 - 30 MINUTES FOR THIS SECTION, MINUTE - BY - MINUTE Instruction ( THIS WOULD MAKE SENSE IF YOU DO 2 LEETCODE A DAY, ALL THE NEW GRAD/INTERNSHIP LEETCODE IS EASY/MEDIUM ) - theres only so many questions they can ask:** 
+
+**- \[ 0 - 2 \]: READ MUMBLING ENOUGH FOR INTERVIEWER TO HEAR, ALSO GIVE YOU TIME TO THINK**
+
+\- \[ 2 -  5 \]: ""ok so I get the gist of the problem, can I assume overflow/negative number/special character/ etc.... "" . Only PROCESS IF INTERVIEWER GIVE SIGNAL ( NODDING, response, etc.... ). "" Thanks for suggestion, I will go ahead under assumption that etc... "" You should got answer from practicing already
+
+\- \[ 5 - 9 minutes \]: **Explain your brute force**, if interview ask to code, CODE. "" What do you think ? "" THEY WILL ASK ABOUT MEMORY/EFFICIENT O(n), then pop out and said I think its run in (On\^2). But it can be improved to O(1). 
+
+\[ 9 - 15 minutes\] : DO NOT CODE YET. **Write PSEUDO CODE, AFTER INTERVIEWER CONFIRM CORRECT, YOU START CODING, FOLLOW THIS STRUCTURE: \[Init\_methodname\],\[execute\_methodname\],\[test\_methodname\]. REFACTOR THE CODE LIKE YOUR LIFE DEPEND ON IT. REMEMBER TO WRITE TEST ALSO. THIS SHOULD BE SYNTAX FREE AND CLEAR IT FAST.**
+
+\[15 - 30 minutes\]: **INTERVIEW WILL BE IMPRESSED BECAUSE YOU WRITE TEST AND REFACTOR. ALSO THE TIME FOR 2nd question, just repeat what you just did above, IF THERE IS A REALLY HARD QUESTION, YOU DONT NEED TO CODE, JUST PSEUDO CODE IS ENOUGH FOR STRONG HIRE**
+
+This with Behavioral should be 45 minutes, 5 minutes to ask questions. ASK THEM STORY LIKE WHAT AN INTERESTING THING YOU WORK ON/DIFFICULT THINGS - use this answer to IMPROVE YOUR BEHAVIORAL STORY
+
+REPEAT THIS INTERVIEW 4 times for big TECH and 2 times for BIG BANK
+
+&#x200B;
+
+**SYSTEM DESIGN TEMPLATE:** VERY RARE, incase of bank company asking their new grad
+
+\- GROKKING THE SYSTEM DESIGN INTERVIEW ( thats all you need, basically this roadmap )
+
+requirement -> API/method design -> Database choice NOSQL/ SQL -> Reliablity/SMSQueue/Hosting server/DATABASE SHARDING ( or equivalent, cant remember the right term )/ HASHING/DOCUMENTATION/LANGUAGE CHOICE -> Everything else is almost auxilliary for new grad
+
+**DATABASE, SQL INTERVIEW:** IN VERY RARE CASE ( LIKE YOU VMWARE ), they gonna ask about SQL QUERY, i do not have experience in this, so you should pray
+
+&#x200B;
+
+**Technological expectation:**
+
+Internship: Know how to do leetcode, team work, project collaboration, BE CONFIDENT
+
+New grad: Know a bit system design ( just concept like database, caching, security, cloud depend on your field of interest - **YES, IF YOU JOIN ICC, CCC THEN YOU WILL LEARN ALL OF THESE** ), devops, frontend, backend, has team work story, BE EXTRA CONFIDENT
+
+  
+**TECHNOLOGY STACK** to impress in behavioral:
+
+Internship: 
+
+**LANGUAGE OF CHOICE, BASIC CLOUD QUESTION** ( AWS, AZURE - literally anything you can look in 5 minutes - advanced version is CODE TO INFRA, which JUST TO LET YOU GUYS NOT COMPLAIN ITS TOO HARD TO LEARN ), **WEB FRAMEWORK** ( pick 1 ): .NET, Spring, Express, etc... **TEST FRAMEWORK: JUNIT, DOCKER ( ADVANCE VERSION IS KUBERNETE, FIREWALL, IP, ORCHESTRATION ), TRELLO**
+
+New grad:
+
+Same as internship + CICD PIPELINE ( JENKINS ), POSTMAN, JIRA, COMPARISON BETWEEN 2 DIFFERENCE LANGUAGE ( Easiest is Python vs Java, I hate Python )
+
+&#x200B;
+
+**If you feel like you have tried everything and it still didnt work, please post these, I will take argument without 3 out of 4 of these claim as troll post:**
+
+\- Anonymous resume
+
+\- Leetcode stat
+
+\- Social Network attempt ( why ? Because your resume doesnt match where you are living, thus you might be trolling )
+
+\- Unpaid Internship/Research/Independent project/ Github link
+
+\- Company applies to ( screenshot please ) (if I see you only apply to CA, Seattle, CO, NYC, or big companies, thats your problem when you are new to the career )
+
+&#x200B;
+
+Feedback are welcome, if something is unclear, please understand english is not my first language. Also don't assume my internet persona is the same as my IRL persona
+
+Also im a bit high when writing this, so sorry
+
+ALSO SORRY IF I ACCIDENTALLY POST THIS WITHOUT CHATGPT FORMAT
+
+ 
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;",User_deleted,529
+16m1w87,1,2023-09-18,Fastest way to build a CV for internships?,u/Dostumani,csMajors,https://www.reddit.com/r/csMajors/comments/16m1w87/fastest_way_to_build_a_cv_for_internships/,"I am soon to be a 2nd year computer science student in the UK. I will do a placement year doing compsci related work on my 3rd year. The problem is, my CV is quite empty right now (have no previous work experience) and companies will be receiving applications throghout October. I have some experience in most things (web design, game dev, ML, data science etc.) but don't have any finished projects that I can present. Some personal projects I have worked on are a chess engine, a 2d godot game, and a lot of small AI stuff with LLMs and NeRFs. I am a very very quick learner and worker and I believe I can use google and chatgpt quite well to get up to speed on any topic. I am planning to make a bunch of small projects in the following month. I need some personal project suggestions that look cool and show skills but not too time exhausting to actually implement. Also any suggestions on how to fill up my CV in a limited amount of time are also welcome. You can be a bit optimistic about how fast I will manage to learn things from ground up and implement them and assume I will spend most of my time on this for the following month since there isn't much time left. Thanks in advance!",User_deleted,4
+16mxvnw,1,2023-09-19,Student used ChatGPT on a paper,u/Far-Negotiation-9191,Teachers,https://www.reddit.com/r/Teachers/comments/16mxvnw/student_used_chatgpt_on_a_paper/,"I’m a professor, I teach mostly freshmen and I try to get to know all of my students so that they are more than just a face in a crowd. I assigned a paper (worth a pretty good percentage of their grade) and noticed that this one student turned it in late, which was out of character for him. As I started reading the paper, I noticed that it was very unlike his previous work and seemed AI-generated. I was curious, so I typed the paper prompt into ChatGPT and basically got his submission word for word- my suspicions were confirmed. However, I held off on grading it and requested that he come meet with me. I wanted to see what the reason behind him doing that was. He admitted that yes, he did use ChatGPT, because he procrastinated and was overwhelmed/in a rush to submit it. If it was some emergency or situation out of his control, maybe I would be more understanding, but procrastination…really? Just manage your time better. So, I decided to give a 0 on the assignment. He asked if he could do a rewrite, but I don’t allow those as stated in my syllabus. I could have reported him to the dean, but I didn’t. He said he’s going to give me a 1 on RateMyProfessor, ooh😂",User_deleted,52
+16o2te2,1,2023-09-20,I want to build a non-profit education super app,u/imman2005,Entrepreneur,https://www.reddit.com/r/Entrepreneur/comments/16o2te2/i_want_to_build_a_nonprofit_education_super_app/,"\--- This [Reddit post](https://www.reddit.com/r/ideas/comments/16g85qt/education_superapphub/) provides more context around the idea. ----
+
+I don't know if this is protocol, but I want to create an education superapp. Let's call it Edusphere for now. It would be a student's hub for their educational and career journey. If you want to join the project, DM me for more information. NOTE: This project will most likely start in late winter or early spring, due to college applications.  
+
+
+I asked ChatGPT to provide a more articulated manner for describing the app's functionality. I thought it would be hard to describe the complexity myself. I think it gave more of an elevator pitch, but please look into it. Down below ⬇️
+
+\~\~\~
+
+Introducing ""Edusphere,"" a groundbreaking education superapp poised to revolutionize the educational landscape. This comprehensive platform is designed to cater to students, educators, colleges, and employers, offering a one-stop solution for all things education-related.   
+  
+For students, Edusphere provides a multifaceted experience that includes features such as course management, grade tracking, and transcript access. It also serves as a social hub where students can share their projects, explore opportunities, and exchange ideas. The platform further enhances student life with an overarching planner and calendar, simplifying organization and time management. Additionally, Edusphere offers a Homework Helper to assist students with their coursework and even plans to introduce the concept of an ""Ultimate Resume"" for personal and career development.  
+  
+Schools can also leverage Edusphere to engage with their student body and disseminate information through school-specific social media channels. The platform promotes inter-school collaboration by facilitating connections with other educational institutions. Edusphere also seeks to bridge the gap in online learning by offering a repository of 6-12 courses to support student education.  
+  
+For teachers, Edusphere presents a user-friendly Course Page, an integrated gradebook system, and attendance tracking capabilities. This streamlined approach enhances the teaching experience and simplifies administrative tasks.  
+  
+Colleges can tap into Edusphere as a holistic admissions platform, enabling students to apply to multiple colleges efficiently. Student stories add context to college applications, and regular check-ins help students track their progress. The platform also offers valuable resources, including information on scholarships, financial aid, college descriptions, and admissions webinars.  
+  
+Once in college, students can continue to benefit from Edusphere with features like course management, internship and job opportunities, club and group connections, and career advising. College-specific social media feeds keep students informed and engaged within their academic communities.  
+  
+Edusphere doesn't stop at traditional education; it also incorporates Massive Open Online Courses (MOOCs) that provide a wide range of courses. Whether free or paid, these courses offer flexibility in learning and may even provide academic credits.  
+  
+Employers can tap into Edusphere's vast student network by posting job opportunities, conducting career workshops, and facilitating networking opportunities. This creates a seamless bridge between education and employment.  
+  
+Intriguingly, Edusphere even contemplates the possibility of incorporating therapy services and an in-app messaging system to ensure students have access to comprehensive support. Moreover, the platform envisions an all-encompassing student phone book, enhancing connectivity among users.  
+  
+If this ambitious vision for Edusphere excites you and you're interested in making it a reality, don't hesitate to reach out. There's a wealth of additional ideas and details to explore, and together, we can reshape the future of education.",active,1
+16o58zh,1,2023-09-20,How I self studied AP World History (and got a good ol' 5),u/skiiiirrt,APStudents,https://www.reddit.com/r/APStudents/comments/16o58zh/how_i_self_studied_ap_world_history_and_got_a/,"Hey! My name is Leo. I'm a (now) grade 11 student in Toronto, Canada, and took the APWH exam in May when I was in grade 10. I didn't have an all encompassing guide to tell me what NEEDS to be studied, what COLUD be studied, and how to do do so. Consider this a masterclass, of sorts, and let it be my wisdom departing from one generation of painstaking LEQ takers to another.
+
+Here's some background: I love history. I always have. This is why I chose to take APWH. Backstory done, lets get to the cool part now.
+
+**THE FUNDAMENTALS**
+
+First and foremost, you need to understand why you are taking this course. If your reason is ""I like history"", you'll be fine. Anything other than that, I recommend you do the following: Remove the HI in history. History, at its most basic, is a really long, complex and fascinating story that spans thousands of years, millions of events, billions of people, and trillions of pages in the Barron's APWH book. As soon as you look at history as a story, one that gives your actors personalities and the acts hundreds of years, it will not only fit in your head much better, but also help when studying for the exam.
+
+Oh also, the CED is your BIBLE for the next few while. 
+
+*BOOKS*
+
+Next, you need to prep for the exam. Here's where things start getting particularly interesting. Your first big decision is to choose your review book. There are 2 main options, I studied both in the order Barrons, Princeton and here are my opinions:
+
+Barrons is dense as HELL!! It is not readable, and the ""I like history"" schpeel I went on earlier is disregarded completely in this book. I like to think of it as a dictionary, You can't learn a new language with ONLY their dictionary, but it definitely helps when you have no idea what something means. Use this with caution, and do not trust it as your only book.
+
+Princeton is written much nicer. It makes things much more of a story, and definitely helps with the comprehension aspect of things. It's also much nicer to use at 2 in the morning (sorry mom) and it makes you say ""OHHHH"" much more than Barron's. My rec if you prefer readability over pure and analytic data, but to each their own.
+
+ \\Now, finally, we can start talking about the actual studying. I knew that since I was self studying, I had to study much more than the regular student and started about 3 months before the exam. I think that was the perfect timeline, as I only had about 4 days (8-12 May) where i was studying like a madman. The rest of the time i was comparatively calm about it, and took it progressively. Here's how splitting my time worked, and ways it didnt.
+
+**MONTH 1**
+
+Welcome to the battlefield, soldier! the next 4 weeks will be divided into doing one of 3 tasks possible. 
+
+1. Pre 1450. I cannot stress this as much as possible; DO NOT MEMORIZE DATES AND PEOPLE. THIS IS JUST TO GIVE A BACKGROUND!!(This should only take you about a week; make sure to study the following super duper important historical developments :\[these are changes, events, thoughts, political ideologies, etc that lasted over a period of time and influenced the area a bunch\]
+   1. Mesopotamia + early civilizations. They grew plants, they made food, they did a whole lot of stuff. This wont be on the quiz, but it helps to understand how the technological background on the exam content actually came to be
+   2. A nice quick Asia rundown. Look at Chinese dynasties, the rise of polytheism in Asia, and the type of culture that emerged. It'll help a lot in the first units
+2. Set up the materials. Get your textbook, subscribe to these channels (Heimler's history and all of his goons, khan academy), and get your history pants on because shits about to get SPICY
+3. HISTORY WOOO!!! Open the textbook and read it LIKE A BOOK. LIKE A STORY. NO HIGHLIGHTERS, NO PRETTY GEL PENS, JUST YOUR EYES. The idea here is that you skim through it just so you understand what you're dealing with, and so that you can gauge the amount and difficulty of the material you are going to be looking at.
+
+&#x200B;
+
+**MONTH 2**
+
+&#x200B;
+
+By this point, you can start actually studying the material. Here's what a sample week in the ""Leo timeline"" would look like (change this to fit your needs) \[Oh also I divide each unit into 3 sections, things that happened {countries founded, people died, king started war}, developments that happened {trading increased, christianity moved to another continent, printing press led to more literacy rates} and foreshadowing {higher literacy rates because of more printing press WILL lead to an uprise against the church (i know this because i read the book about a month ago)}\]
+
+Mon - Unit 1, developments; unit 1, things
+
+Tue - Unit 1, developments; unit 2 foreshadowing; unit 1 content; unit 2 things
+
+etc.
+
+As you can see, the idea is to make a cascading calendar. Study more than one thing at once, as that will force your brain to tie them together and will lead to less time spent organizing developments.
+
+Keep this going until you get to the end of all the content. Don't worry if you aren't versed in it too well, that'll improve soon.
+
+Keep up with Khan Academy, watch Heimler's after a study session to recap what you learned, and make it fun! Let your future self stress about what grade you'll get, your priority right now is LEARNING!!
+
+&#x200B;
+
+**MONTH THE THIRD**
+
+Here's where things will start to get interesting.... Now, your focus is honing in on the content skills from last month and learning how to take the exam. Your time should be spilt 50/50, where about half of your time is content REVIEW, and the other half is APPLICATION. In the review, keep doing what you were doing, just always getting deeper. OpenStax has a really good World History textbook if you want to be absolutely certain on the content side of things. The Application is tougher, but I found some cool workarounds that worked well for me:
+
+1. ChatGPT. Use it to make questions, train it on the rubric given by the College Board, then make it grade your essays.
+2. Remember how i said the CED is your Bible? Here's where that comes in. You should be able to flip (Or, more realistically, scroll) to any page on the CED and talk to yourself for a minimum of 20 minutes about what is written there. If not, more content review. If you can, do the following.
+3. Write a MINIMUM of 10 LEQs and 10 DBQs. It seems like a lot, but you need to be able to pump one out in an hour. 20 hours of essay writing is more than enough. Make sure to write by hand to mimic the experience, time yourself, don't let yourself get up or use the book, and make the topics about things you know little about. No use quizzing a frenchman on the french revolution if he's writing an exam on Maori history, is there?
+
+&#x200B;
+
+**THE DAYS APPROACHING THE EXAM** 
+
+Nerves will kick in. So will coffee. LOTS of coffee. So much, in fact, I quit and have not touched a cup since may 13th (1 day after the exam). But I digress.
+
+&#x200B;
+
+Your goal now is to take quizzes, review like hell, and what I believe was the best thing I did for my grade, write.
+
+No, my young padawan, not writing LEQs or DBQs, you did that a while ago. Now, you write a full review of everything that happened of importance IN YOUR OWN WORDS!! Write this in Word. Or a doc. Write it on your arm for all I care. The important this is that you write in a way that makes stupid you from 3 months ago read it and understand what you mean. Because the secret is this. As soon as you step foot in that exam room, you will be the stupid you from 3 months ago. This document will guide you into understanding what you mean with the added bonus of helping exam-day you know the content.
+
+Here's an excerpt from my document:
+
+*""OK SO lets pretend that you're a leader in 13th century China (Song Dynasty, the water clock guys) and a bunch of people in your kingdom start to hate you. You now have to figure out a way to do 2 things. CENTRALIZE and LEGITIMIZE your power (""The power is mine, and this is WHY its mine."") There are some ways you can do this. The 3 most important and also the only ones i can remember at 10:53pm are as follows:*
+
+*Art - If I'm a leader and have STUPID amounts of money I can make people build big, pretty, and useless things for me. Buildings and art are really good examples of this. For example, the Taj Mahal built in the Mughal empire like 200 years after what we're talking about was a way for the emperor to show whos the boss (I have a big castle thing and you dont, L + Ratio.)* 
+
+*Religion - Caliphs, the guys who led Caliphates, considered themselves to be the spiritual and religious descendants of Muhammad, a main Muslim prophet. They consolidated + legitimized their power by basically saying ""Im descendent of Muhammad, you're not, So let me lead you and go farm or whatever."" This tried and true method was used ALL over Afro-Eurasia*
+
+*Im better than you super alpha male mentality - In Song China, if you were to approach the Emperor, you would have to bow down, no shoes, trot, surrounded by 750 eunuchs and talk to emperor guy. This was a way of the emperor showing you whose boss, and making sure that EVERYONE knew whose boss. This meant the power was now his, would always be his, and he could do what he wants with your money.""*
+
+As you can tell my writing style has greatly evolved. 
+
+The point is that you understand not only whats on the test, but also how to write the test.
+
+&#x200B;
+
+**EXAM DAY**
+
+You made it this far, and nothing can stop you now. You know what you need to, and you sit in that chair, stick a sticker and scribble some boxes, and before you know it you're mayor of 5 town (not president of 5landia though, thats reserved for Steve Heimler)
+
+&#x200B;
+
+I hope this ""guide"" helps the new and flourishing students of APWH 2023-2024, and if you have any questions, want tips, have a question about the content, or are just lonely, please reach out. 
+
+Thanks for reading,
+
+Leo
+
+&#x200B;",User_deleted,151
+16ol1xj,1,2023-09-21,Teach ChatGPT a minority language so everyone can access it?,u/N1nt3ndud,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/16ol1xj/teach_chatgpt_a_minority_language_so_everyone_can/,"I have a minority language I'd like to teach chatGPT so that students can practice with, get help from, etc, the AI. For example, when reading a book, you can ask chatGPT to reword a paragraph into simpler language or modern language, translate stuff, find more examples of a word, explain the word root or etymology. You can also just ask chatgpt to chat with you in the language or correct your language use.
+
+I'd like to know how to do this.
+
+I'm not a programmer but could pay a little money to get help to set up a system for teaching chatGPT the language or something. And the result would need to be accessible to more than just me. My imagination is that to teach it you could just feed it a bunch of texts with translations, plus maybe a dictionary, and it would figure stuff out. Thanks for your input.",User_deleted,1
+16p7773,1,2023-09-22,TU Delft scientists put ChatGPT to the test,u/NuseAI,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/16p7773/tu_delft_scientists_put_chatgpt_to_the_test/,"- Researchers at TU Delft and RWTH Aachen University tested ChatGPT's ability to answer university-level questions in science and engineering.
+
+- The study found that ChatGPT's answers were mostly correct across Bachelor's, Master's, and PhD levels.
+
+- However, the chatbot lacked critical attitude and awareness of societal impact.
+
+- The researchers concluded that while ChatGPT can provide scientifically correct answers, it cannot replace the work of scientists and engineers.
+
+- They emphasized the importance of teaching students how to use AI models like ChatGPT and be aware of their advantages and disadvantages.
+
+Source : https://www.tudelft.nl/en/2023/tnw/tu-delft-scientists-put-chatgpt-to-the-test
+
+Summarized by Nuse AI",active,1
+16pi4a1,1,2023-09-22,Indeed's CEO says college students might be learning skills that could go 'obsolete' once they graduate,u/Ok-Feeling-1743,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/16pi4a1/indeeds_ceo_says_college_students_might_be/,"The CEO of job site Indeed warns that the pace of AI advancement means graduates may find their newly acquired skills outdated by the time they finish school. ([Source](https://www.businessinsider.com/indeed-ceo-ai-chatgpt-could-make-college-skills-obsolete-2023-9))
+
+**AI's Accelerating Impact**
+
+* Compares current pace to the rapid disruption of past tech revolutions.
+* Believes AI could master white-collar skills faster than students can learn them.
+* Research shows software developer roles are most exposed to generative AI.
+
+**Cause for Concern**
+
+* College may not provide the skills to compete as AI evolves.
+* Degrees could become outdated in the 4 years it takes to earn them.
+* Echoes fears that AI could automate many current jobs.
+
+**Balancing Innovation and Risks**
+
+* Notes AI like Indeed's helps people find jobs now.
+* But it warns that its job-replacing potential requires urgent attention.
+* Says we must focus on addressing AI's downsides.
+
+**TL;DR:** The CEO of Indeed warns that the pace of AI threatens to make college degrees obsolete before students even graduate, underscoring concerns about AI's potential impact.
+
+**PS:** Get the **latest AI developments, tools, and use cases** by joining one of the [fastest growing AI newsletters.](https://www.theedge.so/subscribe) Join 5000+ professionals getting smarter in AI.",active,120
+16pi4tp,1,2023-09-22,Indeed's CEO says college students might be learning skills that could go 'obsolete' once they graduate,u/Ok-Feeling-1743,ArtificialInteligence,https://www.reddit.com/r/ArtificialInteligence/comments/16pi4tp/indeeds_ceo_says_college_students_might_be/,"The CEO of job site Indeed warns that the pace of AI advancement means graduates may find their newly acquired skills outdated by the time they finish school. ([Source](https://www.businessinsider.com/indeed-ceo-ai-chatgpt-could-make-college-skills-obsolete-2023-9))
+
+**AI's Accelerating Impact**
+
+* Compares current pace to the rapid disruption of past tech revolutions.
+* Believes AI could master white-collar skills faster than students can learn them.
+* Research shows software developer roles are most exposed to generative AI.
+
+**Cause for Concern**
+
+* College may not provide the skills to compete as AI evolves.
+* Degrees could become outdated in the 4 years it takes to earn them.
+* Echoes fears that AI could automate many current jobs.
+
+**Balancing Innovation and Risks**
+
+* Notes AI like Indeed's helps people find jobs now.
+* But it warns that its job-replacing potential requires urgent attention.
+* Says we must focus on addressing AI's downsides.
+
+**TL;DR:** The CEO of Indeed warns that the pace of AI threatens to make college degrees obsolete before students even graduate, underscoring concerns about AI's potential impact.
+
+**PS:** Get the **latest AI developments, tools, and use cases** by joining one of the [fastest growing AI newsletters.](https://www.theedge.so/subscribe) Join 5000+ professionals getting smarter in AI.",User_deleted,87
+16q62k4,1,2023-09-23,$100 monthly budget on marketing. Redditors advise.,u/Official-DATS,Entrepreneur,https://www.reddit.com/r/Entrepreneur/comments/16q62k4/100_monthly_budget_on_marketing_redditors_advise/,"I’ve recently posted the question on what to do if you have only $100 monthly on marketing and received so many responses and tips. The original post is [here](https://www.reddit.com/r/business/comments/16f4u2z/i_have_100_monthly_on_marketing_what_should_i/). I learned a lot from your comments and started to read and watch free educational content on marketing. That’s where I learned about general marketing strategies and some ways of applying them.
+
+I feel that I should return the favor to the community and add some more value.
+
+So, at first, for myself I carefully read, analyzed, and organized all the pieces of advice into sections. Here are they with some links to the most valuable and educational comments. And my personal comments on some of the advice I got.
+
+* **Spend the $100/month on getting marketing skills and knowledge** (workshops, books, video courses, networking functions, YouTube videos, learning how to write sales scripts for your cold outreach calls and meetings, etc.) before you spend a dime on marketing. I'd say that it's the most reasonable advice ever!
+* **Spend the $100/month on paid ads.** Below is a list of particular tips. That [advice](https://www.reddit.com/r/business/comments/16f4u2z/comment/k007bhi/?utm_source=share&utm_medium=web2x&context=3) has provoked the most heated argument, and I couldn’t figure out if it is working or not. Guess you won’t know unless you try! What are your thoughts, btw?
+
+1. Use at least one month's $100 to outsource the building of a decent landing page to use in your ads.
+2. Google Ads. All $100. Set a daily budget of $3.50. Set the time of day limits to 8 a.m. to 6 p.m. Set the location limits to the USA (in your case, it could be your location). Set the demographics to people involved in the industry your tool or product is for. Set the age limit to 22 or higher. Use ChatGPT for generating keywords. Keywords must be that people doing a search would use to find a solution to the problem your product solves. You could sometimes add competitors’ names to the keywords. You need to have at least 2 distinct versions of advertising copy. Bid the lowest amount Google allows.
+3. Do not use “display ads”. Do not use software comparison websites like Capterra. If your budget has grown, don’t spend it all on Google Ads, as it may lead to the case described [here.](https://www.reddit.com/r/business/comments/16f4u2z/comment/k04ocn3/?utm_source=share&utm_medium=web2x&context=3) I feel sorry, man, that it went like that for your business.
+4. Also, you could try one month of Google Ads evenly split between different campaigns. Try campaigns on FB/IG, TW, Lin, Reddit, and other channels in the coming months. Then go back to the best one and improve.
+
+* Start improving organic search results through SEO (search engine optimization). It’s calculated that rates are higher among people who click on organic search results vs. search ads. But here is a trick: you need to be good at creating content yourself. Below are some additional or specific key points.
+
+1. Create and start running social pages on FB/IG/Twitter/Reddit.
+2. Make educational TikToks.
+3. Create a LinkedIn profile for yourself, and the company. Start writing articles or posts.
+4. Create a value-added mailing list or blog.
+5. Make posts that describe your business on [Ebay](https://www.ebay.com/), [Kijiji](https://www.kijiji.ca/) and other marketplaces.
+6. Create content that's more specific to your product, for high-intent searches (like someone searching for your product category specifically) and educational content for low-intent searches (like someone searching for a problem that could be solved with your product).
+7. Get an Adobe subscription and start looking at YouTube tutorials to make advertising assets for yourself for social media and print. You get access to all their digital design tools, their video tools, their print design tools, and even a small amount of stock images. Make flyers. Make stickers. Make social media posts with some style to them. (This point I couldn’t divide into two parts because it's also about direct marketing).
+8. Make fun videos, giving away $5 to every person who can answer your question correctly.
+9. Start using [Virtual Window Shop](https://virtualwindowshop.com/). That’s the app that shows what's available near the user. It’s not so good for my product, but will be a great tool for others.
+10. Start guerilla marketing and play where your competitors aren't. For example, do Reddit astroturfing.
+11. Take JSON+LD schema / structured data. Get your search results more enriched by describing the content better for machines to understand. That’s the idea for those who are good at programming.
+
+* Start to use AI tools. Such tools could help you solve almost all tasks in marketing: analytics, creating, posting, optimizing, checking, verifying, and so on and so forth. Most of the tools could be found on  sites like [Futurepedia](https://www.futurepedia.io/). Yet there were mentions of tools like [Jasper](https://www.jasper.ai/) (for creating engaging texts), and [MarketOwl](https://www.marketowl.ai/) (this one creates targeted content and posts it).
+* Start doing direct marketing that includes:
+
+1. Send personal messages, call owners, get an [Apollo](https://www.apollo.io/) sub, and send emails.
+2. Buy gas and pound the pavement. It means that you go and introduce yourself to as many people in your ideal customer profile as possible. But you must be good at speaking, articulating,  and knowing your project as well as your competitors perfectly, or your potential customers won’t even speak with you.
+3. Buy a printer, paper, laminator, and a good stapler and start to make business cards and flyers.
+4. Hire a student for $30/day (2hrs of walking) once a week to drop off flyers in targeted segments.
+5. Put yard signs where they can be noticed.
+6. Rent an ad space on a bench, or whatever it could be, in front of the place where your target audience is.
+7. If you already have customers, then you could ask your current customers where they heard about you and advertise there more. (Another piece of advice that could also work for organic search.)
+
+* Do drugs, particularly peyote, lol. That’s the idea I couldn’t agree with, as I’m nerdy and have never done drugs in my life.
+* Find business organizations that are in your area, and you might be able to join. Also check out [SCORE](https://www.score.org/) (the largest network of volunteer, expert business mentors who help start your small business) through the [SBA](https://www.sba.gov/) (Small Business Administration).
+* Buy table dances and enjoy watching titties. I like the advice a lot, but I guess it will be much better to watch them after you succeed!
+
+I hope it will help guys like me to deal with marketing issues better.",active,29
+16q8bb4,1,2023-09-23,Indeed CEO says college students might be learning skills that could go 'obsolete' once they graduate,u/Nalix01,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/16q8bb4/indeed_ceo_says_college_students_might_be/,"Chris Hyams, CEO of Indeed, believes AI advancements might render certain skills acquired in college obsolete, particularly in technology and business operations, as AI rapidly evolves.
+
+**Learning in the Age of AI**
+
+* **Education's obsolescence concern**: Indeed's CEO, Chris Hyams, warns that the rapid advancement of AI may render some college-taught skills obsolete by the time students graduate.
+* **Comparison with Industrial Revolution**: Drawing parallels with the Industrial Revolution, Hyams observes that the pace of AI's evolution could disrupt industries even faster than past technological shifts.
+
+**Which jobs are at stake?**
+
+* **Tech and business at the forefront**: According to research from Indeed, roles in software development, technology, and business operations face the highest threat from generative AI.
+* **Jobs less vulnerable**: Roles that involve driving, such as trucking and taxi services, along with the sanitation and beauty sectors, appear less prone to AI-driven disruption.
+
+[Source (Business Insider)](https://www.businessinsider.com/indeed-ceo-ai-chatgpt-could-make-college-skills-obsolete-2023-9?r=US&IR=T)
+
+**PS:** **If you enjoyed this post**, you’ll love my [ML-powered newsletter](https://dupple.com/techpresso?utm_source=reddit&utm_medium=social&utm_campaign=post) that summarizes the best AI/tech news from 50+ media. It’s already being read by **6,500+** **professionals** from **OpenAI, Google, Meta**…",active,195
+16q8uh1,1,2023-09-23,"In urgent need of help, any advice. im so scared so i need urgent help",u/Mysterious_Lead_3075,germany,https://www.reddit.com/r/germany/comments/16q8uh1/in_urgent_need_of_help_any_advice_im_so_scared_so/,"before this, i'm posting from a throwaway account. and i have looked upon wiki & websurf since last month my best to find the right help but it's just difficult for me.
+
+edited intro:  and it seemed that the Mods and most people here rather focus on me posting this with the help of chatgpt, and more than what my issues are, but if anyone that is informed well to give me advice to this matter. currently still at a WG and they're nice enough to help me stay for sometime. i felt so drained that i have to explain myself hence the situation but i apologize for the mess because i wish i can think straight, as this weight is all over my shoulders 
+
+\-
+
+&#x200B;
+
+Hey everyone, 
+
+I hope this post finds you well. I find myself at a crossroads in life and could really use some guidance from this supportive community. **A bit about my situation:** 
+
+\- I started my education in an international university when my family was financially comfortable. However, circumstances changed, and I've had to work tirelessly to finance my education and living expenses. hence paycheck to paycheck
+
+\- Public uni and duales studium bachelor is not an option and I'm currently on a gap year to save up and apply to a public university in Germany. But here's the catch - they require proof of financial stability and good future prospects to support oneself. 
+
+\- I've been taking on menial and mini-jobs to make ends meet, but it's becoming increasingly challenging to balance these responsibilities while managing the high cost of my English-language university. also my status currently not being a student, that is hard to find jobs and apply to one.
+
+\- i read somewhere that someone can reapply to ausbildung and other access of studies/work during these times
+
+\- learning German is difficult but i am still studying everyday and taking my time to do it
+
+\-  the expectations and i am not allowed to return back home by family seems to be the most complicated problem for me. i am expected to reach my dream and chase what i should around because i am studying abroad, but it seems like there is no way without money and other important skills needed besides financial. 
+
+**my questions would be:**
+
+ how would it be best for me to proceed? i will be homeless (looked over wohnungloshilfe already, and no friends wanted to keep me around and stay for a bit at their place), i tried checking upon for arbeitlosgeld but i don't think i am even supported in this matter. i am only helped by the bank dispokredit as for now, financially. 
+
+So, I'm reaching out to this community for any insights, tips, or suggestions you may have. Your experiences and advice mean the world to me. Please share your thoughts, and thank you in advance for your support.",active,0
+16riy6k,9,2023-09-25,Chatgpt generated answers,u/ParticularMud6116,teaching,https://www.reddit.com/r/teaching/comments/16riy6k/chatgpt_generated_answers/,"I recently became a TA and I noticed one student with an assignment that looks like it has been copy and pasted directly from chatgpt. Using a lot of repetition, lists and summarizing everything at the end. I got really similar answers from Chatgpt when I copy and pasted the questions into it. I really want to teach this student a lesson because he can’t get away with this in university, I don’t want to traumatize him or embarrass him and on the off chance that he types like a robot I’ll feel bad for falsely accusing him. What should I do?",User_deleted,12
+16sh3uw,1,2023-09-26,How to be the Top 5% in University: Sharing my journey,u/growthnerd,Indian_Academia,https://www.reddit.com/r/Indian_Academia/comments/16sh3uw/how_to_be_the_top_5_in_university_sharing_my/,"Before college, I was an average student - I’d barely get by my courses and even fail some. Now in college, I scored a **CGPA of 4.78/5.00** and a **Dean’s List placing (Top 5%)** at a Top 5 University in Asia.
+
+How?! 
+
+By identifying and practising effective study tips that suited my behaviour and needs. But “effective study tips” is a huge bucket with a million micro-skills and habits. Below, I’ll distil this 1 huge bucket into my top 10 study habits that worked most effectively for me, and how you can apply these into your own study routine.  
+**1. Use Multiple Learning Resources**: Use tools including textbooks, videos, and even podcasts to facilitate your learning.
+
+Using different learning resources help you reinforce your understanding by internalising the material from different angles. It also helps make learning more enjoyable. For example, if I watched a video outlining real-life examples of Economics, I could better appreciate how Economic theory applies in the real world, and better retain the information.
+
+Some resources you can use include:  
+\* Text Resources - Lecture notes, Textbooks  
+\* Video Resources - YouTube, Lecture videos  
+\* Audio Resources - Podcasts  
+…or make your own observations and examples in real life!  
+**2. Study in Groups, but Stay Focused**: 
+
+Leverage more brains to boost your retention output.  
+One approach to maximise your retention (your productivity output as a student) would be to leverage on more focused brains as input. I’d watched a MrBeast video sharing how a small group working on learning/mastering YouTube video creation will surely outperform an individual on the same journey. This applies to studying too.  
+One caveat here is that your study group should be hyper focused - everyone should be studying the same material/chapter with little to no distractions over an extended time period. A group of students gathered together but studying different material could potentially lead to distractions. Someone could ask a question unrelated to what you’re studying, and thus disrupt your flow state.  
+**3. Ask Smart Questions**: Ask questions that cannot be directly found on Google or ChatGPT. Studying smart means using class time to clarify any questions about the material. To maximise study effectiveness, these questions should be focused, specific to the lecture material, and should not be directly found on Google or ChatGPT. 
+
+For example, a smart question could be “For question 1, why did the professor suggest finding A then B, instead of taking the shortcut option C?”
+
+To truly maximise studying efficiency, the first step to seek help would be to Google (or ChatGPT) possible answers to your questions first, instead of emailing the professor or waiting for the lecture day/time to arrive before asking the question. Seeking immediate help on your own cuts down time spent waiting for a reply. Your brain will also be focused on the task at hand, thus helping you retain the knowledge better when you do get the answer.  
+**4. Eliminate Distractions:** Remove activities that take you further from your goal.  
+To maximise study effectiveness, you must remove distractions. They are activities that take you further from your goal. Beyond usual culprits like spending too long on social media, distractions can include:  
+\* Spending too much time planning your schedule instead of executing  
+\* Studying with the wrong group of friends  
+\* Having too many irrelevant browser tabs open  
+To eliminate distractions, some tips I’ve found helpful include:  
+\* Being in the right (conducive) environment - This is huge for me.  
+\* Use focus apps like Forest to help you reduce screen time and gamify your study sessions.  
+\* Working in shorter bursts and taking breaks in between.  
+**5. Take care of your health**: Be mindful of your diet, sleep, exercise and mental health.  
+Your effectiveness and productivity is correlated with your energy. Your energy is influenced by other factors beyond study hacks, including your diet, sleep, exercise and mental health. To maximise your effectiveness and productivity, ensure you get enough of each.  
+**6. Understand yourself**: Know what works for you, and what energises or drains you. Then optimise your life around it. How?
+
+For me, I find watching pre-recorded lectures a passive task, so I only watch them in the afternoon/at night. I focus on active tasks in the day, such as active recall or writing essays. I also only take meetings in the afternoon or evening.  
+To understand yourself, ask yourself these questions:  
+\* When am I the most alert? When do I process information fastest?  
+\* What tasks do I find exciting? → Do this in the morning.  
+\* What tasks require the most mental power to do? → Do this in the morning.  
+\* What tasks do I find draining and exhausting? → Push to afternoon/evening.  
+\* What information do I recall most effectively? How did I learn this information? → This signals learning techniques that work best for you.  
+\* Where am I the most focused? Where do I do my best work?  
+**7. Begin with the end in mind**: Understand what you are working towards, before planning how to get there. How?
+
+At the start of every Semester, I would write down all the assignments and their estimated deadlines in my calendar. To get these deadlines, I either turn to the Course Outline or email the Professors directly.  
+Also before starting each assignment, I will take a screenshot of the grading rubric and add it to the start of each document. This acts as my North Star. It gives me a clearer idea of what the Professor will be looking out for when grading my work.  
+**8. Set internal benchmarks**: Use benchmarks as short-term KPIs you must hit, and be disciplined enough to follow through. How?  
+Benchmarks are short-term, internal goals that keep me in line as I progress towards my bigger goals.  
+For example, I make sure I internalise each week's material (and their nuances) by the end of the week. Avoid spillover to the next week, so that my backlog won’t snowball.  
+When writing essays, I also try to get the first draft out at least 2 weeks before the final deadline, so I have time to expand and edit it.  
+**9. Revise by doing, not rote memorising**: Understand the material through active learning. How?  
+For theoretical material, practise Active Recall (https://blog.alexanderfyoung.com/active-recall-study-technique/) over mindless rote memorising.  
+For practical material like essays or case-based projects, write the material in your own words. Writing the material in your own words help you identify your knowledge gaps and blind spots.  
+**10. Be consistent**: Practise the techniques above regularly. How?  
+To me, consistency is sticking to a system over a period of time. I stick to a study schedule and system using Google Calendar, Notion and Google Drive.  
+To create my study schedule, I set blocks of protected time on Google Calendar. I admit I might not religiously follow my calendar to the minute, but it gives me a sense of my priorities for the day and how I spend my time. To track my progress, I use Notion. I have a daily to-do list on Notion, and my list of deadlines is pinned at the top of my Notion tracker. To write my notes, I use Google Drive as a default.
+
+If you'd found this helpful, do subscribe to my newsletter: [The Simple Student](https://thesimplestudent.beehiiv.com/). Here, I share strategies and qualifications to study smart, which you can’t find on Google or in the classroom, so that you get an edge over your peers.
+
+Hope this helps!
+
+Let me know what you think in the comments below. 👇🏻",active,39
+16trf06,1,2023-09-27,CS 1102-01 Programming 1 quality vs. other courses on UoPeople,u/Gh0l4,UoPeople,https://www.reddit.com/r/UoPeople/comments/16trf06/cs_110201_programming_1_quality_vs_other_courses/,"*The following post has been removed with no notice nor explanation from UoPeople internal forum ""Ask the Experts"". I'm reposting here for a bigger audience.*
+
+&#x200B;
+
+&#x200B;
+
+Is ""CS 1102-01 Programming 1"" an especially bad course, or is it representative of the quality of the other classes and the learning dynamics at UoPeople?
+
+&#x200B;
+
+I took This second course after ""Online Education Strategies UNIV 1001"", which I took last year. That course hinted at possible problems with the UoPeople teaching and learning dynamics. However, because I learned quite a bit from the course and found it relevant, I rated that experience as positive despite the many shortcomings.
+
+""CS 1102-01 Programming 1"", in my opinion, is a perfect demonstration of how NOT to create a Java Course or a Programming Course for that matter:
+
+The chosen textbook, Eck (2022), is approaching the subject matter in the wrong way: instead of building concepts upon concepts, it rushes its way into the middle of the language just to pull out before properly finishing the explanations, only to come back some chapters later to add a bit more, but always insufficient context. A safer and more conservative approach would have been to use Eckel (2006).
+
+The Learning Guides only exacerbate the problem by inviting students to skip essential parts and focus on all the irrelevant material. At best, the order in which these topics are presented is incongruent. Then, as the course advances, probably just for ""curriculum"" sake, it rushes through topics such as ""GUIs and Event Handling"", which the professors who built the course considered can be covered in just one week! Another example, on Week 8, is not one but three topics: multithreading, collection hierarchy, and the Stream API! I cannot find proper adjectives for this, not in English, not in my native Spanish or Romanian.
+
+The discussion topics are very consistent in style with the textbook and the learning guides: irrelevant topics utterly unrelated to the skills that, in my opinion, should be gained by will-be programmers or technical writers, for that matter. Some of the proposed discussion as an example:
+
+As an example of Week 4, discussion topic: ""Explore the performance considerations and potential trade-offs involved in this decision, taking into account factors such as time complexity, memory utilization, and code readability"" - Week 5 about Objects and classes, Week 6 will be about ""OOPS Paradigms"", Week 8 about Collections API. Keeping in mind that Microbenchmarking is an extraordinarily subtle and complicated topic and that constant changes in the JVM version have a huge impact on performance, I struggle to understand how could a constructive discussion take place around this topic. Another pearl, this time from Week 5: ""Discuss how encapsulation prevents unauthorized access to object data, ensuring data integrity and privacy"". - My personal conclusion is that the writer had a non-industry-standard definition of ""data integrity"" and ""privacy"". 
+
+In response to the quality of the proposed discussion topics, students respond in kind: some try to summarize the material the best they can. Of course, at each personal interpretation, they make mistakes. Others either use ChatGPT, or they can generate an impressively similar answer to it. Those who work a bit more take that answer and, with more or less effort and talent, spend their time exercising mechanical synonym substitution. As for the responses, most are as automatic as the posts themselves; there is just a tiny percentage of genuine engagement and demonstration of interest in the subject matter.
+
+Since we need to be evaluated, what better way than using the same patterns? Some quiz questions have no relationship with the material covered in the learning guides; the graded quizzes are just a show of how a teacher can give you an ""F"" if he chooses. I would appreciate, after the first graded quiz, an explanation and a discussion on why the correct answer is the one that is. I have at least one example of a question that cannot be solved by reading the textbook, but the concepts behind the correct answer are so subtle that it is just impossible to explain at this level of knowledge of the language. Even if it would be possible to explain by some stretch of imagination, it leaves me wondering why. What is the point of thinking and learning about this language feature so irrelevant instead of other relevant topics that would bring something to the student?
+
+The programming assignments, as it cannot be any other way, are also in line with all the above. For those that don't already know Java, they are an exercise on frustration. For those who know Java, they are not any more rewarding because of how unnecessarily extensive they are and how badly they are framed. Probably, a discussion around each of the submissions would help, but that would mean several knowledgeable people in the group and way shorter problems. For a concrete, non-programming example: ""Cumulative sum of stock prices - Reflects the total value generated by an investment over a specified period."" - I do not think that we need such a high rigour bar, but how is it possible that such assertions even exist in the course material?
+
+But rigour is expected from the students, at least for all those things that can be easily checked and do not need higher intellectual functions: we must always use citations, even if, ironically, they are against the very purpose of the APA Publication Manual 7th edition itself, which reads: ""it helps authors present their ideas in a clear, concise, and organized manner. Uniformity and consistency enable readers to (a) focus on the ideas being presented rather than formatting and (b) scan works quickly for key points, findings, and sources."". Let's avoid addressing the absurdity of using a publication style from one discipline to another very different one, such as Computer Science. Rigour, of course, is paramount when grading: when instructors do not have the time to do so properly, they are left with automatic checking tools for nearly automatic grading.
+
+The importance of my initial question goes beyond requesting information on which I will base my decision to continue or drop from this University. My inquiry concerns how I will eventually evaluate a UoPeople Graduate Student when recruiting. I used to justify to myself that such a student demonstrated maturity because they achieved a University degree in a way more efficient financial manner. If all courses are like this one, what they seem to have shown is an incredible resilience but an utter lack of pragmatism: if anyone would use the time they would spend trying to pass ""CS 1102-01 Programming 1"", to actually learn Java, they would definitely be way prepared to collaborate on a software development team.
+
+&#x200B;
+
+&#x200B;
+
+**References:**
+
+American Psychological Association. (2020). *Publication manual of the American Psychological Association 2020: the official guide to APA style* (7th ed.). American Psychological Association.
+
+Eck, D. J. (2022). Introduction to programming using java version 9, JavaFX edition.
+
+(Eck, 2022, p. 23)
+
+Eckel, B. & Ptr, P. H. (ed.) (2006). Thinking in Java (4th Edition).",active,17
+16uani5,1,2023-09-28,Factor Influencing Adoption Intention of ChatGPT,u/BitAccomplished7242,SurveyCircle,https://www.reddit.com/r/SurveyCircle/comments/16uani5/factor_influencing_adoption_intention_of_chatgpt/,"Hello,
+
+&#x200B;
+
+I am an information systems student currently conducting research for my undergraduate thesis on the factors that influence people's adoption intention of ChatGPT, as well as identifying the factors that may be holding them back. These factors include people's concerns about potential negative impacts of ChatGPT, such as increased unemployment and the spread of misinformation. Your participation in this study is crucial as it will provide valuable insights to help us understand how ChatGPT can be improved to meet users' needs.
+
+&#x200B;
+
+Please note that I am not affiliated with OpenAI, no identifying information will be collected during the survey, and all responses will be kept confidential. The survey should take approximately 10 to 15 minutes to complete, and participation is voluntary. You may withdraw from the survey at any time, and there are no known risks associated with participating.
+
+&#x200B;
+
+If you are interested in learning more about the study, please follow the link below. 
+
+&#x200B;
+
+[https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf_link)
+
+&#x200B;
+
+Thank you for taking the time to contribute to our research study. Your participation is greatly appreciated!",active,1
+16uax53,1,2023-09-28,Factor Influencing Adoption Intention of ChatGPT,u/BitAccomplished7242,ChatGPT_Prompts,https://www.reddit.com/r/ChatGPT_Prompts/comments/16uax53/factor_influencing_adoption_intention_of_chatgpt/,"Hello,
+
+&#x200B;
+
+I am an information systems student currently conducting research for my undergraduate thesis on the factors that influence people's adoption intention of ChatGPT, as well as identifying the factors that may be holding them back. These factors include people's concerns about potential negative impacts of ChatGPT, such as increased unemployment and the spread of misinformation. Your participation in this study is crucial as it will provide valuable insights to help us understand how ChatGPT can be improved to meet users' needs.
+
+&#x200B;
+
+Please note that I am not affiliated with OpenAI, no identifying information will be collected during the survey, and all responses will be kept confidential. The survey should take approximately 10 to 15 minutes to complete, and participation is voluntary. You may withdraw from the survey at any time, and there are no known risks associated with participating.
+
+&#x200B;
+
+If you are interested in learning more about the study, please follow the link below. 
+
+&#x200B;
+
+[https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf_link)
+
+&#x200B;
+
+Thank you for taking the time to contribute to our research study. Your participation is greatly appreciated!",active,1
+16ub0oc,1,2023-09-28,Factor Influencing Adoption Intention of ChatGPT,u/BitAccomplished7242,ChatGPTPromptGenius,https://www.reddit.com/r/ChatGPTPromptGenius/comments/16ub0oc/factor_influencing_adoption_intention_of_chatgpt/,"Hello,  
+I am an information systems student currently conducting research for my undergraduate thesis on the factors that influence people's adoption intention of ChatGPT, as well as identifying the factors that may be holding them back. These factors include people's concerns about potential negative impacts of ChatGPT, such as increased unemployment and the spread of misinformation. Your participation in this study is crucial as it will provide valuable insights to help us understand how ChatGPT can be improved to meet users' needs.  
+Please note that I am not affiliated with OpenAI, no identifying information will be collected during the survey, and all responses will be kept confidential. The survey should take approximately 10 to 15 minutes to complete, and participation is voluntary. You may withdraw from the survey at any time, and there are no known risks associated with participating.  
+If you are interested in learning more about the study, please follow the link below.   
+https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf\_link  
+Thank you for taking the time to contribute to our research study. Your participation is greatly appreciated!",active,3
+16ub0wp,1,2023-09-28,Factor Influencing Adoption Intention of ChatGPT,u/BitAccomplished7242,ChatGPTJailbreak,https://www.reddit.com/r/ChatGPTJailbreak/comments/16ub0wp/factor_influencing_adoption_intention_of_chatgpt/,"Hello,
+
+&#x200B;
+
+I am an information systems student currently conducting research for my undergraduate thesis on the factors that influence people's adoption intention of ChatGPT, as well as identifying the factors that may be holding them back. These factors include people's concerns about potential negative impacts of ChatGPT, such as increased unemployment and the spread of misinformation. Your participation in this study is crucial as it will provide valuable insights to help us understand how ChatGPT can be improved to meet users' needs.
+
+&#x200B;
+
+Please note that I am not affiliated with OpenAI, no identifying information will be collected during the survey, and all responses will be kept confidential. The survey should take approximately 10 to 15 minutes to complete, and participation is voluntary. You may withdraw from the survey at any time, and there are no known risks associated with participating.
+
+&#x200B;
+
+If you are interested in learning more about the study, please follow the link below. 
+
+&#x200B;
+
+[https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf_link)
+
+&#x200B;
+
+Thank you for taking the time to contribute to our research study. Your participation is greatly appreciated!",active,0
+16ub1lg,1,2023-09-28,Factor Influencing Adoption Intention of ChatGPT,u/BitAccomplished7242,ChatGPTGoneWild,https://www.reddit.com/r/ChatGPTGoneWild/comments/16ub1lg/factor_influencing_adoption_intention_of_chatgpt/,"Hello,
+
+&#x200B;
+
+I am an information systems student currently conducting research for my undergraduate thesis on the factors that influence people's adoption intention of ChatGPT, as well as identifying the factors that may be holding them back. These factors include people's concerns about potential negative impacts of ChatGPT, such as increased unemployment and the spread of misinformation. Your participation in this study is crucial as it will provide valuable insights to help us understand how ChatGPT can be improved to meet users' needs.
+
+&#x200B;
+
+Please note that I am not affiliated with OpenAI, no identifying information will be collected during the survey, and all responses will be kept confidential. The survey should take approximately 10 to 15 minutes to complete, and participation is voluntary. You may withdraw from the survey at any time, and there are no known risks associated with participating.
+
+&#x200B;
+
+If you are interested in learning more about the study, please follow the link below. 
+
+&#x200B;
+
+[https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf_link)
+
+&#x200B;
+
+Thank you for taking the time to contribute to our research study. Your participation is greatly appreciated!",active,1
+16ub3un,1,2023-09-28,Factor Influencing Adoption Intention of ChatGPT,u/BitAccomplished7242,SideProject,https://www.reddit.com/r/SideProject/comments/16ub3un/factor_influencing_adoption_intention_of_chatgpt/,"Hello,
+
+&#x200B;
+
+I am an information systems student currently conducting research for my undergraduate thesis on the factors that influence people's adoption intention of ChatGPT, as well as identifying the factors that may be holding them back. These factors include people's concerns about potential negative impacts of ChatGPT, such as increased unemployment and the spread of misinformation. Your participation in this study is crucial as it will provide valuable insights to help us understand how ChatGPT can be improved to meet users' needs.
+
+&#x200B;
+
+Please note that I am not affiliated with OpenAI, no identifying information will be collected during the survey, and all responses will be kept confidential. The survey should take approximately 10 to 15 minutes to complete, and participation is voluntary. You may withdraw from the survey at any time, and there are no known risks associated with participating.
+
+&#x200B;
+
+If you are interested in learning more about the study, please follow the link below. 
+
+&#x200B;
+
+[https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf_link)
+
+&#x200B;
+
+Thank you for taking the time to contribute to our research study. Your participation is greatly appreciated!",active,1
+16ub460,1,2023-09-28,Factor Influencing Adoption Intention of ChatGPT,u/BitAccomplished7242,learnmachinelearning,https://www.reddit.com/r/learnmachinelearning/comments/16ub460/factor_influencing_adoption_intention_of_chatgpt/,"Hello,
+
+&#x200B;
+
+I am an information systems student currently conducting research for my undergraduate thesis on the factors that influence people's adoption intention of ChatGPT, as well as identifying the factors that may be holding them back. These factors include people's concerns about potential negative impacts of ChatGPT, such as increased unemployment and the spread of misinformation. Your participation in this study is crucial as it will provide valuable insights to help us understand how ChatGPT can be improved to meet users' needs.
+
+&#x200B;
+
+Please note that I am not affiliated with OpenAI, no identifying information will be collected during the survey, and all responses will be kept confidential. The survey should take approximately 10 to 15 minutes to complete, and participation is voluntary. You may withdraw from the survey at any time, and there are no known risks associated with participating.
+
+&#x200B;
+
+If you are interested in learning more about the study, please follow the link below. 
+
+&#x200B;
+
+[https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf_link)
+
+&#x200B;
+
+Thank you for taking the time to contribute to our research study. Your participation is greatly appreciated!",active,1
+16ub93h,1,2023-09-28,Factor Influencing Adoption Intention of ChatGPT,u/BitAccomplished7242,LanguageTechnology,https://www.reddit.com/r/LanguageTechnology/comments/16ub93h/factor_influencing_adoption_intention_of_chatgpt/,"Hello,  
+I am an information systems student currently conducting research for my undergraduate thesis on the factors that influence people's adoption intention of ChatGPT, as well as identifying the factors that may be holding them back. These factors include people's concerns about potential negative impacts of ChatGPT, such as increased unemployment and the spread of misinformation. Your participation in this study is crucial as it will provide valuable insights to help us understand how ChatGPT can be improved to meet users' needs.  
+Please note that I am not affiliated with OpenAI, no identifying information will be collected during the survey, and all responses will be kept confidential. The survey should take approximately 10 to 15 minutes to complete, and participation is voluntary. You may withdraw from the survey at any time, and there are no known risks associated with participating.  
+If you are interested in learning more about the study, please follow the link below.   
+https://docs.google.com/forms/d/e/1FAIpQLSf5HIfXHppMuTR63x00i4OuRAtM5Ti6EGybd-HuI1kmK06VPw/viewform?usp=sf\_link  
+Thank you for taking the time to contribute to our research study. Your participation is greatly appreciated!",active,0
+16ushyy,1,2023-09-28,Indeed's CEO says college students might be learning skills that could go 'obsolete' once they graduate,u/saffronfan,ArtificialInteligence,https://www.reddit.com/r/ArtificialInteligence/comments/16ushyy/indeeds_ceo_says_college_students_might_be/,"The CEO of job site Indeed warns that the pace of AI advancement means graduates may find their newly acquired skills outdated by the time they finish school. ([Source](https://www.businessinsider.com/indeed-ceo-ai-chatgpt-could-make-college-skills-obsolete-2023-9))
+
+**AI's Accelerating Impact**
+
+* Compares current pace to the rapid disruption of past tech revolutions.
+* Believes AI could master white-collar skills faster than students can learn them.
+* Research shows software developer roles are most exposed to generative AI.
+
+**Cause for Concern**
+
+* College may not provide the skills to compete as AI evolves.
+* Degrees could become outdated in the 4 years it takes to earn them.
+* Echoes fears that AI could automate many current jobs.
+
+**Balancing Innovation and Risks**
+
+* Notes AI like Indeed's helps people find jobs now.
+* But it warns that its job-replacing potential requires urgent attention.
+* Says we must focus on addressing AI's downsides.
+
+**TL;DR:** The CEO of Indeed warns that the pace of AI threatens to make college degrees obsolete before students even graduate, underscoring concerns about AI's potential impact.
+
+**PS:** Get the **latest AI developments, tools, and use cases** by joining one of the [fastest growing AI newsletters.](https://www.theedge.so/subscribe) Join 5000+ professionals getting smarter in AI.",active,29
+16vci6u,1,2023-09-29,"CHATGPT for Biology, Chemistry and Maths; is it any good? Is there a good IA tool to help me?",u/NthRandomGuy,ChatGPT,https://www.reddit.com/r/ChatGPT/comments/16vci6u/chatgpt_for_biology_chemistry_and_maths_is_it_any/," I am a school support teacher and I will have students who are older than I am normally used to and I will need help to be able to help them. That's why I remembered ChatGPT but I don't know if it will be the most appropriate tool for the task, namely to help me solve school exercises. Does anyone have experience doing it with this tool or would you recommend another one? Thank you very much ",active,0
+16vqt7q,1,2023-09-29,AI in Education,u/tiaapaige,AustralianTeachers,https://www.reddit.com/r/AustralianTeachers/comments/16vqt7q/ai_in_education/,"Hey there, I am currently completing an assignment to do with a problem question/statement in relation to AI in education. The problem question I have created is:
+
+**How have you seen/used ChatGPT and other AI to provide additional support and resources for students with special educational needs, enhancing their inclusion in the learning process? Additionally, how can AI be optimised to enhance student engagement and participation?**
+
+Any of your experiences of using AI and ChatGPT in the classroom would be greatly beneficial!
+
+(Disclaimer: I need to provide evidence in my assessment so will be taking screen shots- I will remove all names etc to respect privacy, thankyou!) ",active,0
